@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2368,
-        "last-update": 1734644785,
+        "update-count": 2369,
+        "last-update": 1734646083,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Des 2024 | Berharap Pada Kuasa Agung Allah",
+                        "date": "2024-12-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=HQQeauZmEIw",
+                        "thumbnail": "https://i1.ytimg.com/vi/HQQeauZmEIw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Des 2024",
                         "date": "2024-12-18",
@@ -81,13 +88,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=AQiqsbqWYXg",
                         "thumbnail": "https://i2.ytimg.com/vi/AQiqsbqWYXg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Des 2024 | Menanti dengan Iman Walau Dalam Penderitaan",
-                        "date": "2024-12-08",
-                        "desc": "Dibawakan oleh Sdr. Yapi Valiano",
-                        "link": "https://www.youtube.com/watch?v=BWCzYM9YSnI",
-                        "thumbnail": "https://i3.ytimg.com/vi/BWCzYM9YSnI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-19",
