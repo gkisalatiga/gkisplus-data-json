@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2345,
-        "last-update": 1734492584,
+        "update-count": 2346,
+        "last-update": 1734578830,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Des 2024",
+                        "date": "2024-12-18",
+                        "desc": "Dibawakan oleh Bpk. Eko Swasono",
+                        "link": "https://www.youtube.com/watch?v=ZteGPE5ywQs",
+                        "thumbnail": "https://i3.ytimg.com/vi/ZteGPE5ywQs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Des 2024 | Raja Yang Sederhana",
                         "date": "2024-12-17",
@@ -83,7 +90,7 @@
                         "thumbnail": "https://i3.ytimg.com/vi/BWCzYM9YSnI/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
                 "type": "rss",
@@ -295,7 +302,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/0T06WjLLEsE/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "playlist-id": "PLtAv1OZRTdvI1P3YIJ4_qOqapZjV1PtnI",
                 "title": "Kebaktian Umum",
                 "type": "regular",
@@ -437,7 +444,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/8XeDoiZxp2k/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
                 "title": "English Service",
                 "type": "regular",
@@ -656,7 +663,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/LFssOM8Wk1A/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "playlist-id": "PLtAv1OZRTdvIJphrWrtvYKFBizhsQhbWU",
                 "title": "Ibadah Komisi Usia Lanjut",
                 "type": "regular",
@@ -875,7 +882,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/npoLPT0HRVI/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "playlist-id": "PLtAv1OZRTdvKDHFERaMyf-sKjBUPrpCzP",
                 "title": "Ibadah Remaja",
                 "type": "regular",
@@ -1038,7 +1045,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/G-eS0Ggo7zI/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "playlist-id": "PLtAv1OZRTdvJ6cdCbSOxgNI1BOF5Mt0NZ",
                 "title": "Paduan Suara",
                 "type": "regular",
@@ -1068,7 +1075,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/Mm-5Q2Lmtyw/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-18",
+                "last-update": "2024-12-19",
                 "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "regular",
