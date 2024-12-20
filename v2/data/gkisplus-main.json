@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2389,
-        "last-update": 1734698701,
-        "last-updated-item": "ykb",
+        "update-count": 2390,
+        "last-update": 1734707679,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Des 2024 | Berbahagialah Ia Yang Percaya",
+                        "date": "2024-12-20",
+                        "desc": "Dibawakan oleh Bpk. Daniel Eko",
+                        "link": "https://www.youtube.com/watch?v=Uq29xD_H32Q",
+                        "thumbnail": "https://i2.ytimg.com/vi/Uq29xD_H32Q/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Des 2024 | Berharap Pada Kuasa Agung Allah",
                         "date": "2024-12-19",
@@ -81,13 +88,6 @@
                         "desc": "Dibawakan oleh Ibu Henny Julyanti",
                         "link": "https://www.youtube.com/watch?v=kiRk9Kd_ZLo",
                         "thumbnail": "https://i4.ytimg.com/vi/kiRk9Kd_ZLo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |10 Des 2024 | Allah Yang Dekat",
-                        "date": "2024-12-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=AQiqsbqWYXg",
-                        "thumbnail": "https://i2.ytimg.com/vi/AQiqsbqWYXg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-20",
