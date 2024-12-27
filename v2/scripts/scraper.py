@@ -1,6 +1,8 @@
 from datetime import datetime as dt
+import copy
 import json
 import requests
+import sys
 import time
 
 from feeds_handler import FeedsHandler
@@ -12,6 +14,9 @@ class Scraper(object):
     MAIN_JSON_SRC_MINI = 'v2/data/gkisplus-main.min.json'
     
     json_data = None
+    _json_data_old = None
+    
+    exit_code = None
     
     def __init__(self):
         print(f'[{self.__class__.__name__}] Initializing the scraper ...')
@@ -21,6 +26,7 @@ class Scraper(object):
         # Reading the data...
         with open(self.MAIN_JSON_SRC, 'r') as fi:
             self.json_data = json.load(fi)
+            self._json_data_old = copy.deepcopy(self.json_data)
         
         # Preparing the requests session.
         self.rq = requests.Session()
@@ -28,6 +34,7 @@ class Scraper(object):
     def finish(self):
         """ Finalize the current scraper's session. """
         print(f'[{self.__class__.__name__}] Finished the scraper. Total script time: {dt.now() - self.t}')
+        sys.exit(self.exit_code)
     
     def run(self):
         
@@ -37,24 +44,32 @@ class Scraper(object):
     
     def write(self, write_msg='unspecified'):
         """ Handles the writing of (modified) JSON data to the main source. """
-
-        print(f'[{self.__class__.__name__}] Writing the scraper ...')
-
-        # Handle the metadata administration.
-        self.json_data['meta']['last-actor'] = 'GITHUB_ACTIONS'
-        self.json_data['meta']['last-update'] = int(time.time())
-        self.json_data['meta']['last-updated-item'] = str(write_msg)
-        self.json_data['meta']['update-count'] += 1
-
-        # Write the human-readable JSON file.
-        with open(self.MAIN_JSON_SRC, 'w') as fo:
-            json.dump(self.json_data, fo, indent=4)
         
-        # Write the compactified JSON file.
-        with open(self.MAIN_JSON_SRC_MINI, 'w') as fo:
-            json.dump(self.json_data, fo, separators=(',', ':'))
-
-        # Update the feeds.
-        feeds = FeedsHandler()
-        feeds.update_feed_maindata()
+        # Check if there is no update.
+        if self.json_data['data'] == self._json_data_old['data']:
+            print(f'[{self.__class__.__name__}] Not writing any file because there is no data change!')
+            self.exit_code = 234
+        
+        else:
+            print(f'[{self.__class__.__name__}] Writing the scraper ...')
+    
+            # Handle the metadata administration.
+            self.json_data['meta']['last-actor'] = 'GITHUB_ACTIONS'
+            self.json_data['meta']['last-update'] = int(time.time())
+            self.json_data['meta']['last-updated-item'] = str(write_msg)
+            self.json_data['meta']['update-count'] += 1
+    
+            # Write the human-readable JSON file.
+            with open(self.MAIN_JSON_SRC, 'w') as fo:
+                json.dump(self.json_data, fo, indent=4)
+            
+            # Write the compactified JSON file.
+            with open(self.MAIN_JSON_SRC_MINI, 'w') as fo:
+                json.dump(self.json_data, fo, separators=(',', ':'))
+    
+            # Update the feeds.
+            feeds = FeedsHandler()
+            feeds.update_feed_maindata()
+            
+            self.exit_code = 0
         
