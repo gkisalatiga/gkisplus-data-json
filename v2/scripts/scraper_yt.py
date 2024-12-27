@@ -144,7 +144,19 @@ class ScraperYT(Scraper):
 
         # The scraped YT video description.
         # SOURCE: https://stackoverflow.com/questions/5239685/xml-namespace-breaking-my-xpath
-        s4 = [l.strip() for l in c.xpath('//entry//*[local-name()="media:description"]/text()')]
+        s4 = []
+        # s4 = [l.strip() for l in c.xpath('//entry//*[local-name()="media:description"]/text()')]
+        for a in c.xpath('//entry'):
+            if str(html.tostring(a)).__contains__('media:description'):
+                b = a.xpath('.//*[local-name()="media:description"]/text()')
+                if len(b) > 0:
+                    s4.append(b[0])
+                else:
+                    s4.append('')
+            else:
+                s4.append('')
+        
+        print(s4)
 
         # The scraped YT video URL.
         s5 = [l.strip() for l in c.xpath('//entry/link/@href')]
