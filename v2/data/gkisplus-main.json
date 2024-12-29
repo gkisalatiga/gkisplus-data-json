@@ -2491,99 +2491,99 @@
         "pukat-berkat": [
             {
                 "title": "Roti Bakar Coklat Keju",
-                "desc": "Roti klasik dengan topping keju yang melimpah, mbikin ketagihan!",
+                "desc": "[TESTING] Roti klasik dengan topping keju yang melimpah, mbikin ketagihan!",
                 "price": "Rp. 12.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Agung Boga",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_cheese.webp"
             },
             {
                 "title": "Kapur Barus Anti-Kecoa",
-                "desc": "Usir segala bentuk perkecoaan dengan kapur barus ini. Ayo dibeli dengan harga murah!",
+                "desc": "[TESTING] Usir segala bentuk perkecoaan dengan kapur barus ini. Ayo dibeli dengan harga murah!",
                 "price": "Rp. 90.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Industri Antikecoa",
                 "type": "goods",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_bug.webp"
             },
             {
                 "title": "Pijat Lulur Refleksi",
-                "desc": "Anda sedang penat? Yok pijat dulu!",
+                "desc": "[TESTING] Anda sedang penat? Yok pijat dulu!",
                 "price": "Harga Bervariasi",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "Apotek Keluarga Besar",
                 "type": "service",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_massage.webp"
             },
             {
                 "title": "Sapu Ajaib",
-                "desc": "Membantu membersihkan kotoran lantai di rumah Anda. Belilah dengan harga terjangkau.",
+                "desc": "[TESTING] Membantu membersihkan kotoran lantai di rumah Anda. Belilah dengan harga terjangkau.",
                 "price": "Rp. 75.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Industri Sapu Sejahtera",
                 "type": "goods",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_broom.webp"
             },
             {
                 "title": "Jasa Fotografer Wisuda",
-                "desc": "Area Salatiga, Jogjakarta, dan Semarang",
+                "desc": "[TESTING] Area Salatiga, Jogjakarta, dan Semarang",
                 "price": "Rp. 150.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "ABC Studio",
                 "type": "service",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_camera.webp"
             },
             {
                 "title": "Pupuk NPK Kualitas Tinggi",
-                "desc": "Tumbuhkan tanaman Anda dalam waktu cepat!",
+                "desc": "[TESTING] Tumbuhkan tanaman Anda dalam waktu cepat!",
                 "price": "Rp. 125.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Argomulyo Makmur Abadi",
                 "type": "goods",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_fertilizer.webp"
             },
             {
                 "title": "Servis Laptop & Handphone",
-                "desc": "Berkualitas, Terpercaya. Dapat menangani berbagai masalah pada laptop dan HP, mulai dari blue screen, soft brick, sampai laptop/HP ngehang. Juga melayani upgrade RAM dan SDD.",
+                "desc": "[TESTING] Berkualitas, Terpercaya. Dapat menangani berbagai masalah pada laptop dan HP, mulai dari blue screen, soft brick, sampai laptop/HP ngehang. Juga melayani upgrade RAM dan SDD.",
                 "price": "Harga Bervariasi",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "Indokomputa Salatiga",
                 "type": "service",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_laptop.webp"
             },
             {
                 "title": "Minuman Teh Herbal",
-                "desc": "Ayo dibeli minuman sehat untuk keluarga, resep turun temurun nenek. Harga untuk 1 pak isi 6 teh.",
+                "desc": "[TESTING] Ayo dibeli minuman sehat untuk keluarga, resep turun temurun nenek. Harga untuk 1 pak isi 6 teh.",
                 "price": "Rp. 20.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "CV Salatiga Sehat Makmur",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_lemon.webp"
             },
             {
                 "title": "Popcorn Meletup",
-                "desc": "Tersedia berbagai varian rasa: keju, coklat, kacang hijau, dan apel",
+                "desc": "[TESTING] Tersedia berbagai varian rasa: keju, coklat, kacang hijau, dan apel",
                 "price": "Rp. 10.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "CV Jajanan Sehat Salatiga",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_popcorn.webp"
             },
             {
                 "title": "Beras Pandan Wangi Murah",
-                "desc": "Sedang diskon/promo besar-besaran! Ayo dibeli sebelum habis.",
+                "desc": "[TESTING] Sedang diskon/promo besar-besaran! Ayo dibeli sebelum habis.",
                 "price": "Rp. 65.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Agribisnis Makmur Senjoyo",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_rice.webp"
             },
             {
                 "title": "Teh Mujarab",
-                "desc": "Sembuhkan berbagai penyakit seperti konstipasi dan ambeyen dengan teh ini.",
+                "desc": "[TESTING] Sembuhkan berbagai penyakit seperti konstipasi dan ambeyen dengan teh ini.",
                 "price": "Rp. 30.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "Klinik Sehat Salatiga",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_tea.webp"
