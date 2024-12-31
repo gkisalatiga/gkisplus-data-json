@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2642,
-        "last-update": 1735679866,
-        "last-updated-item": "pdf/liturgi",
+        "update-count": 2643,
+        "last-update": 1735682535,
+        "last-updated-item": "forms",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
@@ -1756,12 +1756,8 @@
         },
         "forms": [
             {
-                "title": "[INSIDERS] Presensi Harian Penguji GKI Salatiga+",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdip9IYuzryKfmF6zdIea6s07Rvvpa_GoRBIhzHge25xGtLCQ/viewform?usp=sf_link"
-            },
-            {
-                "title": "[INSIDERS] Laporan Bug dan Saran-Masukan GKI Salatiga+",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform?usp=sf_link"
+                "title": "Laporan Bug dan Saran-Masukan GKI Salatiga+",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform"
             },
             {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
