@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2641,
-        "last-update": 1735669790,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2642,
+        "last-update": 1735679866,
+        "last-updated-item": "pdf/liturgi",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1064,6 +1064,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta 29 Desember 2024",
+                    "date": "2024-12-28",
+                    "link": "https://drive.google.com/file/d/19pwmsNsy47YbkJoo83mPOjkt4GeK9QFv/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-29-desember-2024/",
+                    "thumbnail": "",
+                    "id": "19pwmsNsy47YbkJoo83mPOjkt4GeK9QFv",
+                    "size": "1.90 MB"
+                },
+                {
                     "title": "Warta 22 Desember 2024",
                     "date": "2024-12-21",
                     "link": "https://drive.google.com/file/d/1-L64MVIRFeZgmS-8QJuJLUR56jfA5KFD/preview",
@@ -1245,6 +1254,42 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Tutup Tahun 31 Desember 2024",
+                    "date": "2024-12-31",
+                    "link": "https://drive.google.com/file/d/1-xH_jZNYigPvrbqpbRpy7QLeTISMBlwP/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-31-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1-xH_jZNYigPvrbqpbRpy7QLeTISMBlwP",
+                    "size": "0.37 MB"
+                },
+                {
+                    "title": "Tata Ibadah 29 Desember 2024",
+                    "date": "2024-12-27",
+                    "link": "https://drive.google.com/file/d/1Zs92wWc4WczdIei8o87CtaM1KtLYQ9Ig/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-29-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1Zs92wWc4WczdIei8o87CtaM1KtLYQ9Ig",
+                    "size": "0.39 MB"
+                },
+                {
+                    "title": "Tata Ibadah Natal 25 Desember 2024",
+                    "date": "2024-12-25",
+                    "link": "https://drive.google.com/file/d/1wkHZVO60MW5PVGUDziDsWG9J4ER3L_tm/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-natal-25-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1wkHZVO60MW5PVGUDziDsWG9J4ER3L_tm-",
+                    "size": "0.23 MB"
+                },
+                {
+                    "title": "Tata Ibadah Malam Natal 24 Desember 2024",
+                    "date": "2024-12-24",
+                    "link": "https://drive.google.com/file/d/12AV9MPn6Qk6iibhYjwSx1SU2GizvSMP-/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-24-desember-2024/",
+                    "thumbnail": "",
+                    "id": "12AV9MPn6Qk6iibhYjwSx1SU2GizvSMP-",
+                    "size": "0.21 MB"
+                },
                 {
                     "title": "Tata Ibadah 22 Desember 2024",
                     "date": "2024-12-21",
