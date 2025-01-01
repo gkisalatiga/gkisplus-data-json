@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2645,
-        "last-update": 1735692311,
+        "update-count": 2646,
+        "last-update": 1735744489,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Jan 2025 | Manusia Seribu Rencana",
+                        "date": "2025-01-01",
+                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=Yas-mH8plNw",
+                        "thumbnail": "https://i2.ytimg.com/vi/Yas-mH8plNw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Jan 2025 | Melangkah di Tahun Yang Baru Bersama Tuhan",
+                        "date": "2025-01-01",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
+                        "link": "https://www.youtube.com/watch?v=vqpeQECCbpM",
+                        "thumbnail": "https://i3.ytimg.com/vi/vqpeQECCbpM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Des 2024 | Setelah Natal Berlalu",
                         "date": "2024-12-29",
@@ -53,13 +67,6 @@
                         "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=1OPPB2X7IrY",
                         "thumbnail": "https://i2.ytimg.com/vi/1OPPB2X7IrY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Des 2024 | Berbahagialah Ia Yang Percaya",
-                        "date": "2024-12-20",
-                        "desc": "Dibawakan oleh Bpk. Daniel Eko",
-                        "link": "https://www.youtube.com/watch?v=Uq29xD_H32Q",
-                        "thumbnail": "https://i2.ytimg.com/vi/Uq29xD_H32Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2025-01-01",
