@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2644,
-        "last-update": 1735688767,
+        "update-count": 2645,
+        "last-update": 1735692311,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -62,7 +62,7 @@
                         "thumbnail": "https://i2.ytimg.com/vi/Uq29xD_H32Q/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
                 "type": "rss",
@@ -274,7 +274,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/FSevbJsGkWc/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "playlist-id": "PLtAv1OZRTdvI1P3YIJ4_qOqapZjV1PtnI",
                 "title": "Kebaktian Umum",
                 "type": "regular",
@@ -416,7 +416,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/8XeDoiZxp2k/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
                 "title": "English Service",
                 "type": "regular",
@@ -635,7 +635,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/LFssOM8Wk1A/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "playlist-id": "PLtAv1OZRTdvIJphrWrtvYKFBizhsQhbWU",
                 "title": "Ibadah Komisi Usia Lanjut",
                 "type": "regular",
@@ -854,7 +854,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/npoLPT0HRVI/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "playlist-id": "PLtAv1OZRTdvKDHFERaMyf-sKjBUPrpCzP",
                 "title": "Ibadah Remaja",
                 "type": "regular",
@@ -1024,7 +1024,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/IccmObEyXOU/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "playlist-id": "PLtAv1OZRTdvJ6cdCbSOxgNI1BOF5Mt0NZ",
                 "title": "Paduan Suara",
                 "type": "regular",
@@ -1054,7 +1054,7 @@
                         "thumbnail": "https://i.ytimg.com/vi/Mm-5Q2Lmtyw/hqdefault.jpg"
                     }
                 ],
-                "last-update": "2024-12-31",
+                "last-update": "2025-01-01",
                 "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "regular",
