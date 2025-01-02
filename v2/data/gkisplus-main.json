@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2651,
-        "last-update": 1735842687,
-        "last-updated-item": "ykb",
+        "update-count": 2652,
+        "last-update": 1735848548,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,18 +20,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 3 Jan 2025 | Manusia Seribu Rencana",
+                        "date": "2025-01-02",
+                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=Yas-mH8plNw",
+                        "thumbnail": "https://i2.ytimg.com/vi/Yas-mH8plNw/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 2 Jan 2025 | Melangkah di Tahun Yang Baru Bersama Tuhan",
                         "date": "2025-01-01",
                         "desc": "Dibawakan oleh Pnt. Nadia Sita",
                         "link": "https://www.youtube.com/watch?v=vqpeQECCbpM",
                         "thumbnail": "https://i3.ytimg.com/vi/vqpeQECCbpM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Jan 2025 | Manusia Seribu Rencana",
-                        "date": "2025-01-01",
-                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=Yas-mH8plNw",
-                        "thumbnail": "https://i2.ytimg.com/vi/Yas-mH8plNw/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 30 Des 2024 | Setelah Natal Berlalu",
