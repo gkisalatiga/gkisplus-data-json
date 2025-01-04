@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2657,
-        "last-update": 1736015368,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2658,
+        "last-update": 1736029655,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1071,7 +1071,16 @@
         "pdf": {
             "wj": [
                 {
-                    "title": "Warta 29 Desember 2024",
+                    "title": "Warta Jemaat 5 Januari 2025",
+                    "date": "2025-01-04",
+                    "link": "https://drive.google.com/file/d/1YdmVQVTAz9haSqoRMthuZQuZzVJf22QN/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-5-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1YdmVQVTAz9haSqoRMthuZQuZzVJf22QN",
+                    "size": "1.30 MB"
+                },
+                {
+                    "title": "Warta Jemaat 29 Desember 2024",
                     "date": "2024-12-28",
                     "link": "https://drive.google.com/file/d/19pwmsNsy47YbkJoo83mPOjkt4GeK9QFv/preview",
                     "post-page": "https://gkisalatiga.org/warta-jemaat-29-desember-2024/",
@@ -1080,7 +1089,7 @@
                     "size": "1.90 MB"
                 },
                 {
-                    "title": "Warta 22 Desember 2024",
+                    "title": "Warta Jemaat 22 Desember 2024",
                     "date": "2024-12-21",
                     "link": "https://drive.google.com/file/d/1-L64MVIRFeZgmS-8QJuJLUR56jfA5KFD/preview",
                     "post-page": "https://gkisalatiga.org/warta-22-desember-2024/",
@@ -1261,6 +1270,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 5 Januari 2025",
+                    "date": "2025-01-04",
+                    "link": "https://drive.google.com/file/d/1ockYNdqmDRXd0mG7vSdR1CP9FW6sdNIM/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-5-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1ockYNdqmDRXd0mG7vSdR1CP9FW6sdNIM",
+                    "size": "0.33 MB"
+                },
                 {
                     "title": "Tata Ibadah Tutup Tahun 31 Desember 2024",
                     "date": "2024-12-31",
