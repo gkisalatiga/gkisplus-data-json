@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2662,
-        "last-update": 1736047352,
+        "update-count": 2663,
+        "last-update": 1736068430,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Jan 2025",
+                        "date": "2025-01-05",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=x93YrIX2Kgo",
+                        "thumbnail": "https://i1.ytimg.com/vi/x93YrIX2Kgo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Jan  2025 | Melibatkan Tuhan Dalam Rencana",
                         "date": "2025-01-03",
