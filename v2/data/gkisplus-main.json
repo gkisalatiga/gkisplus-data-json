@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2666,
-        "last-update": 1736124199,
+        "update-count": 2667,
+        "last-update": 1736187611,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Jan  2025 | Jangan Kuatir Jangan Takut",
+                        "date": "2025-01-06",
+                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=cH7Ct7rW7R4",
+                        "thumbnail": "https://i4.ytimg.com/vi/cH7Ct7rW7R4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Jan 2025",
                         "date": "2025-01-05",
