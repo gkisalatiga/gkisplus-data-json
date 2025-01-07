@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2669,
-        "last-update": 1736210501,
+        "update-count": 2670,
+        "last-update": 1736252986,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Jan 2025 | Tak Lekang oleh Waktu",
+                        "date": "2025-01-07",
+                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
+                        "link": "https://www.youtube.com/watch?v=BHXnsYBTArY",
+                        "thumbnail": "https://i3.ytimg.com/vi/BHXnsYBTArY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Jan  2025 | Jangan Kuatir Jangan Takut",
                         "date": "2025-01-06",
@@ -74,13 +81,6 @@
                         "desc": "Dibawakan oleh Ibu Krisulastri",
                         "link": "https://www.youtube.com/watch?v=RamAGttADps",
                         "thumbnail": "https://i3.ytimg.com/vi/RamAGttADps/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Des 2024 | Adakah Ruang Bagi-Nya?",
-                        "date": "2024-12-25",
-                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=f-qr0mDL9Og",
-                        "thumbnail": "https://i3.ytimg.com/vi/f-qr0mDL9Og/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2025-01-07",
