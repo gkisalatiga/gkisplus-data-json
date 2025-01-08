@@ -50,9 +50,11 @@ class ScraperYT(Scraper):
                 self.json_data['data']['yt'][i]['content'] = self.scrape_yt_regular(playlist_id)
 
             # Updating metadata.
+            # (Really? Not necessary!)
             now = dt.now()
             current_date = f'{now.year}-{zero_pad(now.month)}-{zero_pad(now.day)}'
-            self.json_data['data']['yt'][i]['last-update'] = current_date
+            # self.json_data['data']['yt'][i]['last-update'] = current_date
+            self.json_data['data']['yt'][i]['last-update'] = '-'
 
         # Write changes.
         super().write(write_msg='yt')
