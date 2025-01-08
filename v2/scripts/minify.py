@@ -40,4 +40,6 @@ class Minify():
 
 if __name__ == "__main__":
     minifier = Minify()
+    
     minifier.run()
+    print('JSON files are validated and minifed!')
