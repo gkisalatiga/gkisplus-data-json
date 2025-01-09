@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2679,
-        "last-update": 1736404443,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2680,
+        "last-update": 1736425787,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Jan 2025 | Bukan Sekadar Niat dan Rencana",
+                        "date": "2025-01-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=UTrMzNTha3c",
+                        "thumbnail": "https://i2.ytimg.com/vi/UTrMzNTha3c/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Jan 2025 | Berjalan Bersama Tuhan",
                         "date": "2025-01-08",
@@ -81,13 +88,6 @@
                         "desc": "Dibawakan oleh Ibu Arvie Sinjal",
                         "link": "https://www.youtube.com/watch?v=Br32wdlmfSI",
                         "thumbnail": "https://i3.ytimg.com/vi/Br32wdlmfSI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Des 2024 | Melihat Kehadiran Tuhan",
-                        "date": "2024-12-26",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=RamAGttADps",
-                        "thumbnail": "https://i3.ytimg.com/vi/RamAGttADps/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
