@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2680,
-        "last-update": 1736425787,
-        "last-updated-item": "yt",
+        "update-count": 2681,
+        "last-update": 1736434915,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3062,6 +3062,19 @@
                 "place": "Ruang Kapernaum, Ruang Betlehem",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Yuliani N",
+                "note": ""
+            },
+            {
+                "name": "Membuat dekorasi natal KR",
+                "time": "15:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb ",
                 "note": ""
             }
         ]
