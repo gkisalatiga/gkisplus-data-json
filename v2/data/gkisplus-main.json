@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2677,
-        "last-update": 1736375902,
-        "last-updated-item": "yt",
+        "update-count": 2678,
+        "last-update": 1736395239,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3023,6 +3023,32 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Caleb",
+                "note": ""
+            },
+            {
+                "name": "Lat tim musik",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-01-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Natalis",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "note": ""
             }
         ]
