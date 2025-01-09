@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2678,
-        "last-update": 1736395239,
+        "update-count": 2679,
+        "last-update": 1736404443,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2649,6 +2649,19 @@
                 "note": ""
             },
             {
+                "name": "Rapat Komsarpras",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Budi Santoso",
+                "note": ""
+            },
+            {
                 "name": "Rapat pembentukan panitia MRP 2025",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -2672,6 +2685,45 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
+                "note": ""
+            },
+            {
+                "name": "Membuat Dekorasi Natal KR",
+                "time": "15:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb",
+                "note": ""
+            },
+            {
+                "name": "Lat tim musik",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-01-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Natalis",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "note": ""
             },
             {
@@ -3000,55 +3052,16 @@
                 "note": ""
             },
             {
-                "name": "Rapat Komsarpras",
-                "time": "19:00",
-                "time-to": "21:00",
+                "name": "Latihan PS. Solagratia",
+                "time": "18:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-01-08",
-                "weekday": "wed",
+                "date": "2025-01-11",
+                "weekday": "sat",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Budi Santoso",
-                "note": ""
-            },
-            {
-                "name": "Membuat Dekorasi Natal KR",
-                "time": "15:30",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-01-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Caleb",
-                "note": ""
-            },
-            {
-                "name": "Lat tim musik",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-01-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
+                "place": "Ruang Kapernaum, Ruang Betlehem",
                 "representative": "Komisi Musik dan Liturgi",
-                "pic": "Natalis",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-01-10",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
+                "pic": "Yuliani N",
                 "note": ""
             }
         ]
