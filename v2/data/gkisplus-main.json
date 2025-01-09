@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2681,
-        "last-update": 1736434915,
-        "last-updated-item": "agenda-ruangan",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2684,
+        "last-update": 1736439443,
+        "last-updated-item": "forms",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "2.0"
     },
     "data": {
@@ -1797,6 +1797,18 @@
             {
                 "title": "Laporan Bug dan Saran-Masukan GKI Salatiga+",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform"
+            },
+            {
+                "title": "[TESTING]",
+                "url": "https://gkisalatiga.org"
+            },
+            {
+                "title": "[TESTING 2]",
+                "url": "https://plus.gkisalatiga.org"
+            },
+            {
+                "title": "[TESTING 3]",
+                "url": "https://instagram.com/gkisalatiga"
             },
             {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
