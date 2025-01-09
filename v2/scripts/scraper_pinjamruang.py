@@ -100,6 +100,8 @@ class ScraperPinjamRuang(Scraper):
             
             pic = self.df['Penanggung Jawab'][i]
             
+            approval = self.df['Persetujuan: [Y] Yes/Disetujui [N] No/Ditolak [W] Wait/Menunggu'][i]
+            
             j = {
                 "name": name,
                 "time": time,
@@ -111,6 +113,7 @@ class ScraperPinjamRuang(Scraper):
                 "place": place,
                 "representative": representative,
                 "pic": pic,
+                "status": approval.lower(),
                 "note": ""
             }
             
