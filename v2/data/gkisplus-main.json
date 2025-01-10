@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2684,
-        "last-update": 1736522035,
+        "update-count": 2685,
+        "last-update": 1736533205,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Jan  2025 | Tantangan dan Peluang",
+                        "date": "2025-01-10",
+                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
+                        "link": "https://www.youtube.com/watch?v=j4gvwDKskwQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/j4gvwDKskwQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Jan 2025 | Bukan Sekadar Niat dan Rencana",
                         "date": "2025-01-09",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=dD89dzfHlRw",
                         "thumbnail": "https://i1.ytimg.com/vi/dD89dzfHlRw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Des 2024 | Permintaan Yang Sulit",
-                        "date": "2024-12-27",
-                        "desc": "Dibawakan oleh Ibu Arvie Sinjal",
-                        "link": "https://www.youtube.com/watch?v=Br32wdlmfSI",
-                        "thumbnail": "https://i3.ytimg.com/vi/Br32wdlmfSI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
