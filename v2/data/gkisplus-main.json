@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2686,
-        "last-update": 1736533912,
-        "last-updated-item": "ykb",
+        "update-count": 2687,
+        "last-update": 1736534747,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3337,6 +3337,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Caleb ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan drama & musik natal kr",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Studio",
+                "representative": "Komisi Remaja",
+                "pic": "Aurell",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
                 "status": "w",
                 "note": ""
             }
