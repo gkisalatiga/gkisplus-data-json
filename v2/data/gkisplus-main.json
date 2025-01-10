@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2682,
-        "last-update": 1736447570,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2683,
+        "last-update": 1736506079,
+        "last-updated-item": "agenda",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1720,7 +1720,10 @@
                 },
                 {
                     "name": "Pemahaman Alkitab Wilayah",
-                    "time": "17:00 atau 18:00",
+                    "time": "17:00",
+                    "time-to": "18:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
                     "place": "Wilayah masing-masing",
                     "representative": "Komisi Pengajaran dan Pengabaran Injil",
                     "note": ""
