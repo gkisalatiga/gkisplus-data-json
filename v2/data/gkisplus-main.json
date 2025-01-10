@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2683,
-        "last-update": 1736506079,
-        "last-updated-item": "agenda",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 2684,
+        "last-update": 1736522035,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -1074,6 +1074,13 @@
                         "desc": "Persekutuan Sobat Muda GKI Salatiga | 14 September 2024 | HUT SODA SEBELAS\n\n\"Serving Everyone by Empathy, Love, and Sacrifice\"\nMarkus 10:45\nDipimpin oleh Pdt. Merry Rungkat\nMajelis Pendamping: Pnt. July Silooy",
                         "link": "https://www.youtube.com/watch?v=Mm-5Q2Lmtyw",
                         "thumbnail": "https://i.ytimg.com/vi/Mm-5Q2Lmtyw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "Natal 2024 SODA GKI Salatiga | Sabtu, 11 Januari 2025 | A Call to Action to be Shining with God",
+                        "date": "2025-01-10",
+                        "desc": "*NATAL SODA (KOMISI PEMUDA) GKI SALATIGA 2024 - Sabtu, 11 Januari 2025*\n\n\"A Call to Action to be Shining with God\"\nLukas 2:15\nDipimpin oleh Pdt. Adi Setyo Kristianto\nMajelis Pendamping: Pnt. Johnson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=BBt8wl5lrOw",
+                        "thumbnail": "https://i.ytimg.com/vi/BBt8wl5lrOw/hqdefault_live.jpg"
                     }
                 ],
                 "last-update": "-",
