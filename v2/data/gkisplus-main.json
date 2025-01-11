@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2691,
-        "last-update": 1736608421,
-        "last-updated-item": "yt",
+        "update-count": 2692,
+        "last-update": 1736609439,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3351,6 +3351,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Maria Wil. 10",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik natal kr",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-12",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Aurell ",
                 "status": "w",
                 "note": ""
             }
