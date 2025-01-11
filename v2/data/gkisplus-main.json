@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2687,
-        "last-update": 1736534747,
+        "update-count": 2688,
+        "last-update": 1736555669,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3365,6 +3365,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "membuat dekor natal KR",
+                "time": "13:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb",
                 "status": "w",
                 "note": ""
             }
