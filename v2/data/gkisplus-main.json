@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2697,
-        "last-update": 1736662771,
-        "last-updated-item": "yt",
+        "update-count": 2698,
+        "last-update": 1736667029,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3411,6 +3411,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Aline ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persekutuan GSM",
+                "time": "09:30",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-01-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
