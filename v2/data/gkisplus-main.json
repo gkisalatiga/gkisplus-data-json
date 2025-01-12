@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2694,
-        "last-update": 1736636785,
-        "last-updated-item": "pdf",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 2695,
+        "last-update": 1736654453,
+        "last-updated-item": "agenda-ruangan",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -3383,6 +3383,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Aurell ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2),  ",
+                "representative": "Wilayah",
+                "pic": "Bu Ning Wilayah 5",
                 "status": "w",
                 "note": ""
             }
