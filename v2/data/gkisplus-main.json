@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2699,
-        "last-update": 1736685980,
+        "update-count": 2701,
+        "last-update": 1736687781,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2824,7 +2824,7 @@
                 "representative": "Komisi Pemuda",
                 "pic": "Rambu Kudu (Panitia Natal SODA)",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Rapat KUL",
@@ -2894,7 +2894,7 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Dessy",
                 "status": "w",
-                "note": ""
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "latihan drama natal kr",
@@ -2922,7 +2922,7 @@
                 "representative": "Komisi Remaja",
                 "pic": "Caleb",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Lat tim musik",
@@ -2964,7 +2964,7 @@
                 "representative": "Komisi Remaja",
                 "pic": "Caleb ",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Latihan drama & musik natal kr",
@@ -3020,7 +3020,7 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Yuliani N",
                 "status": "w",
-                "note": ""
+                "note": "Pakai ruang kapernaum, kalau KR belum selesai di ruang betlehem"
             },
             {
                 "name": "membuat dekor natal KR",
@@ -3034,7 +3034,7 @@
                 "representative": "Komisi Remaja",
                 "pic": "Caleb",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Rapat Natal Wilayah 7",
@@ -3048,7 +3048,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA Wilayah V",
@@ -3062,7 +3062,7 @@
                 "representative": "Wilayah",
                 "pic": "Sinta Dwiprasetyo",
                 "status": "w",
-                "note": ""
+                "note": "Ada makanan ringan"
             },
             {
                 "name": "PA WILAYAH 11",
@@ -3076,7 +3076,7 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Lukas Wilayah 11",
                 "status": "w",
-                "note": ""
+                "note": "Ada Makanan Ringan"
             },
             {
                 "name": "PA Wilayah 7",
@@ -3090,7 +3090,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -3118,7 +3118,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Natal Komisi Remaja",
@@ -3146,7 +3146,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -3188,7 +3188,7 @@
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Herlina",
                 "status": "w",
-                "note": ""
+                "note": "2 hari 23-24 Januari 2025"
             },
             {
                 "name": "Open House",
@@ -3258,7 +3258,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Pemahaman Alkitab",
@@ -3300,7 +3300,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardijini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -3328,7 +3328,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -3356,7 +3356,7 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 10",
@@ -3370,7 +3370,7 @@
                 "representative": "Wilayah",
                 "pic": "Maria Wil. 10",
                 "status": "w",
-                "note": ""
+                "note": "Ada makanan Ringan"
             },
             {
                 "name": "Latihan musik natal kr",
@@ -3398,7 +3398,7 @@
                 "representative": "Wilayah",
                 "pic": "Bu Ning Wilayah 5",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Latihan tamborin natal KR ",
@@ -3412,7 +3412,7 @@
                 "representative": "Komisi Remaja",
                 "pic": "Aline ",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "Persekutuan GSM",
@@ -3440,7 +3440,7 @@
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
                 "status": "w",
-                "note": ""
+                "note": "Testing Fitur Aplikasi GKI Salatiga+. Jangan Dihapus."
             },
             {
                 "name": "Testing",
@@ -3454,7 +3454,7 @@
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
                 "status": "c",
-                "note": ""
+                "note": "Testing fitur aplikasi GKI Salatiga+. Jangan dihapus."
             },
             {
                 "name": "Testing.",
@@ -3468,7 +3468,7 @@
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
                 "status": "n",
-                "note": ""
+                "note": "Testing fitur aplikasi GKI Salatiga+. Jangan dihapus!"
             },
             {
                 "name": "Testing",
@@ -3482,7 +3482,7 @@
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
                 "status": "y",
-                "note": ""
+                "note": "Testing fitur"
             }
         ],
         "backend": {

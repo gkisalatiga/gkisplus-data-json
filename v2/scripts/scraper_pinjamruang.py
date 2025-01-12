@@ -100,6 +100,9 @@ class ScraperPinjamRuang(Scraper):
             
             pic = self.df['Penanggung Jawab'][i]
             
+            notes = self.df['Keterangan Tambahan'][i]
+            if str(notes).lower() == 'nan':
+                notes = ''
             
             approval = self.df['Persetujuan: [Y] Yes/Disetujui [N] No/Ditolak [W] Wait/Menunggu [C] Cancelled/Dibatalkan oleh Pemohon'][i]
             approval = str(approval).lower().strip()
@@ -118,7 +121,7 @@ class ScraperPinjamRuang(Scraper):
                 "representative": representative,
                 "pic": pic,
                 "status": approval,
-                "note": ""
+                "note": notes
             }
             
             enumerated_items.append(j)
