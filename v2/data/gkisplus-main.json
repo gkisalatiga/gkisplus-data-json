@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2701,
-        "last-update": 1736687781,
+        "last-update": 1736691864,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2662,6 +2662,54 @@
         ],
         "carousel": [
             {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.webp?raw=true",
+                "title": "Doa Tengah Hari",
+                "type": "poster",
+                "date-created": "2025-01-12",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_poster_dth.webp",
+                "poster-caption": "Setiap hari Senin - pk. 12.00 WIB - bertempat di Ruang Kapernaum."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.webp?raw=true",
+                "title": "Persiapan Pemandu PA",
+                "type": "poster",
+                "date-created": "2025-01-12",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.webp?raw=true",
+                "poster-caption": "Setiap hari Senin - pk. 18.00 WIB - bertempat di Ruang Konsistori."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.webp?raw=true",
+                "title": "Pemahaman Alkitab (PA) Wilayah",
+                "type": "poster",
+                "date-created": "2025-01-12",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.webp?raw=true",
+                "poster-caption": "Setiap hari Selasa - pk. 17.00 / 18.00 WIB - bertempat di wilayah masing-masing."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
+                "title": "Katekisasi",
+                "type": "poster",
+                "date-created": "2025-01-12",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
+                "poster-caption": "Setiap hari Rabu - pk. 17.00 WIB - bertempat di Ruang Kana."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
+                "title": "Kambium",
+                "type": "poster",
+                "date-created": "2025-01-12",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
+                "poster-caption": "Setiap hari Rabu - pk. 18.00 WIB - bertempat di Ruang Konsistori."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
+                "title": "Warung Tiberias",
+                "type": "poster",
+                "date-created": "2025-01-12",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
+                "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
@@ -2675,14 +2723,6 @@
                 "type": "poster",
                 "date-created": "2024-12-31",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_4.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "title": "Ibadah Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2025-01-11",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
