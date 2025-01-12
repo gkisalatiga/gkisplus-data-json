@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2703,
-        "last-update": 1736695456,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2704,
+        "last-update": 1736705904,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |13 Jan  2025 | Allah Senantiasa Menuntun Kepada Jalan Keselamatan",
+                        "date": "2025-01-12",
+                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
+                        "link": "https://www.youtube.com/watch?v=5jclLb3_Ppg",
+                        "thumbnail": "https://i2.ytimg.com/vi/5jclLb3_Ppg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Jan  2025 | Tantangan dan Peluang",
                         "date": "2025-01-10",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Nadia Sita",
                         "link": "https://www.youtube.com/watch?v=vqpeQECCbpM",
                         "thumbnail": "https://i3.ytimg.com/vi/vqpeQECCbpM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Des 2024 | Setelah Natal Berlalu",
-                        "date": "2024-12-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=dD89dzfHlRw",
-                        "thumbnail": "https://i1.ytimg.com/vi/dD89dzfHlRw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
