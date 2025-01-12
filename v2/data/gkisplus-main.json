@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2695,
-        "last-update": 1736654453,
+        "update-count": 2696,
+        "last-update": 1736661658,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3397,6 +3397,20 @@
                 "place": "Ruang Kana (Lantai 2),  ",
                 "representative": "Wilayah",
                 "pic": "Bu Ning Wilayah 5",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan tamborin natal KR ",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Aline ",
                 "status": "w",
                 "note": ""
             }
