@@ -101,9 +101,9 @@ class ScraperPinjamRuang(Scraper):
             pic = self.df['Penanggung Jawab'][i]
             
             
-            approval = self.df['Persetujuan: [Y] Yes/Disetujui [N] No/Ditolak [W] Wait/Menunggu'][i]
+            approval = self.df['Persetujuan: [Y] Yes/Disetujui [N] No/Ditolak [W] Wait/Menunggu [C] Cancelled/Dibatalkan oleh Pemohon'][i]
             approval = str(approval).lower().strip()
-            if approval not in ['n', 'w', 'y']:
+            if approval not in ['c', 'n', 'w', 'y']:
                 approval = 'w'  # --- defaults to "waiting for approval".
             
             j = {
