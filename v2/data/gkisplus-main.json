@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2702,
-        "last-update": 1736694794,
-        "last-updated-item": "yt",
+        "update-count": 2703,
+        "last-update": 1736695456,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3523,6 +3523,20 @@
                 "pic": "Samarthya L.",
                 "status": "y",
                 "note": "Testing fitur"
+            },
+            {
+                "name": "latihan drama natal kr",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "syella",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
