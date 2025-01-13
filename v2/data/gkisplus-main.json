@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2706,
-        "last-update": 1736740857,
+        "update-count": 2707,
+        "last-update": 1736742667,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3285,6 +3285,20 @@
                 "pic": "Maria Wil. 10",
                 "status": "w",
                 "note": "Ada makanan Ringan"
+            },
+            {
+                "name": "Latihan Tim Musik",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samuel Arif",
+                "status": "w",
+                "note": "Latihan dan rekaman"
             }
         ],
         "backend": {
