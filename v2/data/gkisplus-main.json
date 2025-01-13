@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2707,
-        "last-update": 1736742667,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2708,
+        "last-update": 1736771456,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Jan 2025",
+                        "date": "2025-01-13",
+                        "desc": "Dibawakan oleh Pnt. Adita Sutresna",
+                        "link": "https://www.youtube.com/watch?v=xyP0wHG1Y3I",
+                        "thumbnail": "https://i1.ytimg.com/vi/xyP0wHG1Y3I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |13 Jan  2025 | Allah Senantiasa Menuntun Kepada Jalan Keselamatan",
                         "date": "2025-01-12",
