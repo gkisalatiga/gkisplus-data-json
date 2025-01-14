@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2718,
-        "last-update": 1736882226,
-        "last-updated-item": "agenda-ruangan",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2719,
+        "last-update": 1736882971,
+        "last-updated-item": "backend/flags",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -3416,7 +3416,14 @@
         ],
         "backend": {
             "flags": {
-                "is_lapak_enabled": 0
+                "is_feature_agenda_shown": 1,
+                "is_feature_persembahan_shown": 1,
+                "is_feature_ykb_shown": 1,
+                "is_feature_formulir_shown": 1,
+                "is_feature_galeri_shown": 1,
+                "is_feature_bible_shown": 1,
+                "is_feature_library_shown": 0,
+                "is_feature_lapak_shown": 0
             },
             "strings": {
                 "address": "Jl. Jend. Sudirman 111B, Salatiga, 50742, Jawa Tengah, Indonesia",
