@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2711,
-        "last-update": 1736823645,
+        "update-count": 2712,
+        "last-update": 1736830832,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2868,6 +2868,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Wawancara PPDB 2025/2026",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "0025-01-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima Christin",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Latihan tamborin natal KR ",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -3020,6 +3034,20 @@
                 "pic": "Samarthya L.",
                 "status": "y",
                 "note": "Testing fitur"
+            },
+            {
+                "name": "Rapat panitia mrp 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "AM. Widiatmoko",
+                "status": "w",
+                "note": "Disediakan minuman teh hangat"
             },
             {
                 "name": "Natal Wilayah 7",
@@ -3314,34 +3342,6 @@
                 "pic": "Maria Wil. 10",
                 "status": "w",
                 "note": "Ada makanan Ringan"
-            },
-            {
-                "name": "Rapat panitia mrp 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-01-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "AM. Widiatmoko",
-                "status": "w",
-                "note": "Disediakan minuman teh hangat"
-            },
-            {
-                "name": "Wawancara PPDB 2025/2026",
-                "time": "08:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "0025-01-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Yemima Christin",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
