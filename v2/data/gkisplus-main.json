@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2719,
-        "last-update": 1736882971,
-        "last-updated-item": "backend/flags",
+        "update-count": 2720,
+        "last-update": 1736884157,
+        "last-updated-item": "forms",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
@@ -2046,18 +2046,6 @@
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform"
             },
             {
-                "title": "[TESTING]",
-                "url": "https://gkisalatiga.org"
-            },
-            {
-                "title": "[TESTING 2]",
-                "url": "https://plus.gkisalatiga.org"
-            },
-            {
-                "title": "[TESTING 3]",
-                "url": "https://instagram.com/gkisalatiga"
-            },
-            {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
                 "url": "https://forms.gle/zXgJuCCjCn6ixk8m7"
             },
@@ -3417,13 +3405,13 @@
         "backend": {
             "flags": {
                 "is_feature_agenda_shown": 1,
-                "is_feature_persembahan_shown": 1,
-                "is_feature_ykb_shown": 1,
-                "is_feature_formulir_shown": 1,
+                "is_feature_persembahan_shown": 0,
+                "is_feature_ykb_shown": 0,
+                "is_feature_formulir_shown": 0,
                 "is_feature_galeri_shown": 1,
                 "is_feature_bible_shown": 1,
                 "is_feature_library_shown": 0,
-                "is_feature_lapak_shown": 0
+                "is_feature_lapak_shown": 1
             },
             "strings": {
                 "address": "Jl. Jend. Sudirman 111B, Salatiga, 50742, Jawa Tengah, Indonesia",
