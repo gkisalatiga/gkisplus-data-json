@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2714,
-        "last-update": 1736836387,
+        "update-count": 2715,
+        "last-update": 1736856058,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3368,6 +3368,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedri ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "latihan drama kr",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel",
                 "status": "w",
                 "note": ""
             }
