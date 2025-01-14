@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2712,
-        "last-update": 1736830832,
+        "update-count": 2713,
+        "last-update": 1736832442,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3048,6 +3048,20 @@
                 "pic": "AM. Widiatmoko",
                 "status": "w",
                 "note": "Disediakan minuman teh hangat"
+            },
+            {
+                "name": "Pertemuan dengan BPHMJ baru",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Ervien",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "Natal Wilayah 7",
