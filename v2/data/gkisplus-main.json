@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2709,
-        "last-update": 1736816542,
-        "last-updated-item": "ykb",
+        "update-count": 2710,
+        "last-update": 1736822934,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -2952,6 +2952,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Tim Musik",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samuel Arif",
+                "status": "w",
+                "note": "Latihan dan rekaman"
+            },
+            {
                 "name": "Testing",
                 "time": "07:00",
                 "time-to": "23:00",
@@ -3302,18 +3316,18 @@
                 "note": "Ada makanan Ringan"
             },
             {
-                "name": "Latihan Tim Musik",
+                "name": "Rapat panitia mrp 2025",
                 "time": "18:00",
                 "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2025-01-14",
-                "weekday": "tue",
+                "date": "2025-01-15",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samuel Arif",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "AM. Widiatmoko",
                 "status": "w",
-                "note": "Latihan dan rekaman"
+                "note": "Disediakan minuman teh hangat"
             }
         ],
         "backend": {
