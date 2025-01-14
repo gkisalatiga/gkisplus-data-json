@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2713,
-        "last-update": 1736832442,
+        "update-count": 2714,
+        "last-update": 1736836387,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3356,6 +3356,20 @@
                 "pic": "Maria Wil. 10",
                 "status": "w",
                 "note": "Ada makanan Ringan"
+            },
+            {
+                "name": "Persiapan Ibadah Natal KR dan Gladi Bersih",
+                "time": "12:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Cedri ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
