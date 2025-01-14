@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2720,
-        "last-update": 1736884157,
-        "last-updated-item": "forms",
+        "update-count": 2721,
+        "last-update": 1736884780,
+        "last-updated-item": "backend",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
@@ -3405,17 +3405,17 @@
         "backend": {
             "flags": {
                 "is_feature_agenda_shown": 1,
-                "is_feature_persembahan_shown": 0,
-                "is_feature_ykb_shown": 0,
-                "is_feature_formulir_shown": 0,
+                "is_feature_persembahan_shown": 1,
+                "is_feature_ykb_shown": 1,
+                "is_feature_formulir_shown": 1,
                 "is_feature_galeri_shown": 1,
-                "is_feature_bible_shown": 1,
-                "is_feature_library_shown": 0,
-                "is_feature_lapak_shown": 1
+                "is_feature_bible_shown": 0,
+                "is_feature_library_shown": 1,
+                "is_feature_lapak_shown": 0
             },
             "strings": {
                 "address": "Jl. Jend. Sudirman 111B, Salatiga, 50742, Jawa Tengah, Indonesia",
-                "greetings_top": "Selamat Tahun Baru!",
+                "greetings_top": "Syalom!",
                 "greetings_bottom": "Jemaat & simpatisan GKIS yang terkasih"
             }
         }
