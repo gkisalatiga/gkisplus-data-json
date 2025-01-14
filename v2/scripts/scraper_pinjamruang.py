@@ -104,8 +104,15 @@ class ScraperPinjamRuang(Scraper):
             if str(notes).lower() == 'nan':
                 notes = ''
             
-            approval = self.df['Persetujuan: [Y] Yes/Disetujui [N] No/Ditolak [W] Wait/Menunggu [C] Cancelled/Dibatalkan oleh Pemohon'][i]
+            approval = self.df['Persetujuan'][i]
             approval = str(approval).lower().strip()
+            
+            # Translate human-readable to machine-readable.
+            approval = approval.replace('Dibatalkan Pemohon', 'c')
+            approval = approval.replace('Ditolak', 'n')
+            approval = approval.replace('Menunggu Persetujuan', 'w')
+            approval = approval.replace('Disetujui', 'y')
+            
             if approval not in ['c', 'n', 'w', 'y']:
                 approval = 'w'  # --- defaults to "waiting for approval".
             
