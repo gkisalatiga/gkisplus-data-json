@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2710,
-        "last-update": 1736822934,
+        "update-count": 2711,
+        "last-update": 1736823645,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3328,6 +3328,20 @@
                 "pic": "AM. Widiatmoko",
                 "status": "w",
                 "note": "Disediakan minuman teh hangat"
+            },
+            {
+                "name": "Wawancara PPDB 2025/2026",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "0025-01-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima Christin",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
