@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2715,
-        "last-update": 1736856058,
+        "update-count": 2716,
+        "last-update": 1736864870,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3382,6 +3382,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Samuel",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Dekorasi Natal KR",
+                "time": "17:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
                 "status": "w",
                 "note": ""
             }
