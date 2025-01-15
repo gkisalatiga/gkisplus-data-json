@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2724,
-        "last-update": 1736912209,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2725,
+        "last-update": 1736922009,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
                         "link": "https://www.youtube.com/watch?v=Yas-mH8plNw",
                         "thumbnail": "https://i2.ytimg.com/vi/Yas-mH8plNw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Jan 2025 | Melangkah di Tahun Yang Baru Bersama Tuhan",
-                        "date": "2025-01-01",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=vqpeQECCbpM",
-                        "thumbnail": "https://i3.ytimg.com/vi/vqpeQECCbpM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -461,6 +454,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN  USIA LANJUT GKI SALATIGA 16 Januari 2025 | \u201cHati Yang Bersyukur\u201d",
+                        "date": "2025-01-15",
+                        "desc": "*PERSEKUTUAN USIA LANJUT GKI SALATIGA BULAN JANUARI 2025\n16 Januari 2025 | Pukul 16.00 WIB\n\nTema : \u201cHati yang Bersyukur\"\nPelayan Firman : Pdt. Izak Lattu\n\nMJP : Pnt. Yuliani Nugroho\nMusik : Ryu\nPnk : Ibu Hana\nMultimedia : Bayu, Samarthya, Glori\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=CJSwgjyrYfQ",
+                        "thumbnail": "https://i.ytimg.com/vi/CJSwgjyrYfQ/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH SAMBUT NATAL  USIA LANJUT GKI SALATIGA 19 Desember 2024 | \u201cDia Tinggal di Antara Kita\u201d",
                         "date": "2024-12-17",
                         "desc": "*SAMBUT NATAL USIA LANJUT GKI SALATIGA BULAN DESEMBER 2024\n19 Desember 2024 | Pukul 16.00 WIB\n\nTema : \u201cDia Tinggal di Antara Kita\"\nPelayan Firman : Pdt.Yefta Setiawan Krisgunadi\n\nMJP : Pnt. Jhonson U. Radda\nMusik : Lamentation\nPnk : Ibu Gita Hastuti\nMultimedia : Bayu, Joshua, Budi, Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -662,13 +662,6 @@
                         "desc": "PF : Pdt. Yefta S. Krisgunadi\nTema : Hati-hati Dengan Lidah (Amsal 18 : 21)\nPemusik : Bram, Christian \u2502PNK : Ones \u2502Voice Over : Bianda \u2502 Kameramen : Iwandi\u2502\nTim Multimedia : Joshua Abdi Gracia\u2502 PPT : Tony Harnoto",
                         "link": "https://www.youtube.com/watch?v=MW7_8HJze2E",
                         "thumbnail": "https://i.ytimg.com/vi/MW7_8HJze2E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Persekutuan Komisi Usia Lanjut GKI Salatiga April 2022",
-                        "date": "2022-04-21",
-                        "desc": "Persekutuan Komisi Usia Lanjut GKI Salatiga April 2022\nKamis, 21 April 2022\n\"Kemenangan Untuk Kehidupan\"\n\nPelayan Firman : Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=LFssOM8Wk1A",
-                        "thumbnail": "https://i.ytimg.com/vi/LFssOM8Wk1A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
