@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2727,
-        "last-update": 1736924438,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2728,
+        "last-update": 1736944108,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Jan 2025 | Hidup Kekal",
+                        "date": "2025-01-15",
+                        "desc": "Dibawakan oleh Sdri. Adoltina Muloko",
+                        "link": "https://www.youtube.com/watch?v=wxOcBeHPLUI",
+                        "thumbnail": "https://i4.ytimg.com/vi/wxOcBeHPLUI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Jan  2025 | Dalam Genggaman Tuhan",
                         "date": "2025-01-14",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Paul A. Gul\u00f6",
                         "link": "https://www.youtube.com/watch?v=nDZ9WJUocFo",
                         "thumbnail": "https://i3.ytimg.com/vi/nDZ9WJUocFo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Jan 2025 | Manusia Seribu Rencana",
-                        "date": "2025-01-02",
-                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=Yas-mH8plNw",
-                        "thumbnail": "https://i2.ytimg.com/vi/Yas-mH8plNw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
