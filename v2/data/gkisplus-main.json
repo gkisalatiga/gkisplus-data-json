@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2726,
-        "last-update": 1736922809,
+        "update-count": 2727,
+        "last-update": 1736924438,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3468,6 +3468,20 @@
                 "place": "Gedung Gereja",
                 "representative": "TK Kristen 03 Eben Haezer",
                 "pic": "Wahyu Agustina Rimbita ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Natal KR sampai kegiatan Natal KR",
+                "time": "13:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Betlehem, Ruang Konsistori, Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
                 "status": "w",
                 "note": ""
             }
