@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2723,
-        "last-update": 1736911691,
+        "update-count": 2724,
+        "last-update": 1736912209,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3447,6 +3447,20 @@
                 "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan pemain drama Natal KR",
+                "time": "13:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
                 "status": "w",
                 "note": ""
             }
