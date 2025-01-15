@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2722,
-        "last-update": 1736894797,
-        "last-updated-item": "yt",
+        "update-count": 2723,
+        "last-update": 1736911691,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3407,6 +3407,48 @@
                 "pic": "Samarthya L.",
                 "status": "w",
                 "note": "Testing GKI Salatiga+ (Aplikasi Android)"
+            },
+            {
+                "name": "Latihan musik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Kotor Ibadah Natal Remaja",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
