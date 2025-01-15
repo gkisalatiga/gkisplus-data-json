@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2725,
-        "last-update": 1736922009,
-        "last-updated-item": "yt",
+        "update-count": 2726,
+        "last-update": 1736922809,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3178,7 +3178,7 @@
                 "note": "-"
             },
             {
-                "name": "Pemahaman Alkitab",
+                "name": "Pemahaman Alkitab Wil 9",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -3301,7 +3301,7 @@
                 "representative": "Komisi Remaja",
                 "pic": "Cedri ",
                 "status": "w",
-                "note": ""
+                "note": "+ konsistori dan betlehem."
             },
             {
                 "name": "latihan drama kr",
@@ -3427,7 +3427,7 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra ",
                 "status": "w",
-                "note": ""
+                "note": "Mulai jam 20.00"
             },
             {
                 "name": "Gladi Kotor Ibadah Natal Remaja",
@@ -3441,7 +3441,7 @@
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
                 "status": "w",
-                "note": ""
+                "note": "Hanya sampai jam 20.00"
             },
             {
                 "name": "Persiapan pemain drama Natal KR",
@@ -3454,6 +3454,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan/ gladi bersih anak2 yg akan tampil di ibadah minggu",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-01-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "TK Kristen 03 Eben Haezer",
+                "pic": "Wahyu Agustina Rimbita ",
                 "status": "w",
                 "note": ""
             }
