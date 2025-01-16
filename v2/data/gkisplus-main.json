@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2729,
-        "last-update": 1736965760,
-        "last-updated-item": "ykb",
+        "update-count": 2730,
+        "last-update": 1737018900,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Jan 2025",
+                        "date": "2025-01-16",
+                        "desc": "Dibawakan oleh Ibu Retty Andrea",
+                        "link": "https://www.youtube.com/watch?v=L1p8wfWQMRc",
+                        "thumbnail": "https://i1.ytimg.com/vi/L1p8wfWQMRc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Jan 2025 | Hidup Kekal",
                         "date": "2025-01-15",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry Rungkat",
                         "link": "https://www.youtube.com/watch?v=x93YrIX2Kgo",
                         "thumbnail": "https://i1.ytimg.com/vi/x93YrIX2Kgo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Jan  2025 | Melibatkan Tuhan Dalam Rencana",
-                        "date": "2025-01-03",
-                        "desc": "Dibawakan oleh Pnt. Paul A. Gul\u00f6",
-                        "link": "https://www.youtube.com/watch?v=nDZ9WJUocFo",
-                        "thumbnail": "https://i3.ytimg.com/vi/nDZ9WJUocFo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
