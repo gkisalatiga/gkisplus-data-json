@@ -105,7 +105,7 @@ class ScraperPinjamRuang(Scraper):
                 notes = ''
             
             approval = self.df['Persetujuan'][i]
-            approval = str(approval).lower().strip()
+            approval = str(approval).strip()
             
             # Translate human-readable to machine-readable.
             approval = approval.replace('Dibatalkan Pemohon', 'c')

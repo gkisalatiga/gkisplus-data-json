@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2735,
-        "last-update": 1737090051,
+        "update-count": 2736,
+        "last-update": 1737101989,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2882,7 +2882,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -2896,7 +2896,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "KR",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -2938,7 +2938,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -2952,7 +2952,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -2966,7 +2966,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Woro Tjiptaningsih",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -2980,7 +2980,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
@@ -2994,7 +2994,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
@@ -3008,7 +3008,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
@@ -3022,7 +3022,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
@@ -3036,7 +3036,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3050,7 +3050,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3064,7 +3064,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3078,7 +3078,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyantu",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3092,7 +3092,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3106,7 +3106,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Wardijini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3120,7 +3120,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Herlina",
-                "status": "w",
+                "status": "y",
                 "note": "2 hari 23-24 Januari 2025"
             },
             {
@@ -3134,7 +3134,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Herlina",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3148,7 +3148,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3162,7 +3162,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3176,7 +3176,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Maria Wil. 10",
-                "status": "w",
+                "status": "y",
                 "note": "Ada makanan Ringan"
             },
             {
@@ -3190,7 +3190,7 @@
                 "place": "Ruang Kana (Lantai 2),  ",
                 "representative": "Wilayah",
                 "pic": "Bu Ning Wilayah 5",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3218,7 +3218,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3260,7 +3260,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "AM. Widiatmoko",
-                "status": "w",
+                "status": "y",
                 "note": "Disediakan minuman teh hangat"
             },
             {
@@ -3274,7 +3274,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Yemima Christin",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3288,7 +3288,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Ervien",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3302,7 +3302,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedri ",
-                "status": "w",
+                "status": "y",
                 "note": "+ konsistori dan betlehem."
             },
             {
@@ -3330,7 +3330,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3344,7 +3344,7 @@
                 "place": "Tidak meminjam ruangan",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "y",
                 "note": "Hanya testing"
             },
             {
@@ -3358,7 +3358,7 @@
                 "place": "Tidak pinjam ruangan",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "n",
                 "note": "Testing."
             },
             {
@@ -3372,7 +3372,7 @@
                 "place": "Tidak pinjam",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "c",
                 "note": "Testing"
             },
             {
@@ -3400,7 +3400,7 @@
                 "place": "Tidak ada",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "n",
                 "note": "Testing GKI Salatiga+ (Aplikasi Android)"
             },
             {
@@ -3414,7 +3414,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Paklik Vidra",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3442,7 +3442,7 @@
                 "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
-                "status": "w",
+                "status": "y",
                 "note": "Hanya sampai jam 20.00"
             },
             {
@@ -3456,7 +3456,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "n",
                 "note": ""
             },
             {
@@ -3470,7 +3470,7 @@
                 "place": "Gedung Gereja",
                 "representative": "TK Kristen 03 Eben Haezer",
                 "pic": "Wahyu Agustina Rimbita ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3484,7 +3484,7 @@
                 "place": "Gedung Gereja, Ruang Betlehem, Ruang Konsistori, Ruang Galilea (Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3498,7 +3498,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pdt. Helen Ruth Manurung",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3512,7 +3512,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pdt. Helen Ruth Manurung",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
