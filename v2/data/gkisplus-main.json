@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2739,
-        "last-update": 1737152863,
+        "update-count": 2740,
+        "last-update": 1737153996,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Jan 2025",
+                        "date": "2025-01-17",
+                        "desc": "Dibawakan oleh Ibu Yari Dwi Kurnaningsih",
+                        "link": "https://www.youtube.com/watch?v=itg8F-GzGt0",
+                        "thumbnail": "https://i2.ytimg.com/vi/itg8F-GzGt0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Jan 2025",
                         "date": "2025-01-16",
