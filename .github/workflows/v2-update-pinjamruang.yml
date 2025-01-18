@@ -6,7 +6,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # SOURCE: https://cron.help
-    - cron: '0,15,30,45 * * * *'
+    - cron: '0,30 0-15 * * *'
 jobs:
   Run-Python:
     permissions:
