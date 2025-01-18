@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2745,
-        "last-update": 1737198929,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2746,
+        "last-update": 1737204014,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1100,6 +1100,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 19 Januari 2025",
+                    "date": "2025-01-18",
+                    "link": "https://drive.google.com/file/d/1MES-59LlCUVMAsD_k0W_VrbnTWZ47mtZ/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-19-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1MES-59LlCUVMAsD_k0W_VrbnTWZ47mtZ",
+                    "size": "1.08 MB"
+                },
+                {
                     "title": "Warta Jemaat 12 Januari 2025",
                     "date": "2025-01-12",
                     "link": "https://drive.google.com/file/d/1FgaZ8_y2Lxe9U7tjjrlmzEdcwRgcrwoa/preview",
@@ -1309,10 +1318,19 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 19 Januari 2025",
+                    "date": "2025-01-18",
+                    "link": "https://drive.google.com/file/d/1F1nsTk1uf7gGLQEF9tvH_MxZglxOzlSO/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-19-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1F1nsTk1uf7gGLQEF9tvH_MxZglxOzlSO",
+                    "size": "0.28 MB"
+                },
+                {
                     "title": "Tata Ibadah 12 Januari 2025",
                     "date": "2025-01-12",
                     "link": "https://drive.google.com/file/d/1ockYNdqmDRXd0mG7vSdR1CP9FW6sdNIM/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-5-januari-2025/",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-12-januari-2025/",
                     "thumbnail": "",
                     "id": "1ockYNdqmDRXd0mG7vSdR1CP9FW6sdNIM",
                     "size": "0.33 MB"
@@ -1321,7 +1339,7 @@
                     "title": "Tata Ibadah 5 Januari 2025",
                     "date": "2025-01-04",
                     "link": "https://drive.google.com/file/d/12vfrlz03aGCBgEQ39gcEg6f6C1b_THdK/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-12-januari-2025/",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-5-januari-2025/",
                     "thumbnail": "",
                     "id": "12vfrlz03aGCBgEQ39gcEg6f6C1b_THdK",
                     "size": "0.36 MB"
