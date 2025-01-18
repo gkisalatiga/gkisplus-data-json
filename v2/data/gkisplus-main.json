@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2740,
-        "last-update": 1737153996,
-        "last-updated-item": "yt",
+        "update-count": 2741,
+        "last-update": 1737165563,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3522,6 +3522,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pdt. Helen Ruth Manurung",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Urban Farming",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Johnson Umbu Radda",
+                "status": "w",
                 "note": ""
             }
         ],
