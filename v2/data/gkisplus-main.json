@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2743,
-        "last-update": 1737182308,
+        "update-count": 2744,
+        "last-update": 1737184066,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3549,7 +3549,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Panitia",
                 "pic": "Mengsi ",
-                "status": "w",
+                "status": "y",
                 "note": "Minta tolong disiapkan Teh "
             }
         ],
