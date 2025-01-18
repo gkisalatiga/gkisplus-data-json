@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2742,
-        "last-update": 1737167831,
+        "update-count": 2743,
+        "last-update": 1737182308,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3537,6 +3537,20 @@
                 "pic": "Pnt. Johnson Umbu Radda",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat BPH dan MJP Natal",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Mengsi ",
+                "status": "w",
+                "note": "Minta tolong disiapkan Teh "
             }
         ],
         "backend": {
