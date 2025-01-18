@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2744,
-        "last-update": 1737184066,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2745,
+        "last-update": 1737198929,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
                         "link": "https://www.youtube.com/watch?v=cH7Ct7rW7R4",
                         "thumbnail": "https://i4.ytimg.com/vi/cH7Ct7rW7R4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Jan 2025",
-                        "date": "2025-01-05",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=x93YrIX2Kgo",
-                        "thumbnail": "https://i1.ytimg.com/vi/x93YrIX2Kgo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -113,6 +106,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu GKI Salatiga | 19 Januari 2025 07:00 WIB | Tuhan Tidak Pernah Tinggal Diam",
+                        "date": "2025-01-18",
+                        "desc": "**KEBAKTIAN MINGGU GKI Salatiga 19 Januari 2025 - Pukul 07:00 WIB**\n\nTema: Tuhan Tidak Pernah Tinggal Diam\n\nBacaan I: \nTanggapan:  \nBacaan II: \nBacaan Injil: \n\nPelayan Firman: Pdt. \nKoordinator Ibadah dan Persembahan: Pnt. \nKredo dan Warta: Pnt. \nSambut Tamu: Pnt. \nPemandu Liturgi: \nLektor I: \nLektor II: \n\nPemusik: \nPNK: \nPMZ: \n\nTim Multimedia:\n- Tata Suara: \n- OBS: \n- PPT: \n- Kamerawan: \n- Dokumentasi: \n\nUsher dan Kolektan: \nFlorist: \n\n(Nama-nama petugas ibadah ditulis berdasarkan Warta Jemaat GKI Salatiga)\n\n- Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) \u00a9 YAMUGER\n- Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI\n- Kidung Keesaan: Hak Cipta dan Terjemahan Tim Inti Nyanyian Gereja (TING YAMUGER) \u00a9 YAMUGER, 2017",
+                        "link": "https://www.youtube.com/watch?v=x7gyiu9G65o",
+                        "thumbnail": "https://i.ytimg.com/vi/x7gyiu9G65o/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 12 Januari 2025 07:00 WIB | Baptisan: Hidup Berkenan Kepada-Nya",
                         "date": "2025-01-11",
@@ -301,13 +301,6 @@
                         "desc": "*KEBAKTIAN MINGGU GKI Salatiga 15 September 2024; Pukul 07:00 WIB\n\nTema: Murid Yang Sejati\n\nBerita Anugerah: Yohanes 1:16\nBacaan I: Yesaya 50:4-9\nMazmur Tanggapan: Mazmur 116:1-9\nBacaan II: Yakobus 3:1-12\nBacaan Injil: Markus 8:27-38\nPersembahan: Lukas 6:38\nNyanyian: PKJ 11:1-2; Selidiki Aku; Bersukacitalah Selalu; PKJ 132; PKJ 147; PKJ 267\n\nPelayan Firman: Pdt.Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta : Pnt. Hendra Aribowo\nSambut Tamu: Pnt. Benny A. Kailola\n\nPemandu Liturgi: Retty Andrea\nLektor 1: Mariani\nLektor 2: Grace Yolanda\n\nPemusik: Elhanan\nPNK; Pemazmur: Eriyani T. Lunga / Dara\n\nTim Multimedia: I Made Satya Arnawa, Daniel Eko, Ruben, Benaya, Evangs, Erio, Jeffrey\n\nUsher dan Kolektan: Wilayah IV: Fanitayanti; Moris; Indriati; Dio; Hario Kuncoro\n\nFlorist : Tim Aster\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=G_wydztp79I",
                         "thumbnail": "https://i.ytimg.com/vi/G_wydztp79I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu GKI Salatiga | 8 Sep. 2024 | Menjadi Gereja dan Sekolah Misional (Penutupan Pepenkris)",
-                        "date": "2024-09-07",
-                        "desc": "*KEBAKTIAN MINGGU GKI Salatiga 8 September 2024; Pukul 07:00 WIB*\n*PENUTUPAN PEKAN PENDIDIKAN KRISTEN*\n\nTema: \"Menjadi Gereja dan Sekolah Misional\" (Penutupan Pepenkris)\n\nBerita Anugerah: Efesus 2:1-2,4-5\nBacaan : Lukas 13:22-30\nPersembahan: 1 Petrus 2:5\nNyanyian: medley Dengar Dia Panggil Nama Saya & PKJ13:1-2; NKB 126:1-2,\n          PKJ 216:1-3; KJ 256:1,3\n\nPelayan Firman: Pdt.Edward Kristian Tambunan (GKI Beringin)\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana\nKredo dan Warta : Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Shielly Gunawan\n\nPemandu Liturgi: Roosye Rice Irene Supit\nLektor : Martha Sulistya Wening\n\nPemusik: Chronicles\nPNK; Pemazmur: Yambres\n\nPadua Suara: PS. Dian Kasih - GKI Beringin\n\nTim Multimedia: Arlianto,  Bambang,  Revo,  Alvin,  Okta\n\nUsher dan Kolektan: SMP Kristen 02: (Kristian Yuliadi;, Novita)\n\nFlorist : Tim Mimosa\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=fNc_SoiwGng",
-                        "thumbnail": "https://i.ytimg.com/vi/fNc_SoiwGng/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
