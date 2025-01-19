@@ -47,7 +47,7 @@ class ScraperGallery(Scraper):
         }
         
         a = s.split('.')
-        return str(int(a[2])) + ' ' + month_locales[a[1]] + ' ' + s[0]
+        return str(int(a[2])) + ' ' + month_locales[a[1]] + ' ' + a[0]
     
     def __init__(self):
         super().__init__()
