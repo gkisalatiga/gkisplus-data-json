@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2750,
-        "last-update": 1737276760,
+        "update-count": 2751,
+        "last-update": 1737284800,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3580,6 +3580,20 @@
                 "pic": "Veve",
                 "status": "w",
                 "note": "Minta tolong untuk disediakan teh "
+            },
+            {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-01-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Kristiani Murti Astuti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
