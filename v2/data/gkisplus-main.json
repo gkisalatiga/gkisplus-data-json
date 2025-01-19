@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2754,
-        "last-update": 1737317672,
+        "last-update": 1737330927,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2683,10 +2683,18 @@
         ],
         "carousel": [
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_bacaan_sepekan.webp",
+                "title": "Bacaan Alkitab Sepekan",
+                "type": "poster",
+                "date-created": "2025-01-20",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bacaan_sepekan.webp",
+                "poster-caption": "Setiap hari."
+            },
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.webp?raw=true",
                 "title": "Doa Tengah Hari",
                 "type": "poster",
-                "date-created": "2025-01-12",
+                "date-created": "2025-01-20",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_poster_dth.webp",
                 "poster-caption": "Setiap hari Senin - pk. 12.00 WIB - bertempat di Ruang Kapernaum."
             },
@@ -2726,9 +2734,17 @@
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
                 "title": "Warung Tiberias",
                 "type": "poster",
-                "date-created": "2025-01-12",
+                "date-created": "2025-01-20",
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
                 "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_persiapan_sm.webp",
+                "title": "Persiapan Sekolah Minggu",
+                "type": "poster",
+                "date-created": "2025-01-20",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_persiapan_sm.webp",
+                "poster-caption": "Setiap hari Sabtu - pk. 14.00 WIB - bertempat di Ruang Kana."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_aplikasi.webp",
@@ -2771,11 +2787,19 @@
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn.webp",
-                "title": "Agenda Masa Raya Natal 2024",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_rekrutmen_padus.webp",
+                "title": "Rekrutmen Anggota Paduan Suara",
                 "type": "poster",
-                "date-created": "2024-12-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn.webp",
+                "date-created": "2025-01-20",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_rekrutmen_padus.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pernikahan_gerejawi.webp",
+                "title": "Pernikaha Gerejawi Titipan",
+                "type": "poster",
+                "date-created": "2025-01-20",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pernikahan_gerejawi.webp",
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             }
         ],
