@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2749,
-        "last-update": 1737224866,
-        "last-updated-item": "ykb",
+        "update-count": 2750,
+        "last-update": 1737247495,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3566,6 +3566,20 @@
                 "pic": "Mengsi ",
                 "status": "y",
                 "note": "Minta tolong disiapkan Teh "
+            },
+            {
+                "name": "Sharing ",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Veve",
+                "status": "w",
+                "note": "Minta tolong untuk disediakan teh "
             }
         ],
         "backend": {
