@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2753,
-        "last-update": 1737311266,
-        "last-updated-item": "ykb",
+        "update-count": 2754,
+        "last-update": 1737317672,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Jan  2025 | Biarlah Roh Kita Menyala-nyala dan Melayani TUHAN",
+                        "date": "2025-01-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=JuLKxR2IeTU",
+                        "thumbnail": "https://i3.ytimg.com/vi/JuLKxR2IeTU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Jan 2025",
                         "date": "2025-01-17",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
                         "link": "https://www.youtube.com/watch?v=BHXnsYBTArY",
                         "thumbnail": "https://i3.ytimg.com/vi/BHXnsYBTArY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Jan  2025 | Jangan Kuatir Jangan Takut",
-                        "date": "2025-01-06",
-                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
-                        "link": "https://www.youtube.com/watch?v=cH7Ct7rW7R4",
-                        "thumbnail": "https://i4.ytimg.com/vi/cH7Ct7rW7R4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
