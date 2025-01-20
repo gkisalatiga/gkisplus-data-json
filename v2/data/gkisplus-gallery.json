@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 11,
-        "last-update": 1737244865,
+        "update-count": 12,
+        "last-update": 1737385689,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -2800,6 +2800,471 @@
             "title": "Kilas Balik GKI Salatiga Tahun 2024",
             "album-data": [
                 {
+                    "folder_id": "1qUMA8p-s4VZc2ONmiWC4puLKuEsSbSA8",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1oVzL_vP3yafRszRmmcpRUlDWBGOPyVm0",
+                    "story": "Foto-foto dokumentasi Rabu Abu yang dilaksanakan pada 14 Februari 2024.",
+                    "title": "Rabu Abu",
+                    "event_date": "2024.02.14",
+                    "photos": [
+                        {
+                            "id": "1G1NTKekFkhsA50_G-oI23QxE9lK6Iczg",
+                            "name": "YSA03593.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1qpPja0rnEBWuZ0H92DchRfoafkA3lp34",
+                            "name": "YSA03327.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1LxWc8EwQXAqO4EXrFQ323vWXAYGL28lF",
+                            "name": "YSA03487.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1aDLjhaGk28-V3yeZhQoKNUitDoAuMeRM",
+                            "name": "YSA03820.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15p-Z-85h2yNYQSH5A5rgO0o7x4IXvnC2",
+                            "name": "IMG_1724.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1JN9bcqN0VHm8LjPiG4XP7_E2iuGrtSaK",
+                            "name": "IMG_1561.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "19Ss1GoX7LlnjzQE8u3QRpZE5KA-x0IwI",
+                            "name": "IMG_1700.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1gVprUYhobjFBpftHM5zFJjFTSItobceZ",
+                            "name": "IMG_1678.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1EBYEq1sBQdYEdV_0_wLhnATwH7gehzy_",
+                            "name": "IMG_1553.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Iv8AcLk4Pv3f53gwC_2B4sm4zr02Udk8",
+                            "name": "IMG_1538.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15_kEprtu2pWNz6IZ8d634lC-xuSUePC7",
+                            "name": "YSA03212.ARW",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1tMgE5Kfxp7Ze3CFomU4QXJR3KKTewNjH",
+                            "name": "IMG_1679.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "12B0Tou5ggdigurFsCkh91Y6fxELjZahO",
+                            "name": "IMG_1746.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1HJWPkcHIOxf3jibP-_ACrSgbu967BUqN",
+                            "name": "IMG_1711.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Fu3Jcf-ojo3obbaUwSnd_5Y1gx4KdQ5l",
+                            "name": "GKI Rabu Abu 140224-3-00076.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-iR5jnJhROpCvzB6LRp4q6_9pSzVuUyk",
+                            "name": "GKI Rabu Abu 140224-3-00055.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1bKtxw6SsHCk_dOh6DepxQRFcEiEBXo3i",
+                            "name": "GKI Rabu Abu 140224-3-00087.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1E15TIJiC-l3QUPGJeybrh4ehfv9Zavpw",
+                            "name": "IMG_1480.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1SQUSO18VWlLhzOMTpy4-mulRinehGJwi",
+                            "name": "GKI Rabu Abu 140224-3-00019.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1OgCo2iSHTHsud-zPg38IWIAg41aW3tPY",
+                            "name": "IMG_1520.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1aluvmmF1sSDCuhTk7jdnB5f2_GEFOjiy",
+                            "name": "GKI Rabu Abu 140224-3-00050.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Se04ZCzJmHi8JXDsPjheuIpYeWrajdvx",
+                            "name": "GKI Rabu Abu 140224-3-00015.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1XxGV5Cllt4h6lWjjyLGdfI7tmWcs50xq",
+                            "name": "GKI Rabu Abu 140224-3-00037.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1rE_LsaH7AX2p46Q6m8jkXwmljGlevmjF",
+                            "name": "1-YSA03454.jpg",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1nxmj31lY4DJjwVyh7FagIH0iF-oAgmub",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "12mHl61kAkCu-7QaJ7Qb29fzQTJ-mGhqe",
+                    "story": "Foto-foto dokumentasi Pesparana Klasis Magelang yang dilaksanakan pada 11 Maret 2024.",
+                    "title": "Pesparana Klasis Magelang",
+                    "event_date": "2024.03.11",
+                    "photos": [
+                        {
+                            "id": "1fic6lfkhvKh-moZIwWDs-zhtuE5EFt8V",
+                            "name": "Pesparana 110324-1-00026.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1vMsML655UuVToAcGzdsQ1C5rpGJxzXto",
+                            "name": "IMG_2481.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1LM65ixW4dzqxPmOmIYhlj76TMHNcI8eS",
+                            "name": "IMG_2458.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Whe-s1-IOSqeSq2GIVnVVOyasjk_4Iql",
+                            "name": "IMG_2321.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1friNPV9KEstwjDtgiBiir-qNunzyq0of",
+                            "name": "IMG_2301.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1dzkmCyNIZcR3MkKf4A3sqYVjbzp827nn",
+                            "name": "IMG_2156.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1DWyLreRw3-WbiEI8wxiq6rPwvFq6YryF",
+                            "name": "IMG_2202.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1fZqH8fhuk2Xg2GEzYP2kk0g_WEkzzdjF",
+                            "name": "IMG_2369.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1QLg7L0UcgMkIf2JQGg6VZ-4xo7BktYXG",
+                            "name": "IMG_2226.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Fne1TyKunQG8nQs8veA4UUMaMvTRkvm8",
+                            "name": "IMG_2192.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1attLfP4dMwWLGGwlll1lSpuWP5G1zYn6",
+                            "name": "IMG_2381.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Nr-CrZ2EXBBKUOkK6ljQ7mMgAwhhf_fB",
+                            "name": "IMG_2347.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1iFwt7QUquN58vDah5rKV2pRKvJxcgDKy",
+                            "name": "IMG_2330.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Ob4613t80t1mSlmcLjwKL1s22SJgKfm1",
+                            "name": "DSC_0041.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ptbLYoE3M6cs3YEZF_4Pcq56fOWNgz87",
+                            "name": "29-YSA07731.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-vgKXkXVO1AfHvob2VN4nizqyfj31I5g",
+                            "name": "DSC_0062.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14NAc9KeDWrWPkrGI90aJTI-unMgS3qWR",
+                            "name": "DSC_0182.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1gq-OFyIG7z3OT4oXytthI6P1MOz8aubr",
+                            "name": "DSC_0167.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1vCszkpZeLbT-3kM99K9mIzZgZLlcacIj",
+                            "name": "27-YSA07680.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15kaofFETxo_SRpw2GAjJT787oDyy2SZW",
+                            "name": "IMG_2041.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1PN_gEBSbIWPnDu2R_XCxu8Lr6w7QJSnx",
+                            "name": "21-YSA07624.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1AYvQQ44nJeSp_kexCQp_hKFCDVc1XHs3",
+                            "name": "DSC_0122.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1NHrO7F7KW95GziGzoHIp76NvaCSRLPwk",
+                            "name": "DSC_0142.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "16b6tbJ49fUXRgdSl8-8peL4lHSOtqABg",
+                            "name": "25-YSA07666.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-Nlf7_FTArJ9TI950GuCP3Lcf0PTPqo8",
+                            "name": "15-YSA07519.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15_Zw3N8atE24-slA8GFDwYtW28R-_Saj",
+                            "name": "6-YSA07384.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-Z3ArwU--5lU6KKS0czj1wCTH8B68kyJ",
+                            "name": "4-YSA07367.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1YFZEyvzZw-7cE71fLRgYf21-5B4KgFlM",
+                            "name": "8-YSA07394.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1q4l2RG52PAYKqcsBD5U2-cSYpoV5MByP",
+                            "name": "18-YSA07543.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1cMTqXdI3r_tKRgUIOs-O705ZKSAIsO0D",
+                            "name": "20-YSA07559.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1EnIDT7hVLfTISPqQR5w7CWHSova5E0tc",
+                            "name": "1-YSA07330.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Eqj6hlE8OpTuNReUba_LFps-OSR6iJzM",
+                            "name": "11-YSA07422.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1k-nKlmllSPOaeSUmR30waEP99R_tDGRf",
+                            "name": "13-YSA07466.jpg",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1cphXjTA3Q3qeJ1sYZrMgEbgwBAmm8dBj",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "18ZuqZQARs06TK40VSBp334XvUKVkRUgc",
+                    "story": "Foto-foto dokumentasi Jumat Agung KA yang dilaksanakan pada 29 Maret 2024.",
+                    "title": "Jumat Agung KA",
+                    "event_date": "2024.03.29",
+                    "photos": [
+                        {
+                            "id": "1yydntc6n_nyY4STIBXwCFEP-EJFhMMYJ",
+                            "name": "YSA09666.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14OC0egn87yc_r8kgvJqWNF3VWuLi0p81",
+                            "name": "GKI Jumat Agung KA 290324-5-00054.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1VagU0y4GX17LJ3xqzpVLpuWBP5G-SoB0",
+                            "name": "YSA09736.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "12FhrqbH1VtKHzvIlpu0S0_Qb9UyzYK4B",
+                            "name": "YSA09646.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-1RKk4NNez7SM36e02aE7AFHMVSU-m-q",
+                            "name": "YSA09528.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Dpx-VRXvE4AijsG2_Qw_D4K6-6NRqres",
+                            "name": "YSA09540.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1dv7j9qXF61JEWgFJOVoe1Za1OE-ybeA6",
+                            "name": "GKI Jumat Agung KA 290324-5-00021.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1eHzBKmZ1Rkc24yVf-BlN7GhHQ_vRLKBO",
+                            "name": "YSA09490.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15oqahkfwXBhl7Rm_LoHf-l5skgb_1x26",
+                            "name": "YSA09506.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "18SDtIVoxpxygx3QFM4ftd5cGDnqHA0wj",
+                            "name": "GKI Jumat Agung KA 290324-5-00011.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1En1gx8OLjxI3IozbC1tjV0aRxhFA9_iy",
+                            "name": "2024-03-29 08-59-46 - IMG_3680.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Opi_bqPC-qZZvPZR2E66JkWbqdXynogV",
+                            "name": "GKI Jumat Agung KA 290324-5-00008.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "18XRNG7mbbWjPOgfNeT6VIYVk4R7wAZcC",
+                            "name": "2024-03-29 08-25-39 - IMG_3630.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KxK_fEJRuJgsoeoAPp7eCr5GTknffkYc",
+                            "name": "2024-03-29 08-33-52 - IMG_3660.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1VE4jqR47BVVQAvDUebqpzdOpHCMUvnl6",
+                            "name": "2024-03-29 08-24-17 - IMG_3618.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KL4Tp5sA5cCdqYTf6FntFTRDKuL3LrY5",
+                            "name": "2024-03-29 08-29-52 - IMG_3656.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1u5kDuHUR8Y6jxfTzcaumGFXa8WBH2PqP",
+                            "name": "2024-03-29 08-23-20 - IMG_3612.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1XV5OhJUbTyrehlw6pMqGQbkr-poH_01D",
+                            "name": "GKI Jumat Agung KA 290324-5-00018.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1QcriR9E5EZtoBCcdvQBpSrN7yRf_vGZx",
+                            "name": "2024-03-29 08-26-26 - IMG_3639.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1S0JGo7ud7GHVlfWhyqI7DT0zuloT-pt6",
+                            "name": "2024-03-29 08-27-19 - IMG_3645.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1MoaMFyHVgJfZLNK6YEqJGT1-U0mz8L5p",
+                            "name": "2024-03-29 08-21-23 - IMG_3595.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "16NfgpbnA8WWwdKwEMORH1wh24_wH_-CG",
+                            "name": "2024-03-29 08-18-28 - IMG_3568.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1BJULulKoGFCW0NbvlEguBVtlD_KTLTr6",
+                            "name": "2024-03-29 08-17-44 - IMG_3563.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1crbHE-Xsj8pwWbacWW2TDoTFa8KzCEq3",
+                            "name": "2024-03-29 08-22-14 - IMG_3602.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1kErwu8q5BTtN7Co4rdXThEV-PradXNLq",
+                            "name": "2024-03-29 08-20-21 - IMG_3586.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1BTNfNIdLW1EqSzh7G3eWIAmLlSiP2JDx",
+                            "name": "2024-03-29 08-15-00 - IMG_3546.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ynWIRdRPj9flVGj6XUuslhDHpLYYNzYp",
+                            "name": "2024-03-29 08-17-02 - IMG_3555.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xwLIgTu6mof7VENPfd0SELq7Ue5nR_XJ",
+                            "name": "2024-03-29 08-19-13 - IMG_3576.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1lPco4K5wsAliNpCq7HVmUKavoL1LMji_",
+                            "name": "2024-03-29 08-16-51 - IMG_3553.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-8Mqkz1uXMTwR1ESpnjnL9c46_EHhckD",
+                            "name": "2024-03-29 08-16-19 - IMG_3550.JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1UpjFW8RnQj-YEAGA_cvzxVQma0AtW1nb",
                     "last_update": "2025-01-13",
                     "featured_photo_id": "19x32wWEllv0ea8GDYN1ZZfrYDoD1Js54",
@@ -3616,11 +4081,11 @@
                 },
                 {
                     "folder_id": "1Kh3cuuxrgdrgmWcMLcEnLg910tGRmJRp",
-                    "last_update": "2025-01-13",
+                    "last_update": "2025-01-20",
                     "featured_photo_id": "15K_QF9oBZMT0kdHwRY4TptFx_BEV3-jK",
-                    "story": "Foto-foto dokumentasi Paskah Re(k)new KR-KP yang dilaksanakan pada 20 Mei 2024.",
+                    "story": "Foto-foto dokumentasi Paskah Re(k)new KR-KP yang dilaksanakan pada 20 April 2024.",
                     "title": "Paskah Re(k)new KR-KP",
-                    "event_date": "2024.05.20",
+                    "event_date": "2024.04.20",
                     "photos": [
                         {
                             "id": "1jZyzkjDrgnYICpxLwicy1d8Dy2b0BkRA",
@@ -4380,6 +4845,511 @@
                     ]
                 },
                 {
+                    "folder_id": "1nSmc4YbSib2RfKIbfv7UbAxjQ4Hj6eIT",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1hiGxJTvCWaIRdNzPE2tqJ0DbFD_8OCzT",
+                    "story": "Foto-foto dokumentasi Perayaan Hari Kartini yang dilaksanakan pada 21 April 2024.",
+                    "title": "Perayaan Hari Kartini",
+                    "event_date": "2024.04.21",
+                    "photos": [
+                        {
+                            "id": "1SHPDI6Aq7FyH-dRSKDG7b6OcahCkID9A",
+                            "name": "Peringatan Hari Kartini - 21042024 (23).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1PfmLd8TAmUN6i6txelXlL3dPAONgejtR",
+                            "name": "IMG_6130.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1WHtFxUY43bC-qM7c6gMy7nlX2CfFHk78",
+                            "name": "IMG_6246.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1r8rZiM8LhAQ9DhHZ1IMKMsymF3HJC_xv",
+                            "name": "IMG_9069.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1FZDsRDI1b7qmJpHRzqcfSQOPc7vvYdFn",
+                            "name": "IMG_6235.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ncwIbN_TD4qam0mpQhEndU44DxoxjQFc",
+                            "name": "IMG_6101.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ADgbhEUmLNrs-YStT_QogGL0t3xYWhFJ",
+                            "name": "Peringatan Hari Kartini - 21042024 (8).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1sKWKILoRE14UrX-jq7PhTyupaDAzsHB-",
+                            "name": "IMG_9029.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1bKujmjG7ybbmXWfQSzMtgKLY3rXPD6z5",
+                            "name": "GKI 210424-7-00127.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Cy8BNjR4WPv9hjwyZvLuBY0jZlBzEzWj",
+                            "name": "IMG_6184.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1fjPmi3JZLCD98R1JmO8LKBesEJL8VwCu",
+                            "name": "IMG_6195.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1MDqD5_1EAV4h_cOKK4mNedCHIdC3YgkV",
+                            "name": "GKI 210424-7-00063.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1l2Ou6BLQkfkqKTXqyKL4rEkSUKhrRv7Z",
+                            "name": "GKI 210424-7-00116.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1eLWc8qIS4Aar687r3j0QOFPsW8W8f_3m",
+                            "name": "GKI 210424-7-00009.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1W3_KG7rFMXHcNkdYp_QgVWc6ED-EemFN",
+                            "name": "GKI 210424-7-00068.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1UcgYDNIEGwF2kVGaQ8UvezPXvRZIWVjO",
+                            "name": "GKI 210424-7-00045.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1M7KRevNrS1ThtJ0pOvHDhA_1_jfcoOkP",
+                            "name": "IMG_6023.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "179kLIS226D7SKJT4zgQka4T0KPZKgDFD",
+                            "name": "IMG_6105.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1GzUgTGC4iXhkrWHl-mNxeigaLqXYJSmi",
+                            "name": "GKI 210424-7-00052.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xF1o6UyAnSHtv-_ZhpKUHjreg0Ju3igg",
+                            "name": "GKI 210424-7-00098.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14v8YdWu_AX4vg05TPOq_9-EpfOIWg6m7",
+                            "name": "GKI 210424-7-00023.JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1r4lvBtpVMcBtELV3_veYg67FrX4X14gb",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "19WYoR6trgbBlC6FP0meIuoi46pIjpbB2",
+                    "story": "Foto-foto dokumentasi Ibadah Pentakosta yang dilaksanakan pada 19 Mei 2024.",
+                    "title": "Ibadah Pentakosta",
+                    "event_date": "2024.05.19",
+                    "photos": [
+                        {
+                            "id": "1BVVz0FuEb6oReLGZ9FL1CFtOzVimFNQH",
+                            "name": "IBADAH PENTAKOSTA + BAPTIS&SIDI (35).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1lCHE4isP6CJ00WsLXpmUekGneVrEY9RM",
+                            "name": "IBADAH PENTAKOSTA - 19052024-200 (37).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1TNHvRdMfXnDLIHes160AwLKkk-CbxOKV",
+                            "name": "IBADAH PENTAKOSTA + BAPTIS&SIDI (39).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1yXrQaAXRAZ6oUab0tgGYFaKHxWJwnToc",
+                            "name": "IBADAH PENTAKOSTA + BAPTIS&SIDI (215).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1u77W2LLFfYry_lPe9SFHqJHOmKSqwlt-",
+                            "name": "IBADAH PENTAKOSTA + BAPTIS&SIDI (298).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1kIqeuruZ0xzTE-jEixsDf7rxgTEKHIHh",
+                            "name": "IBADAH PENTAKOSTA - 19052024-200 (13).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1r9hkWVE488_pYE3A-ZZ9xIbK5aSG5IO7",
+                            "name": "IBADAH PENTAKOSTA + BAPTIS&SIDI (80).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1jpVM4ypGv2hntS-n8gVzctc5IDXylH29",
+                            "name": "GKI Pentakosta 190524-7-00410.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1uAbUJ6cd2X2TH4-JUSl2RWMAhiVkw2vd",
+                            "name": "GKI Pentakosta 190524-7-00315.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1avzUWbbuePmBIEdSBv7uqxw6bPVa_T7N",
+                            "name": "GKI Pentakosta 190524-7-00284.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "13ZPr_Un8zPv1yLum4qiwqdncr3ZYnfr6",
+                            "name": "GKI Pentakosta 190524-7-00269.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1F2AmWElJVBzzSu3LhC7iaScg6QDvRyUO",
+                            "name": "GKI Pentakosta 190524-7-00215.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1iqsaLMYda_QdcA6bsKlXr6h_yAcuWzs0",
+                            "name": "GKI Pentakosta 190524-7-00320.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1b5WoNg_WJrLTLNp1yWeIT445uUZpSFas",
+                            "name": "GKI Pentakosta 190524-7-00363.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1JsIcldn3Nvn1M35bG4dp1X5wpzMtAcXv",
+                            "name": "GKI Pentakosta 190524-7-00123.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1fWMP4VxveBr97TTOI0XIe16s3xMQp19K",
+                            "name": "GKI Pentakosta 190524-7-00345.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1RRsTBDk0Dy2GbQTd1eKLxkMCIZXMtfJL",
+                            "name": "GKI Pentakosta 190524-7-00246.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1kDfP55lOfOm8RxhMwWqhzbyaYrz3Bni8",
+                            "name": "GKI Pentakosta 190524-7-00049.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1JjqSd1IdlXWowXYbQbSCdKKObriHolCe",
+                            "name": "GKI Pentakosta 190524-7-00014.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Q9Qg09gPnfzXWOL9VbDzZf8NgQZq58mt",
+                            "name": "GKI Pentakosta 190524-7-00008.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ph0h54CDdHHOzciP84oKQ_vMZEG5t83s",
+                            "name": "GKI Pentakosta 190524-7-00040.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1T4jvmvNIeUFHNDGXv9pPg6zjcOBcJduE",
+                            "name": "GKI Pentakosta 190524-7-00079.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Y5-pWufETBJVVJKYthIBfGLOYXxf9sS7",
+                            "name": "GKI Pentakosta 190524-7-00110.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1MVNV48UNRgHeLYwDGwIR8f6_pl67CTyP",
+                            "name": "GKI Pentakosta 190524-7-00035.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1eW8n-x3yjb9XYn5L0GSVFyN2vsyZireI",
+                            "name": "GKI Pentakosta 190524-7-00071.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1oigsvIVurFiBcO75Ir98pfD7qnskbC3x",
+                            "name": "GKI Pentakosta 190524-7-00129.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1j5QkSpehfs4MIVnbK2ax7djNdb0IWGQu",
+                            "name": "DSC_0006.JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1NsWWKj7Vxroh8RtMwWqN2XSTMC5dIQyy",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1ULMAo39GqCLgpnmHF4lqbuuSN6_w0mNT",
+                    "story": "Foto-foto dokumentasi Pembinaan GSM yang dilaksanakan pada 25 Mei 2024.",
+                    "title": "Pembinaan GSM",
+                    "event_date": "2024.05.25",
+                    "photos": [
+                        {
+                            "id": "1bhOTG1AE5iR0SKeDJcRtSrX-OMMnW_4O",
+                            "name": "Pembinaan GSM 2024 h2 (49).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ly4IujZVs78nTpMNXFPXDrybJxo9HgFA",
+                            "name": "Pembinaan GSM 2024 h2 (84).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ndovx_wPSpN2yA5kw4V15hs2N1Hkera3",
+                            "name": "Pembinaan GSM 2024 h2 (88).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "10e9ApoQHEd5YH9kWXxl_LxpgNB70iLvG",
+                            "name": "Pembinaan GSM 2024 h2 (63).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14PGABKp2rBCaKyN1GfqSohczxhhfAejZ",
+                            "name": "Pembinaan GSM 2024  (153).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ajm7iDMZ57fZnc7L1vNu15kUzC6wkcRA",
+                            "name": "Pembinaan GSM 2024  (195).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1QTBfRvNpEQFs4Ar6H-iDQBtfQCZVqQep",
+                            "name": "Pembinaan GSM 2024 h2 (33).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1vOTsqSN4JVrE7fzApgUzv-gOwVvYiyFL",
+                            "name": "Pembinaan GSM 2024  (139).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "11yc-neDyLBX2b9SyCx7IqMU_w4NHz7gY",
+                            "name": "Pembinaan GSM 2024  (149).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1IAZ0cO8wzfSODbUvCEvTG82tJcs1QAcS",
+                            "name": "Pembinaan GSM 2024 h2 (16).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1HA4UuidIDpp9KJf87CU1JqMb0n9bKQie",
+                            "name": "Pembinaan GSM 2024 h2 (24).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "18Cq2-QGp6M63Rzkb9mzHIm3-HK3WwyLX",
+                            "name": "Pembinaan GSM 2024  (240).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1CBz2xxnvWDtiW6qIuTDQ6FdbNFvyhU7A",
+                            "name": "Pembinaan GSM 2024  (222).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1K6QYUEQx0TEUux8WOgF-_DpUOCxcDA4u",
+                            "name": "Pembinaan GSM 2024  (228).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1CERav3gjn93B0-vE5HeR5nUTwHHDQVjH",
+                            "name": "Pembinaan GSM 2024  (100).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1oNzEoSZAIhmLcuZPbTmnbkA6n3FaN8pa",
+                            "name": "Pembinaan GSM 2024  (66).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1uovI6AVVlmEu2pS8KRtZARCK8btusSJ_",
+                            "name": "Pembinaan GSM 2024  (89).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1GSdpJsparOKvn45HE3H8EwsoelTvsDP9",
+                            "name": "Pembinaan GSM 2024  (117).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1tShL6XPN8YCAZQBtbsz_h99YYcN-jUl4",
+                            "name": "Pembinaan GSM 2024  (35).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15MVVMONI43dLRMWeLaF2EWVZaF0oni0W",
+                            "name": "Pembinaan GSM 2024  (65).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Np1CcwFhnjR21Y65COI8c4PB0DEWUoXf",
+                            "name": "Pembinaan GSM 2024  (84).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1syZawq86rdRqdj7hZCo_sEqY7e7Khnwm",
+                            "name": "Pembinaan GSM 2024  (73).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Voy9WbAOpE2k05mAxxF6H3Nrb6SJr3MD",
+                            "name": "Pembinaan GSM 2024  (41).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KLnp5cpy3ouYjaZzIT5lScHj7kPSkaYx",
+                            "name": "Pembinaan GSM 2024  (47).JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1adSbS0WdWhVNT6jU9SJjYCY9xVRBNlDS",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1S3u-DtD5qUoy5iWHGWK5Tm55mhUo_Ass",
+                    "story": "Foto-foto dokumentasi Perkunjungan MRP ke Panti yang dilaksanakan pada 25 Mei 2024.",
+                    "title": "Perkunjungan MRP ke Panti",
+                    "event_date": "2024.05.25",
+                    "photos": [
+                        {
+                            "id": "1hJzbLbFGD-wH2J3g5sHtCotwWJRoCfRK",
+                            "name": "YSA06028.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1wZGiPI_3Cji2eNclA1ZJocDfdbcq4iyd",
+                            "name": "YSA05905.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1VKPPsj5scMgYAPkQW44r7VKjt5cPCyv7",
+                            "name": "YSA06040.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1t528Zh1QFNKV3JdTWsNb7jAXu5xTz0J4",
+                            "name": "YSA06050.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1IFvB-6bDgRdFRe2Q5Kbftxb2AUncFqRT",
+                            "name": "YSA06030.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1hrSZLpvJAeOvlfUqcWM54SPO8wTEXxXc",
+                            "name": "YSA06091.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ujEKrKvKRAZ--3Cz8AllBZdRP9bodzSD",
+                            "name": "YSA06053.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1yzEV4fTF9NyYJh8GuzlZ6jQIOVjtsq3q",
+                            "name": "YSA06101.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1eEBu45AukXBiGQXdZ96EgqBNw5yDzqRT",
+                            "name": "YSA06092.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1RUoM3tlF4mdX9ci6UvPOJ2bRv_UeD1MO",
+                            "name": "YSA06138.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-MJeMDmPgE9odIZibF-7ydrwSpHUYb6U",
+                            "name": "YSA06112.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1RRTBDHw6P6kbJdQrU9SNq09819fXd5PC",
+                            "name": "Panti Mandiri (7).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1FB837SOsPayanC1cqBM1KgY7o-X_sdlN",
+                            "name": "Panti Mandiri (34).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1W30-TxktihwjgqMSFALPz0N632G3ti23",
+                            "name": "Panti Mandiri (37).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15fvM8IZ5EmyySBXkdiIR3i2yjEbKqECQ",
+                            "name": "Panti Mandiri (11).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1wb5nx92IjNg_agFufd6ZwGMKpvQAoird",
+                            "name": "YSA05922.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1yfaDtNvrDsTdsvNSqQ06BVTAxnUWAqH8",
+                            "name": "Panti Mandiri (28).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1kbIumYYQjcxEsrxi78uVEOr7-8Uvfa9O",
+                            "name": "Panti Mandiri (25).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1imhBsouDVEOf4OVsjrpK4k0JxuPgcMVl",
+                            "name": "YSA05895.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1EE-ZFXgHM9xNBB0DOJn7bKqjOQuZ5e1f",
+                            "name": "1-YSA06003.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1pjmSjkP2Zc7jY15VixD9hgmDDUvl1MME",
+                            "name": "2-YSA05991.jpg",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1qwFQSURQqZof2IgL2Knqp-_21ni4xWn4",
                     "last_update": "2025-01-18",
                     "featured_photo_id": "1riY5R6nYqASuW_G-EtnImVg7upVCznGv",
@@ -4482,15 +5452,1100 @@
                 {
                     "folder_id": "16DcqwEXInUbNu5HVZ8SeOSjQDJ58FUOP",
                     "last_update": "2025-01-16",
-                    "featured_photo_id": "17eIPeUAy9g5gd3NU99PFQxMJGG-DLHZP",
+                    "featured_photo_id": "1aYPLRyblR2dWyh_ONrpiak9fmd-LRY2K",
                     "story": "Foto-foto dokumentasi Sekolah Alkitab Liburan KA 2024 yang dilaksanakan pada 9 Juni 2024.",
                     "title": "Sekolah Alkitab Liburan KA 2024",
                     "event_date": "2024.06.09",
                     "photos": [
                         {
+                            "id": "1fqamC2S9PhQXaZAJ4GOYe647jCc6J_n3",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (368).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ATz4pwlpWSve_HahOH0nzAu0GJu2ZOkC",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (227).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1o9-p2XGHVSjXLwDUDv2ixmiTX5BiDw8p",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (237).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1AXzzOZeWTz9osg7srZw6GWieyloa6ILw",
+                            "name": "DJI_0074.DNG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1DOtwUag9BpjqacLC6XUoFl57gsj9Zo3J",
+                            "name": "DJI_0083.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xWUPJmhVZVSUnGR0T6lyXqRQgGzssmI-",
+                            "name": "DJI_0048.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1LlXExQL0JKTVoOdAxVVTRg33rAuaFXc3",
+                            "name": "DJI_0116.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1cZluNCyrLw2Jwkx8bDOyNvvXY9Kb7atd",
+                            "name": "DSCF3505.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1UlXHQRQM0YV-y3L-xc161fVzIRbe5UkP",
+                            "name": "DSCF3476.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Ddr-xY0ys47jKznKGEkyzemsbvB2q4PJ",
+                            "name": "DSCF3550.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1q7Te7SGKyI5RKFo_Rk6v7O3fCaBpbLW2",
+                            "name": "DSCF3462.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1hDMDufCVNtffv9dyDkeynpaEGapMzNXr",
+                            "name": "SAL - 8 JUN-31.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1FnWT_H2fx5CFD3cp1ctAMeuq8W3rtXCL",
+                            "name": "DSCF3581.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KfQ35H70fmvqp7QM81yij8f_cNkO1sMa",
+                            "name": "SAL - 8 JUN-29.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1nI-ZETEnjYDtItEwglN3ZjE8WnT33Ewq",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (479).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "11J6DjWPo2o6dbV3BWP-UwJVGLO1FT1Up",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (269).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Wv7PmN9gQb7fPWZl9POlcy366YiRiHix",
+                            "name": "GKI SAL GS 090624-7-00032.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1DOqoEDgY7gjLpFwct55m3bMS_fggJ-Hy",
+                            "name": "GKI SAL GS 090624-7-00054.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1vUBGGV6eiWgC-gVxev_ENi6zC_uyuE3j",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (288).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Kie5fz_WXu4fdvg_0xq9h0xE_wHnzkxV",
+                            "name": "GKIS - 20240608 - KEGIATAN SEKOLAH ALKITAB LIBURAN (406).jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
                             "id": "1uyktslW7dcJ8-xIpAlgXrpDp66L4Jc-P",
                             "name": "GKI SAL GS 090624-7-00007.JPG",
                             "date": "2025-01-16"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1tcbBY4Wyg4IONVjeMEq4TKoGGaSgiGZb",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1mEO7DiDKgDDRLYilBMQVETlUZWA718w-",
+                    "story": "Foto-foto dokumentasi Hari Anak Nasional yang dilaksanakan pada 21 Juli 2024.",
+                    "title": "Hari Anak Nasional",
+                    "event_date": "2024.07.21",
+                    "photos": [
+                        {
+                            "id": "1HHpmvWA9e3P_CFQBeHc-mBSptpoReGVU",
+                            "name": "Hari Anak 2024 jeff (115).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Pk-jloIjIW_LC4ch0mTPHknE4dJk8RtF",
+                            "name": "YSA09992.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1C9lPA1htW8RLqo9QMgXuPx0QAl-yiQCx",
+                            "name": "YSA09962.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1u_ebV4nTw9s48f3IhK-rC-TtwFUb94tf",
+                            "name": "Hari Anak 2024 jeff (130).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1hx625bWhWq7HI3SD3YJ6M3eafhrDYJl3",
+                            "name": "GKI 210724-7-00149.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1t0A1hB9s3I1qmP-QU2aKXMho9DbYIVaS",
+                            "name": "GKI 210724-7-00142.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-iT8ngJ3ouKKwdou1gMb8r3jHPPy--Uo",
+                            "name": "Hari Anak 2024 jeff (54).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1oU8MIkKCMC0KI9FRIuyHHh0QnHDrulvs",
+                            "name": "Hari Anak 2024 jeff (85).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xE0po6-cE5rN9Qplj8MovPvvdBYEDxuq",
+                            "name": "Hari Anak 2024 jeff (32).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1IV7L0BB9ij9DqDKmGBKuKImi0iJDO6gR",
+                            "name": "Hari Anak 2024 jeff (99).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "13V9FRwfWQgs7uEGrXF8dC09mZgnXCxvX",
+                            "name": "Hari Anak 2024 jeff (17).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1sAOeKzUQtgZJp8F7kTyKeDQW_Vll0jm6",
+                            "name": "Hari Anak 2024 jeff (13).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1p4yrzW4GB5bNQqfj912m6w7H1UwI_Cpv",
+                            "name": "Hari Anak 2024 jeff (43).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15itOUCCq24ngVqQchkXbiI4qDtNQmh4d",
+                            "name": "Hari Anak 2024 jeff (45).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1jIj3fBGrf-tz5uZcsBGv7aFiMtfzPqmc",
+                            "name": "GKI 210724-7-00008.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1bhI3fthcPPy18jli88ymAmEeBFcNBImG",
+                            "name": "GKI 210724-7-00082.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1LAkbqG1y0_aBTjxQkrwnr4eGFa6KB_4u",
+                            "name": "GKI 210724-7-00068.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1PXI0fIyDrX2sGCehX6Nhx8wNix-A11jB",
+                            "name": "GKI 210724-7-00018.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1_sZh6OQCgng-4mMtCOYQsaWjLuQXPMs0",
+                            "name": "GKI 210724-7-00047.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1BGY679HVo0T1t35Q6QOnrFTJePgAfp99",
+                            "name": "GKI 210724-7-00049.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1eEv_DrbWFNt9fp4G-4qX1bp1p5ADMv7I",
+                            "name": "GKI 210724-7-00122.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1cvA6X6AYpxvWQPiZA8S5nyr0UazROBRr",
+                            "name": "GKI 210724-7-00002.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-rSDAVpW4P-1ycDsTzoJ_CJ_nK_jqU90",
+                            "name": "GKI 210724-7-00006.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1delrs_fGsxx5EvEHEAUYdrIX-DdN27xj",
+                            "name": "GKI 210724-7-00054.JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "14TFGuedKWdM9tZ03iRSfrej8BWO9WF3r",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1NbqFJncUig8is6xq5irgINZBbPwaON5K",
+                    "story": "Foto-foto dokumentasi Pelatihan Florist yang dilaksanakan pada 24 Agustus 2024.",
+                    "title": "Pelatihan Florist",
+                    "event_date": "2024.08.24",
+                    "photos": [
+                        {
+                            "id": "1I2p0Lz_L-g10IOrFADuwaQDNWzmHoL3K",
+                            "name": "Pelatihan florist 240824-6-00035.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1qk_slNSSbErt6NBK-Qch--nZVdQ7pi7p",
+                            "name": "Pelatihan florist 240824-6-00031.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1J4LSaPcdQZCLja8rMu8UyR5U_MrPyX7p",
+                            "name": "Pelatihan florist 240824-6-00025.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1pcCwWSmavIovQe_kzdZ8OA3j_FMdEmrZ",
+                            "name": "Pelatihan florist 240824-6-00013.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1y_W-4wNBcbNG2G0js3YLvo8VA07jqaqV",
+                            "name": "Pelatihan florist 240824-6-00020.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1qSTjbcmLm-jzLyXglxlH9DuHHDXSyO_H",
+                            "name": "Pelatihan florist 240824-6-00001.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1PEgmeqIIVg6rP439IV2AUyswMrCgmglm",
+                            "name": "Pelatihan florist 240824-6-00003.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15q358lGQuhGfokhKirgS0pPH9EVIJj7U",
+                            "name": "Pelatihan florist 240824-6-00027.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1yQeM8lJtcq6DB2ftNdTtd9N9pt2hn4zk",
+                            "name": "Pelatihan florist 240824-6-00010.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Q6IodFHF2tk1Ru0UcRhH0VDdHUXlUBYf",
+                            "name": "Pelatihan florist 240824-6-00004.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1pTSxmLTq95Xuojd1E9qLTJhF91cn-d71",
+                            "name": "Pelatihan florist 240824-6-00024.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1qn6ZnsZ88IJrGpU445zsfwk1XOyYX0Q2",
+                            "name": "Pelatihan florist 240824-6-00033.JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1mcbcaWtj_lQE_mjiZnvQeo3hffU7KOgw",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1MP8qx9plsw21HQ4O3FU78zfrQoyvDtWV",
+                    "story": "Foto-foto dokumentasi HUT SODA & Welcoming Service yang dilaksanakan pada 14 September 2024.",
+                    "title": "HUT SODA & Welcoming Service",
+                    "event_date": "2024.09.14",
+                    "photos": [
+                        {
+                            "id": "1OseZKa9AYqFU2sMKcL819Bv8Sj-s9w5s",
+                            "name": "HUT&WS SODA 2024 (Sony) (10).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Z2KQL9XrhW8BHsNN3y60WNo5OHx-daPg",
+                            "name": "HUT&WS SODA 2024 (Sony) (93).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Ysx4DnNNFPwCmyrXsAukwd0-gwmxDSLb",
+                            "name": "HUT&WS SODA 2024 (Sony) (14).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1tz0ETBRcNs6pLWS-qHWTX-t59vFflcYW",
+                            "name": "HUT&WS SODA 2024 (Sony) (27).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1GjGkR5SxpYTs5YloQATJpemgb2vpWvdK",
+                            "name": "HUT&WS SODA 2024 (Sony) (49).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15I-8OXus6-5G1C8eJ6aa1pPCph0jTA5T",
+                            "name": "HUT&WS SODA 2024 (Sony) (111).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ukhWlfatsNVh3TuuP9Y-Hv0IYsh150Vb",
+                            "name": "HUT&WS SODA 2024 (Sony) (42).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1zmiU8hGlvY04pb2nTaBGI3d7I8EbFa-R",
+                            "name": "IMG_20240914_194318.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1zts3wyzOj2mgWEg3d4OS-FtLKHpnv4s6",
+                            "name": "IMG_20240914_192150.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1GrAbH730qp5kOgyJRzb6H27Lw_fyGk6R",
+                            "name": "HUT&WS SODA 2024 (Fuji) (49).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14FucLjwXU6txU6TrM0wRQZqsJdSDZMnG",
+                            "name": "HUT&WS SODA 2024 (Fuji) (147).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1keet3QRG9OMC6tiTvU8-kY91UlyFgp3s",
+                            "name": "HUT&WS SODA 2024 (Fuji) (35).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1b__YQCJi33XiFgkA0zIeDNpRuCPoR3EB",
+                            "name": "HUT&WS SODA 2024 (Fuji) (19).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1dRdC39-x7uVDWCAKpeApQVHHJbhPFW3l",
+                            "name": "HUT&WS SODA 2024 (Fuji) (70).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1VYUBgJorP_sV2rNH4kqv_Igh-J_F4jzD",
+                            "name": "HUT&WS SODA 2024 (Fuji) (96).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1rEw0DoZ8lRUCz79sqQLeoG3_7pMe-iHu",
+                            "name": "HUT&WS SODA 2024 (Fuji) (3).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1oYdJ8jv9LTf4TlaSLLwEVBG81mxUx-kj",
+                            "name": "HUT&WS SODA 2024 (Canon) (165).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1zYUL36JD7jNITFLYx_vvF_RAae1TCwp2",
+                            "name": "HUT&WS SODA 2024 (Canon) (24).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1NiENwiulf6UoHde3t3Gh6PSEFgVTKRv6",
+                            "name": "HUT&WS SODA 2024 (Canon) (29).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1iblxcHUHnKTyZReF7gtjBC9Qleux6ZmF",
+                            "name": "HUT&WS SODA 2024 (Canon) (66).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1o2sQC0x04c2DeAg1gcMbs-hycrfoXKMf",
+                            "name": "HUT&WS SODA 2024 (Canon) (11).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "18Iqwz1Fbcn5UcZnkQ-Q-sgUD2UqF9th8",
+                            "name": "HUT&WS SODA 2024 (Canon) (158).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1AeOD16IcNxl_oWEt7qVKmJrhpHdr_s3I",
+                            "name": "HUT&WS SODA 2024 (Canon) (138).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1aJH1vpdK4KmdeL6_TowDgpgP5A9mEUzD",
+                            "name": "HUT&WS SODA 2024 (Canon) (10).JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1q2hRn62eGxx5IH1uNYrZHVVWKiCY9RNn",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "13b4Kith8FhxQfIKMjd53a3_BsdXQ7f7_",
+                    "story": "Foto-foto dokumentasi Penutupan Bulan Keluarga yang dilaksanakan pada 2 November 2024.",
+                    "title": "Penutupan Bulan Keluarga",
+                    "event_date": "2024.11.02",
+                    "photos": [
+                        {
+                            "id": "1DLommN1aucdWA6SzDZtKWpvCxkWsOoVo",
+                            "name": "Penutupan Bukel 2024 (jeff) (143).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1gizTFPkNlX1K7iKhUj3nwF--V49CYjiv",
+                            "name": "Penutupan Bukel 2024 (jeff) (188).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1_rtuwiaoPPMK8FQiWmvDZeNXiyMIRbNd",
+                            "name": "Penutupan Bukel 2024 (jeff) (175).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1PtqOSo88Ju2FIoETAteZywGqpgd7GDZU",
+                            "name": "Penutupan Bukel 2024 (jeff) (206).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ymLoGJdABDs0ZQiCOCYXdtXbYbMml1sC",
+                            "name": "Penutupan Bukel 2024 (jeff) (8).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "12Kee89I1G_FFZlWA7BjZnxVtmgSD0s9M",
+                            "name": "Penutupan Bukel 2024 (jeff) (12).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1g8sTiK8bg48jPZJ9HeCMIvAnzE-tyXEA",
+                            "name": "Penutupan Bukel 2024 (jeff) (212).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1gh_yoR8DoxT8Z8ii-532AbFOdlUj_Mql",
+                            "name": "Penutupan Bukel 2024 (jeff) (22).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xqZBnBXJoCHbBl0PBOBcNztNzWEUhgWt",
+                            "name": "Penutupan Bukel 2024 (jeff) (155).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1wK1hfknUbwJONVuLfYO__5rQ-Kc2p0-L",
+                            "name": "Penutupan Bukel 2024 (jeff) (63).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1J5GOp-QYOq3b1l1pHAktMJ-EyHTKCulY",
+                            "name": "Penutupan Bukel 2024 (jeff) (66).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "110D0YbdOaPVbM-4El60FQ3k33jK1UbVh",
+                            "name": "DSCF2684.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1aitOCh_1od6kQmVVnS6eUFQykh9Avr68",
+                            "name": "DSCF2675.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1c3sTZ8AaThwYrxQj0svxS-lm1IO_mXrq",
+                            "name": "DSCF2475.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1wuX4tYCn07xb02GeM-lMB41ZXRrsjBfs",
+                            "name": "DSCF2510.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1wboV_Nl5NpkvcJPuHBDwUFCtPm6AMkLP",
+                            "name": "DSCF2490.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1dy3qJVu5ewHtwl4qVrSMlXsxK4izntyx",
+                            "name": "DSCF2507.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ijRtSzzDwnZ9OJlB1MyS16agdvfQSwfC",
+                            "name": "DSCF2470.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1_3VF80btK4wYvYr_XQsT9blgfHRv97Qg",
+                            "name": "DSCF2587.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Y-XIdwRp8Xu267OU6lH2wGHP9JS_WvYR",
+                            "name": "DSCF2516.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1l9fi2-6rBjgJylQDfWaNAUEaD0r4ck6D",
+                            "name": "DSCF2540.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1WQD-NjdgOQHpX2VntL-7ldVGmEcUFqbG",
+                            "name": "DSCF2481.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "19_3PEW8XkXqeYuDPAlZypK2M0BUcc8HB",
+                            "name": "DSCF2371.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1UfGXWE-OpP1FrE9Id6lpZvLFOycqRVkV",
+                            "name": "DSCF2399.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1RFuYLj1bgRjvwkeJFZwrFEXW48Yy7p9t",
+                            "name": "DSCF2361.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1SrXGSSeJs5T71QEWJ5Jg3F4oGmN24B2c",
+                            "name": "DSCF2406.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14VqXXbjG_tg8Ujw16EtjuPNO_JoL0nDp",
+                            "name": "DSCF2436.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1qFwSeZGwlOasMMII6Ayo4Hetn-Zs2HiN",
+                            "name": "DSCF2349.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1g5jGUfi8o8--lmA1AMYmmZXm_OTSTyiG",
+                            "name": "DSCF2461.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1yhB3PlXvDJueWG1sFpaDHnFXhO9kIWJ4",
+                            "name": "DSCF2420.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1bNC7BfJJnk7oCnMYl7W6gHwu2IwMxNX1",
+                            "name": "DSCF2363.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1jrK-2s-szY0qKtLy2BwLUk_32NfLZsGa",
+                            "name": "DSCF2365.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1QW1BT2UksUdcMUmcI5EmgT3AXscSYBsM",
+                            "name": "DSCF2293.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1nwcFnBm_Ap7ncUB2MNHjgsjeGx1qtTxc",
+                            "name": "DSCF2230.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1HS4e5e1KBY9mZiH1Kn0LJRVWQ8-_thjJ",
+                            "name": "DSCF2339.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Bgebfc_xE3DJ-_-ayHr8-WDWqO1bKmCA",
+                            "name": "DSCF2227.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1NMYIicDZuqZV5ehpzIU7KooMfdv-lt_K",
+                            "name": "DSCF2273.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KOpE4jRrn_4ttfc3JT-ti_ULSpaqbiZG",
+                            "name": "DSCF2254.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1gPVtg63hqrqGER7IfLTFXKEE-80L7QAz",
+                            "name": "DSCF2309.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "17Zz3xBO360zvhHalXER-jhqpgfKKa9C4",
+                            "name": "DSCF2325.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1-YVDK0Cqic9MraEQrlGxf9T5xCxoQQ-4",
+                            "name": "DSCF2341.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1p9YnDPk5WhYOXBgUf56zRuPeqYHOlF-Q",
+                            "name": "DSCF2328.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1pvMk6k2CqvZVFjgyfHZg3OVyQ9H0sevr",
+                            "name": "IMG_1684.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ZMrgVWpunW-mdJy6X21N2ZPhLw9B4y1n",
+                            "name": "IMG_20241102_194404.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1_CopyAQv5IG29VjB_GHgcTUlGv7qMwmH",
+                            "name": "IMG_20241102_194203.jpg",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1fDKIupzj_wjPWAr_-GCWl6dZzumOQ6Oy",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1q_i9O0haTSxnKt4DF214PSMusffgQd0F",
+                    "story": "Foto-foto dokumentasi Sosialisasi Pilkada yang dilaksanakan pada 17 November 2024.",
+                    "title": "Sosialisasi Pilkada",
+                    "event_date": "2024.11.17",
+                    "photos": [
+                        {
+                            "id": "1UrGaLzL2zIxTz_Y5FH8rYtJl8U0J_Iyf",
+                            "name": "GKI KD Pilkada 171124-7-00038.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1JlZAkLspGBN1YbgySYT5kRoobWsRzsck",
+                            "name": "GKI KD Pilkada 171124-7-00010.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Fh9PhYQOzBK_OcilRiByMBAJx4FeKb17",
+                            "name": "GKI KD Pilkada 171124-7-00005.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1iLUdsIUVE5As2r35AqHSMpavOH9k12TR",
+                            "name": "GKI KD Pilkada 171124-7-00003.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "114efYEP6oXT-hS1hTRblf16N7TuUat5p",
+                            "name": "GKI KD Pilkada 171124-7-00011.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1icrWP04onbc5lTUzsoGg3qy7JPHMMZox",
+                            "name": "GKI KD Pilkada 171124-7-00014.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1c7GeeqPVQ9h4t2YmCCmpDYEnuMN3kGp8",
+                            "name": "GKI KD Pilkada 171124-7-00001.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "10QzPfIkRN7KK3HdMSoaaLIlE5NAPTUFc",
+                            "name": "GKI KD Pilkada 171124-7-00028.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1qgL53r6iKVPonOkNVXPanZF1gscpiIqC",
+                            "name": "GKI KD Pilkada 171124-7-00029.JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1g-DOfkcLzaGphMaELVxVAXiBhD8bRrdO",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1xsBFlpfYIO-cPZYmILJEi1pvo3oChCt3",
+                    "story": "Foto-foto dokumentasi Ibadah Natal I & Baptisan yang dilaksanakan pada 25 Desember 2024.",
+                    "title": "Ibadah Natal I & Baptisan",
+                    "event_date": "2024.12.25",
+                    "photos": [
+                        {
+                            "id": "15DY7_UgwYskUQ1PqZ7XpyruztCZNkdMx",
+                            "name": "1-YSA04656.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1IQXvZZ9kK2UlNqKBJkpIlJn-Bvb7N6hm",
+                            "name": "IMG_9425.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14DdFqZQ9bQAbvoOzMedSr7H-DYCgQy7c",
+                            "name": "IBADAH NATAL I + BAPTIS ANAK (9).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "10g05_pPe65ZNXA5StEAOoN4DPt7Z3afC",
+                            "name": "IBADAH NATAL I + BAPTIS ANAK - FX (62).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1VmaXJwccniQHPNHjvLxIqdDAiFDE7TFR",
+                            "name": "IBADAH NATAL I + BAPTIS ANAK - FX (26).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xUi_chgAX5SNQs58Tz-ALMeD0YkhsJWz",
+                            "name": "IBADAH NATAL I + BAPTIS ANAK (42).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1EniUcNcAAdcfD3PPhdWUUB60QRCvMhLA",
+                            "name": "IMG_9393.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Ffva91BjsWDfN67kNYSKxglhD_fvD9di",
+                            "name": "CANON - IABADAH NATAL & BAPTIS ANAK (3).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1XZ5VtrWB-Ccyh76Od58ptPD6-bI_j5wN",
+                            "name": "IMG_9382.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1x_HpFKAjVT9vwvKmX9mdruD-SCZLA2yq",
+                            "name": "IBADAH NATAL I + BAPTIS ANAK (2).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1V0P5uQaFho1cR_YroztqLdMk1HtsyEC9",
+                            "name": "IMG_9411.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1lp9oKaFHawMVMWdbQRJcXjms3I9Pw3ry",
+                            "name": "37-YSA04763.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "10i8kfFmb_eSVXI8EuSgMUGPAYBmjBoq1",
+                            "name": "32-YSA04745.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1tDtNJ5KeYec2xKiy6RWuLl-yXqzncq8w",
+                            "name": "34-YSA04751.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1WvmHuCLIB1hLw-tTLxSF8ypYZtbMbm2r",
+                            "name": "23-YSA04714.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1_l919zto-2Kj3R8SKIpwoG31EU0wV5bs",
+                            "name": "CANON - IABADAH NATAL & BAPTIS ANAK (19).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1pwuT4uBD9kzaIl4i3fV8IpyehQCIIY_2",
+                            "name": "28-YSA04728.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1sWiXlCVEQrQrSX7lILFC8H-aStwZdIiT",
+                            "name": "CANON - IABADAH NATAL & BAPTIS ANAK (33).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1GAHE15F2rkbpY5D8lHe_Rw4OdPpu7OUY",
+                            "name": "IBADAH NATAL I + BAPTIS ANAK - FX (19).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1nTDcdoGJp6ItvE1CE2_GvnxnVcBSb0hq",
+                            "name": "13-YSA04697.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1fzmN8UJcdQ-m-F-RGjn-FPYipkNUure8",
+                            "name": "CANON - IABADAH NATAL & BAPTIS ANAK (28).JPG",
+                            "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1ZZU1nxelyPlxV_2FYMcJesiC8H-8JmH9",
+                    "last_update": "2025-01-20",
+                    "featured_photo_id": "1fUG3OT7aVopooEjlfBt8YDw6tQCNg7Vb",
+                    "story": "Foto-foto dokumentasi Perayaan Natal yang dilaksanakan pada 25 Desember 2024.",
+                    "title": "Perayaan Natal",
+                    "event_date": "2024.12.25",
+                    "photos": [
+                        {
+                            "id": "1sHigtNZRgs4x-dZTatsUli6L3Tldtw6w",
+                            "name": "Perayaan Natal 2024 (jeff) (54).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Y0AQBnbMFtgsDVjsLwHwqiUQ-oddu08E",
+                            "name": "Perayaan Natal 2024 (jeff) (56).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "12pcSK_NL_kQI0MJWO6WtnfHHZ1mwIptl",
+                            "name": "Perayaan Natal 2024 (jeff) (57).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1RK0xgzNep5S6fLGNkEBgZm5LKYz0A5aS",
+                            "name": "Perayaan Natal 2024 (jeff) (77).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "11Av8FN7qQSS3bBZzaBO5LGcUdzVNb-pz",
+                            "name": "Perayaan Natal 2024 (jeff) (55).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1tKNwFKe7cjxkzDj17sDuNKl7wfySE9MN",
+                            "name": "Perayaan Natal 2024 (jeff) (73).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "11Z1PLc_iUAyjhqlB61HLjakvdY6aJlA3",
+                            "name": "Perayaan Natal 2024 (jeff) (68).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1arwgdG9v6r6F0cmH2VUWzew6PFR7VSPb",
+                            "name": "Perayaan Natal 2024 (jeff) (58).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "148ccvx0AecseNzWcxmhsVlXBlIaRXXTN",
+                            "name": "IMG_20241224_205706.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "142J6CvecXNcR9_DQo5N37fZpJmG1XPPb",
+                            "name": "IMG_20241224_211622.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "13xQ8bsBgX27_dsMv7xRmxmxHYMsTfqcJ",
+                            "name": "IMG_20241224_205748.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1wproSdcnHrbD52ltXOpjr1LE4mSWHPo2",
+                            "name": "GKI Perayaan Natal 251224-3-00415.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1x290652X-XgP7SQwXdkhweWcBsguH7gQ",
+                            "name": "Perayaan Natal 2024 (jeff) (51).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1_TiJRkL1wq6aCMJqPtdJxhz9V4BTyMDx",
+                            "name": "GKI Perayaan Natal 251224-3-00426.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KFA31kARele5r-c-PkTETR748jMg3mZt",
+                            "name": "Perayaan Natal 2024 (jeff) (36).JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1xfB9wKAnrSwpYdegHXkhSMMX2pznGge3",
+                            "name": "GKI Perayaan Natal 251224-3-00407.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14-9hDZUq7i6rctNQzSBea64P0GJZ01rc",
+                            "name": "IMG_20241225_203401.jpg",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1AXWgZA6pMHd4Jb8GKf69F6i_TP5a-bA0",
+                            "name": "GKI Perayaan Natal 251224-3-00400.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Fg2bb65rUuVCtjQK3E6p8ZsVjWUfCyxR",
+                            "name": "GKI Perayaan Natal 251224-3-00342.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1p_xoU22iJEgTKp10Qv4JEpDOs2768ocD",
+                            "name": "GKI Perayaan Natal 251224-3-00266.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15aozeHPpLMYGhpEhm6znoCaoWebbTuNA",
+                            "name": "GKI Perayaan Natal 251224-3-00364.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1KsjjMIjAk3qSgImQnUC1poZCdGquqR00",
+                            "name": "GKI Perayaan Natal 251224-3-00311.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1ZazTO68jgR2hKCagPx_15YOl13qpLwy0",
+                            "name": "GKI Perayaan Natal 251224-3-00379.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "15FNqQ0WpstpfHWy26ZGar-8fVZH3EjCP",
+                            "name": "GKI Perayaan Natal 251224-3-00297.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1dWM-BKcw_o50Fipelh7EEIsI68SH-8Ws",
+                            "name": "GKI Perayaan Natal 251224-3-00244.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Nk35ykZVd6bpD9-pCBm1TLMgm035Pte-",
+                            "name": "GKI Perayaan Natal 251224-3-00288.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1r9RY0RW66dZr1CrRxq3gYbQ_LITq7BtX",
+                            "name": "GKI Perayaan Natal 251224-3-00289.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1i1yeVUnUdgH76exviUbKcZtBTYpjvPik",
+                            "name": "GKI Perayaan Natal 251224-3-00251.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1hKGT0Tr_gtllVOesGAaUGZXUhmO7ouYu",
+                            "name": "GKI Perayaan Natal 251224-3-00124.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1DHg_Tvj56RqADJLDRdWn5wLhmRjv8Tn4",
+                            "name": "GKI Perayaan Natal 251224-3-00101.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "13goKCaw4NXT_TiotDoH2msr-Ej40tjuf",
+                            "name": "GKI Perayaan Natal 251224-3-00130.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1BcFN6FDaeG_em6x-Qg5Ku96yjhd8aw5j",
+                            "name": "GKI Perayaan Natal 251224-3-00180.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1zgb3CXG_xuEivOGLxrqRnigvKuCboj2v",
+                            "name": "GKI Perayaan Natal 251224-3-00217.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1a3r0qgargXh3GDePj65GQhys10kUuDQ1",
+                            "name": "GKI Perayaan Natal 251224-3-00125.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1kY7NS8paInqgfxCHwaLpOtEnSIDVbKgY",
+                            "name": "GKI Perayaan Natal 251224-3-00116.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Da8CvYi9pBVq8SEkw_fFQ8nbJ-7AojBt",
+                            "name": "GKI Perayaan Natal 251224-3-00184.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1cLsgHwv3Rj3TaD23Gfj0m2FMo10C6up8",
+                            "name": "GKI Perayaan Natal 251224-3-00212.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1mxQrAX05t2H63EbYeKbXOUnsA9Z6CN73",
+                            "name": "GKI Perayaan Natal 251224-3-00146.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1mzQEza2O8NQeYxAX0I5vO4hbkV7JEnAN",
+                            "name": "GKI Perayaan Natal 251224-3-00042.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1dCdGGzCyOadL35B7E8mC-jkEh-qdwtdg",
+                            "name": "GKI Perayaan Natal 251224-3-00011.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "14ulomb7v4J1M23aYOck0rQF5nQtQsBhD",
+                            "name": "GKI Perayaan Natal 251224-3-00019.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1F8ENma-xM1mKBh3VMrEXXr5ufMv-5Kd_",
+                            "name": "GKI Perayaan Natal 251224-3-00008.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1Ft1tolBfljO7zE0COcQ7PgIqPyOh2aMe",
+                            "name": "GKI Perayaan Natal 251224-3-00055.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1bxHLxXp732QZV_tiFSYkljTbyUGosYlq",
+                            "name": "GKI Perayaan Natal 251224-3-00069.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1WWHApV1ksIdhxRFecYXLpFq9oN-Whl49",
+                            "name": "GKI Perayaan Natal 251224-3-00028.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "12Sl4uCr6X-XjhHmrKNC6ywDaChX7BnUl",
+                            "name": "GKI Perayaan Natal 251224-3-00001.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1O2yT0FIn4zniX1RrV6PH0Rzzfl4F9dBT",
+                            "name": "GKI Perayaan Natal 251224-3-00025.JPG",
+                            "date": "2025-01-20"
+                        },
+                        {
+                            "id": "1c51EiTNRqHlRNN2Mn0ztuyxbpmRo8reV",
+                            "name": "GKI Perayaan Natal 251224-3-00082.JPG",
+                            "date": "2025-01-20"
                         }
                     ]
                 }
