@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2756,
-        "last-update": 1737353602,
+        "update-count": 2757,
+        "last-update": 1737358322,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3666,7 +3666,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3680,7 +3680,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
