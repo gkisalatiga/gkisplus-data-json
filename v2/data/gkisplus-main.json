@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2755,
-        "last-update": 1737347865,
+        "update-count": 2756,
+        "last-update": 1737353602,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3653,6 +3653,34 @@
                 "representative": "Lainnya",
                 "pic": "Fakultas Teologi UKSW",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-03-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-03-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti ",
+                "status": "w",
                 "note": ""
             }
         ],
