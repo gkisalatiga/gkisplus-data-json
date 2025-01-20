@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2757,
-        "last-update": 1737358322,
+        "update-count": 2758,
+        "last-update": 1737367789,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3682,6 +3682,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Sie acara Paskah",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-20",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Indry Mabilaka",
+                "status": "w",
+                "note": "Air teh"
             }
         ],
         "backend": {
