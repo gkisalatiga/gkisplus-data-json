@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2760,
-        "last-update": 1737397785,
-        "last-updated-item": "ykb",
+        "update-count": 2761,
+        "last-update": 1737404138,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Jan 2025 | Sukacita di Dalam Kesederhanaan",
+                        "date": "2025-01-20",
+                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                        "link": "https://www.youtube.com/watch?v=rQffLyCaHvk",
+                        "thumbnail": "https://i3.ytimg.com/vi/rQffLyCaHvk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Jan  2025 | Biarlah Roh Kita Menyala-nyala dan Melayani TUHAN",
                         "date": "2025-01-19",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Natalis Sidanta",
                         "link": "https://www.youtube.com/watch?v=k88kWm1IS2I",
                         "thumbnail": "https://i4.ytimg.com/vi/k88kWm1IS2I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Jan 2025 | Tak Lekang oleh Waktu",
-                        "date": "2025-01-07",
-                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
-                        "link": "https://www.youtube.com/watch?v=BHXnsYBTArY",
-                        "thumbnail": "https://i3.ytimg.com/vi/BHXnsYBTArY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
