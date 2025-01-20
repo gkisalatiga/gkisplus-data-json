@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2754,
-        "last-update": 1737331231,
-        "last-updated-item": "yt",
+        "update-count": 2755,
+        "last-update": 1737347865,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3610,7 +3610,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Veve",
-                "status": "w",
+                "status": "y",
                 "note": "Minta tolong untuk disediakan teh "
             },
             {
@@ -3624,7 +3624,35 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Kristiani Murti Astuti",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Ibadah Syukur Wisuda Fakultas Teologi UKSW",
+                "time": "15:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Fakultas Teologi UKSW",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": " Ibadah Syukur Wisuda Fakultas Teologi UKSW",
+                "time": "16:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Fakultas Teologi UKSW",
+                "status": "y",
                 "note": ""
             }
         ],
