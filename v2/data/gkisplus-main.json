@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2758,
-        "last-update": 1737367789,
+        "update-count": 2759,
+        "last-update": 1737380172,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3696,6 +3696,34 @@
                 "pic": "Indry Mabilaka",
                 "status": "w",
                 "note": "Air teh"
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
