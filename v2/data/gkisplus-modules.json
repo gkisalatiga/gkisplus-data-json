@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2,
-        "last-update": 1737475481,
+        "update-count": 3,
+        "last-update": 1737476084,
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
@@ -51,6 +51,17 @@
             }
         ],
         "library": [
+            {
+                "title": "Masa Paskah 2025: \u201cMengingat, Percaya, dan Menjadi Saksi-Nya\u201d",
+                "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                "publisher": "LPP Sinode GKJ & GKI SW Jateng",
+                "publisher-loc": "Daerah Istimewa Yogyakarta, Indonesia",
+                "year": "2024",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1_xM5VnrfmAhs4m8EOxmL4rj8GN-XtnBC",
+                "download-url": "https://drive.google.com/uc?export=download&id=1j819zbCSDYz-imHE0uumdBwc24O7bmHO",
+                "source": "https://lpps.or.id/wp/2024/12/26/masa-paskah-2025",
+                "size": "7.34 MB"
+            },
             {
                 "title": "Masa Adven Natal 2024: \u201cDia Tinggal Di Antara Kita\u201d",
                 "author": "LPP Sinode GKJ dan GKI SW Jateng",
