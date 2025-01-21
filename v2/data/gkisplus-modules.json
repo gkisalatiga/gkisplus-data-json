@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 1,
-        "last-update": 1728971270,
+        "update-count": 2,
+        "last-update": 1737475481,
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
@@ -52,15 +52,26 @@
         ],
         "library": [
             {
-                "title": "Masa Paskah 2024: \u201cBangkit Untuk Menata Kehidupan\u201d",
+                "title": "Masa Paskah 2025: \u201cMengingat, Percaya, dan Menjadi Saksi-Nya\u201d",
                 "author": "LPP Sinode GKJ dan GKI SW Jateng",
                 "publisher": "LPP Sinode GKJ & GKI SW Jateng",
                 "publisher-loc": "Daerah Istimewa Yogyakarta, Indonesia",
-                "year": "2023",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1HLldf_z6AUy3HDT3RLLrj8jvHr75QVXE",
-                "download-url": "https://drive.google.com/uc?export=download&id=14JazXw4C2BV7Kz-xKGbxm_Ij4vtINsFW",
-                "source": "https://lpps.or.id/wp/2023/12/05/masa-paskah",
-                "size": "2.83 MB"
+                "year": "2024",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1_xM5VnrfmAhs4m8EOxmL4rj8GN-XtnBC",
+                "download-url": "https://drive.google.com/uc?export=download&id=1_xM5VnrfmAhs4m8EOxmL4rj8GN-XtnBC",
+                "source": "https://lpps.or.id/wp/2024/12/26/masa-paskah-2025",
+                "size": "7.34 MB"
+            },
+            {
+                "title": "Masa Adven Natal 2024: \u201cDia Tinggal Di Antara Kita\u201d",
+                "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                "publisher": "LPP Sinode GKJ & GKI SW Jateng",
+                "publisher-loc": "Daerah Istimewa Yogyakarta, Indonesia",
+                "year": "2024",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1nDZR_JJvR8-c3gqI3RWNb-JoswzqojNF",
+                "download-url": "https://drive.google.com/uc?export=download&id=1YjgZjLSn6Gq2-kAf9vlRLR5M9t-3U21P",
+                "source": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024",
+                "size": "3.46 MB"
             },
             {
                 "title": "Bulan Keluarga 2024: \u201cSupaya Kamu Saling Mengasihi\u201d",
@@ -74,15 +85,15 @@
                 "size": "2.41 MB"
             },
             {
-                "title": "Masa Adven Natal 2024: \u201cDia Tinggal Di Antara Kita\u201d",
+                "title": "Masa Paskah 2024: \u201cBangkit Untuk Menata Kehidupan\u201d",
                 "author": "LPP Sinode GKJ dan GKI SW Jateng",
                 "publisher": "LPP Sinode GKJ & GKI SW Jateng",
                 "publisher-loc": "Daerah Istimewa Yogyakarta, Indonesia",
-                "year": "2024",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1nDZR_JJvR8-c3gqI3RWNb-JoswzqojNF",
-                "download-url": "https://drive.google.com/uc?export=download&id=1YjgZjLSn6Gq2-kAf9vlRLR5M9t-3U21P",
-                "source": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024",
-                "size": "3.46 MB"
+                "year": "2023",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1HLldf_z6AUy3HDT3RLLrj8jvHr75QVXE",
+                "download-url": "https://drive.google.com/uc?export=download&id=14JazXw4C2BV7Kz-xKGbxm_Ij4vtINsFW",
+                "source": "https://lpps.or.id/wp/2023/12/05/masa-paskah",
+                "size": "2.83 MB"
             }
         ],
         "attributions": {
@@ -152,6 +163,14 @@
                     "year": "2023",
                     "author": "LPP Sinode GKJ dan GKI SW Jateng",
                     "link": "https://lpps.or.id/wp/2023/12/05/masa-paskah"
+                },
+                {
+                    "title": "Masa Paskah 2025: \u201cMengingat, Percaya, dan Menjadi Saksi-Nya\u201d",
+                    "license": "Non-Profit",
+                    "license-url": "https://lpps.or.id/wp/2024/12/26/masa-paskah-2025",
+                    "year": "2024",
+                    "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                    "link": "https://lpps.or.id/wp/2024/12/26/masa-paskah-2025"
                 },
                 {
                     "title": "World English Bible",
