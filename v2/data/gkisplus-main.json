@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2761,
-        "last-update": 1737404138,
-        "last-updated-item": "yt",
+        "update-count": 2762,
+        "last-update": 1737428126,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3694,7 +3694,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Panitia",
                 "pic": "Indry Mabilaka",
-                "status": "w",
+                "status": "y",
                 "note": "Air teh"
             },
             {
@@ -3722,7 +3722,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
