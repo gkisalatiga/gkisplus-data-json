@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2767,
-        "last-update": 1737511784,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2768,
+        "last-update": 1737555648,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Jan 2025",
+                        "date": "2025-01-22",
+                        "desc": "Dibawakan oleh Ibu Titik Ernawati",
+                        "link": "https://www.youtube.com/watch?v=e-5CiTC4N3I",
+                        "thumbnail": "https://i2.ytimg.com/vi/e-5CiTC4N3I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Jan 2025 | Hidup dengan Belas Kasih",
                         "date": "2025-01-21",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Benny Kailola",
                         "link": "https://www.youtube.com/watch?v=j4gvwDKskwQ",
                         "thumbnail": "https://i3.ytimg.com/vi/j4gvwDKskwQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Jan 2025 | Bukan Sekadar Niat dan Rencana",
-                        "date": "2025-01-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=UTrMzNTha3c",
-                        "thumbnail": "https://i2.ytimg.com/vi/UTrMzNTha3c/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
