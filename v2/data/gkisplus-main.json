@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2771,
-        "last-update": 1737657059,
-        "last-updated-item": "ykb",
+        "update-count": 2772,
+        "last-update": 1737663375,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Jan | 2025 Komunitas AKAR",
+                        "date": "2025-01-23",
+                        "desc": "Dibawakan oleh Ibu Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=lnJ1Z8OkYko",
+                        "thumbnail": "https://i1.ytimg.com/vi/lnJ1Z8OkYko/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Jan 2025",
                         "date": "2025-01-22",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
                         "link": "https://www.youtube.com/watch?v=5jclLb3_Ppg",
                         "thumbnail": "https://i2.ytimg.com/vi/5jclLb3_Ppg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Jan  2025 | Tantangan dan Peluang",
-                        "date": "2025-01-10",
-                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
-                        "link": "https://www.youtube.com/watch?v=j4gvwDKskwQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/j4gvwDKskwQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
