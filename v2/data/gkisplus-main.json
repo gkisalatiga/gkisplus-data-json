@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2775,
-        "last-update": 1737691873,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2776,
+        "last-update": 1737717484,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Jan 2025",
+                        "date": "2025-01-24",
+                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=RSRqAJWOWCo",
+                        "thumbnail": "https://i3.ytimg.com/vi/RSRqAJWOWCo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Jan | 2025 Komunitas AKAR",
                         "date": "2025-01-23",
