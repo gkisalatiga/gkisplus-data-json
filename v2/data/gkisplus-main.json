@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2773,
-        "last-update": 1737688357,
+        "update-count": 2774,
+        "last-update": 1737689791,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3735,6 +3735,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-01-25",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis Sidanta",
+                "status": "w",
                 "note": ""
             }
         ],
