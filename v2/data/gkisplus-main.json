@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2772,
-        "last-update": 1737663375,
-        "last-updated-item": "yt",
+        "update-count": 2773,
+        "last-update": 1737688357,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3734,7 +3734,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
