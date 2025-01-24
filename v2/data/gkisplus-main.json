@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2774,
-        "last-update": 1737689791,
+        "update-count": 2775,
+        "last-update": 1737691873,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3678,7 +3678,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
-                "status": "w",
+                "status": "n",
                 "note": ""
             },
             {
@@ -3748,7 +3748,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis Sidanta",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
