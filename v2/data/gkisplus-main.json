@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2779,
-        "last-update": 1737790315,
+        "update-count": 2780,
+        "last-update": 1737792622,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3769,7 +3769,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Johnson Umbu Radda",
-                "status": "w",
+                "status": "y",
                 "note": "Minta disiapkan teh"
             },
             {
@@ -3783,7 +3783,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Veve ",
-                "status": "w",
+                "status": "y",
                 "note": "hanya menggunakan bagian depan sj"
             }
         ],
