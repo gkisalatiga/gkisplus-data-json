@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2778,
-        "last-update": 1737773469,
+        "update-count": 2779,
+        "last-update": 1737790315,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3771,6 +3771,20 @@
                 "pic": "Pnt. Johnson Umbu Radda",
                 "status": "w",
                 "note": "Minta disiapkan teh"
+            },
+            {
+                "name": "Pembagian kaos USDA",
+                "time": "07:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-01-26",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Veve ",
+                "status": "w",
+                "note": "hanya menggunakan bagian depan sj"
             }
         ],
         "backend": {
