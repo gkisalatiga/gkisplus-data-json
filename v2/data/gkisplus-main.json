@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2782,
-        "last-update": 1737829671,
-        "last-updated-item": "ykb",
+        "update-count": 2783,
+        "last-update": 1737846545,
+        "last-updated-item": "pdf",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -1107,6 +1107,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 26 Januari 2025",
+                    "date": "2025-01-26",
+                    "link": "https://drive.google.com/file/d/1NPbb2yZxKUigskI0YlbcuB1_WXj0WbEH/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-26-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1NPbb2yZxKUigskI0YlbcuB1_WXj0WbEH",
+                    "size": "1.33 MB"
+                },
+                {
                     "title": "Warta Jemaat 19 Januari 2025",
                     "date": "2025-01-18",
                     "link": "https://drive.google.com/file/d/1MES-59LlCUVMAsD_k0W_VrbnTWZ47mtZ/preview",
@@ -1324,6 +1333,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 26 Januari 2025",
+                    "date": "2025-01-26",
+                    "link": "https://drive.google.com/file/d/14RpOVRcvDO3Zo-gt9QBF32qwlfHeNkDt/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-26-januari-2025/",
+                    "thumbnail": "",
+                    "id": "14RpOVRcvDO3Zo-gt9QBF32qwlfHeNkDt",
+                    "size": "0.21 MB"
+                },
                 {
                     "title": "Tata Ibadah 19 Januari 2025",
                     "date": "2025-01-18",
