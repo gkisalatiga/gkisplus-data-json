@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2781,
-        "last-update": 1737814657,
+        "last-update": 1737823292,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2660,6 +2660,94 @@
         ],
         "carousel": [
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_aplikasi.webp",
+                "title": "Aplikasi GKI Salatiga+",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_aplikasi.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wisuda.webp",
+                "title": "Wisuda Mahasiswa UKSW Salatiga",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_wisuda.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "title": "Pundi Pundi Samaria",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "title": "Kelompok Tumbuh Bersama (KTB)",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "title": "Persekutuan SODA (Komisi Pemuda)",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "title": "Informasi Sekolah Minggu",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
+                "title": "Ibadah Sekolah Minggu",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_es.webp",
+                "title": "English Service",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_es.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_rekrutmen_padus.webp",
+                "title": "Rekrutmen Anggota Paduan Suara",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_rekrutmen_padus.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pernikahan_gerejawi.webp",
+                "title": "Pernikahan Gerejawi Titipan",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pernikahan_gerejawi.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
+                "title": "Seleksi Calon Mahasiswa Teologi GKI tahun 2025",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_bacaan_sepekan.webp",
                 "title": "Bacaan Alkitab Sepekan",
                 "type": "poster",
@@ -2692,6 +2780,14 @@
                 "poster-caption": "Setiap hari Selasa - pk. 17.00 / 18.00 WIB - bertempat di wilayah masing-masing."
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_doa_sepakat.webp",
+                "title": "Doa Sepakat Untuk Anak dan Sekolah",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_doa_sepakat.webp",
+                "poster-caption": "Setiap hari Rabu & Kamis - pk. 08.00-09.00 WIB - bertempat di ruang Betlehem."
+            },
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
                 "title": "Katekisasi",
                 "type": "poster",
@@ -2722,70 +2818,6 @@
                 "date-created": "2025-01-20",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_persiapan_sm.webp",
                 "poster-caption": "Setiap hari Sabtu - pk. 14.00 WIB - bertempat di Ruang Kana."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi Pundi Samaria",
-                "type": "poster",
-                "date-created": "2025-01-20",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_aplikasi.webp",
-                "title": "Aplikasi GKI Salatiga+",
-                "type": "poster",
-                "date-created": "2024-12-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_aplikasi.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "Kelompok Tumbuh Bersama (KTB)",
-                "type": "poster",
-                "date-created": "2024-12-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Persekutuan SODA (Komisi Pemuda)",
-                "type": "poster",
-                "date-created": "2025-01-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
-                "title": "Informasi Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2025-01-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
-                "title": "Seleksi Calon Mahasiswa Teologi GKI tahun 2025",
-                "type": "poster",
-                "date-created": "2024-11-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_rekrutmen_padus.webp",
-                "title": "Rekrutmen Anggota Paduan Suara",
-                "type": "poster",
-                "date-created": "2025-01-20",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_rekrutmen_padus.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pernikahan_gerejawi.webp",
-                "title": "Pernikahan Gerejawi Titipan",
-                "type": "poster",
-                "date-created": "2025-01-20",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pernikahan_gerejawi.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             }
         ],
         "pukat-berkat": [
