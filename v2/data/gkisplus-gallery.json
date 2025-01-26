@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 13,
-        "last-update": 1737427467,
+        "update-count": 14,
+        "last-update": 1737878195,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -7345,6 +7345,136 @@
                     ]
                 },
                 {
+                    "folder_id": "1QGfIJv_95_pFZB2d36PrE3PRT2NkH4Xe",
+                    "last_update": "2025-01-21",
+                    "featured_photo_id": "1fch31N9EyIEtv3R0byMvPZbyjIpC2k6B",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Epifani yang dilaksanakan pada 5 Januari 2025.",
+                    "title": "Ibadah Minggu Epifani",
+                    "event_date": "2025.01.05",
+                    "photos": [
+                        {
+                            "id": "1cGjQjdZ6bmVw-ieHu54ED0sBXPTiZPqU",
+                            "name": "GKI Salatiga 050125-7-00080.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1JXhkxEmq0SXUhGt7VOBw0UdxBrrdwgj0",
+                            "name": "GKI Salatiga 050125-7-00003.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "14d_Ui6JUHhpMI0bAOZJGBhjK5-EWMNn6",
+                            "name": "GKI Salatiga 050125-7-00002.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "18rQZSejfhIRTYY8dlfzh3qKaUPAtSwR3",
+                            "name": "GKI Salatiga 050125-7-00067.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1LjXle3DW_IdYSFoTKchHu9Hlm_KmqUym",
+                            "name": "GKI Salatiga 050125-7-00058.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1g2w1LCPg6EWaUjm8H8ezIPWiEEoWbZVk",
+                            "name": "GKI Salatiga 050125-7-00034.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1T3EZX-ieeBrvScQx0sUYYbSqi8OAFYxo",
+                            "name": "GKI Salatiga 050125-7-00006.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1A0RnuPv1nMAe8pTdY6p_awp59FBbjLsd",
+                            "name": "GKI Salatiga 050125-7-00038.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1rrodWc6qYlivgIlh542w43ra0Qh5jq9V",
+                            "name": "GKI Salatiga 050125-7-00021.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1h-JzofhAcQQL7vxWKFnifmaNIrgIZgFn",
+                            "name": "GKI Salatiga 050125-7-00065.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1rUVVEARxd0mdX_3B-p4aRylzS0epouJJ",
+                            "name": "GKI Salatiga 050125-7-00051.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1aT-FJwOl2hs3kxpKXP2dC3SXpqiL6Vbw",
+                            "name": "GKI Salatiga 050125-7-00022.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1-Pu26PwB2z1A7div6hZkhhdQR6UMc_4-",
+                            "name": "GKI Salatiga 050125-7-00040.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1SP8zillJ1HzCi57vjQyM36dWX4ktRBvQ",
+                            "name": "GKI Salatiga 050125-7-00074.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1R4alhDZm75fBOBEDdhqWY_MjxEPfTtf3",
+                            "name": "GKI Salatiga 050125-7-00087.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1GVgvGLscqbE3cVEjVBn1B0kr0G-wlsrU",
+                            "name": "GKI Salatiga 050125-7-00107.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1rfu1C1wyzxytPYNYRYRAip0P8ceIbe4D",
+                            "name": "GKI Salatiga 050125-7-00072.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1ywpyVC5VHDPhdZBDtPlgAF27j5llpN5-",
+                            "name": "GKI Salatiga 050125-7-00098.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "13DshhLGG7kbuqTQ5WIHMNdv7k_8o20pu",
+                            "name": "GKI Salatiga 050125-7-00112.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "15CITpeOcb81ShiYrax-6otaGRvn0bl2p",
+                            "name": "GKI Salatiga 050125-7-00101.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1r0BkyKI3zD5cbctxW1E8TJUobTDrtjJN",
+                            "name": "GKI Salatiga 050125-7-00089.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "10y_Mq3l1mPJrFNOrGX10sx2qYulxAZHH",
+                            "name": "GKI Salatiga 050125-7-00081.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "10tsqgclcRIaVlN1OFib5gn0_X6IxsNlx",
+                            "name": "GKI Salatiga 050125-7-00075.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1GgZnk23zoaIabyFV0y-KDGzxkyN_U1tJ",
+                            "name": "GKI Salatiga 050125-7-00106.JPG",
+                            "date": "2025-01-21"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1LFlCpB3s8V-9OeabVYn0bOuGA1BPg8ns",
                     "last_update": "2025-01-20",
                     "featured_photo_id": "15RRvb2wYQuFT-gSDnSQXfHgzm5KXvSkI",
@@ -8100,6 +8230,76 @@
                     ]
                 },
                 {
+                    "folder_id": "1xqAsuulG2_FuczhUIWCHTFvvS7T0DoB7",
+                    "last_update": "2025-01-21",
+                    "featured_photo_id": "14ODnA0X3Qsbb-pn6kc6jxWW7r3gVFqjK",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 12 Januari yang dilaksanakan pada 12 Januari 2025.",
+                    "title": "Ibadah Minggu, 12 Januari",
+                    "event_date": "2025.01.12",
+                    "photos": [
+                        {
+                            "id": "1RnsbgKNYah1h1TOWrJSwRjYoq7rXVp3l",
+                            "name": "GKI 120125-7-00027.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1yC0CQxzCeOniGshZHeTeSlYNvukD3vXs",
+                            "name": "GKI 120125-7-00013.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1_1eOj7696Iv-BKdgJ_5rFzLEl5ZfnGEH",
+                            "name": "GKI 120125-7-00019.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1pWxVSR_kAQX-xZbEMC_Y1UhUJHAchuAq",
+                            "name": "GKI 120125-7-00045.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1Qx5d5ubyMrTk_L5BgwBqUDFAZNMaeXHp",
+                            "name": "GKI 120125-7-00030.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1QkfBhRSGrMoLqH61ny0C_mCxSLpH7cIO",
+                            "name": "GKI 120125-7-00028.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1Sx92lhld4XDAvBP6HlPswA7XoEalsT0u",
+                            "name": "GKI 120125-7-00024.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1sMB9Td-yLR8iAcPGZuUplXnfGXxuEwyg",
+                            "name": "GKI 120125-7-00007.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1zAhUt3pyubH558hQpHCMIS0Ej97iEYKC",
+                            "name": "GKI 120125-7-00018.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1mGkhc8eErC5Zh5JSHboctZ4XVgxXQDVk",
+                            "name": "GKI 120125-7-00033.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1uO6TXMLTqS7V9IfVhEiHn_HyKVXJN_rN",
+                            "name": "GKI 120125-7-00042.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1ww636DiXBhJMJGTEMjySNo50fGlDtBKC",
+                            "name": "GKI 120125-7-00039.JPG",
+                            "date": "2025-01-21"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1p_xEpysIU6n5b8kAE-rL8R3jdGxR1iVT",
                     "last_update": "2025-01-20",
                     "featured_photo_id": "1W7PXBdFGZtuKxbIEMcUp5sJXkZd5YLfL",
@@ -8821,6 +9021,531 @@
                             "id": "1Ieh3hJgbWO2tXCkKZze3u9ySYz_GsUKF",
                             "name": "Natal KR 2024 (salsa) (403).JPG",
                             "date": "2025-01-20"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1eNOP9H19diOabww9QxopNYV0f31lDGur",
+                    "last_update": "2025-01-21",
+                    "featured_photo_id": "1hV7PGWXuErZ8lM-KKu70D8VCrUxOet_v",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu & Persekutuan GSM, 19 Januari yang dilaksanakan pada 19 Januari 2025.",
+                    "title": "Ibadah Minggu & Persekutuan GSM, 19 Januari",
+                    "event_date": "2025.01.19",
+                    "photos": [
+                        {
+                            "id": "178LGxQrIy2W60mCoXsc02yT62s1EC3hP",
+                            "name": "GKI Salatiga 190125-7-00003.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1a7H0sH0slJuiaPhkBw7ibWcTCAx5Bsiu",
+                            "name": "GKI Salatiga 190125-7-00058.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1iOU_ohGKei8jDb8z2AKAjjG_5orXCMEq",
+                            "name": "GKI Salatiga 190125-7-00009.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1KrdQ_d1zdAKsOJGtzTpWKcakH8ulzCwt",
+                            "name": "GKI Salatiga 19012025 (4).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1AjLffuiMhkvdbW2cOd40aIWoBryozukg",
+                            "name": "GKI Salatiga 19012025 (28).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1wsMD-pg-i5WSLjRz6xCSR8jh9kZdkqQo",
+                            "name": "GKI Salatiga 190125-7-00052.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1ocJ07-yMgSnBklIdR7vx3ZCflrW0JPpg",
+                            "name": "GKI Salatiga 190125-7-00033.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1VMnK9RReEk_yx52FXkzuLrt03C_Z4K7F",
+                            "name": "GKI Salatiga 190125-7-00049.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1rU6Oxabl8erWyLtGiPkuw7bj7aAS_8en",
+                            "name": "GKI Salatiga 190125-7-00044.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1QMWHJ-pHUskZ4HO-BIz7JvtUUAupvdwo",
+                            "name": "GKI Salatiga 190125-7-00038.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1IdYnScAR4ZAzjyxPXTzKv5zEPKAzQuCG",
+                            "name": "GKI Salatiga 19012025 (13).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1Ro8CdAmeqtVC-DeOQ9BBcgFXNs1h1XvL",
+                            "name": "GKI Salatiga 190125-7-00032.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1x62NgX8fWZ9HRIq5s39y6NENNYe9KT-0",
+                            "name": "GKI Salatiga 19012025 (23).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1zb7VNmOzgzKeQS3obcQ_shel9PSjy7iS",
+                            "name": "GKI Salatiga 190125-7-00047.JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1c5dhxIclHBmQeyS98wuhJ_Zipg37AAr1",
+                            "name": "GKI Salatiga 19012025 (67).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1Q4PXzexbzETPrbVm78zys1VrPu-aPn_-",
+                            "name": "GKI Salatiga 19012025 (60).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1093pRg8eqoTky4Kt015qHKo4bnIYfzEg",
+                            "name": "GKI Salatiga 19012025 (49).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1YZEpg2Q_1xcGA5oNdLzvhlbwJko-TiLk",
+                            "name": "GKI Salatiga 19012025 (61).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1zqsVxJsXTBiQ5iwDPL2DAUO7MmswDTLN",
+                            "name": "GKI Salatiga 19012025 (51).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "14E9drni0C-a0cbsmCbn5knZGF7lNtYcI",
+                            "name": "GKI Salatiga 19012025 (42).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1xNOLGFLe1-CMg853hSOSMCO6CjAmw2sW",
+                            "name": "GKI Salatiga 19012025 (53).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1KoQh3ofak6WT2rTbR7aRu-ee16d5e4Ii",
+                            "name": "GKI Salatiga 19012025 (44).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1aFFTRIInfJgtiRFv-geLz2Kn5Pnyipng",
+                            "name": "GKI Salatiga 19012025 (37).JPG",
+                            "date": "2025-01-21"
+                        },
+                        {
+                            "id": "1SPmvpIUaaKv5Cc9QJTqMJWzpsftUvU9k",
+                            "name": "GKI Salatiga 19012025 (57).JPG",
+                            "date": "2025-01-21"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1PeF_IifMsEdCZtgJhNDBWDCu-AZzKTvF",
+                    "last_update": "2025-01-26",
+                    "featured_photo_id": "1VBDGElUYKpB6OkPwUgiVFZdiAVbmuTSy",
+                    "story": "Foto-foto dokumentasi Ibadah Syukur HUT GKI Salatiga 82 yang dilaksanakan pada 26 Januari 2025.",
+                    "title": "Ibadah Syukur HUT GKI Salatiga 82",
+                    "event_date": "2025.01.26",
+                    "photos": [
+                        {
+                            "id": "1B9QH3l7y3Er5mQzcS2mIAACg0COpohmv",
+                            "name": "HUT GKI Salatiga 82 (jeff) (125).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1cKMIWRFYbsbvmiqvQ3gMU7QGdujWx0L_",
+                            "name": "HUT GKI Salatiga 82 (jeff) (126).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1_mGV7m3Jez4kTvcc5tisYg3itwvAGqyI",
+                            "name": "HUT GKI Salatiga 82 (jeff) (128).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1-cw8iimNL7C59MJ9tvBpECwj2toB0Nrq",
+                            "name": "HUT GKI Salatiga 82 (jeff) (105).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1d0XM-8-BYQAjTaC4hzpsxsGRJXk6X_cD",
+                            "name": "HUT GKI Salatiga 82 (jeff) (118).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1VUyGd5TidvrfimK97o_8zunbd5usBXcM",
+                            "name": "HUT GKI Salatiga 82 (jeff) (119).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1ltg5sS7e-633nGPEHQKO0YcYDzqhV0A9",
+                            "name": "HUT GKI Salatiga 82 (jeff) (117).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Q2BBtZukoq6mN75RWYWymrzbyOXZa3MJ",
+                            "name": "HUT GKI Salatiga 82 (jeff) (124).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1tXWQdhpdHEVeK0tNpSSaidsCXL2ph2NG",
+                            "name": "HUT GKI Salatiga 82 (jeff) (111).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1DYpnnALR8QOyPppetx5NkMc7R9HqWjJg",
+                            "name": "HUT GKI Salatiga 82 (jeff) (108).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1XfJPdsBtzybEdbpXHE3kSd1a7l4JrmLt",
+                            "name": "HUT GKI Salatiga 82 (jeff) (121).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1zLaMzqiZcrIE4BcuCbYYduGfp3KnQ261",
+                            "name": "HUT GKI Salatiga 82 (jeff) (107).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "14X3HnywAkEcVB9JEArWHgrJ1wX71KG6e",
+                            "name": "HUT GKI Salatiga 82 (jeff) (110).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1N9yeShW2S9hCzp2n3ihqRBAEiHWpxgiv",
+                            "name": "HUT GKI Salatiga 82 (jeff) (100).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1nqA6mU6WhNkEb9egSMyNZKNTAInDX0xK",
+                            "name": "HUT GKI Salatiga 82 (jeff) (94).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Nv3LCb38BlzZw5jKex-Fv2kavcvKe6R6",
+                            "name": "HUT GKI Salatiga 82 (jeff) (98).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1KKo2Rj7H1VOrc1TntniriMWFbV1fuerj",
+                            "name": "HUT GKI Salatiga 82 (jeff) (101).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1LqR4s5ZxmaDiecLpm5mip6qh3eGG8LIB",
+                            "name": "HUT GKI Salatiga 82 (jeff) (104).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1v46HKJIOB5AVijRAFdGT5wTT4L2NdadQ",
+                            "name": "HUT GKI Salatiga 82 (jeff) (96).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1ZEXbN2DaxSUJakA_WPQiixLDMHYk9KDD",
+                            "name": "HUT GKI Salatiga 82 (jeff) (99).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1mkx9Ctddp7_KLM3U7YhhEseTAQCvxPUW",
+                            "name": "HUT GKI Salatiga 82 (jeff) (95).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1-QgLBVrg0Wnm1x33XQpCMaimqjdyywPu",
+                            "name": "HUT GKI Salatiga 82 (jeff) (103).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1dpvm9QmXo0rHL3QXBCD-lyzexVdR046a",
+                            "name": "HUT GKI Salatiga 82 (jeff) (97).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1DmKZL6k8lZMGhlsENuZ9vHn354Y6JaSe",
+                            "name": "HUT GKI Salatiga 82 (jeff) (86).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Rq024jrVFHpQfCknqignTWe5Zwgt9rge",
+                            "name": "HUT GKI Salatiga 82 (jeff) (92).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1IzsTlYCrkqSzNHa9Q2U5QlvslhtKqFtJ",
+                            "name": "HUT GKI Salatiga 82 (jeff) (90).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Kv6kNgHPCRmaFA9h6UbJi4chVvbSrIqF",
+                            "name": "HUT GKI Salatiga 82 (jeff) (88).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1COHatjWP4WC08UQDUJIquLi8RYSCnvxw",
+                            "name": "HUT GKI Salatiga 82 (jeff) (93).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1RdxC_vxdI4CEyd7UzYjH8e8Yp0snQKH-",
+                            "name": "HUT GKI Salatiga 82 (jeff) (84).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1ZZynWxzwHB3o6B3NeDmkfLKKh2-fUPxJ",
+                            "name": "HUT GKI Salatiga 82 (jeff) (87).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "14ThWTSCvmLlUOSyEzwPfiCuD_LNuhQry",
+                            "name": "HUT GKI Salatiga 82 (jeff) (85).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1aoDdyWMZExgc1og0QuzxP_pSEW6d9R8M",
+                            "name": "HUT GKI Salatiga 82 (jeff) (91).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1QHFpm7q_zoHW47K10aYhc99JJLTWDj2z",
+                            "name": "HUT GKI Salatiga 82 (jeff) (89).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1NIVZLRoYAcgHrDrwSUaJhg8051-1XHZB",
+                            "name": "HUT GKI Salatiga 82 (jeff) (75).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "17-qUT-gP2iG6GdQN_vUITRoVwtabyBjd",
+                            "name": "HUT GKI Salatiga 82 (jeff) (81).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1ZJuoX70a_cxvLp9thxAN1aMFtlweJaCd",
+                            "name": "HUT GKI Salatiga 82 (jeff) (68).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "16sPe5toujwvaguHjNWkTNVSbkgo3hKap",
+                            "name": "HUT GKI Salatiga 82 (jeff) (67).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Ya8oV1kp4ZeuclchntW669Rj5vhps4O-",
+                            "name": "HUT GKI Salatiga 82 (jeff) (62).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1_kdvT6Gge1-4GtwHoGb7xHqD_tp13hyz",
+                            "name": "HUT GKI Salatiga 82 (jeff) (73).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1AXeATAzyeyMOj8z8ljE2XPQA0a2072bB",
+                            "name": "HUT GKI Salatiga 82 (jeff) (70).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1PRxDw1w0lWXm4FzMxqrBBoH-NzbpSmgG",
+                            "name": "HUT GKI Salatiga 82 (jeff) (82).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1SaAtTXJbAl-dw2PvjhQRzTqbR6V_Mzpj",
+                            "name": "HUT GKI Salatiga 82 (jeff) (63).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1DZ5kciupKtnEFFV9delPsifE-u9jY_Jn",
+                            "name": "HUT GKI Salatiga 82 (jeff) (83).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Fv8WoCvvY_C8YFH2nXZsxARzUOv-O8PV",
+                            "name": "HUT GKI Salatiga 82 (jeff) (61).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "15epexJrZzoFfDtSmF3h_tjSMFQU4xR5L",
+                            "name": "HUT GKI Salatiga 82 (jeff) (47).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1wun0vyyDLOb5cmJd6cgMxKJqEDo7zOwG",
+                            "name": "HUT GKI Salatiga 82 (jeff) (45).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1A3XHXX986dYt48g0MG9IgS2QnVJpaNe5",
+                            "name": "HUT GKI Salatiga 82 (jeff) (53).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1QjYKGjxs_vVBzTZE_9joKqZfIi5Mhh2L",
+                            "name": "HUT GKI Salatiga 82 (jeff) (59).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1ofxrcPE7AxbFm0WlvrqT0SuOonvCah6k",
+                            "name": "HUT GKI Salatiga 82 (jeff) (52).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1hVQpC_TWZdZSmJh1hCZLku55ZqlZvw9X",
+                            "name": "HUT GKI Salatiga 82 (jeff) (48).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1y8TVM2ERiSgSxr8am8k2qEjLEEFyedMd",
+                            "name": "HUT GKI Salatiga 82 (jeff) (55).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1rX0yV6xaCT-OdWiZlZUYwyyVRKclCwbS",
+                            "name": "HUT GKI Salatiga 82 (jeff) (60).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1x5iVxmEn6Y44Jc2J5uEZ0vEfsuVMBph0",
+                            "name": "HUT GKI Salatiga 82 (jeff) (57).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1y0QC6OCTDz4GPg1KbbaJ9l7JiF-a_lXn",
+                            "name": "HUT GKI Salatiga 82 (jeff) (38).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1irVj9whCb1SYir3zq7CxH3Uugc7oL7KQ",
+                            "name": "HUT GKI Salatiga 82 (jeff) (40).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1aUmvULb8oHKyPVhQUV-dQcfc6zBnEvq_",
+                            "name": "HUT GKI Salatiga 82 (jeff) (39).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "17cD1nacd3KuXYZMoSFSWoFsVidq9mtAl",
+                            "name": "HUT GKI Salatiga 82 (jeff) (37).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1a-TfZsewpdULBozo0xkDot9-cRVn39OS",
+                            "name": "HUT GKI Salatiga 82 (jeff) (36).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1ArsxffrTzZns1xXyOLWg92M9-MohnZX2",
+                            "name": "HUT GKI Salatiga 82 (jeff) (28).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Yo9eXRPFhOD2El91NUz7aHSAaGZZYYpX",
+                            "name": "HUT GKI Salatiga 82 (jeff) (35).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1GmMenPc9kWPWJzQ8_myN4SrIkJnTjwNi",
+                            "name": "HUT GKI Salatiga 82 (jeff) (33).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Aq6hela_anWHB0HRBc_5kNKJVjtjr5f2",
+                            "name": "HUT GKI Salatiga 82 (jeff) (25).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "10X9pisYCdhavbV8ar9mVHYxtLg6LYkdF",
+                            "name": "HUT GKI Salatiga 82 (jeff) (31).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1BuEA8lo2IMQ_DQGAlN_O3UV5X8i-tPK2",
+                            "name": "HUT GKI Salatiga 82 (jeff) (32).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1rwkeIUTIpBKP8WyeQZmPtLJt7xjajVMb",
+                            "name": "HUT GKI Salatiga 82 (jeff) (22).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1LsTDcVq0juFOXbfqw6wWOINff63Sl4xy",
+                            "name": "HUT GKI Salatiga 82 (jeff) (23).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1eTZ5IVbrY-xU_-Ir6T85anOg4kXHfULO",
+                            "name": "HUT GKI Salatiga 82 (jeff) (17).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1Q5wLJtGxWRfUMqN32dvUW6w5NljjOBGR",
+                            "name": "HUT GKI Salatiga 82 (jeff) (7).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1bjgNg_rcUcHroJxOHGv0or9FKqXa1d1I",
+                            "name": "HUT GKI Salatiga 82 (jeff) (8).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "13ywLhGim2PM1EpbfG-7a7vIif4EQuXOr",
+                            "name": "HUT GKI Salatiga 82 (jeff) (15).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "111bIE5X8IhCVBR-drchVewbckw7hV3ff",
+                            "name": "HUT GKI Salatiga 82 (jeff) (9).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "11c5NOkmwAxOKMT0T7UyOql2eijrwO7aM",
+                            "name": "HUT GKI Salatiga 82 (jeff) (6).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1FGfVb-V8XjW1dbdgNaNT13MeIU3rdmkm",
+                            "name": "HUT GKI Salatiga 82 (jeff) (13).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "16l9GKbJV84H6U36blIqSThRS_FMH2QVL",
+                            "name": "HUT GKI Salatiga 82 (jeff) (16).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1zHQvKIuiPGOCWmWrwvxLrLqerbk749BU",
+                            "name": "HUT GKI Salatiga 82 (jeff) (4).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1TCU7A5H118TsGxwegu4qhJoQxphXrkVl",
+                            "name": "HUT GKI Salatiga 82 (jeff) (10).JPG",
+                            "date": "2025-01-26"
+                        },
+                        {
+                            "id": "1JNTe7zK-Nz10m7b8RZzrxw3Q-mDLNpmp",
+                            "name": "HUT GKI Salatiga 82 (jeff) (2).JPG",
+                            "date": "2025-01-26"
                         }
                     ]
                 }
