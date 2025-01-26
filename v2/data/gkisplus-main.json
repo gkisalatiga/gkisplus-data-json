@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2785,
-        "last-update": 1737891137,
+        "update-count": 2786,
+        "last-update": 1737893651,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3849,6 +3849,20 @@
                 "pic": "Yulistiani Mabilaka",
                 "status": "w",
                 "note": "Teh"
+            },
+            {
+                "name": "Latihan pemusik KHI untuk English Service GKI Salatiga 2 Februari 2025",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-01-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
