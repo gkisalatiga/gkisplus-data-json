@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2788,
-        "last-update": 1737916114,
-        "last-updated-item": "ykb",
+        "update-count": 2789,
+        "last-update": 1737922489,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Jan 2025 | Setia",
+                        "date": "2025-01-26",
+                        "desc": "Dibawakan oleh Ibu Renny Handayani",
+                        "link": "https://www.youtube.com/watch?v=cU4pPuyPwNQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/cU4pPuyPwNQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Jan 2025",
                         "date": "2025-01-24",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Adita Sutresna",
                         "link": "https://www.youtube.com/watch?v=xyP0wHG1Y3I",
                         "thumbnail": "https://i1.ytimg.com/vi/xyP0wHG1Y3I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |13 Jan  2025 | Allah Senantiasa Menuntun Kepada Jalan Keselamatan",
-                        "date": "2025-01-12",
-                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                        "link": "https://www.youtube.com/watch?v=5jclLb3_Ppg",
-                        "thumbnail": "https://i2.ytimg.com/vi/5jclLb3_Ppg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
