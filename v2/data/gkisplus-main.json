@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2783,
-        "last-update": 1737846545,
-        "last-updated-item": "pdf",
+        "update-count": 2784,
+        "last-update": 1737866178,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3273,7 +3273,7 @@
                 "place": "Ruang Kana (Lantai 2),  ",
                 "representative": "Wilayah",
                 "pic": "Bu Ning Wilayah 5",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
