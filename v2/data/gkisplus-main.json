@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2791,
-        "last-update": 1738002669,
-        "last-updated-item": "ykb",
+        "update-count": 2792,
+        "last-update": 1738008985,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 29 Jan 2025 | Tuhan Adalah Sumber Segala Berkat dan Kebahagiaan",
-                        "date": "2025-01-27",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=8fL4KmFanKc",
-                        "thumbnail": "https://i1.ytimg.com/vi/8fL4KmFanKc/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 28 Jan 2025 | Kesanggupan Kita Adalah Pekerjaan Allah",
                         "date": "2025-01-27",
                         "desc": "Dibawakan oleh Sdri. Jantini Natangku",
                         "link": "https://www.youtube.com/watch?v=z_oXusDkdSA",
                         "thumbnail": "https://i3.ytimg.com/vi/z_oXusDkdSA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Jan 2025 | Tuhan Adalah Sumber Segala Berkat dan Kebahagiaan",
+                        "date": "2025-01-27",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=8fL4KmFanKc",
+                        "thumbnail": "https://i1.ytimg.com/vi/8fL4KmFanKc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 27 Jan 2025 | Setia",
