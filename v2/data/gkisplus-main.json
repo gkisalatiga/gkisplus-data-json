@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2789,
-        "last-update": 1737922489,
+        "update-count": 2790,
+        "last-update": 1737976684,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Jan 2025 | Tuhan Adalah Sumber Segala Berkat dan Kebahagiaan",
+                        "date": "2025-01-27",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=8fL4KmFanKc",
+                        "thumbnail": "https://i1.ytimg.com/vi/8fL4KmFanKc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Jan 2025 | Kesanggupan Kita Adalah Pekerjaan Allah",
+                        "date": "2025-01-27",
+                        "desc": "Dibawakan oleh Sdri. Jantini Natangku",
+                        "link": "https://www.youtube.com/watch?v=z_oXusDkdSA",
+                        "thumbnail": "https://i3.ytimg.com/vi/z_oXusDkdSA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Jan 2025 | Setia",
                         "date": "2025-01-26",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Adoltina Muloko",
                         "link": "https://www.youtube.com/watch?v=wxOcBeHPLUI",
                         "thumbnail": "https://i4.ytimg.com/vi/wxOcBeHPLUI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Jan  2025 | Dalam Genggaman Tuhan",
-                        "date": "2025-01-14",
-                        "desc": "Dibawkan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=j7JAnFFfwTA",
-                        "thumbnail": "https://i3.ytimg.com/vi/j7JAnFFfwTA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Jan 2025",
-                        "date": "2025-01-13",
-                        "desc": "Dibawakan oleh Pnt. Adita Sutresna",
-                        "link": "https://www.youtube.com/watch?v=xyP0wHG1Y3I",
-                        "thumbnail": "https://i1.ytimg.com/vi/xyP0wHG1Y3I/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
