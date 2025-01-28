@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2794,
-        "last-update": 1738062452,
+        "update-count": 2795,
+        "last-update": 1738074987,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3885,6 +3885,20 @@
                 "timezone": "WIB",
                 "date": "2025-02-01",
                 "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik English Service KHI",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-01-29",
+                "weekday": "wed",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
