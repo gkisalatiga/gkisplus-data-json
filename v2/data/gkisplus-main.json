@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2798,
-        "last-update": 1738138327,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2799,
+        "last-update": 1738149449,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Feb 2025 | Bersama Tuhan Kita Pasti Bisa",
+                        "date": "2025-01-29",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=2D-kkQwn8h4",
+                        "thumbnail": "https://i3.ytimg.com/vi/2D-kkQwn8h4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Jan 2025 | Tujuan Tuhan dalam Hidup KIta",
+                        "date": "2025-01-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=hnL6tZCSWFI",
+                        "thumbnail": "https://i1.ytimg.com/vi/hnL6tZCSWFI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Jan 2025 | Tuhan Adalah Sumber Segala Berkat dan Kebahagiaan",
                         "date": "2025-01-28",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Yari Dwi Kurnaningsih",
                         "link": "https://www.youtube.com/watch?v=itg8F-GzGt0",
                         "thumbnail": "https://i2.ytimg.com/vi/itg8F-GzGt0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Jan 2025",
-                        "date": "2025-01-16",
-                        "desc": "Dibawakan oleh Ibu Retty Andrea",
-                        "link": "https://www.youtube.com/watch?v=L1p8wfWQMRc",
-                        "thumbnail": "https://i1.ytimg.com/vi/L1p8wfWQMRc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Jan 2025 | Hidup Kekal",
-                        "date": "2025-01-15",
-                        "desc": "Dibawakan oleh Sdri. Adoltina Muloko",
-                        "link": "https://www.youtube.com/watch?v=wxOcBeHPLUI",
-                        "thumbnail": "https://i4.ytimg.com/vi/wxOcBeHPLUI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
