@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2801,
-        "last-update": 1738175456,
-        "last-updated-item": "ykb",
+        "update-count": 2802,
+        "last-update": 1738181767,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 1 Feb 2025 | Bersama Tuhan Kita Pasti Bisa",
-                        "date": "2025-01-29",
-                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
-                        "link": "https://www.youtube.com/watch?v=2D-kkQwn8h4",
-                        "thumbnail": "https://i3.ytimg.com/vi/2D-kkQwn8h4/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 30 Jan 2025 | Tujuan Tuhan dalam Hidup KIta",
                         "date": "2025-01-29",
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=hnL6tZCSWFI",
                         "thumbnail": "https://i1.ytimg.com/vi/hnL6tZCSWFI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Feb 2025 | Bersama Tuhan Kita Pasti Bisa",
+                        "date": "2025-01-29",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=2D-kkQwn8h4",
+                        "thumbnail": "https://i3.ytimg.com/vi/2D-kkQwn8h4/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 29 Jan 2025 | Tuhan Adalah Sumber Segala Berkat dan Kebahagiaan",
