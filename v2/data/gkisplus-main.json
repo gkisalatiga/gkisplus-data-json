@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2799,
-        "last-update": 1738149449,
-        "last-updated-item": "yt",
+        "update-count": 2800,
+        "last-update": 1738152967,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3915,6 +3915,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Paskah KA",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
