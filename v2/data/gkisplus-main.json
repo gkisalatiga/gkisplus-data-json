@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2802,
-        "last-update": 1738181767,
-        "last-updated-item": "yt",
+        "update-count": 2803,
+        "last-update": 1738202767,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3887,7 +3887,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3901,7 +3901,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3915,7 +3915,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3929,7 +3929,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
