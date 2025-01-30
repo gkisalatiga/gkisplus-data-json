@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2807,
-        "last-update": 1738219219,
+        "update-count": 2808,
+        "last-update": 1738235259,
         "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3174,6 +3174,34 @@
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
                 "note": ""
             }
         ],
