@@ -29,6 +29,7 @@ day_keys_dict = {
 
 # The dictionary of commissions in GKI Salatiga.
 commission_dict = {
+    "Kantor": "Kantor Tata Usaha GKI Salatiga",
     "MJ": "Majelis Jemaat",
     "Majelis Jemaat": "Majelis Jemaat",
     "KUL": "Komisi Usia Lanjut",
@@ -44,12 +45,18 @@ commission_dict = {
     "Komsarpras dan Mulmed": "Komisi Sarana Prasarana dan Multimedia",
     "KDT": "Komisi Diakonia The Koen Bik",
     "Tim Samaria": "Tim Samaria",
+    "TIM WARTIB": "Tim Warung Tiberias",
     "Tim Waroeng Tiberias": "Tim Warung Tiberias",
     "Wilayah": "Wilayah",
+    "WILAYAH": "Wilayah",
     "Panitia": "Panitia",
+    "TK K 3": "TK Kristen 03 Eben Haezer",
     "TK K 03 Eben Haezer": "TK Kristen 03 Eben Haezer",
+    "SD K 3": "SD Kristen 03 Eben Haezer",
     "SD K 03 Eben Haezer": "SD Kristen 03 Eben Haezer",
+    "SD K 4": "SD Kristen 04 Eben Haezer",
     "SD K 04 Eben Haezer": "SD Kristen 04 Eben Haezer",
+    "SMP K 2": "SMP Kristen 02 Salatiga",
     "SMP K 02 Salatiga": "SMP Kristen 02 Salatiga",
     "Lainnya": "Lainnya",
 }
