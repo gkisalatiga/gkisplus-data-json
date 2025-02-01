@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2813,
-        "last-update": 1738378762,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2814,
+        "last-update": 1738387182,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -103,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=JuLKxR2IeTU",
                         "thumbnail": "https://i3.ytimg.com/vi/JuLKxR2IeTU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Jan 2025",
-                        "date": "2025-01-17",
-                        "desc": "Dibawakan oleh Ibu Yari Dwi Kurnaningsih",
-                        "link": "https://www.youtube.com/watch?v=itg8F-GzGt0",
-                        "thumbnail": "https://i2.ytimg.com/vi/itg8F-GzGt0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -325,6 +318,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "GKI Salatiga | English Service | Sunday, February 2nd, 2025 | 10 a.m. Jakarta Time",
+                        "date": "2025-01-31",
+                        "desc": "THE NEW EARTH\nRevelation 21:1\n\nLed by\nMr. Alexander Kirk\n\nPL: Gita H.\nPrayer: Nadia S.\nReader: Mr. Alexander Kirk\nOffertory: Rangga\nPrayer ES: Diane N., Elza\nMultimedia: Bambang, Joaquim\nPemusik: Lyka n team\nSL: Maria, Rambu",
+                        "link": "https://www.youtube.com/watch?v=c7iAktO5C8A",
+                        "thumbnail": "https://i.ytimg.com/vi/c7iAktO5C8A/hqdefault_live.jpg"
+                    },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, December 8th, 2024 | 10 a.m. Jakarta Time",
                         "date": "2024-12-06",
