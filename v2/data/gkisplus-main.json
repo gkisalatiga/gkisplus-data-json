@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2816,
-        "last-update": 1738408550,
-        "last-updated-item": "yt",
+        "update-count": 2817,
+        "last-update": 1738418821,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3240,6 +3240,34 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Kebaktian Jumat Agung KA",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-04-18",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Kebaktian Paskah KA",
+                "time": "07:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-04-26",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
