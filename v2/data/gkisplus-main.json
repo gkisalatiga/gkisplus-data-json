@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2817,
-        "last-update": 1738418821,
-        "last-updated-item": "agenda-ruangan",
+        "update-count": 2818,
+        "last-update": 1738424698,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -1615,464 +1615,514 @@
         "agenda": {
             "sun": [
                 {
-                    "name": "Sekolah Minggu",
+                    "name": "KEBAKTIAN UMUM I",
                     "time": "07:00",
                     "time-to": "08:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Betlehem & SD Kristen 03",
-                    "representative": "Komisi Anak",
-                    "note": ""
-                },
-                {
-                    "name": "Kebaktian Umum I",
-                    "time": "07:00",
-                    "time-to": "08:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Majelis Jemaat",
                     "note": ""
                 },
                 {
-                    "name": "Kebaktian Remaja",
+                    "name": "SEKOLAH MINGGU",
+                    "time": "07:00",
+                    "time-to": "08:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "BETLEHEM",
+                    "representative": "Komisi Anak",
+                    "note": ""
+                },
+                {
+                    "name": "KEBAKTIAN REMAJA",
                     "time": "07:30",
                     "time-to": "09:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
+                    "place": "KANA",
                     "representative": "Komisi Remaja",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PSA",
+                    "name": "LATIHAN PSA",
                     "time": "09:00",
                     "time-to": "10:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Betlehem",
+                    "place": "BETLEHEM",
                     "representative": "Komisi Anak",
                     "note": ""
                 },
                 {
-                    "name": "Kebaktian Umum II",
+                    "name": "KEBAKTIAN UMUM II",
                     "time": "09:30",
                     "time-to": "11:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Majelis Jemaat",
                     "note": ""
                 },
                 {
-                    "name": "English Service",
+                    "name": "ENGLISH SERVISE",
                     "time": "10:00",
                     "time-to": "11:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
+                    "place": "KANA",
                     "representative": "Komisi Hubungan Internasional",
-                    "note": "Dilakukan setiap minggu pertama atau minggu kedua setiap bulan (jika ada Perjamuan Kudus di minggu pertama)."
+                    "note": "MINGGU 1 ATAU MINGGU 2 JIKA ADA PK DI MINGGU 1"
                 },
                 {
-                    "name": "Kebaktian Umum III",
+                    "name": "KEBAKTIAN UMUM III",
                     "time": "16:30",
                     "time-to": "18:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Majelis Jemaat",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PSW Pesparawi",
+                    "name": "LATIHAN PSW PESPARAWI",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum",
+                    "place": "KAPERNAUM",
                     "representative": "Eriyani",
-                    "note": "Sampai Juni 2025"
+                    "note": "Sampai JUNI 2025"
                 },
                 {
-                    "name": "Latihan PSP Pesparawi",
+                    "name": "LATIHAN PSP PESPARAWI",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Betlehem/Kana",
+                    "place": "BETLEHEM/KANA",
                     "representative": "Eriyani",
-                    "note": "Sampai Juni 2025"
+                    "note": "Sampai JUNI 2025"
                 },
                 {
-                    "name": "Latihan PSDC Pesparawi",
+                    "name": "LATIHAN PSDC PESPARAWI",
                     "time": "18:30",
                     "time-to": "20:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Eriyani",
-                    "note": "Sampai Juni 2025"
+                    "note": "Sampai JUNI 2025"
                 }
             ],
             "mon": [
                 {
-                    "name": "Doa Tengah Hari",
+                    "name": "DOA TENGAH HARI",
                     "time": "12:00",
                     "time-to": "13:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum",
+                    "place": "KAPERNAUM",
                     "representative": "Majelis Jemaat",
                     "note": ""
                 },
                 {
-                    "name": "Line Dance",
+                    "name": "LINE DANCE",
                     "time": "16:00",
                     "time-to": "17:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Lap. SD Kristen 03/Ruang Kana",
+                    "place": "LAP. SD K3 / KANA",
                     "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PS. SD Kristen 03",
+                    "name": "LATIHAN PS. SD K 3",
                     "time": "16:00",
                     "time-to": "17:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PS. Imanuel",
+                    "name": "LATIHAN PS.IMANUEL",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Komisi Pengajaran dan Pengabaran Injil",
+                    "place": "KAPERNAUM",
+                    "representative": "Komisi Pengajaran dan Pekabaran Injil",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PS. Sola Gracia",
+                    "name": "LATIHAN PS. SOLAGRACIA",
                     "time": "17:30",
                     "time-to": "19:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Komisi Pengajaran dan Pengabaran Injil",
+                    "place": "GEDUNG GEREJA",
+                    "representative": "Komisi Pengajaran dan Pekabaran Injil",
                     "note": ""
                 },
                 {
-                    "name": "Persiapan Pemandu Pemahaman Alkitab",
+                    "name": "PERSIAPAN PEMANDU PA",
                     "time": "18:00",
                     "time-to": "19:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Konsistori",
+                    "place": "KONSISTORI",
                     "representative": "Majelis Jemaat",
                     "note": ""
                 },
                 {
-                    "name": "Persiapan Pemandu Pemahaman Alkitab",
+                    "name": "PERSIAPAN PEMANDU PA",
                     "time": "18:00",
                     "time-to": "19:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Betlehem",
+                    "place": "BETLEHEM",
                     "representative": "",
-                    "note": "Dilakukan pada minggu ketiga, sebelum PMJ"
+                    "note": "MINGGU KETIGA, SENIN SEBELUM PMJ"
                 },
                 {
-                    "name": "Rapat Majelis Jemaat Bidang I",
+                    "name": "RAPAT MJ BIDANG 1",
                     "time": "18:00",
                     "time-to": "20:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Konsistori",
-                    "representative": "Majelis Jemaat",
-                    "note": "Dilakukan pada minggu ketiga sebelum PMJ setiap bulan"
+                    "place": "KONSISTORI",
+                    "representative": "",
+                    "note": "MINGGU KETIGA, SENIN SEBELUM PMJ"
                 }
             ],
             "tue": [
                 {
-                    "name": "Ibadah Rutin SMP Kristen 02",
+                    "name": "IBADAH RUTIN SMP K 2",
                     "time": "07:00",
                     "time-to": "08:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "SMP Kristen 02",
+                    "place": "GEDUNG GEREJA",
+                    "representative": "SMP K 2",
                     "note": ""
                 },
                 {
-                    "name": "Pemahaman Alkitab Wilayah",
+                    "name": "PA GABUNGAN MINGGU KE-5",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Wilayah masing-masing",
-                    "representative": "Komisi Pengajaran dan Pengabaran Injil",
+                    "place": "GEDUNG GEREJA",
+                    "representative": "Komisi Pengajaran dan Pekabaran Injil",
                     "note": ""
                 },
                 {
-                    "name": "Pemahaman Alkitab Gabungan",
+                    "name": "PA WILAYAH",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Komisi Pengajaran dan Pengabaran Injil",
-                    "note": "Dilakukan pada setiap minggu kelima"
-                }
-            ],
-            "wed": [
-                {
-                    "name": "Doa Ibu-Ibu Orang Tua SD Kristen 03",
-                    "time": "08:00",
-                    "time-to": "09:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum/Betlehem",
-                    "representative": "SD Kristen 03",
-                    "note": ""
+                    "place": "KAPERNAUM",
+                    "representative": "WILAYAH",
+                    "note": "OPSIONAL"
                 },
                 {
-                    "name": "Katekisasi Reguler",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kana",
-                    "representative": "Majelis Jemaat",
-                    "note": ""
-                },
-                {
-                    "name": "Kambium",
+                    "name": "PA WILAYAH",
                     "time": "18:00",
                     "time-to": "19:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Konsistori",
+                    "place": "BETLEHEM",
+                    "representative": "WILAYAH",
+                    "note": "OPSIONAL"
+                },
+                {
+                    "name": "PA WILAYAH",
+                    "time": "18:00",
+                    "time-to": "19:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KONSISTORI",
+                    "representative": "WILAYAH",
+                    "note": "OPSIONAL"
+                }
+            ],
+            "wed": [
+                {
+                    "name": "DOA IBU2 ORTU SD K 3",
+                    "time": "08:00",
+                    "time-to": "09:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KAPERNAUM/BETLEHEM",
+                    "representative": "SD K 3",
+                    "note": ""
+                },
+                {
+                    "name": "KATEKISASI REGULER",
+                    "time": "17:00",
+                    "time-to": "18:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KANA",
+                    "representative": "Majelis Jemaat",
+                    "note": ""
+                },
+                {
+                    "name": "KAMBIUM",
+                    "time": "18:00",
+                    "time-to": "19:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KONSISTORI",
                     "representative": "Komisi Dewasa",
+                    "note": ""
+                },
+                {
+                    "name": "RAPAT PANITIA MASA RAYA PASKAH",
+                    "time": "18:00",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KAPERNAUM",
+                    "representative": "PANITIA",
                     "note": ""
                 }
             ],
             "thu": [
                 {
-                    "name": "Doa Ibu-Ibu Orang Tua SD Kristen 04",
+                    "name": "DOA IBU2 ORTU SD K 4",
                     "time": "08:00",
                     "time-to": "09:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum/Betlehem",
-                    "representative": "SD Kristen 04",
+                    "place": "KAPERNAUM/BETLEHEM",
+                    "representative": "SD K 4",
                     "note": ""
                 },
                 {
-                    "name": "Ibadah Komisi Usia Lanjut",
+                    "name": "KUL BULANAN",
                     "time": "16:00",
                     "time-to": "17:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Komisi Usia Lanjut",
-                    "note": "Dilakukan pada minggu ketiga setiap bulan"
+                    "note": "MINGGU KE-3"
                 },
                 {
-                    "name": "Latihan Persekutuan SODA",
+                    "name": "LATIHAN SODA",
                     "time": "18:00",
                     "time-to": "21:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
+                    "place": "KANA",
                     "representative": "Komisi Pemuda",
                     "note": ""
                 },
                 {
-                    "name": "Persidangan Majelis Jemaat",
+                    "name": "PMJ MINGGU KE-3",
                     "time": "18:30",
                     "time-to": "21:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Konsistori",
+                    "place": "KONSISTORI",
                     "representative": "Majelis Jemaat",
-                    "note": "Dilakukan pada minggu ketiga setiap bulan"
+                    "note": ""
                 }
             ],
             "fri": [
                 {
-                    "name": "Ibadah Rutin SD Kristen 03 - Kelas Kecil",
+                    "name": "IBADAH RUTIN SD K 03",
                     "time": "07:00",
                     "time-to": "08:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "SD Kristen 03",
-                    "note": ""
+                    "place": "GEDUNG GEREJA",
+                    "representative": "SD K 3",
+                    "note": "KELAS KECIL"
                 },
                 {
-                    "name": "Ibadah Rutin SD Kristen 04",
+                    "name": "IBADAH RUTIN SD K 04",
                     "time": "08:00",
                     "time-to": "08:45",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "SD Kristen 04",
+                    "place": "GEDUNG GEREJA",
+                    "representative": "SD K 4",
                     "note": ""
                 },
                 {
-                    "name": "Persekutuan Jumat Komisi Usia Lanjut",
+                    "name": "PERSEKUTUAN JUMAT KUL",
                     "time": "10:00",
                     "time-to": "11:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum",
+                    "place": "KAPERNAUM",
                     "representative": "Komisi Usia Lanjut",
-                    "note": "Dilakukan pada minggu pertama dan keempat setiap bulan."
+                    "note": "Minggu 1 dan 4"
                 },
                 {
-                    "name": "Ibadah Rutin SD Kristen 03 - Kelas Besar",
+                    "name": "IBADAH RUTIN SD K 03",
                     "time": "11:00",
                     "time-to": "12:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "SD Kristen 03",
-                    "note": ""
+                    "place": "GEDUNG GEREJA",
+                    "representative": "SD K 3",
+                    "note": "KELAS BESAR"
                 },
                 {
-                    "name": "Latihan PS. SD Kristen 03",
+                    "name": "LATIHAN PS. SD K 3",
                     "time": "13:30",
                     "time-to": "14:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PS. Imanuel",
+                    "name": "LATIHAN PS IMANUEL",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Vivi",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PS. Hosana",
+                    "name": "LATIHAN PS. HOSANA",
                     "time": "17:00",
                     "time-to": "18:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Betlehem",
-                    "representative": "",
-                    "note": ""
-                },
-                {
-                    "name": "Kelompok Tumbuh Bersama (KTB) Komisi Remaja",
-                    "time": "17:00",
-                    "time-to": "19:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
+                    "place": "BETLEHEM",
                     "representative": "Komisi Remaja",
                     "note": ""
                 },
                 {
-                    "name": "Latihan Persekutuan SODA",
+                    "name": "KTB KOMISI REMAJA",
+                    "time": "17:00",
+                    "time-to": "19:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KAPERNAUM",
+                    "representative": "Komisi Pemuda",
+                    "note": ""
+                },
+                {
+                    "name": "LATIHAN SODA",
                     "time": "18:00",
                     "time-to": "21:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
-                    "representative": "Komisi Pemuda",
+                    "place": "KANA",
+                    "representative": "",
                     "note": ""
                 }
             ],
             "sat": [
                 {
-                    "name": "Persekutuan Karyawan",
+                    "name": "PERSEKUTUAN KARYAWAN",
                     "time": "08:00",
                     "time-to": "09:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Kantor Gereja",
-                    "note": "Dilakukan pada minggu ketiga setiap bulan."
+                    "place": "KAPERNAUM",
+                    "representative": "KANTOR",
+                    "note": "MINGGU KE-3"
                 },
                 {
-                    "name": "Latihan PS. Efrata",
+                    "name": "LATIHAN RUTIN PADUAN SUARA EFRATA",
                     "time": "10:00",
                     "time-to": "11:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Komisi Usia Lanjut",
                     "note": ""
                 },
                 {
-                    "name": "Waroeng Tiberias",
+                    "name": "WAROENG TIBERIAS",
                     "time": "11:00",
                     "time-to": "13:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Betlehem & Teras Gereja",
-                    "representative": "Tim Waroeng Tiberias",
+                    "place": "BETLEHEM & TERAS",
+                    "representative": "TIM WARTIB",
                     "note": ""
                 },
                 {
-                    "name": "Latihan Sekolah Minggu",
+                    "name": "PERSIAPAN TIM DEKOR NATAL",
+                    "time": "13:30",
+                    "time-to": "16:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "KAPERNAUM",
+                    "representative": "",
+                    "note": ""
+                },
+                {
+                    "name": "LATIHAN SEKOLAH MINGGU",
                     "time": "14:00",
                     "time-to": "16:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
-                    "representative": "Komisi Anak",
+                    "place": "KANA",
+                    "representative": "KANTOR",
                     "note": ""
                 },
                 {
-                    "name": "Persekutuan Sobat Muda (SODA)",
+                    "name": "KEBAKTIAN SODA",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
+                    "place": "KANA",
                     "representative": "Komisi Pemuda",
                     "note": ""
                 },
                 {
-                    "name": "Gladi Bersih Kebaktian Minggu",
+                    "name": "GLADI BERSIH KEBAKTIAN MINGGU",
                     "time": "17:00",
                     "time-to": "18:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Gedung Utama GKI Salatiga",
+                    "place": "GEDUNG GEREJA",
                     "representative": "Majelis Jemaat",
                     "note": ""
                 },
                 {
-                    "name": "Latihan PS. Magnificat",
+                    "name": "LATIHAN PS.MAGNIFICAT",
                     "time": "18:00",
                     "time-to": "19:30",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kapernaum",
+                    "place": "KAPERNAUM",
                     "representative": "Komisi Musik dan Liturgi",
-                    "note": "Dimulai kembali pada Februari 2025"
+                    "note": "SEMENTARA LIBUR"
                 },
                 {
-                    "name": "Persiapan Kebaktian Komisi Remaja",
+                    "name": "LATIHAN PS GKI SALATIGA ",
+                    "time": "18:30",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "GEDUNG GEREJA",
+                    "representative": "Komisi Musik dan Liturgi",
+                    "note": ""
+                },
+                {
+                    "name": "LATIHAN IBADAH KR",
                     "time": "19:00",
                     "time-to": "21:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Kana",
+                    "place": "KANA",
                     "representative": "Komisi Remaja",
                     "note": ""
                 }
@@ -3270,6 +3320,20 @@
                 "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Kegiatan 123",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-01-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang 123",
+                "representative": "Samarthya",
+                "pic": "Samarthya",
+                "status": "n",
+                "note": "Testing"
             }
         ],
         "backend": {

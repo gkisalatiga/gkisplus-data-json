@@ -1,5 +1,5 @@
-name: v2 - Scraping "Pinjam Ruang" Data
-run-name: ${{ github.actor }} is updating the room borrowing data 🚀
+name: v2 - Scraping "Agenda" Data
+run-name: ${{ github.actor }} is updating the agenda and room borrowing data 🚀
 on:
   # Manual trigger.
   workflow_dispatch:
@@ -37,13 +37,13 @@ jobs:
       
       # SOURCE: https://www.geeksforgeeks.org/run-python-script-in-github-actions/
       - name: Running the updater
-        run: python v2/scripts/scraper_pinjamruang.py
+        run: python v2/scripts/scraper_agenda.py
       
       # SOURCE: https://github.com/marketplace/actions/add-commit-and-push
       - name: Commiting changes to files
         uses: actions4git/setup-git@v1
       - run: git add v2/*
-      - run: git commit --message "(v2) Scraped the Pinjam Ruang content"
+      - run: git commit --message "(v2) Scraped the Agenda and Pinjam Ruang content"
       - run: git push origin main --force
         
       - run: echo "🍏 This job's status is ${{ job.status }}."
