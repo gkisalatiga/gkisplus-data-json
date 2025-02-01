@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2812,
-        "last-update": 1738354541,
-        "last-updated-item": "yt",
+        "update-count": 2813,
+        "last-update": 1738378762,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3208,6 +3208,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi resik petugas ibadah English Service",
+                "time": "11:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-02-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
