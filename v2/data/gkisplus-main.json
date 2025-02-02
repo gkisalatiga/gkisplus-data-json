@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2826,
-        "last-update": 1738505865,
+        "last-update": 1738512231,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2751,46 +2751,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "title": "Ibadah Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2025-02-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
-                "title": "Kebaktian Remaja",
-                "type": "poster",
-                "date-created": "2025-02-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_es.webp",
-                "title": "English Service",
-                "type": "poster",
-                "date-created": "2025-02-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_es.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_aplikasi.webp",
-                "title": "Aplikasi GKI Salatiga+",
-                "type": "poster",
-                "date-created": "2025-01-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_aplikasi.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi Pundi Samaria",
-                "type": "poster",
-                "date-created": "2025-01-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
@@ -2810,7 +2770,7 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "poster",
-                "date-created": "2025-01-25",
+                "date-created": "2025-02-02",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
@@ -2821,6 +2781,22 @@
                 "date-created": "2025-02-02",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "title": "Pundi Pundi Samaria",
+                "type": "poster",
+                "date-created": "2025-02-02",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_aplikasi.webp",
+                "title": "Aplikasi GKI Salatiga+",
+                "type": "poster",
+                "date-created": "2025-01-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_aplikasi.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
