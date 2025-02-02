@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2821,
-        "last-update": 1738450796,
-        "last-updated-item": "ykb",
+        "update-count": 2822,
+        "last-update": 1738460701,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3153,7 +3153,7 @@
                 "date": "2025-02-04",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2),  ",
+                "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Bu Ning Wilayah 5",
                 "status": "c",
