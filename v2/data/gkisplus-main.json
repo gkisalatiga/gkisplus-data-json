@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2828,
-        "last-update": 1738520957,
-        "last-updated-item": "ykb",
+        "update-count": 2829,
+        "last-update": 1738527274,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 4 Feb 2025",
-                        "date": "2025-02-02",
-                        "desc": "Dibawakan oleh Bpk. Petrus Sutomo",
-                        "link": "https://www.youtube.com/watch?v=s5OODrAs-xg",
-                        "thumbnail": "https://i4.ytimg.com/vi/s5OODrAs-xg/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 3 Feb 2025",
                         "date": "2025-02-02",
                         "desc": "Dibawakan oleh Bpk. Junianto",
                         "link": "https://www.youtube.com/watch?v=TgZAKGR5IbE",
                         "thumbnail": "https://i1.ytimg.com/vi/TgZAKGR5IbE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Feb 2025",
+                        "date": "2025-02-02",
+                        "desc": "Dibawakan oleh Bpk. Petrus Sutomo",
+                        "link": "https://www.youtube.com/watch?v=s5OODrAs-xg",
+                        "thumbnail": "https://i4.ytimg.com/vi/s5OODrAs-xg/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 1 Feb 2025 | Bersama Tuhan Kita Pasti Bisa",
