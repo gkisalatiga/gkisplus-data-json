@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2822,
-        "last-update": 1738460701,
+        "update-count": 2823,
+        "last-update": 1738470205,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3308,6 +3308,20 @@
                 "weekday": "sat",
                 "type": "proposal",
                 "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH KA",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
                 "status": "w",
