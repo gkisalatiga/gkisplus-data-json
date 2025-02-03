@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2830,
-        "last-update": 1738550938,
+        "update-count": 2831,
+        "last-update": 1738553183,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3316,6 +3316,20 @@
                 "pic": "Indry Mabilaka",
                 "status": "y",
                 "note": "Teh"
+            },
+            {
+                "name": "Persiapan dan Cek sound untuk PS. Keb.Pernikahan",
+                "time": "15:30",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2025-02-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "GKI Bromo Malang- Sdri. Clarissa",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
