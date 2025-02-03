@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2831,
-        "last-update": 1738553183,
+        "update-count": 2832,
+        "last-update": 1738560045,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3329,6 +3329,34 @@
                 "representative": "Majelis Jemaat",
                 "pic": "GKI Bromo Malang- Sdri. Clarissa",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah V",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Ibu Titik Budiati",
+                "pic": "Ibu Titik Budiarti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah V",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Tri Wibowo",
+                "pic": "Ibu Tri Wibowo",
+                "status": "w",
                 "note": ""
             }
         ],
