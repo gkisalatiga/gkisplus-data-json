@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2837,
-        "last-update": 1738637283,
+        "update-count": 2838,
+        "last-update": 1738643097,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3319,8 +3319,8 @@
             },
             {
                 "name": "Persiapan dan Cek sound untuk PS. Keb.Pernikahan",
-                "time": "15:30",
-                "time-to": "16:30",
+                "time": "20:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2025-02-07",
                 "weekday": "fri",
@@ -3356,7 +3356,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
-                "status": "w",
+                "status": "y",
                 "note": "Tim Elhanan"
             },
             {
@@ -3398,6 +3398,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk dg Ibu Novita P",
+                "time": "14:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-02-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yuniwati dan Pnt.Samuel",
                 "status": "y",
                 "note": ""
             }
