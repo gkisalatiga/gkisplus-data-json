@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2835,
-        "last-update": 1738613768,
-        "last-updated-item": "yt",
+        "update-count": 2836,
+        "last-update": 1738633284,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3330,6 +3330,34 @@
                 "pic": "GKI Bromo Malang- Sdri. Clarissa",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persiapan ibadah minggu",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": "Tim Elhanan"
+            },
+            {
+                "name": "Persiapan ibadah",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": "Tim Elhanan"
             },
             {
                 "name": "PA Wilayah V",
