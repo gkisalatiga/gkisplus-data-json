@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2840,
-        "last-update": 1738651669,
+        "update-count": 2841,
+        "last-update": 1738653609,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3216,6 +3216,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Yuniwati dan Pnt.Samuel",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. Magnificat",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jeffrey Nugroho",
                 "status": "y",
                 "note": ""
             },
