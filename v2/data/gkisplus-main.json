@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2841,
-        "last-update": 1738653609,
-        "last-updated-item": "agenda",
+        "update-count": 2842,
+        "last-update": 1738678853,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Feb 2025 | Tahun Ular",
+                        "date": "2025-02-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=AzpDOOJg65Y",
+                        "thumbnail": "https://i2.ytimg.com/vi/AzpDOOJg65Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Feb 2025",
                         "date": "2025-02-03",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Titik Ernawati",
                         "link": "https://www.youtube.com/watch?v=e-5CiTC4N3I",
                         "thumbnail": "https://i2.ytimg.com/vi/e-5CiTC4N3I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Jan 2025 | Hidup dengan Belas Kasih",
-                        "date": "2025-01-21",
-                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
-                        "link": "https://www.youtube.com/watch?v=XbVrl6iHDbE",
-                        "thumbnail": "https://i1.ytimg.com/vi/XbVrl6iHDbE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
