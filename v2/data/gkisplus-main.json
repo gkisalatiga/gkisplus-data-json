@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2836,
-        "last-update": 1738633284,
+        "update-count": 2837,
+        "last-update": 1738637283,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -1733,7 +1733,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Lapangan SD Kristen 3/Ruang Kana",
-                    "representative": "Komisi Musik dan Liturgi",
+                    "representative": "Komisi Dewasa",
                     "note": ""
                 },
                 {
@@ -1743,7 +1743,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Gedung Gereja",
-                    "representative": "Komisi Musik dan Liturgi",
+                    "representative": "SD K 03",
                     "note": ""
                 },
                 {
@@ -1753,7 +1753,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Ruang Kapernaum",
-                    "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
@@ -1763,6 +1763,16 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Gedung Gereja",
+                    "representative": "Komisi Musik dan Liturgi",
+                    "note": ""
+                },
+                {
+                    "name": "Persiapan Pemandu PA",
+                    "time": "18:00",
+                    "time-to": "19:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Konsistori",
                     "representative": "Komisi Pengajaran dan Pekabaran Injil",
                     "note": ""
                 },
@@ -1772,18 +1782,8 @@
                     "time-to": "19:00",
                     "timezone": "WIB",
                     "type": "rutin",
-                    "place": "Ruang Konsistori",
-                    "representative": "Majelis Jemaat",
-                    "note": ""
-                },
-                {
-                    "name": "Persiapan Pemandu PA",
-                    "time": "18:00",
-                    "time-to": "19:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
                     "place": "Ruang Betlehem",
-                    "representative": "",
+                    "representative": "Komisi Pengajaran dan Pekabaran Injil",
                     "note": "Minggu ketiga, hari Senin sebelum PMJ"
                 },
                 {
@@ -1793,7 +1793,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Ruang Konsistori",
-                    "representative": "",
+                    "representative": "Majelis Jemaat",
                     "note": "Minggu ketiga, hari Senin sebelum PMJ"
                 }
             ],
@@ -1981,7 +1981,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Gedung Gereja",
-                    "representative": "Komisi Musik dan Liturgi",
+                    "representative": "SD Kristen 03 Eben Haezer",
                     "note": ""
                 },
                 {
@@ -1991,7 +1991,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Gedung Gereja",
-                    "representative": "Vivi",
+                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
@@ -2001,7 +2001,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Ruang Betlehem",
-                    "representative": "Komisi Remaja",
+                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
@@ -2011,7 +2011,7 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Ruang Kapernaum",
-                    "representative": "Komisi Pemuda",
+                    "representative": "Komisi Remaja",
                     "note": ""
                 },
                 {
@@ -2021,7 +2021,17 @@
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Ruang Kana",
-                    "representative": "",
+                    "representative": "Komisi Pemuda",
+                    "note": ""
+                },
+                {
+                    "name": "Latihan PS Magnificat",
+                    "time": "18:30",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Gedung Gereja",
+                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 }
             ],
@@ -2057,23 +2067,13 @@
                     "note": ""
                 },
                 {
-                    "name": "Persiapan Tim Dekor Natal",
-                    "time": "13:30",
-                    "time-to": "16:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "",
-                    "note": ""
-                },
-                {
                     "name": "Persiapan Sekolah Minggu",
                     "time": "14:00",
                     "time-to": "16:00",
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Ruang Kana",
-                    "representative": "KANTOR",
+                    "representative": "Komisi Anak",
                     "note": ""
                 },
                 {
@@ -2104,7 +2104,7 @@
                     "type": "rutin",
                     "place": "Ruang Kapernaum",
                     "representative": "Komisi Musik dan Liturgi",
-                    "note": "Sementara libur"
+                    "note": ""
                 },
                 {
                     "name": "Latihan PS GKI Salatiga",
@@ -3342,7 +3342,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
-                "status": "w",
+                "status": "y",
                 "note": "Tim Elhanan"
             },
             {
@@ -3360,31 +3360,45 @@
                 "note": "Tim Elhanan"
             },
             {
-                "name": "PA Wilayah V",
-                "time": "17:00",
-                "time-to": "20:00",
+                "name": "Rapat Tim Bahan KUL SW Jateng",
+                "time": "09:00",
+                "time-to": "12:00",
                 "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
+                "date": "2025-02-06",
+                "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Ibu Titik Budiati",
-                "pic": "Ibu Titik Budiarti",
-                "status": "w",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Em.Iman Santoso",
+                "status": "y",
                 "note": ""
             },
             {
                 "name": "PA Wilayah V",
                 "time": "17:00",
-                "time-to": "20:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-05-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": " Ibu Titik Budiatmi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA WIlayah V",
+                "time": "17:00",
+                "time-to": "18:30",
                 "timezone": "WIB",
                 "date": "2025-06-03",
                 "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
-                "representative": "Tri Wibowo",
-                "pic": "Ibu Tri Wibowo",
-                "status": "w",
+                "representative": "Wilayah",
+                "pic": "Bp. Triwibowo",
+                "status": "y",
                 "note": ""
             }
         ],
