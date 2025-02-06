@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2851,
-        "last-update": 1738830437,
-        "last-updated-item": "agenda",
+        "update-count": 2852,
+        "last-update": 1738851558,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Feb 2025 | Belajarlah Dari Semut",
+                        "date": "2025-02-06",
+                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
+                        "link": "https://www.youtube.com/watch?v=3sXdqUu-4Ms",
+                        "thumbnail": "https://i4.ytimg.com/vi/3sXdqUu-4Ms/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Feb 2025 | Hidup Dibentuk Oleh Pikiran",
+                        "date": "2025-02-06",
+                        "desc": "Dibawakan oleh Ibu Atiek Widyati",
+                        "link": "https://www.youtube.com/watch?v=O2i2Pa-7P28",
+                        "thumbnail": "https://i4.ytimg.com/vi/O2i2Pa-7P28/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Feb 2025",
                         "date": "2025-02-05",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Renny Handayani",
                         "link": "https://www.youtube.com/watch?v=cU4pPuyPwNQ",
                         "thumbnail": "https://i4.ytimg.com/vi/cU4pPuyPwNQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Jan 2025",
-                        "date": "2025-01-24",
-                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=RSRqAJWOWCo",
-                        "thumbnail": "https://i3.ytimg.com/vi/RSRqAJWOWCo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Jan | 2025 Komunitas AKAR",
-                        "date": "2025-01-23",
-                        "desc": "Dibawakan oleh Ibu Gita Hastuti",
-                        "link": "https://www.youtube.com/watch?v=lnJ1Z8OkYko",
-                        "thumbnail": "https://i1.ytimg.com/vi/lnJ1Z8OkYko/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
