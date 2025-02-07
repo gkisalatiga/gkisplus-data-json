@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2856,
-        "last-update": 1738902339,
-        "last-updated-item": "agenda",
+        "update-count": 2857,
+        "last-update": 1738927064,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 8 Feb 2025 | Belajarlah Dari Semut",
+                        "date": "2025-02-07",
+                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
+                        "link": "https://www.youtube.com/watch?v=U-fltqcx6T0",
+                        "thumbnail": "https://i2.ytimg.com/vi/U-fltqcx6T0/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 7 Feb 2025 | Hidup Dibentuk Oleh Pikiran",
                         "date": "2025-02-06",
                         "desc": "Dibawakan oleh Ibu Atiek Widyati",
                         "link": "https://www.youtube.com/watch?v=O2i2Pa-7P28",
                         "thumbnail": "https://i4.ytimg.com/vi/O2i2Pa-7P28/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Feb 2025 | Belajarlah Dari Semut",
-                        "date": "2025-02-06",
-                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
-                        "link": "https://www.youtube.com/watch?v=3sXdqUu-4Ms",
-                        "thumbnail": "https://i4.ytimg.com/vi/3sXdqUu-4Ms/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 6 Feb 2025",
