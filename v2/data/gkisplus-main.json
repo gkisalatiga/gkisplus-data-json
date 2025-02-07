@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2857,
-        "last-update": 1738927064,
+        "last-update": 1738933434,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2748,14 +2748,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "Kelompok Tumbuh Bersama (KTB)",
-                "type": "poster",
-                "date-created": "2025-02-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pernikahan_gerejawi.webp",
                 "title": "Pernikahan Gerejawi Titipan",
