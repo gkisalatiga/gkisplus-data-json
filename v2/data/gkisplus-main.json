@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2861,
-        "last-update": 1738995420,
-        "last-updated-item": "pdf",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 2862,
+        "last-update": 1739024305,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Jantini Natangku",
                         "link": "https://www.youtube.com/watch?v=z_oXusDkdSA",
                         "thumbnail": "https://i3.ytimg.com/vi/z_oXusDkdSA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Jan 2025 | Setia",
-                        "date": "2025-01-26",
-                        "desc": "Dibawakan oleh Ibu Renny Handayani",
-                        "link": "https://www.youtube.com/watch?v=cU4pPuyPwNQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/cU4pPuyPwNQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -113,6 +106,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu GKI Salatiga | 9 Februari 2025 | Dicintai dan Dipanggil-Nya",
+                        "date": "2025-02-08",
+                        "desc": "*KEBAKTIAN MINGGU GKI Salatiga 9 Februari 2025; Pukul 07:00 WIB\n\nTema: Dicintai dan Dipanggil-Nya\n\nBerita Anugerah: Roma 3:23-24\nBacaan I : Yesaya 6:1-13\nTanggapan: Mazmur 138\nBacaan II: 1 Korintus 15:1-11\nBacaan Injil: Lukas 5:1-11\nPersembahan: Roma 12:1\n\nNyanyian: KJ 3:1 & 3; KJ 3: 2 & 4; KJ 1; KK 560; PKJ 177\n\nPelayan Firman: Pdt. Gunawan Y. A. Suprabowo (Fak. Teologi UKSW)\nKoordinator Ibadah dan Persembahan: Pnt. Johnson U. Radda\nKredo dan Warta : Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Hendra Aribowo; Pnt. Shielly Gunawan\nPemandu Liturgi: Mariani\nLektor 1: Natalia\nLektor 2: Armarion\n\nPemusik: Elhanan + Adrian\nPNK/PMZ: Natalis / Dhara\n\nTim Multimedia: I Made S.A.; Daniel Eko; Bambang S; Puguh; Wahyu; Erio; Jeffrey\n\nUsher dan Kolektan: Tim Waroeng Tiberias (Gunarti; Sartini; Yuliana S., Eko Kurniawati)\n\nFlorist : Tim Persembahan dari Pernikahan Dimas & Clarissa\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "link": "https://www.youtube.com/watch?v=Tazm3OrPNpY",
+                        "thumbnail": "https://i.ytimg.com/vi/Tazm3OrPNpY/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 2 Februari 2025 07:00 WIB | Berani Menjawab Panggilan-Nya",
                         "date": "2025-02-01",
@@ -301,13 +301,6 @@
                         "desc": "*KEBAKTIAN MINGGU GKI Salatiga 6 Oktober 2024; Pukul 07:00 WIB\n\nTema: Keluarga Dipanggil Ikut Serta Menyatakan Pekerjaan Allah\n\nBerita Anugerah: 1 Yohanes 5:19-20\nBacaan : Yohanes 9:1-11\nPersembahan: Mazmur 136:1\nNyanyian: PKJ 13:1, 3; Sungguh Alangkah Baiknya medley Ku Cinta Kluarga Tuhan, Ku Kasihi Kau Dengan Kasih Tuhan; KK 123; KJ 464:1; Kasih-Nya Seperti Sungai; PKJ 288:1-4\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Sri Yuniwati R.\nKredo dan Warta : Pnt. Johnson U. Radda\nSambut Tamu: Pnt. Hananto Seno; Pnt. Yosua Candana H.K.\nPemandu Liturgi: Pnt. Catur Winarno\n\nPemusik: Chronicles\nPNK: Evangs\nPS: Sola Gratia\n\nTim Multimedia: David, Daniel Eko; Glori; Benaya; Kia; Erio; Yosua\n\nUsher dan Kolektan: Majelis Jemaat\n\nFlorist : Tim Chrysant\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=_pGoheDdHU8",
                         "thumbnail": "https://i.ytimg.com/vi/_pGoheDdHU8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu GKI Salatiga | 29 September 2024 | Karya Yang Tak Terbatas",
-                        "date": "2024-09-28",
-                        "desc": "*KEBAKTIAN MINGGU GKI Salatiga 29 September 2024; Pukul 07:00 WIB\n\nTema: Karya Yang Tak Terbatas\n\nBerita Anugerah: Yehezkiel 36:25-26\nBacaan I: Bilangan 11:4-6, 10-16,24-29\nMazmur Tanggapan: Mazmur 19:7-14\nBacaan II: Yakobus 5:13-20\nBacaan Injil: Markus 9:38-50\nPersembahan: Matius 6:3-4\nNyanyian: KJ 4:1,4,6; KJ 341; Bersukacitalah Selalu; PKJ 277; KJ 249\n\nPelayan Firman: Pdt. Obaja Nathanael Lekatompessy (PPK Klasis Magelang dari GKI Wonosobo)\nKoordinator Ibadah dan Persembahan: Pnt. Catur Winarno\nKredo dan Warta : Pnt. Sri Yuniwati R.\nSambut Tamu: Pnt. Desemy Ch. N. Ballo\n\nPemandu Liturgi: Susetyo Rini\nLektor 1: Made Rai Suci Shanti N.A\nLektor 2: Novita\n\nPemusik: Ecclesiastes\nPNK; Pemazmur: Natalis / Benaya\nPersembahan Pujian ; Bp. Yosep\n\nTim Multimedia: Bayu Octa, Joshua A.G., Revo, David+Jefry, Erio+Jeffrey \n\nUsher dan Kolektan: Arvie, Trevie Rumuat, Widya, Rossali Fransiska,Vivi\n\nFlorist : Tim Puma\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=MK4d65pAA3Q",
-                        "thumbnail": "https://i.ytimg.com/vi/MK4d65pAA3Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
