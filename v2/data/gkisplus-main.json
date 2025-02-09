@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2864,
-        "last-update": 1739069554,
+        "last-update": 1739091725,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2760,18 +2760,18 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pernikahan_gerejawi.webp",
-                "title": "Pernikahan Gerejawi Titipan",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "title": "KTB Komisi Remaja",
                 "type": "poster",
-                "date-created": "2025-02-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pernikahan_gerejawi.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+                "date-created": "2025-02-09",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "poster",
-                "date-created": "2025-02-02",
+                "date-created": "2025-02-09",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
@@ -2784,11 +2784,27 @@
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi Pundi Samaria",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
+                "title": "Kebaktian Komisi Remaja",
                 "type": "poster",
-                "date-created": "2025-02-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "date-created": "2025-02-09",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_hosana_choir.webp",
+                "title": "USDA Paduan Suara Hosana",
+                "type": "poster",
+                "date-created": "2025-02-09",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_hosana_choir.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_beasiswa_diakonia.webp",
+                "title": "Beasiswa Diakonia Gelombang 2",
+                "type": "poster",
+                "date-created": "2025-02-09",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_beasiswa_diakonia.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
             },
             {
