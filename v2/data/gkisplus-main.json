@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2864,
-        "last-update": 1739091725,
-        "last-updated-item": "yt",
+        "update-count": 2865,
+        "last-update": 1739096493,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3557,6 +3557,20 @@
                 "pic": "PENGURUS WIL 5",
                 "status": "y",
                 "note": "Tidak ada"
+            },
+            {
+                "name": "Rapat Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-10",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": "Mohon disiapkan minum apabila memungkinkan"
             }
         ],
         "backend": {
