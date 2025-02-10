@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2869,
-        "last-update": 1739125779,
-        "last-updated-item": "ykb",
+        "update-count": 2870,
+        "last-update": 1739151841,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3587,6 +3587,62 @@
                 "pic": "Indry Mabilaka",
                 "status": "w",
                 "note": "teh"
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-02-10",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-02-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": "Latihan Amici"
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-02-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": "Latihan Amici"
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-02-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
