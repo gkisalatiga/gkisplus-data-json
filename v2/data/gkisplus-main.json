@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2873,
-        "last-update": 1739183035,
+        "update-count": 2874,
+        "last-update": 1739191357,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3419,6 +3419,20 @@
                 "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Bincang-bincang KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-28",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2), Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": "R. Betania utk makan malam"
             }
         ],
         "backend": {
