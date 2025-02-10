@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2872,
-        "last-update": 1739176103,
+        "update-count": 2873,
+        "last-update": 1739183035,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3403,6 +3403,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan tim kreator",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-02-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
