@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2878,
-        "last-update": 1739244322,
-        "last-updated-item": "agenda",
+        "update-count": 2879,
+        "last-update": 1739283684,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Feb 2025 | Berserah",
+                        "date": "2025-02-11",
+                        "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
+                        "link": "https://www.youtube.com/watch?v=WRzYMeQ-2g4",
+                        "thumbnail": "https://i4.ytimg.com/vi/WRzYMeQ-2g4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Feb 2025 | Hidup Dalam Terang",
                         "date": "2025-02-10",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Ervien Dian W",
                         "link": "https://www.youtube.com/watch?v=C_3ASg7ell4",
                         "thumbnail": "https://i4.ytimg.com/vi/C_3ASg7ell4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Jan 2025 | Tujuan Tuhan dalam Hidup KIta",
-                        "date": "2025-01-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=hnL6tZCSWFI",
-                        "thumbnail": "https://i1.ytimg.com/vi/hnL6tZCSWFI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
