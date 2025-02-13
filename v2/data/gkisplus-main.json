@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2886,
-        "last-update": 1739415065,
+        "update-count": 2887,
+        "last-update": 1739420748,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3487,6 +3487,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan untuk ibadah umum Minggu ini",
+                "time": "17:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-02-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Remaja",
+                "pic": "Michael Renzo ",
+                "status": "y",
+                "note": "-"
             }
         ],
         "backend": {
