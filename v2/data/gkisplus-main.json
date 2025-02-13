@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2887,
-        "last-update": 1739420748,
+        "update-count": 2888,
+        "last-update": 1739428199,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3501,6 +3501,20 @@
                 "pic": "Michael Renzo ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Perayaan Valentine SMP Kristen 2 Salatiga",
+                "time": "07:00",
+                "time-to": "08:30",
+                "timezone": "WIB",
+                "date": "2025-02-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
