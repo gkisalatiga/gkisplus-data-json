@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2894,
-        "last-update": 1739507158,
+        "update-count": 2895,
+        "last-update": 1739510454,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3543,6 +3543,20 @@
                 "pic": "Jeffrey Nugroho",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Online meeting. ",
+                "time": "14:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-02-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Erio Fanggidae",
+                "status": "w",
+                "note": "--"
             }
         ],
         "backend": {
