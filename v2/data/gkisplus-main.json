@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2895,
-        "last-update": 1739510454,
+        "update-count": 2896,
+        "last-update": 1739514591,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3555,8 +3555,22 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Erio Fanggidae",
-                "status": "w",
+                "status": "y",
                 "note": "--"
+            },
+            {
+                "name": "Pelaksanaan Kegiatan Penerangan Hukum dan Penyuluhan Hukum Jaksa Masuk Sekolah (JMS)",
+                "time": "08:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-02-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "y",
+                "note": "50 siswa"
             }
         ],
         "backend": {
