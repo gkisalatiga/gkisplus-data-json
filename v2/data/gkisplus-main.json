@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2891,
-        "last-update": 1739497363,
+        "update-count": 2892,
+        "last-update": 1739501459,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3527,6 +3527,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Magnificat Choir",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Jeffrey Nugroho",
                 "status": "w",
                 "note": ""
             }
