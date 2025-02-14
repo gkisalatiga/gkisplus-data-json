@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2892,
-        "last-update": 1739501459,
+        "update-count": 2893,
+        "last-update": 1739504489,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3527,7 +3527,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3541,7 +3541,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Jeffrey Nugroho",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
