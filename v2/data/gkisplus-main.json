@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2893,
-        "last-update": 1739504489,
+        "update-count": 2894,
+        "last-update": 1739507158,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3538,7 +3538,7 @@
                 "date": "2025-02-14",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Kapernaum/Ruang Betlehem",
                 "representative": "Lainnya",
                 "pic": "Jeffrey Nugroho",
                 "status": "y",
