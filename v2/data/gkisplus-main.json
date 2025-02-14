@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2890,
-        "last-update": 1739471575,
-        "last-updated-item": "ykb",
+        "update-count": 2891,
+        "last-update": 1739497363,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3514,6 +3514,20 @@
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Seksi Pubdok Panitia MRP 2025",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-02-16",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
