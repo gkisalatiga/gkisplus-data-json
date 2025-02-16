@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2903,
-        "last-update": 1739687276,
+        "update-count": 2904,
+        "last-update": 1739701223,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3633,6 +3633,20 @@
                 "pic": "Asputri Kaat",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Research & Development Macro OBS untuk Ibadah Umum",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-02-17",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Hanya memakai ruangan multimedia, tidak keseluruhan gedung gereja. Macro OBS digunakan untuk mempermudah operator OBS ibadah umum dalam mengganti scene ibadah."
             }
         ],
         "backend": {
