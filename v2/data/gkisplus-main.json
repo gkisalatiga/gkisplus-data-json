@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2906,
-        "last-update": 1739730597,
-        "last-updated-item": "ykb",
+        "update-count": 2907,
+        "last-update": 1739744005,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Feb 2025",
+                        "date": "2025-02-16",
+                        "desc": "Dibawakan oleh Pnt. Dessy Ballo",
+                        "link": "https://www.youtube.com/watch?v=G-5psEQz4uU",
+                        "thumbnail": "https://i4.ytimg.com/vi/G-5psEQz4uU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Feb 2025 | Bukan Air Anggur Biasa",
                         "date": "2025-02-14",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=AzpDOOJg65Y",
                         "thumbnail": "https://i2.ytimg.com/vi/AzpDOOJg65Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Feb 2025",
-                        "date": "2025-02-03",
-                        "desc": "Dibawakan oleh Bpk. Petrus Sutomo",
-                        "link": "https://www.youtube.com/watch?v=s5OODrAs-xg",
-                        "thumbnail": "https://i4.ytimg.com/vi/s5OODrAs-xg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
