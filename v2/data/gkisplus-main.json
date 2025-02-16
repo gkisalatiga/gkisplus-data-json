@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2902,
-        "last-update": 1739654454,
-        "last-updated-item": "ykb",
+        "update-count": 2903,
+        "last-update": 1739687276,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3619,6 +3619,20 @@
                 "pic": "Siwi",
                 "status": "y",
                 "note": "50 siswa"
+            },
+            {
+                "name": "Latihan drama dan dubbing Jalan Salib Komisi anak",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-02-17",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Studio, Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Asputri Kaat",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
