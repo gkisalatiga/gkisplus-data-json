@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2910,
-        "last-update": 1739762867,
+        "last-update": 1739770137,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2778,6 +2778,14 @@
         ],
         "carousel": [
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pembinaan_pranikah.webp",
+                "title": "Pembinaan Pranikah",
+                "type": "poster",
+                "date-created": "2025-02-17",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pembinaan_pranikah.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kedai_kade.webp",
                 "title": "Kedai Kade",
                 "type": "poster",
@@ -2832,14 +2840,6 @@
                 "date-created": "2025-01-25",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_aplikasi.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
-                "title": "Seleksi Calon Mahasiswa Teologi GKI tahun 2025",
-                "type": "poster",
-                "date-created": "2025-01-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_bacaan_sepekan.webp",
