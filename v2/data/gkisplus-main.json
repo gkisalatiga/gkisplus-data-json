@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2908,
-        "last-update": 1739756790,
+        "update-count": 2909,
+        "last-update": 1739760843,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3631,6 +3631,20 @@
                 "pic": "Bp Lukas Sukan",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat koordinasi Komkes",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Suparmi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
