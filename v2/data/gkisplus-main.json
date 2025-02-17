@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2911,
-        "last-update": 1739780957,
-        "last-updated-item": "agenda",
+        "update-count": 2912,
+        "last-update": 1739791159,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Feb 2025",
+                        "date": "2025-02-17",
+                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
+                        "link": "https://www.youtube.com/watch?v=8d3lbEkU4AU",
+                        "thumbnail": "https://i1.ytimg.com/vi/8d3lbEkU4AU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Feb 2025",
                         "date": "2025-02-16",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Catur Winarno",
                         "link": "https://www.youtube.com/watch?v=IGBFII5VlUQ",
                         "thumbnail": "https://i2.ytimg.com/vi/IGBFII5VlUQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Feb 2025 | Tahun Ular",
-                        "date": "2025-02-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=AzpDOOJg65Y",
-                        "thumbnail": "https://i2.ytimg.com/vi/AzpDOOJg65Y/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
