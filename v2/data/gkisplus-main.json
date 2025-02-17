@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2907,
-        "last-update": 1739744005,
-        "last-updated-item": "yt",
+        "update-count": 2908,
+        "last-update": 1739756790,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3617,6 +3617,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": "Hanya memakai ruangan multimedia, tidak keseluruhan gedung gereja. Macro OBS digunakan untuk mempermudah operator OBS ibadah umum dalam mengganti scene ibadah."
+            },
+            {
+                "name": "PA Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Bp Lukas Sukan",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
