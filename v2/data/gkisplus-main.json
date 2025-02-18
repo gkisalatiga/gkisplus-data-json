@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2913,
-        "last-update": 1739817092,
-        "last-updated-item": "ykb",
+        "update-count": 2914,
+        "last-update": 1739842964,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3630,6 +3630,20 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Lamentations",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-02-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
