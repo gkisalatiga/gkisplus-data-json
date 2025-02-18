@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2914,
-        "last-update": 1739842964,
+        "update-count": 2915,
+        "last-update": 1739849088,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3643,6 +3643,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Koordinasi agenda kegiatan kls 6",
+                "time": "07:30",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-02-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti, M.Pd",
                 "status": "w",
                 "note": ""
             }
