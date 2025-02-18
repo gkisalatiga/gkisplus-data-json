@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2916,
-        "last-update": 1739853732,
-        "last-updated-item": "agenda",
+        "update-count": 2917,
+        "last-update": 1739888467,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Feb 2025 | Tuhan Sumber Sukacita",
+                        "date": "2025-02-18",
+                        "desc": "Dibawakan oleh Ibu Retno Henci",
+                        "link": "https://www.youtube.com/watch?v=BMSiDIvqhiw",
+                        "thumbnail": "https://i3.ytimg.com/vi/BMSiDIvqhiw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Feb 2025",
                         "date": "2025-02-17",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Atiek Widyati",
                         "link": "https://www.youtube.com/watch?v=O2i2Pa-7P28",
                         "thumbnail": "https://i4.ytimg.com/vi/O2i2Pa-7P28/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Feb 2025",
-                        "date": "2025-02-05",
-                        "desc": "Dibawakan oleh Pnt. Catur Winarno",
-                        "link": "https://www.youtube.com/watch?v=IGBFII5VlUQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/IGBFII5VlUQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
