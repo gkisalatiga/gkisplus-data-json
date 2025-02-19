@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2923,
-        "last-update": 1740004643,
+        "update-count": 2924,
+        "last-update": 1740006867,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Feb 2025 | Mengapa Khawatir?",
+                        "date": "2025-02-19",
+                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
+                        "link": "https://www.youtube.com/watch?v=92GkXQjZr50",
+                        "thumbnail": "https://i2.ytimg.com/vi/92GkXQjZr50/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Feb 2025 | Jadilah Tuhan KehendakMu",
                         "date": "2025-02-19",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=QR52DOgu88E",
                         "thumbnail": "https://i2.ytimg.com/vi/QR52DOgu88E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Feb 2025 | Belajarlah Dari Semut",
-                        "date": "2025-02-07",
-                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
-                        "link": "https://www.youtube.com/watch?v=U-fltqcx6T0",
-                        "thumbnail": "https://i2.ytimg.com/vi/U-fltqcx6T0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
