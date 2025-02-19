@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2918,
-        "last-update": 1739903550,
-        "last-updated-item": "ykb",
+        "update-count": 2919,
+        "last-update": 1739942469,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3663,6 +3663,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Kristianu Murni Astuti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Dubbing Jalan Salib Komisi Anak",
+                "time": "16:45",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-02-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Anak",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
