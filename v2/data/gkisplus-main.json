@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2925,
-        "last-update": 1740028869,
+        "update-count": 2926,
+        "last-update": 1740033025,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3047,6 +3047,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Ervien dan Pnt. Samuel ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ecclesiastes/Lamentations",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-02-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
                 "status": "y",
                 "note": ""
             }
