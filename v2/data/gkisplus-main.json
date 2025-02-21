@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2930,
-        "last-update": 1740089678,
-        "last-updated-item": "yt",
+        "update-count": 2931,
+        "last-update": 1740102265,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3706,6 +3706,34 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan Tim Pengembang GKI Salatiga+",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-02-23",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ecclesiastes/Lamentation",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-02-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
