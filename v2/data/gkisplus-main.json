@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2931,
-        "last-update": 1740102265,
-        "last-updated-item": "agenda",
+        "update-count": 2932,
+        "last-update": 1740147568,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Feb 2025",
+                        "date": "2025-02-21",
+                        "desc": "Dibawakan oleh Pnt. Hananto Seno",
+                        "link": "https://www.youtube.com/watch?v=6nr6ed4KA7A",
+                        "thumbnail": "https://i3.ytimg.com/vi/6nr6ed4KA7A/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Feb 2025 | Mengapa Khawatir?",
                         "date": "2025-02-20",
