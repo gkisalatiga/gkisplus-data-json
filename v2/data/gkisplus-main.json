@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2933,
-        "last-update": 1740163882,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2934,
+        "last-update": 1740204811,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1114,6 +1114,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 23 Februari 2025",
+                    "date": "2025-02-22",
+                    "link": "https://drive.google.com/file/d/1f_23DFMkLV0LchiBSSk-39SKN7UGaVld/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-23-februari-2025/",
+                    "thumbnail": "",
+                    "id": "1f_23DFMkLV0LchiBSSk-39SKN7UGaVld",
+                    "size": "2.11 MB"
+                },
+                {
                     "title": "Warta Jemaat 16 Februari 2025",
                     "date": "2025-02-15",
                     "link": "https://drive.google.com/file/d/18RAUXg_Mouw_M1S8Za2QJSmOm0oRb4GI/preview",
@@ -1367,6 +1376,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 23 Februari 2025",
+                    "date": "2025-02-22",
+                    "link": "https://drive.google.com/file/d/1ykkdVOb3XvuyGXbkpfol8xrEDhDwjWEU/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-23-februari-2025/",
+                    "thumbnail": "",
+                    "id": "1ykkdVOb3XvuyGXbkpfol8xrEDhDwjWEU",
+                    "size": "0.40 MB"
+                },
                 {
                     "title": "Tata Ibadah 16 Februari 2025",
                     "date": "2025-02-15",
