@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2938,
-        "last-update": 1740320385,
+        "last-update": 1740329832,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2802,14 +2802,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ibadah_minggu.webp",
-                "title": "Ibadah Minggu 23 Februari 2025",
-                "type": "poster",
-                "date-created": "2025-02-22",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ibadah_minggu.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "KTB Komisi Remaja",
