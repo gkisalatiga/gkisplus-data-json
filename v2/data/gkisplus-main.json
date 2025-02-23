@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2938,
-        "last-update": 1740329832,
+        "update-count": 2939,
+        "last-update": 1740331095,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Feb 2025 | Trust His Heart",
+                        "date": "2025-02-23",
+                        "desc": "Dibawakan oleh Bu Damara Laksmi Dewi",
+                        "link": "https://www.youtube.com/watch?v=PiwcMQ_8Dss",
+                        "thumbnail": "https://i1.ytimg.com/vi/PiwcMQ_8Dss/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Feb 2025",
                         "date": "2025-02-21",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdr. Lusiana N",
                         "link": "https://www.youtube.com/watch?v=kyN9qOc4bUA",
                         "thumbnail": "https://i4.ytimg.com/vi/kyN9qOc4bUA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Feb 2025 | Jangan Banyak Alasan",
-                        "date": "2025-02-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=QR52DOgu88E",
-                        "thumbnail": "https://i2.ytimg.com/vi/QR52DOgu88E/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
