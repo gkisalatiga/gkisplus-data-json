@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2940,
-        "last-update": 1740335374,
-        "last-updated-item": "ykb",
+        "update-count": 2941,
+        "last-update": 1740361626,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3744,7 +3744,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3758,7 +3758,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3772,7 +3772,35 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Dekorasi persiapan Rabu Abu ",
+                "time": "09:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-03-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Trevie Rumuat",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan BenKA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-02-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
                 "note": ""
             }
         ],
