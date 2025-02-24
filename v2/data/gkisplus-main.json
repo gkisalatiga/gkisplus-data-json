@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2944,
-        "last-update": 1740401088,
-        "last-updated-item": "agenda",
+        "update-count": 2945,
+        "last-update": 1740417520,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Feb 2025",
+                        "date": "2025-02-24",
+                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=nhfpcVpkWpw",
+                        "thumbnail": "https://i3.ytimg.com/vi/nhfpcVpkWpw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Feb 2025 | Trust His Heart",
                         "date": "2025-02-23",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
                         "link": "https://www.youtube.com/watch?v=WRzYMeQ-2g4",
                         "thumbnail": "https://i4.ytimg.com/vi/WRzYMeQ-2g4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Feb 2025 | Hidup Dalam Terang",
-                        "date": "2025-02-10",
-                        "desc": "Dibawakan oleh Sdr. Lusiana N",
-                        "link": "https://www.youtube.com/watch?v=kyN9qOc4bUA",
-                        "thumbnail": "https://i4.ytimg.com/vi/kyN9qOc4bUA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
