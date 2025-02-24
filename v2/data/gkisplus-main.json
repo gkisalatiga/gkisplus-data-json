@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2943,
-        "last-update": 1740385756,
+        "update-count": 2944,
+        "last-update": 1740401088,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3324,6 +3324,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PERMEN KR",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
                 "status": "w",
                 "note": ""
             }
