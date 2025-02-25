@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2946,
-        "last-update": 1740422054,
-        "last-updated-item": "ykb",
+        "update-count": 2947,
+        "last-update": 1740447978,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3342,6 +3342,20 @@
                 "pic": "Cedric",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat evaluasi panitia natal KR",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-03-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Shelomita",
+                "status": "w",
+                "note": "Minta meja buat rapat"
             }
         ],
         "backend": {
