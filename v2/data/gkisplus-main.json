@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2947,
-        "last-update": 1740447978,
+        "update-count": 2948,
+        "last-update": 1740468056,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3326,7 +3326,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3340,7 +3340,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3356,6 +3356,20 @@
                 "pic": "Shelomita",
                 "status": "w",
                 "note": "Minta meja buat rapat"
+            },
+            {
+                "name": "Rapat bulanan KP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
