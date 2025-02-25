@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2949,
-        "last-update": 1740469113,
+        "update-count": 2950,
+        "last-update": 1740490122,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3370,6 +3370,34 @@
                 "pic": "Indry",
                 "status": "y",
                 "note": "Teh"
+            },
+            {
+                "name": "PERMEN",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric dan Veve",
+                "status": "w",
+                "note": "tolong untuk disediakan teh"
+            },
+            {
+                "name": "PERMEN KELAS 12",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-28",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Veve ",
+                "status": "w",
+                "note": "minta tolong untuk disediakan teh"
             }
         ],
         "backend": {
