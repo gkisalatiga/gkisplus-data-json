@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2950,
-        "last-update": 1740490122,
+        "last-update": 1740496487,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2861,6 +2861,14 @@
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
+                "title": "Informasi Warung Tiberias",
+                "type": "poster",
+                "date-created": "2025-02-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_wartib_libur.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_bacaan_sepekan.webp",
                 "title": "Bacaan Alkitab Sepekan",
                 "type": "poster",
@@ -2915,14 +2923,6 @@
                 "date-created": "2025-01-12",
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
                 "poster-caption": "Setiap hari Rabu - pk. 18.00 WIB - bertempat di Ruang Konsistori."
-            },
-            {
-                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
-                "title": "Warung Tiberias",
-                "type": "poster",
-                "date-created": "2025-01-20",
-                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
-                "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_persiapan_sm.webp",
