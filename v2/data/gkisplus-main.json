@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2952,
-        "last-update": 1740508508,
-        "last-updated-item": "ykb",
+        "update-count": 2953,
+        "last-update": 1740538450,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3354,7 +3354,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Shelomita",
-                "status": "w",
+                "status": "y",
                 "note": "Minta meja buat rapat"
             },
             {
