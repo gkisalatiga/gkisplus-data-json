@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2953,
-        "last-update": 1740538450,
+        "update-count": 2954,
+        "last-update": 1740547284,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3398,6 +3398,20 @@
                 "pic": "Veve ",
                 "status": "w",
                 "note": "minta tolong untuk disediakan teh"
+            },
+            {
+                "name": "Latihan Tim Musik English Service",
+                "time": "19:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-02-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
