@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2956,
-        "last-update": 1740558549,
-        "last-updated-item": "agenda",
+        "update-count": 2957,
+        "last-update": 1740579721,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Feb 2025",
+                        "date": "2025-02-26",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=zd-ABSLhC0w",
+                        "thumbnail": "https://i3.ytimg.com/vi/zd-ABSLhC0w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Feb 2025",
                         "date": "2025-02-25",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdr. Allessandro S.M.G",
                         "link": "https://www.youtube.com/watch?v=JgF9k0Z6naw",
                         "thumbnail": "https://i3.ytimg.com/vi/JgF9k0Z6naw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Feb 2025",
-                        "date": "2025-02-12",
-                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
-                        "link": "https://www.youtube.com/watch?v=pigtUl4w-z0",
-                        "thumbnail": "https://i1.ytimg.com/vi/pigtUl4w-z0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
