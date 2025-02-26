@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2955,
-        "last-update": 1740551474,
+        "update-count": 2956,
+        "last-update": 1740558549,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3382,7 +3382,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric dan Veve",
-                "status": "w",
+                "status": "y",
                 "note": "tolong untuk disediakan teh"
             },
             {
@@ -3396,7 +3396,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Veve ",
-                "status": "w",
+                "status": "y",
                 "note": "minta tolong untuk disediakan teh"
             },
             {
@@ -3410,7 +3410,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3418,13 +3418,13 @@
                 "time": "07:00",
                 "time-to": "11:00",
                 "timezone": "WIB",
-                "date": "2025-02-06",
+                "date": "2025-03-06",
                 "weekday": "thu",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea, S.Mus",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
