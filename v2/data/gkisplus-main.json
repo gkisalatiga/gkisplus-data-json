@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2954,
-        "last-update": 1740547284,
+        "update-count": 2955,
+        "last-update": 1740551474,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3410,6 +3410,20 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Asesmen Tengah Semester Genap IPS & SBD",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-02-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea, S.Mus",
                 "status": "w",
                 "note": ""
             }
