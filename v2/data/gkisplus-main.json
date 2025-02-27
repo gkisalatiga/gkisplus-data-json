@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2958,
-        "last-update": 1740594778,
-        "last-updated-item": "ykb",
+        "update-count": 2959,
+        "last-update": 1740626969,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3428,6 +3428,20 @@
                 "pic": "Van Gouh Arimatea, S.Mus",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pengurus YPE",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem, Ruang Galilea (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "Rapat sampai jam 18.00 di ruang Betlehem, jika belum selesai akan dilanjutkan ke ruang Galilea "
             }
         ],
         "backend": {
