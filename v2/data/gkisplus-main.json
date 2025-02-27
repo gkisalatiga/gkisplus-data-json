@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2960,
-        "last-update": 1740640853,
-        "last-updated-item": "agenda",
+        "update-count": 2961,
+        "last-update": 1740655108,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Feb 2025 | Sahabat Yesus",
+                        "date": "2025-02-27",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=lVltVBmi3ys",
+                        "thumbnail": "https://i1.ytimg.com/vi/lVltVBmi3ys/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Feb 2025",
                         "date": "2025-02-26",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=ayIEJimOUDk",
                         "thumbnail": "https://i2.ytimg.com/vi/ayIEJimOUDk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Feb 2025 | Amor Fati Mencintai Takdir Dalam Kasih Allah",
-                        "date": "2025-02-13",
-                        "desc": "Dibawakan oleh Sdr. Allessandro S.M.G",
-                        "link": "https://www.youtube.com/watch?v=JgF9k0Z6naw",
-                        "thumbnail": "https://i3.ytimg.com/vi/JgF9k0Z6naw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
