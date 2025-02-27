@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2959,
-        "last-update": 1740626969,
+        "update-count": 2960,
+        "last-update": 1740640853,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3440,7 +3440,7 @@
                 "place": "Ruang Betlehem, Ruang Galilea (Lantai 2)",
                 "representative": "YPE",
                 "pic": "Yari Dwikurnaningsih",
-                "status": "w",
+                "status": "y",
                 "note": "Rapat sampai jam 18.00 di ruang Betlehem, jika belum selesai akan dilanjutkan ke ruang Galilea "
             }
         ],
