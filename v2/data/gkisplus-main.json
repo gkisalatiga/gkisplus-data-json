@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2963,
-        "last-update": 1740720165,
-        "last-updated-item": "agenda",
+        "update-count": 2964,
+        "last-update": 1740741503,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Maret 2025 | Belajar Mencukupkan Diri",
+                        "date": "2025-02-28",
+                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
+                        "link": "https://www.youtube.com/watch?v=5EQN9Va3xH4",
+                        "thumbnail": "https://i2.ytimg.com/vi/5EQN9Va3xH4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Feb 2025 | Sahabat Yesus",
                         "date": "2025-02-27",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Dessy Ballo",
                         "link": "https://www.youtube.com/watch?v=G-5psEQz4uU",
                         "thumbnail": "https://i4.ytimg.com/vi/G-5psEQz4uU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Feb 2025 | Bukan Air Anggur Biasa",
-                        "date": "2025-02-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=ayIEJimOUDk",
-                        "thumbnail": "https://i2.ytimg.com/vi/ayIEJimOUDk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
