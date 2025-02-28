@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2964,
-        "last-update": 1740741503,
-        "last-updated-item": "yt",
+        "update-count": 2965,
+        "last-update": 1740757265,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3456,6 +3456,20 @@
                 "pic": "Erio Fanggidae ",
                 "status": "w",
                 "note": "--"
+            },
+            {
+                "name": "Gladi Resik Pemusik + Tim Ibadah English Service",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-03-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
