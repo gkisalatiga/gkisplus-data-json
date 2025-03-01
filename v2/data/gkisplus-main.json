@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2970,
-        "last-update": 1740817590,
-        "last-updated-item": "yt",
+        "update-count": 2971,
+        "last-update": 1740825659,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3468,6 +3468,20 @@
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KD",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-03-02",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
                 "note": ""
             }
         ],
