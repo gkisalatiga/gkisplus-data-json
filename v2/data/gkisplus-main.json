@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2987,
-        "last-update": 1741022424,
+        "last-update": 1741023659,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2826,6 +2826,14 @@
             }
         ],
         "carousel": [
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_rabu_abu.webp",
+                "title": "Ibadah Rabu Abu",
+                "type": "poster",
+                "date-created": "2025-03-04",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_rabu_abu.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "KTB Komisi Remaja",
