@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2986,
-        "last-update": 1741011699,
-        "last-updated-item": "agenda",
+        "update-count": 2987,
+        "last-update": 1741022424,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Mar 2025 | Puasa Gadget",
+                        "date": "2025-03-03",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=hPKO65m93bQ",
+                        "thumbnail": "https://i1.ytimg.com/vi/hPKO65m93bQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Mar 2025 | Menemukan Identitas Diri dan Makna Hidup",
                         "date": "2025-03-02",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Sdri. Yuliyanti",
                         "link": "https://www.youtube.com/watch?v=92GkXQjZr50",
                         "thumbnail": "https://i2.ytimg.com/vi/92GkXQjZr50/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Feb 2025 | Jadilah Tuhan KehendakMu",
-                        "date": "2025-02-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=g8KpyWf6lP4",
-                        "thumbnail": "https://i4.ytimg.com/vi/g8KpyWf6lP4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
