@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2982,
-        "last-update": 1740972790,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2983,
+        "last-update": 1740976612,
+        "last-updated-item": "pdf/liturgi",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1385,6 +1385,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Rabu Abu 5 Maret 2025",
+                    "date": "2025-03-03",
+                    "link": "https://drive.google.com/file/d/19Zj4ZLj9Ai-fmOnReIjeYdYa0ud0end7/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-rabu-abu-5-maret-2025/",
+                    "thumbnail": "",
+                    "id": "19Zj4ZLj9Ai-fmOnReIjeYdYa0ud0end7",
+                    "size": "0.30 MB"
+                },
                 {
                     "title": "Tata Ibadah 2 Maret 2025",
                     "date": "2025-03-02",
