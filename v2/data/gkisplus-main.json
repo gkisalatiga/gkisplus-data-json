@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2985,
-        "last-update": 1740990660,
-        "last-updated-item": "yt",
+        "update-count": 2986,
+        "last-update": 1741011699,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3105,6 +3105,20 @@
                 "representative": "Komisi Dewasa",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persekutuan KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-03-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
                 "note": ""
             }
         ],
