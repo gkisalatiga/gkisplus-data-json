@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2990,
-        "last-update": 1741113354,
-        "last-updated-item": "ykb",
+        "update-count": 2991,
+        "last-update": 1741148798,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3072,60 +3072,18 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Menyusun Liturgi sampai Des'25",
-                "time": "10:00",
-                "time-to": "12:00",
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-03-03",
-                "weekday": "mon",
+                "date": "2025-03-11",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Kristianu Murni Astuti",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Peraiapan ibadah",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-03-03",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Paklik Vidra",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KD",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-03-03",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Persekutuan KD",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-03-21",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
+                "note": "-"
             }
         ],
         "backend": {
