@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2996,
-        "last-update": 1741235266,
+        "update-count": 2997,
+        "last-update": 1741236379,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3581,6 +3581,20 @@
                 "timezone": "WIB",
                 "date": "2025-03-17",
                 "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti, M.Pd",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan DOKCIL",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-03-18",
+                "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
