@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2997,
-        "last-update": 1741236379,
-        "last-updated-item": "agenda",
+        "update-count": 2998,
+        "last-update": 1741270954,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Mar 2025 | Anugerah Yang Paling Indah",
+                        "date": "2025-03-06",
+                        "desc": "Dibawakan oleh Bpk. Joko Suyono",
+                        "link": "https://www.youtube.com/watch?v=YThPZxJYofg",
+                        "thumbnail": "https://i2.ytimg.com/vi/YThPZxJYofg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Mar 2025 | Pelajaran dari Titik Terendah",
                         "date": "2025-03-05",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bu Damara Laksmi Dewi",
                         "link": "https://www.youtube.com/watch?v=PiwcMQ_8Dss",
                         "thumbnail": "https://i1.ytimg.com/vi/PiwcMQ_8Dss/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Feb 2025",
-                        "date": "2025-02-21",
-                        "desc": "Dibawakan oleh Pnt. Hananto Seno",
-                        "link": "https://www.youtube.com/watch?v=6nr6ed4KA7A",
-                        "thumbnail": "https://i3.ytimg.com/vi/6nr6ed4KA7A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
