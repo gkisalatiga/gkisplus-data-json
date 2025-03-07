@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 14,
-        "last-update": 1737878195,
+        "update-count": 15,
+        "last-update": 1741356150,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -9155,6 +9155,121 @@
                     ]
                 },
                 {
+                    "folder_id": "1P0HoehY8ykCTjEyL2pqlwjrN4F3PItjh",
+                    "last_update": "2025-02-17",
+                    "featured_photo_id": "1p3-rtE1rJRRWPN5MCidsrMzXgw_Cjwod",
+                    "story": "Foto-foto dokumentasi Perayaan Natal Anak BKGS yang dilaksanakan pada 25 Januari 2025.",
+                    "title": "Perayaan Natal Anak BKGS",
+                    "event_date": "2025.01.25",
+                    "photos": [
+                        {
+                            "id": "1_-bR7MRmXmoges7VG93UEGk9UXH1m89h",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (70).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1HEbUxunRRhTvqGD8CUmhbKMo-PYV0jaJ",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (15).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1koFFhwuf_MNMdCkxtRb2aE5HXXN3Pe0L",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (91).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1Cd3erYmtLKVNzStPX9YhmVWV4Hh-Z0cA",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (188).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "16Q5KE8f_oqGj-uYtGYHSwY3ZbkLs2yWx",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (182).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1QM9y7dytxtx-bDTtlQ5y1jMEmctJV_JN",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (108).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1e6E7TMo2-gr8ixyrarf7LfZTy17R-Q8r",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (179).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1ZPWjCWda6WyMRgu4F9sDhFKr3cxJrKbS",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (173).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1v5gas4olHbZtsWPPjMJByT9dTLvr_Msk",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (89).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "16MlvqaANPvBYEP8QqPcEDpyqpkzCjDXY",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (201).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1tv1JRzAnJiA09bIMdQm5yWUF7dpWrul9",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA - 01 (158).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "16R2uulofUZ1MQKj_vDcJxGo_kvCwpReQ",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (64).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1_r8KMLZvAfQrD5VyaijDpOAWD3Z6vhsK",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (51).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1LoDvAIS2S1vxiZpUsb05M_Taan0DL4i7",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (32).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1j74xo8zqc4A4a5IAQ78UjGa8F6Ybm1iy",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (68).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1oW_mzftxXhJu93e91fz8UoueKA2qPRr5",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (37).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1Dtp16UkggOUL0Oeo9gekgpRwd3hO0WBB",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (10).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1GqeEaB9D7BHKyQa96adJ-I0aJuFMOCI8",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (56).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1J5ELriSiOxMolGt42PRODK6UVk_TxDyW",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (48).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1_l9VC8bIXpp3YsdjmNCSazcbjdiN10um",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (38).JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1pgYmgQZRe61SQqR9956cB9_Z4aE2E2lk",
+                            "name": "20250125 - NATAL BKGS @ GBI AREA (12).JPG",
+                            "date": "2025-02-17"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1PeF_IifMsEdCZtgJhNDBWDCu-AZzKTvF",
                     "last_update": "2025-01-26",
                     "featured_photo_id": "1VBDGElUYKpB6OkPwUgiVFZdiAVbmuTSy",
@@ -9546,6 +9661,1276 @@
                             "id": "1JNTe7zK-Nz10m7b8RZzrxw3Q-mDLNpmp",
                             "name": "HUT GKI Salatiga 82 (jeff) (2).JPG",
                             "date": "2025-01-26"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1TXt9ZoaR7-JcbYJQxadDhzHEW1Ycg5pz",
+                    "last_update": "2025-02-17",
+                    "featured_photo_id": "1X_xkEUtAQc2Qoq1Yu3OuS8VYWRmTmCSO",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu & English Service, 02 Februari yang dilaksanakan pada 2 Februari 2025.",
+                    "title": "Ibadah Minggu & English Service, 02 Februari",
+                    "event_date": "2025.02.02",
+                    "photos": [
+                        {
+                            "id": "196o00WI86dxS_kdhHJ65VsHTCu5HjDfG",
+                            "name": "GKIS Rio-020225-7-00004.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1A5GNewfNroYn4rTSAgwbCGQuMEOvq_He",
+                            "name": "GKIS Rio-020225-7-00045.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1z3LAaoVD-mAoKKzXjZ-N94yxiZsl2zr4",
+                            "name": "GKIS Rio-020225-7-00064.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1_FZ-vdBYqECOMuRbmAldyvs2KQ3ukuTk",
+                            "name": "GKIS Rio-020225-7-00018.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1m3-aUjaINGZRbDPMW2DE1XWNthZHkEai",
+                            "name": "GKIS Rio-020225-7-00058.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1QjhWMvDsal4zOBKOKl11eZjf9h9VY_gA",
+                            "name": "GKIS Rio-020225-7-00011.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1MJstWheu_XLpbhj07SKkx3PjnCIJinlZ",
+                            "name": "GKIS Rio-020225-7-00030.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1HHy_SQ2UsCZKEAoOhhTL1Iq588s8OFfy",
+                            "name": "GKIS Rio-020225-7-00008.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1gjp5lNO11xEcs7HD5GxwHGy0vhDPDwOk",
+                            "name": "GKIS Rio-020225-7-00124.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "15iueyrDHcAwWjk49Gp8oRhLCGKwqOb3d",
+                            "name": "GKIS Rio-020225-7-00122.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1yu1hoe9iB_rJb-ift6lcaAzVljTmfFw7",
+                            "name": "GKIS Rio-020225-7-00116.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1FpxxzEkhMZUG4FZD1BkQY970_MGTKSGh",
+                            "name": "GKIS Rio-020225-7-00077.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1U5ZBs6m6z6dbt_RDz6oFhNQQI0Okfqm4",
+                            "name": "GKIS Rio-020225-7-00074.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1eTxPI0B8KjhLYH0SorLWGrz0cgN-M_pY",
+                            "name": "GKIS Rio-020225-7-00114.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1YKRzBAcfL1vsa91ZEfgsL9Bm66FykHEX",
+                            "name": "GKIS Rio-020225-7-00078.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1fwsT4amePzCVdjvFRAeDlZz_hAkZo49A",
+                            "name": "GKIS Rio-020225-7-00112.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1BCYa_GYvHO91HYd3B7wkP6VRaDYIy9oB",
+                            "name": "GKIS Rio-020225-7-00120.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1kAPAYJ--VpqV63BAmX78IbVxq4tieFDf",
+                            "name": "GKIS Rio-020225-7-00066.JPG",
+                            "date": "2025-02-17"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1yvRyaAXtGK-sJMbHuGQf93disKCxrvW-",
+                    "last_update": "2025-02-17",
+                    "featured_photo_id": "1otS0aG8ZsuHCTcLlSC9gMd1EGV8RA6cl",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu & Sekolah Minggu, 09 Februari yang dilaksanakan pada 9 Februari 2025.",
+                    "title": "Ibadah Minggu & Sekolah Minggu, 09 Februari",
+                    "event_date": "2025.02.09",
+                    "photos": [
+                        {
+                            "id": "1igU8krt19FMJSuvPMvIfUgfTAG2hr8PD",
+                            "name": "GKIS Rio-090225-7-00049.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1j8DToMwB8_jqf1oG9bj38hoPVlVDzZzY",
+                            "name": "GKIS Rio-090225-7-00013.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "115JQQDrDYgE68-4QS5aX8IZYU3U1PTMq",
+                            "name": "GKIS Rio-090225-7-00030.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "19JDrcsv6vQ3p2ItQD0EbbD1QHd0rjzyr",
+                            "name": "GKIS Rio-090225-7-00035.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1CLAvyZbjuk6fgogyWz9mJ0urtb5eIGiX",
+                            "name": "GKIS Rio-090225-7-00023.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1YCUCf4_9LKtI1F3tzJTr1anEasVtlDyX",
+                            "name": "GKIS Rio-090225-7-00004.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1MeuUtgvp5h1AoE1IkfQhHO83_BhsODbR",
+                            "name": "GKIS Rio-090225-7-00009.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1fiROykqaSPDBJTBIagc4ldDaB_CgzLsi",
+                            "name": "GKIS Rio-090225-7-00027.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1jK5BooSlYh7jh7svTwDo0tng1ZTDIyLq",
+                            "name": "GKIS Rio-090225-7-00025.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1tutQqWofopplMgbjM9cyidn611FE_PXW",
+                            "name": "GKIS Rio-090225-7-00021.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1G477dYmkhRIkPgy5F5QIF6ARiUB_5kJt",
+                            "name": "GKIS Rio-090225-7-00051.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1iWwdZqx-IrE_ibrmdYHm7WKTG1pW0SME",
+                            "name": "GKIS Rio-090225-7-00010.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1W_JjNEkZ9d45pva4R_2UeRMJHme4GnKD",
+                            "name": "GKIS Rio-090225-7-00015.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "14ngyG8b8uAOhQwKk6PGDFX0HjbvEIaQ0",
+                            "name": "GKIS Rio-090225-7-00014.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1CtkNrVFPpPjaWdvpwLHAbfHPTZ2lxQ5Y",
+                            "name": "GKIS Rio-090225-7-00125.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1eLCB8kc8WH88eDYT0avWz7mUv598-Bs0",
+                            "name": "GKIS Rio-090225-7-00103.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1wkapjXIEjb0q1DBnBQI08mvtgyJNWarv",
+                            "name": "GKIS Rio-090225-7-00122.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1xpcyKpYaxGLh1EoKUvnwokZ8JSNoYRS-",
+                            "name": "GKIS Rio-090225-7-00059.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "15SW1XSHI6gqJVjvBNnjW9FrDCIQyfyaB",
+                            "name": "GKIS Rio-090225-7-00070.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1s2CBjVBSZG4OfRXH__KO24umS0_JJAMr",
+                            "name": "GKIS Rio-090225-7-00110.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1w546qPJleP3Ibt-AzX9kUKN6EF-Qnhz0",
+                            "name": "GKIS Rio-090225-7-00105.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1wNkCrBmRA1g4mA-EmN3G4JWw2pTDrG2x",
+                            "name": "GKIS Rio-090225-7-00098.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1VniRYg8BaEW7TasTaNTbCsf2N5Jb_13i",
+                            "name": "GKIS Rio-090225-7-00126.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1xOTKLidrCwc7lxIULCFD7gf7YOEB3-qm",
+                            "name": "GKIS Rio-090225-7-00092.JPG",
+                            "date": "2025-02-17"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1u4ZQLdklOg-ZiGj_qjnEuLNfCpR-kcny",
+                    "last_update": "2025-02-17",
+                    "featured_photo_id": "18wQCBbH4Alrvcxf97Hu0nBvs4K32NLKk",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu & Sekolah Minggu, 16 Februari yang dilaksanakan pada 16 Februari 2025.",
+                    "title": "Ibadah Minggu & Sekolah Minggu, 16 Februari",
+                    "event_date": "2025.02.16",
+                    "photos": [
+                        {
+                            "id": "1bcYO6kUvtqHCT2PbtXWdY7PuqlkXFHOB",
+                            "name": "GKIS Rio-160225-7-00004.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1ouFYDQjkyqbDp9Betmhpu0SbLFhygYEb",
+                            "name": "GKIS Rio-160225-7-00001.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1gjDr48EZKlPY9WGhxEcQ-KTTHZs3h15A",
+                            "name": "GKIS Rio-160225-7-00031.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1EKJ-jqj-xfowNntK4WeQPOGPK2uTRRXP",
+                            "name": "GKIS Rio-160225-7-00005.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1_txvVuM4xnhJIFuXb452g1XcsfxiwSil",
+                            "name": "GKIS Rio-160225-7-00006.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1Ietne7VRMEKcouZ9bi3aZtLno6a6aVqa",
+                            "name": "GKIS Rio-160225-7-00038.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1cD0ExIsdiy_NmFRdF7QBiQ6wHLk6NlFA",
+                            "name": "GKIS Rio-160225-7-00045.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "17EDaiMsXIoDQiS3eRd4G4W72QCTdzqjb",
+                            "name": "GKIS Rio-160225-7-00055.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1lqUII0ZG2mi4Fnihpneq-tyg24HQ_dQD",
+                            "name": "GKIS Rio-160225-7-00060.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "10gD_Lf3eCFxfCOcDNnMCfwwxVWn_lSN5",
+                            "name": "GKIS Rio-160225-7-00028.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1Ak7J4tSn4bhX-jDD9eFwk0NMNzQR2SZV",
+                            "name": "GKIS Rio-160225-7-00011.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1vCOBRtoiQFk240ZR3EKKnieaMR1dS6th",
+                            "name": "GKIS Rio-160225-7-00043.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "10gJz6i9nYo7u6fXKZ9beiUjqqHTFdODd",
+                            "name": "GKIS Rio-160225-7-00023.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "1GgY4eP20ymyCIShix8jubJ3uWhdtKj7-",
+                            "name": "GKIS Rio-160225-7-00013.JPG",
+                            "date": "2025-02-17"
+                        },
+                        {
+                            "id": "11YB8bRwS5x7iBkhJ2d9L2xaBr-bO-YzC",
+                            "name": "GKIS Rio-160225-7-00010.JPG",
+                            "date": "2025-02-17"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1DSAxl7bllEYcO4tLhMbUu8fSAqXzeVSx",
+                    "last_update": "2025-03-06",
+                    "featured_photo_id": "1qkkbP4nu7yf-IJXKuQVQTzA28zsnBtOq",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu & Sekolah Minggu, 23 Februari yang dilaksanakan pada 23 Februari 2025.",
+                    "title": "Ibadah Minggu & Sekolah Minggu, 23 Februari",
+                    "event_date": "2025.02.23",
+                    "photos": [
+                        {
+                            "id": "1MjDqGpcEhXZEqYJc_fwV7Wf6v5l9SdlN",
+                            "name": "GKI Salatiga 230225-7-00169.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1WqKZD1_SDOBr5lahT0vhKGCHDDbbhbF2",
+                            "name": "GKI Salatiga 230225-7-00177.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1rPkWEbsG-SDTuAg1pTCRi4Hd8151RxWM",
+                            "name": "GKI Salatiga 230225-7-00167.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1H_Hz1d8W4aW00VboPwU5z8H48DC06rjF",
+                            "name": "GKI Salatiga 230225-7-00183.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1WEuqkx4F-tUuHIt07X8uBYMb9XKUXxUd",
+                            "name": "GKI Salatiga 230225-7-00119.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "15a9U0uyMLteumUUqSo3iQxho_wF9-T1P",
+                            "name": "GKI Salatiga 230225-7-00069.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1P_ExvYA75aPHBZ6EV8qNCJ8FhDOYa5qv",
+                            "name": "GKI Salatiga 230225-7-00137.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1XEWyaAhKc8bA1fFOloMdU6u9ECWpIEZz",
+                            "name": "GKI Salatiga 230225-7-00122.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1F-9E5Vij7TW5Q7K9BFUinE-sqKX1nZT7",
+                            "name": "GKI Salatiga 230225-7-00102.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1--geASx84WMU2W6Q_X8o9mkcGG3Uj4KR",
+                            "name": "GKI Salatiga 230225-7-00175.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1-i3XhhYDAyJfdLcZxUSE1tEd6eYO8peD",
+                            "name": "GKI Salatiga 230225-7-00084.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1UcIRNzE4nGGhzwV6jYdua57Q4bGXbUTR",
+                            "name": "GKI Salatiga 230225-7-00144.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1-Ch5OxUTy6Zv0Kf6bxP5_jeQctcMJktB",
+                            "name": "GKI Salatiga 230225-7-00086.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "17HrVv8Y5KIL8wNiPaHctW15j9glIAGTo",
+                            "name": "GKI Salatiga 230225-7-00073.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1NyvhULqFB_XhqUNU8pwQcNqdYBuc2Gk6",
+                            "name": "GKI Salatiga 230225-7-00063.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1uWQEyIYGTidsCU3pTy6ASVXtE1rfd6Dx",
+                            "name": "GKI Salatiga 230225-7-00021.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1dlMR8Y0wuoy-BUzQiA-O_MJayZfqAWmk",
+                            "name": "GKI Salatiga 230225-7-00015.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1fsAPIWTvm7Jr4h0FxmHIVxGlMZ84_J71",
+                            "name": "GKI Salatiga 230225-7-00055.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1-tFxVKeCWQCnVLPubbk-vw0Jzo7Gy1ca",
+                            "name": "GKI Salatiga 230225-7-00031.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1zgV33WJaQEtHUzAQSk7cidgi6r6RNvlZ",
+                            "name": "GKI Salatiga 230225-7-00009.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1iovm9vZPHcdrN90dafpZBeMcogd-4XgP",
+                            "name": "GKI Salatiga 230225-7-00012.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1P-eLzDyCGDlkneCKt7krvC8hx38IK67N",
+                            "name": "GKI Salatiga 230225-7-00048.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1gWr2l_bxEpv0dt-3FJpggGKzKOAp5Sk4",
+                            "name": "GKI Salatiga 230225-7-00043.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1Ihnfu-BK0s1nuMU9HZ36-K0A7GAdlKiI",
+                            "name": "GKI Salatiga 230225-7-00033.JPG",
+                            "date": "2025-03-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1wkiqrhV8sMEaq8uavssqBgg3VwrUlZVK",
+                    "last_update": "2025-03-06",
+                    "featured_photo_id": "1xIOoOGgi5-iQLjBmPdzIM3AR4wNdqIhx",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, Sekolah Minggu, English Service, 02 Maret yang dilaksanakan pada 2 Maret 2025.",
+                    "title": "Ibadah Minggu, Sekolah Minggu, English Service, 02 Maret",
+                    "event_date": "2025.03.02",
+                    "photos": [
+                        {
+                            "id": "1BlxojCGUrs7_RLGqNfFfNDJtnBwm-X2h",
+                            "name": "GKI Salatiga 020325-7-00222 (1).JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1UVYwjAriB5f0RsA_V61zksaz9VoKs_Lp",
+                            "name": "GKI Salatiga 020325-7-00171.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1b9avsUdJjEB6VMpoSpCcshKL-ON3RYNS",
+                            "name": "GKI Salatiga 020325-7-00230.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1rbSRbDGRt9h85Wed1o5bEzNhh4sqkFoH",
+                            "name": "GKI Salatiga 020325-7-00174.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "19GdAucf_yOIBxmmI6tXrR34FkzlvHcN6",
+                            "name": "GKI Salatiga 020325-7-00163.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1Q6m4whOuiUbpZOP1oUE__BKnI2DURuzK",
+                            "name": "GKI Salatiga 020325-7-00219.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "18MMa_fbgtzyV6Fj8gCJ8WLxqN6QEzcM4",
+                            "name": "GKI Salatiga 020325-7-00155.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1Vzz0cDJ3piUi0nAkUaEbN4puZnxgLd5g",
+                            "name": "GKI Salatiga 020325-7-00206.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1t7673Xn9Jar98sdCEI0fs31MGP7HVEgB",
+                            "name": "GKI Salatiga 020325-7-00169.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1o0F6f7w22T71eMBeRD7e34jimBZ_fnrf",
+                            "name": "GKI Salatiga 020325-7-00190.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1rTID027aWdlg3V2eu0zvfhRB0cwQk3dc",
+                            "name": "GKI Salatiga 020325-7-00132.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1z2MbZsna9OTz1iLxECPdvuexzqRjh2zt",
+                            "name": "GKI Salatiga 020325-7-00137.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1A09RmH2FqZezuIB0nlY3y0CHhc4Pk-kn",
+                            "name": "GKI Salatiga 020325-7-00164.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1YcX5Y97UjoN4ZN4LugJh8MlTRqdD_blW",
+                            "name": "GKI Salatiga 020325-7-00139.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1IBugGSN2Y4NAU3X6mVYiTE4qRCJysiUV",
+                            "name": "GKI Salatiga 020325-7-00205.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1h5PZTUFi3xvA86nTc9gPQA_wkvo9QWf8",
+                            "name": "GKI Salatiga 020325-7-00203.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "16_LxJNLeMBxbUxtvP-i1hv1anjAWni5k",
+                            "name": "GKI Salatiga 020325-7-00047.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1PQME57liD67SB7fWsPpcfdoU79zvR5gt",
+                            "name": "GKI Salatiga 020325-7-00107.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "17Q60CQxK_bl11fv7ke07pnIRFaB740Wj",
+                            "name": "GKI Salatiga 020325-7-00055.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "17m36kXMyQljmTRf-FEorgpcFH2b7TCt6",
+                            "name": "GKI Salatiga 020325-7-00076.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1Q2ElILZyo1byTneok6KfLZL5QljcbIMH",
+                            "name": "GKI Salatiga 020325-7-00043.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "18Rv1sUWIl6BkXggw2bamfbQuLnKpMT0X",
+                            "name": "GKI Salatiga 020325-7-00122.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1wcaezA-oq1t_ijHs7EB588BkG18l5KT7",
+                            "name": "GKI Salatiga 020325-7-00070.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1sSQ3Sl43559VGmfAqGM-rejAHJmAPYRC",
+                            "name": "GKI Salatiga 020325-7-00083.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1l74hjlCLRApb4ZSv2jTsYFJAN48J1nom",
+                            "name": "GKI Salatiga 020325-7-00115.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1yFG1qWgDdNQ4ZLMFPwJAKzWi5ADBB_ZL",
+                            "name": "GKI Salatiga 020325-7-00124.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1tk5xr6wy8vnugKdPlNtpaiBXmrNnmSmC",
+                            "name": "GKI Salatiga 020325-7-00012.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1shEvnZBEDaGFNFC71-4hJWy3q5etCOUZ",
+                            "name": "GKI Salatiga 020325-7-00021.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1k41kkWTU8xYEjkwS1l7ikBZKhUdbNXzS",
+                            "name": "GKI Salatiga 020325-7-00003.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1oQKk8hDL45mF601A425_n_DSC20rdEwI",
+                            "name": "GKI Salatiga 020325-7-00032.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1epsrgTRKvZj_pUQYa1-rqSudjIK9BRLm",
+                            "name": "GKI Salatiga 020325-7-00041.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "101swMttutAmgTJqEgFMVi8D3heCMxtRn",
+                            "name": "GKI Salatiga 020325-7-00025.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1xCwlKiLYnVBjoaGt_juyWDhaLFx6btIq",
+                            "name": "GKI Salatiga 020325-7-00022.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1tAFwvyAAPcLSlS3W_rV3bgykZNuBeu-1",
+                            "name": "GKI Salatiga 020325-7-00008.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "19kqvGId_Oc9ITv_h5ZVm-g7wAZHGhZsK",
+                            "name": "GKI Salatiga 020325-7-00017.JPG",
+                            "date": "2025-03-06"
+                        },
+                        {
+                            "id": "1wviVQRnPLcpWefN-Ku6xkcmtd3h0M6aX",
+                            "name": "GKI Salatiga 020325-7-00005.JPG",
+                            "date": "2025-03-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1WOzKGPSxoHSeZ3NbXcP4OAKDCl0DgNRS",
+                    "last_update": "2025-03-05",
+                    "featured_photo_id": "17FOKMNsEitFheXGtP0wpFQIS7PAwyFQr",
+                    "story": "Foto-foto dokumentasi Ibadah Rabu Abu [MRP 2025] yang dilaksanakan pada 5 Maret 2025.",
+                    "title": "Ibadah Rabu Abu [MRP 2025]",
+                    "event_date": "2025.03.05",
+                    "photos": [
+                        {
+                            "id": "1mW_zFxvRZ0wQZv6CKnfeXTsUfyjNX5eH",
+                            "name": "DSCF0570-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1fpskb53yKRXB-69EhQOH4eI5TUxWYnIU",
+                            "name": "DSCF0540.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "10IY4zlRqoap5-C5dzsNkV3t8_F4n2ttr",
+                            "name": "DSCF0341-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1j7WQGFkm9qfPeq6cnlpvFl_71l_2XGJu",
+                            "name": "DSCF0363-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1qAB8Q4f1q9RakIla0at5llNmHgB9lA9g",
+                            "name": "DSCF0537-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1m6E8fW2TA1_faaYyOnd0M57hxa3q9yp5",
+                            "name": "DSCF0344-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1MBdTKpy7CfoeCf22-yXPCI5yXzuWsKQC",
+                            "name": "DSCF0485-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1iDta7kNtCEcCeSvqnXmsrD3zibWIblaM",
+                            "name": "DSCF0380-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1LQN4VoCsuBJXg5UoG7NEwcZsYwAJ3LRS",
+                            "name": "DSCF0332-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1UwubWAhJAeVTnqCCPRuDrGorQOgM1_86",
+                            "name": "DSCF0562-Enhanced-NR.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1JuA6m8WmF3d_fu__mF8Z63onT5BmR5Ql",
+                            "name": "DSCF0480.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "18IJh3YkV0jGEubbICVUYXmC-CKIA3pCX",
+                            "name": "DSCF0494.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1SiaYLE-B42IdjMtVAwCB5cLA3KioXv21",
+                            "name": "DSCF0535.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "17JdigU7Q9X2GZSBphWMgAkOUNESmRNTT",
+                            "name": "DSCF0509.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1qcImTXAce6R8fpBZ9EktIpc89Ne9lih1",
+                            "name": "DSCF0520.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1ZsEzrcdBcum62Dk1I3iHKqMIGiQ1SKsm",
+                            "name": "DSCF0530.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1n37nQSylCqNL6epsirbvplbuVNuC39wj",
+                            "name": "DSCF0538.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1sY0OHt3XNtHw8Kae85reCIzY0XSZGvAk",
+                            "name": "DSCF0488.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1QFscKrt45PNWuAOpkSoViYcDS0dcI3JI",
+                            "name": "DSCF0550.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1WYm40qfjvRqFod2icapgBlx4FZZLTmQT",
+                            "name": "DSCF0461.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1t_cYID1aGUdnH7b9WZEc3wg-BrZ8Tcc6",
+                            "name": "DSCF0435.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "12efAG8nVABiTIAeP5GwfHfScYK0_1IYH",
+                            "name": "DSCF0474.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1nX4Qw6F_Sm90Egx9DKs4zsGx8lql9Kvw",
+                            "name": "DSCF0423.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1lpEk8kzLKIpAtHrOrRR1HNn-J2M87U55",
+                            "name": "DSCF0436.MOV",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1EV1Gmv3v9AOjz1PMs82r2ojevdJNaR6I",
+                            "name": "DSCF0456.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "14rYmqlqa3qfoOb2tW6QzA7DNR18oL8wh",
+                            "name": "DSCF0451.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "10-pHuZEvMbYTdshcR7_r5Ti4Af1Zg2wt",
+                            "name": "DSCF0438.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1clENP6CML2R_NgPQltjfPltd9lYaGYwU",
+                            "name": "DSCF0429.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1KnUT_Vh9Tr2FU7ql3OTzgSxzh6zDv5RH",
+                            "name": "DSCF0442.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1I8XIN7ukkUdMAEresfOnNut27J1aZQzH",
+                            "name": "DSCF0400.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1oxhI1EScC61o3A3VrrZ0jA1Ebu8kYuus",
+                            "name": "DSCF0406.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1mYndery1yARBnk_ZPaARGs0IsQCOqclM",
+                            "name": "DSCF0388.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1gHFg0U99LUaDBXHAXBpIoYk_wDiWowgn",
+                            "name": "DSCF0409.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1VV66HAV_kazEyN-KAeBgOvV9RvYVG0GE",
+                            "name": "DSCF0390.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1TGQYW6F5iZBxiEKc_66uUroxktq51FfH",
+                            "name": "DSCF0398.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1mxZ9s8moNZp4QRZ7mdQ-jNbS6_eOF_lV",
+                            "name": "DSCF0362.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "18S6nIdD0JhhblHERfYZuoki2D20oK_oN",
+                            "name": "DSCF0355.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1lk2PLp3KSBuPiW3cm0VpI8RxcDTgMdWR",
+                            "name": "DSCF0371.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Q3VgV0MNG9UWMl2J4M7jSKtkmqImoQcg",
+                            "name": "DSCF0364.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1VUPqCRljVJ3LFPGQpL-rG2MkX9Rrku9-",
+                            "name": "DSCF0360.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Q6OkCp7GXrqlijwU7GntA1m1w86HUZWl",
+                            "name": "DSCF0367.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1kGyHjmelB1SOBSuhcmGT7tfpDHtGJoB4",
+                            "name": "DSCF0349.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1dIy-EsTJVFjIemXMoE_TmlEQelmDNVRE",
+                            "name": "DSCF0375.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1tmxSuIrBnCVCBpKw8KhFW6PUDzJdqqSz",
+                            "name": "DSCF0373.MOV",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1jK3PHj4cbFzb8zV_wvNnNgDVSDyFPjsf",
+                            "name": "DSCF0346.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Np_AMSMzR_npqGH6Z9wlXCjUSGm4eSwN",
+                            "name": "DSCF0330.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1rCpdEiLtytOn46q0eB25U6Ma20BjhY35",
+                            "name": "DSCF0326.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1wKpj-pUuBxEKsMVAIc_4M1lQ7Me9mdq2",
+                            "name": "DSCF0337.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1HpHEz_oopS78oiM1PZiadJNqMqL0R4X6",
+                            "name": "DSCF0324.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1GIxT3AiCN4r_ivQxtkMun_NvdDFj_Wrb",
+                            "name": "DSCF0331.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1AVjg3cxgpZ5Hrq-EkERACI7V-vlZCxWH",
+                            "name": "DSCF0339.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1B8tQAIRAC9APw6uzyW_JsUCeLs3FVX0x",
+                            "name": "DSCF0320.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1g9tI-8r2leq2Ub-7g0OUojhneGjX4Olr",
+                            "name": "DSCF0334.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1RRVJWt7-eBOywjGN_04i_H0zyc0aQYbe",
+                            "name": "DSCF0316.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Jo28S-gs4N6D_pqOiPVbsU4SgBhi3pC2",
+                            "name": "DSCF0311.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1idbIf9cQB0r_eFkWFLOTZTte15rbZinN",
+                            "name": "DSCF0284.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1l-Pol-_Vomu0Owb7Ye0PpSdnGUwmHAd_",
+                            "name": "DSCF0291.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1t9gXCz-jb8zraxKIfxiRyXoRNFH0gIXI",
+                            "name": "DSCF0318.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1t7KG77SYKZoYSftsHuj-WBo12SpnjUmB",
+                            "name": "DSCF0295.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1tXLDCvjr8N5HVnhO8FW2m-msYTaXyvhR",
+                            "name": "DSCF0282.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "12VV6dzvCylK1K0zOsYrYtXswJNZG6NiF",
+                            "name": "DSCF0296.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1YJ84CJRif-Zi_w1bvJecxRiPRc-P_Mc6",
+                            "name": "DSCF0301.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1ZAWSNnT-JYP8o2NwXwdEULvYZ7NV-k0l",
+                            "name": "DSCF0306.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1DXqt1GFRtMjrFWOCjyuPfMqzxu1iBvbA",
+                            "name": "DSCF0265.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1FdQCe3jzfdu8DLmOiy6Ix5n5EOxRwEs0",
+                            "name": "DSCF0266.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1EGYsKMiU63OXGWcj1rTQMo9CQ8YCypTz",
+                            "name": "DSCF0280.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1mDAm2Yq3gkP2Hda5A2as9JW3z-Z1JiPz",
+                            "name": "DSCF0262.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1vYq7R60KqV4rNbOD4tu5UpxVaEDpufWE",
+                            "name": "DSCF0276.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1s9g3LN8pGOTuWqTGO3Qh3lVrtd0-G6Sn",
+                            "name": "DSCF0270.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "17Cd3K_10XRg2hQQQF34kFmnTipB_8bLq",
+                            "name": "DSCF0283.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "12EqVn77td0XQHbzmQZKuhM8ghuGM87ly",
+                            "name": "DSCF0260.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1CrMG_Ztf1VBfXhEW0Wu888sqMzJiZeQ8",
+                            "name": "DSCF0246.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1iI97CwrSGpVxO1hb85kQSF53zKn-sKx-",
+                            "name": "DSCF0257.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Aga2GmH7_z9XJPF93SFCkYqQAwlKDIO9",
+                            "name": "DSCF0231.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Av42WSVZ8hbaEvH1VVIb3_IYwqv4OmKr",
+                            "name": "DSCF0226.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1XKr53RVHdIeE_5C4UTX43cHm04XvX5FE",
+                            "name": "DSCF0233.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1HhewAj1CLukofHshfryifp_cMPFISkWh",
+                            "name": "DSCF0222.JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1lNj6QCPBKprHXh8u5xuYRdYVGBg5a5XI",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (137).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1hNA6cDvQB-zMO4XaerhEkc9PUH-No3Tl",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (151).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1DyEtTWGh2UH8SqMv1cofe5arRdh_GBcY",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (128).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1kAUVv_IF_pCXJHQwGqRXYaNKze1hN1T9",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (117).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1WfigdadwEkAvTm1agn443ilI7LyvBCk8",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (111).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Wr5asyKsVkyiKJW41eZu93HeWZOhboeH",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (102).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Qp4bfCYr7wRzIyvble8pVly2trRNbokd",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (115).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1GzQKmpQK-TKXG3O5lWTIFO3raSKojfgL",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (103).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1EEtNsU-sV3YsjwK9ZY-oYvYTYbmXYjle",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (101).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Wah-oiLsOdjZLTfXVQ83M9457D4VVem6",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (96).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1_b0ZRhdtZkJkbs7kDiNJrhKAShB0gE_l",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (104).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1QkNyijwdHPaIRli97BFjvlQ3zIiUauyJ",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (127).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1u1QypfrjcUagSPRqHrMoi1Om4cB5h_At",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (95).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "10FNPoLlGP-dzXGVttZl2EXbe_9yV9qoV",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (82).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1fCPvX0XJ-4Aol_9e47FTxR-_-nZmFFPN",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (93).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1rukcPF1n8V_4ytA5kV4dn8DgPZYxB0yo",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (71).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "170oqL-_ZKUENQywZ2vRs6_OGhLIyv4Be",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (78).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1VuDQPZvpOOXTf_ihm3U7VGVI3PNbErtq",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (79).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1RngnUyRHULwyq52TuyRqDTzvwsQYAx1f",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (76).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "18jh46RjDyRfK_Lwo7f8wdKpN-sSy1E7r",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (84).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1wyohsn1yQ41UCjIrFCfEf9zdL-xQB6bS",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (85).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Oiot6jYJaCcAXGHkvB61r2Fy5oLnrpy_",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (70).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1DVc7zW1dZr55bN6V6D9VV0iIzhzs2N9c",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (86).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1JsF_32u8je9DL_3xBAHB9lZfmS84rnE5",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (52).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Su6gbzMrflurPXPl7-jc7QSyejo3qFLU",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (47).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1GqpjCdLK5Yh6yFCcNle9UA9lm5aC_9GO",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (49).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1fCbyntVKUk-7rwQWzQve96kKs9NW1sdh",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (45).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1lwyhmwFFmzwV3w2hJ_UsLoIXdCc7zHFG",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (60).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1BdaKtHI6ocfslpHUcpe50-H6WGOgCx2M",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (30).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1_u5xY2IEYRSdKG_C5dCX8L8XUyTYTPv5",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (24).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1UBZ-t5PDOLjsAtb0Uyvg-UWQ-neEi7QJ",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (25).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1fPinq9FKotx8qXCzGPXtIjR6xupvBcLz",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (44).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "18YKm_3xVFVL286ySwdbRxQkzg3i6W7jk",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (37).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "18_dixPkGFH030HRO6yEZ4_50yyMqe7Mf",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (23).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "10LGkt318oh2wDBb9HbOU_Wg_VM36qQHD",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (21).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1TK6EpDuD4jaKwY0MIHu0O9mY22b7W6gP",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (20).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1VDEesv25B-O_pfTl9y53Br6bo_L5EEvK",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (38).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1iY9Ilfdqt9oaCZ2ojU6fIFlHT6VyZyDk",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (28).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1Aiwb7rYKuIuO75ZKPbwlQCZqGV8937zE",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (3).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1y4HbIuQIDWTuJKgg-nNvTj5wcXlf5tYj",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (12).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "11AixpT9Kg22pb0VmK00f95cqVHsHIv_M",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (11).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "15DlLTHAmhOLmzEolFPlEGlAlzGWpMB9z",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (7).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "16xC1CbW1shXZHSclTCresVGBNlssFIgz",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (15).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "14yCLt2-ro3pTBcPW3biaBRZdkGqAvF14",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (18).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1KvAmjxb-Ro4i93WWSpWIXLUCj8S5drx-",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (2).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1PFXQ8ZSBgpQWcNpw2HeWVuCPduliyTN1",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (6).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "16eRBaZmuapJKp58mqhx7uHvCN7xScRIS",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (17).JPG",
+                            "date": "2025-03-05"
+                        },
+                        {
+                            "id": "1S0DkHCFrpXklG-7aewsMRTpPEI0QWpHl",
+                            "name": "GKI Rabu Abu 05032025 (jeff) (9).JPG",
+                            "date": "2025-03-05"
                         }
                     ]
                 }
