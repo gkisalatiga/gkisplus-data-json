@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3000,
-        "last-update": 1741316281,
+        "update-count": 3001,
+        "last-update": 1741332061,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3615,7 +3615,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Yosua Candana",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
