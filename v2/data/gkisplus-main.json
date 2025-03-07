@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3001,
-        "last-update": 1741332061,
-        "last-updated-item": "agenda",
+        "update-count": 3002,
+        "last-update": 1741357283,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Mar 2025 | Menjadi Manusia Yang Tahan Uji",
+                        "date": "2025-03-07",
+                        "desc": "Dibawakan oleh Bpk. Natanael Harjono",
+                        "link": "https://www.youtube.com/watch?v=6RYEqfQN24s",
+                        "thumbnail": "https://i3.ytimg.com/vi/6RYEqfQN24s/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Mar 2025 | Anugerah Yang Paling Indah",
                         "date": "2025-03-06",
