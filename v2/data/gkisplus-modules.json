@@ -181,6 +181,31 @@
                     "link": "https://worldenglish.bible"
                 }
             ]
+        },
+        "seasonal": {
+            "title": "[TESTING] Masa Raya Paskah 2025",
+            "banner-front": "https://i.ytimg.com/vi/W-vdNCcaTZM/hqdefault.jpg",
+            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_beasiswa_diakonia.webp",
+            "gallery-keyword": "MRP 2025",
+            "twibbons": [
+                {
+                    "title": "Twibbon A Lorem Ipsum",
+                    "url": "https://path/to/image/url",
+                    "post-page": "https://url/to/website-based/twibbon/service"
+                }
+            ],
+            "articles": [
+                {
+                    "title": "Judul Artikel Di Sini",
+                    "date": "2999-12-23",
+                    "author": "Gita Hastuti?",
+                    "html": "Lorem Ipsum<b>Dolor</b> Sit AMet"
+                }
+            ],
+            "agenda": {
+                "title": "[TESTING] Agenda MRP GKI Salatiga 2025",
+                "url": "https://path/to/image/url"
+            }
         }
     }
 }
