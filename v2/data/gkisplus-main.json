@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3006,
-        "last-update": 1741426343,
+        "update-count": 3007,
+        "last-update": 1741437166,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3330,6 +3330,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Yosua Candana",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-03-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
                 "note": ""
             }
         ],
