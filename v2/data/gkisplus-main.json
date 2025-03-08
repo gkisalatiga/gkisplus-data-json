@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3004,
-        "last-update": 1741409510,
-        "last-updated-item": "carousel",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 3005,
+        "last-update": 1741411107,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
                         "link": "https://www.youtube.com/watch?v=nhfpcVpkWpw",
                         "thumbnail": "https://i3.ytimg.com/vi/nhfpcVpkWpw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Feb 2025 | Trust His Heart",
-                        "date": "2025-02-23",
-                        "desc": "Dibawakan oleh Bu Damara Laksmi Dewi",
-                        "link": "https://www.youtube.com/watch?v=PiwcMQ_8Dss",
-                        "thumbnail": "https://i1.ytimg.com/vi/PiwcMQ_8Dss/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -113,6 +106,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu Pra Paskah 1 | 9 Maret 2025 | Menghadapi Aneka Godaan",
+                        "date": "2025-03-08",
+                        "desc": "*KEBAKTIAN MINGGU PRA PASKAH 1 GKI Salatiga 9 Maret 2025; Pukul 17:00 WIB\n\nTema: Menghadapi Aneka Godaan\n\nBacaan I : Ulangan 26 : 1-11\nTanggapan: Mazmur 91: 1-2, 9-16\nBacaan II: 2 Roma 10 : 8b-13\nBacaan Injil: Lukas 4 : 1-13\n\nNyanyian: PKJ 212; KJ 439; KJ 436:1-2; KK 382; KK 522:1,4-5\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Johnson U. Radda\nKredo dan Warta: Pnt. Yosua Candana H.K.\nSambut Tamu: Pnt. Ervien Dian W., Pnt. Priyo Hari Adi\nPemandu Liturgi: Indriani Wijayanti\nLektor 1: Yedida Crista Pujianti\nLektor 2: Andi David Hutabarat\n\nPemusik: Elhanan + Eva\nPNK/PMZ: Evangs / Benaya\nTim Multimedia: Samuel A.B.S., Joshua A. Gracia, Rico, Puguh, Wayan\n\nUsher dan Kolektan: Wilayah X\n\nFlorist : TimMawar\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "link": "https://www.youtube.com/watch?v=fbq8KE0c3Zg",
+                        "thumbnail": "https://i.ytimg.com/vi/fbq8KE0c3Zg/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Rabu Abu | 5 Maret 2025 | Membarui Hati dengan Mawas Diri",
                         "date": "2025-03-03",
@@ -301,13 +301,6 @@
                         "desc": "*KEBAKTIAN MINGGU GKI Salatiga 20 Oktober 2024; Pukul 16.30 WIB\n\nTema: Mari Datang Semua Orang\n\nBerita Anugerah: Mazmur 116:5-7\nBacaan : Lukas 14:12-14\nPersembahan: Galatia 6:2\nNyanyian: PKJ 132; Marilah Membangun Rumah; PKJ 179; Bersukacitalah Selalu; PK 289;  PKJ 288:1-4\n\nPelayan Firman: Pdt. Paulus Dian Prasetya (GKMI Salatiga)\nKoordinator Ibadah dan Persembahan: Pnt. Shielly Gunawan\nKredo dan Warta : Pnt. Yosua Candana  H.K.\nSambut Tamu: Pnt. Benny A. Kailola\nPemandu Liturgi: Ayu Putri Lapee\n\nPemusik: Ecclesiastes\nPNK: Agastya\n\nPersembahan Pujian: Kel. Yudi Novrian Komalig\n\nTim Multimedia: Evangs, Samarthya L., Caitleen, Titan, Mekkel, Nuel, Erio, Jeffrey\n\nUsher dan Kolektan: Panitia Bulan Keluarga 2024\n\nFlorist : Tim Chrysant\n\n*Kidung Jemaat, Pelengkap Kidung Jemaat, Kidung Keesaan: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=M98LXVHrPtU",
                         "thumbnail": "https://i.ytimg.com/vi/M98LXVHrPtU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu GKI Salatiga 9:30 WIB | 20 Oktober 2024 | Mari Datang Semua Orang",
-                        "date": "2024-10-20",
-                        "desc": "*KEBAKTIAN MINGGU GKI Salatiga 20 Oktober 2024; Pukul 09.30 WIB\n\nTema: Mari Datang Semua Orang\n\nBerita Anugerah: Mazmur 116:5-7\nBacaan : Lukas 14:12-14\nPersembahan: Galatia 6:2\nNyanyian: PKJ 132; Marilah Membangun Rumah; PKJ 179; Bersukacitalah Selalu; PK 289;  PKJ 288:1-4\n\nPelayan Firman: Pdt. Paulus Dian Prasetya (GKMI Salatiga)\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta : Pnt. Johnson U. Radda\nSambut Tamu: Pnt. Desemy Ch.N. Ballo; Pnt. Hananto Seno\nPemandu Liturgi: Damara Laksmi Dewi\n\nPemusik: Ecclesiastes\nPNK: Agastya\n\nPersembahan Pujian: Bp. Joemadi Pawiro, Kel. Evang Mailoa\n\nTim Multimedia: Evangs, Bambang, Rangga, Atma, Nuel, Erio, Jeffrey\n\nUsher dan Kolektan: Bp. & Ibu A.M. Widiatmoko, Bp. & Ibu Subur H.P.\n\nFlorist : Tim Chrysant\n\n*Kidung Jemaat, Pelengkap Kidung Jemaat, Kidung Keesaan: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=ALWBd9WUuQM",
-                        "thumbnail": "https://i.ytimg.com/vi/ALWBd9WUuQM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
