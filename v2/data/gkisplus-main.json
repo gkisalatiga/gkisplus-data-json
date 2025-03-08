@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 3003,
-        "last-update": 1741384322,
+        "last-update": 1741409121,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -1121,6 +1121,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 9 Maret 2025",
+                    "date": "2025-03-08",
+                    "link": "https://drive.google.com/file/d/1yiW7t8g_Zw8yvewaWHj3YISCyz8w4Z-t/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-9-maret-2025/",
+                    "thumbnail": "",
+                    "id": "1yiW7t8g_Zw8yvewaWHj3YISCyz8w4Z-t",
+                    "size": "2.40 MB"
+                },
+                {
                     "title": "Warta Jemaat 2 Maret 2025",
                     "date": "2025-03-02",
                     "link": "https://drive.google.com/file/d/1B5n51UuWo-DoQswRz_CMQuVfrpixzPh7/view",
@@ -1392,6 +1401,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 9 Maret 2025",
+                    "date": "2025-03-08",
+                    "link": "https://drive.google.com/file/d/1ffumHMNV4aY-N8RPUooTFQloEB6L1DIi/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-9-maret-2025/",
+                    "thumbnail": "",
+                    "id": "1ffumHMNV4aY-N8RPUooTFQloEB6L1DIi",
+                    "size": "0.36 MB"
+                },
                 {
                     "title": "Tata Ibadah Rabu Abu 5 Maret 2025",
                     "date": "2025-03-03",
