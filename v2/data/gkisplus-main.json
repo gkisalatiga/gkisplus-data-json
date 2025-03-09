@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3008,
-        "last-update": 1741533601,
-        "last-updated-item": "yt",
+        "update-count": 3009,
+        "last-update": 1741534686,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3343,8 +3343,22 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Sie Acara Paskah",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-03-10",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
