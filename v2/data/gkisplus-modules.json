@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6,
-        "last-update": 1741530660,
-        "last-updated-item": "library",
+        "update-count": 8,
+        "last-update": 1741532317,
+        "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
@@ -115,7 +115,7 @@
                 "source": "https://lpps.or.id/wp/2023/12/05/masa-paskah",
                 "size": "2.83 MB",
                 "tags": [],
-                "is_shown": 0
+                "is_shown": 1
             }
         ],
         "attributions": {
@@ -216,25 +216,37 @@
             "title": "[TESTING] Masa Raya Paskah 2025",
             "banner-front": "https://i.ytimg.com/vi/W-vdNCcaTZM/hqdefault.jpg",
             "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_beasiswa_diakonia.webp",
-            "gallery-keyword": "MRP 2025",
-            "twibbons": [
-                {
-                    "title": "Twibbon A Lorem Ipsum",
-                    "url": "https://path/to/image/url",
-                    "post-page": "https://url/to/website-based/twibbon/service"
+            "static-menu": {
+                "agenda": {
+                    "title": "[TESTING] Agenda MRP GKI Salatiga 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_cheese.webp",
+                    "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_bug.webp",
+                    "is_shown": 1
+                },
+                "books": {
+                    "title": "[TESTING] Buku Panduan em er pe",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_massage.webp",
+                    "selection-tag": "mrp-2025",
+                    "is_shown": 1
+                },
+                "gallery": {
+                    "title": "[TESTING] Galeri MRP25",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_broom.webp",
+                    "album-keyword": "[MRP 2025]",
+                    "is_shown": 1
+                },
+                "twibbon": {
+                    "title": "[TESTING] Twibon MRP25",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_camera.webp",
+                    "is_shown": 0,
+                    "twibs": [
+                        {
+                            "title": "Twibbon A Lorem Ipsum",
+                            "url": "https://path/to/image/url",
+                            "post-page": "https://url/to/website-based/twibbon/service"
+                        }
+                    ]
                 }
-            ],
-            "articles": [
-                {
-                    "title": "Judul Artikel Di Sini",
-                    "date": "2999-12-23",
-                    "author": "Gita Hastuti?",
-                    "html": "Lorem Ipsum<b>Dolor</b> Sit AMet"
-                }
-            ],
-            "agenda": {
-                "title": "[TESTING] Agenda MRP GKI Salatiga 2025",
-                "url": "https://path/to/image/url"
             }
         }
     }
