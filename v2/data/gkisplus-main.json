@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3010,
-        "last-update": 1741492082,
-        "last-updated-item": "seasonal",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 3011,
+        "last-update": 1741495100,
+        "last-updated-item": "agenda",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -3343,7 +3343,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
