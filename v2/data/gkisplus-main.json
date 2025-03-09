@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3011,
-        "last-update": 1741495100,
+        "update-count": 3012,
+        "last-update": 1741502346,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3345,6 +3345,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Sie Acara Paskah",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-03-10",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
