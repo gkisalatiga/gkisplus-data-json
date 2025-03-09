@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3007,
-        "last-update": 1741437166,
-        "last-updated-item": "agenda",
+        "update-count": 3008,
+        "last-update": 1741533601,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Mar 2025 | Bertobat Setiap Hari",
+                        "date": "2025-03-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=W0WrW8DDqS8",
+                        "thumbnail": "https://i4.ytimg.com/vi/W0WrW8DDqS8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Mar 2025 | Menjadi Manusia Yang Tahan Uji",
                         "date": "2025-03-07",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Roosye Rice Irene Supit",
                         "link": "https://www.youtube.com/watch?v=98JYdyOeBUA",
                         "thumbnail": "https://i2.ytimg.com/vi/98JYdyOeBUA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Feb 2025",
-                        "date": "2025-02-24",
-                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=nhfpcVpkWpw",
-                        "thumbnail": "https://i3.ytimg.com/vi/nhfpcVpkWpw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -107,11 +107,11 @@
             {
                 "content": [
                     {
-                        "title": "Ibadah Minggu Pra Paskah 1 | 9 Maret 2025 | Menghadapi Aneka Godaan",
+                        "title": "Ibadah Minggu Pra Paskah I | 9 Maret 2025 | Menghadapi Aneka Godaan",
                         "date": "2025-03-08",
-                        "desc": "*KEBAKTIAN MINGGU PRA PASKAH 1 GKI Salatiga 9 Maret 2025; Pukul 17:00 WIB\n\nTema: Menghadapi Aneka Godaan\n\nBacaan I : Ulangan 26 : 1-11\nTanggapan: Mazmur 91: 1-2, 9-16\nBacaan II: 2 Roma 10 : 8b-13\nBacaan Injil: Lukas 4 : 1-13\n\nNyanyian: PKJ 212; KJ 439; KJ 436:1-2; KK 382; KK 522:1,4-5\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Johnson U. Radda\nKredo dan Warta: Pnt. Yosua Candana H.K.\nSambut Tamu: Pnt. Ervien Dian W., Pnt. Priyo Hari Adi\nPemandu Liturgi: Indriani Wijayanti\nLektor 1: Yedida Crista Pujianti\nLektor 2: Andi David Hutabarat\n\nPemusik: Elhanan + Eva\nPNK/PMZ: Evangs / Benaya\nTim Multimedia: Samuel A.B.S., Joshua A. Gracia, Rico, Puguh, Wayan\n\nUsher dan Kolektan: Wilayah X\n\nFlorist : TimMawar\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "desc": "*KEBAKTIAN MINGGU PRA PASKAH I GKI Salatiga 9 Maret 2025; Pukul 17:00 WIB\n\nTema: Menghadapi Aneka Godaan\n\nBacaan I : Ulangan 26 : 1-11\nTanggapan: Mazmur 91: 1-2, 9-16\nBacaan II: 2 Roma 10 : 8b-13\nBacaan Injil: Lukas 4 : 1-13\n\nNyanyian: PKJ 212; KJ 439; KJ 436:1-2; KK 382; KK 522:1,4-5\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Johnson U. Radda\nKredo dan Warta: Pnt. Yosua Candana H.K.\nSambut Tamu: Pnt. Ervien Dian W., Pnt. Priyo Hari Adi\nPemandu Liturgi: Indriani Wijayanti\nLektor 1: Yedida Crista Pujianti\nLektor 2: Andi David Hutabarat\n\nPemusik: Elhanan + Eva\nPNK/PMZ: Evangs / Benaya\nTim Multimedia: Samuel A.B.S., Joshua A. Gracia, Rico, Puguh, Wayan\n\nUsher dan Kolektan: Wilayah X\n\nFlorist : TimMawar\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=fbq8KE0c3Zg",
-                        "thumbnail": "https://i.ytimg.com/vi/fbq8KE0c3Zg/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/fbq8KE0c3Zg/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Rabu Abu | 5 Maret 2025 | Membarui Hati dengan Mawas Diri",
