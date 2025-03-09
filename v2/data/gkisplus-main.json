@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3009,
-        "last-update": 1741487730,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3010,
+        "last-update": 1741492082,
+        "last-updated-item": "seasonal",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -3357,7 +3357,7 @@
                 "is_feature_bible_shown": 0,
                 "is_feature_library_shown": 1,
                 "is_feature_lapak_shown": 0,
-                "is_feature_seasonal_shown": 0,
+                "is_feature_seasonal_shown": 1,
                 "is_seasonal_twibbon_shown": 0,
                 "is_seasonal_agenda_shown": 0,
                 "is_seasonal_gallery_shown": 0
