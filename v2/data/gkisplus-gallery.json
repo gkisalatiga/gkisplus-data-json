@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 15,
-        "last-update": 1741356150,
+        "update-count": 16,
+        "last-update": 1741630389,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -10931,6 +10931,136 @@
                             "id": "1S0DkHCFrpXklG-7aewsMRTpPEI0QWpHl",
                             "name": "GKI Rabu Abu 05032025 (jeff) (9).JPG",
                             "date": "2025-03-05"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "13li4lzEJu80KcMR7l9Ky8tkfrsZeQr92",
+                    "last_update": "2025-03-10",
+                    "featured_photo_id": "1PplvzvC7bteNX-2XkjXswVOXytLhEbVj",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu & Sekolah Minggu, 09 Maret yang dilaksanakan pada 9 Maret 2025.",
+                    "title": "Ibadah Minggu & Sekolah Minggu, 09 Maret",
+                    "event_date": "2025.03.09",
+                    "photos": [
+                        {
+                            "id": "1rRqjynCHU4e1Co7neXszqlSm2eq1ZKkO",
+                            "name": "GKI Pra-Paskah 1 090325-7-00102.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1YMfZEPWyuDdnCimUIhneQRpXB0PE9DJQ",
+                            "name": "GKI Pra-Paskah 1 090325-7-00091.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1DeLEL9L54UK9DiAwkZc2yPpUQ97BHvDT",
+                            "name": "GKI Pra-Paskah 1 090325-7-00158.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "14iEVPR4l6MDZIvuo98xBZPYUc4oTEefV",
+                            "name": "GKI Pra-Paskah 1 090325-7-00071.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1ruIHyjtO22KW8dRvIaUvja2u160L3UlU",
+                            "name": "GKI Pra-Paskah 1 090325-7-00087.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "18pYjLIBzs4h4o23J5SO3_u-rTKyOLyjP",
+                            "name": "GKI Pra-Paskah 1 090325-7-00060.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1n0klm7HDH82tc7gQWl0jpsv1eZf1WwLG",
+                            "name": "GKI Pra-Paskah 1 090325-7-00053.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1r1kusXdCCf7GllnBPHn8ZeKZOvtMks52",
+                            "name": "GKI Pra-Paskah 1 090325-7-00066.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1DXlgLb9yx7h466HAwTSV1CJrYTG4pxvR",
+                            "name": "GKI Pra-Paskah 1 090325-7-00085.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1rdfNMEHpZYyAjAIMDlKtgLu7QYquKetb",
+                            "name": "GKI Pra-Paskah 1 090325-7-00035.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "10sNPAfRH86j26C1z0ZJoZod1gQxUzZxB",
+                            "name": "GKI Pra-Paskah 1 090325-7-00095.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1GBAEF3BRQDCG3vL3Arfj4ReVhofg13JT",
+                            "name": "GKI Pra-Paskah 1 090325-7-00045.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1qRBrcPs3-blhPbaRwJ64g8V4eAoGG21Y",
+                            "name": "GKI Pra-Paskah 1 090325-7-00084.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1ScIHql9QI2oExgMvI9wXwVTD7mDqF2C4",
+                            "name": "GKI Pra-Paskah 1 090325-7-00039.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1y4l-v-HPzj9B7KydAsxHDX_jh9CEGHgB",
+                            "name": "GKI Pra-Paskah 1 090325-7-00033.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1wCAQVju4q6L3-DH3FFG_cKdQDZcmcJmb",
+                            "name": "GKI Pra-Paskah 1 090325-7-00019.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1HZxbf0Mb2Z9WW4qCVL_VCzuCM1WmA1GC",
+                            "name": "GKI Pra-Paskah 1 090325-7-00030.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1xvxah3IPkeNYu5lYoURYsHlDF1AkRS68",
+                            "name": "GKI Pra-Paskah 1 090325-7-00012.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1VcK2kHSakYJ5WXOK4GBmuhKDeb_5NuG-",
+                            "name": "GKI Pra-Paskah 1 090325-7-00025.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1PGZlLOfvHIlGz9h_Ml6eHym5bdco2Jz4",
+                            "name": "GKI Pra-Paskah 1 090325-7-00016.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1H23vv6XmT7OorJ948WHGBkR8Phs986n5",
+                            "name": "GKI Pra-Paskah 1 090325-7-00008.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1ffwsaUVYyzaxRkzZbVlFtqKeklnYVIVm",
+                            "name": "GKI Pra-Paskah 1 090325-7-00021.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1DMnMEm94YeKs1PNqaBmnUx16Ua53Dxjr",
+                            "name": "GKI Pra-Paskah 1 090325-7-00003.JPG",
+                            "date": "2025-03-10"
+                        },
+                        {
+                            "id": "1PxDVTgXWclllk2IFr0hzecD-wD3hxei_",
+                            "name": "GKI Pra-Paskah 1 090325-7-00007.JPG",
+                            "date": "2025-03-10"
                         }
                     ]
                 }
