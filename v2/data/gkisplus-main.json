@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3020,
-        "last-update": 1741631596,
-        "last-updated-item": "ykb",
+        "update-count": 3021,
+        "last-update": 1741648505,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Mar 2025 | Pencobaan Sebagai Hukuman Atau Berkat",
+                        "date": "2025-03-10",
+                        "desc": "Dibawakan oleh Pnt. Jonhson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=3p1eBf2O3dA",
+                        "thumbnail": "https://i4.ytimg.com/vi/3p1eBf2O3dA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Mar 2025 | Bertobat Setiap Hari",
                         "date": "2025-03-09",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Krisulastri",
                         "link": "https://www.youtube.com/watch?v=zd-ABSLhC0w",
                         "thumbnail": "https://i3.ytimg.com/vi/zd-ABSLhC0w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Feb 2025",
-                        "date": "2025-02-25",
-                        "desc": "Dibawakan oleh Ibu Roosye Rice Irene Supit",
-                        "link": "https://www.youtube.com/watch?v=98JYdyOeBUA",
-                        "thumbnail": "https://i2.ytimg.com/vi/98JYdyOeBUA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
