@@ -3363,7 +3363,7 @@
         ],
         "backend": {
             "flags": {
-                "is_easter_egg_devmode_enabled": 1,
+                "is_easter_egg_devmode_enabled": 0,
                 "is_feature_agenda_shown": 0,
                 "is_feature_persembahan_shown": 1,
                 "is_feature_ykb_shown": 1,
