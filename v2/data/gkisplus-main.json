@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3018,
-        "last-update": 1741583899,
+        "update-count": 3019,
+        "last-update": 1741591144,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3373,6 +3373,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Ona Parzis ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih Paskah SD Kristen 04",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-04-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Paskah SD Kristen 04",
+                "time": "06:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-04-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
                 "status": "w",
                 "note": ""
             }
