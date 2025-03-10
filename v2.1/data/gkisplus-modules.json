@@ -238,7 +238,7 @@
                 "twibbon": {
                     "title": "[TESTING] Twibon MRP25",
                     "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_camera.webp",
-                    "is_shown": 0,
+                    "is_shown": 1,
                     "twibs": [
                         {
                             "title": "Twibbon A Lorem Ipsum",

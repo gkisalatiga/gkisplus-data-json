@@ -3365,7 +3365,7 @@
             "flags": {
                 "is_easter_egg_devmode_enabled": 1,
                 "is_feature_agenda_shown": 0,
-                "is_feature_persembahan_shown": 0,
+                "is_feature_persembahan_shown": 1,
                 "is_feature_ykb_shown": 1,
                 "is_feature_formulir_shown": 0,
                 "is_feature_galeri_shown": 1,
