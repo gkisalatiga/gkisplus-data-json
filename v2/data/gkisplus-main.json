@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3021,
-        "last-update": 1741648505,
-        "last-updated-item": "yt",
+        "update-count": 3022,
+        "last-update": 1741667234,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3053,7 +3053,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Panitia",
                 "pic": "Indry",
-                "status": "w",
+                "status": "y",
                 "note": "Teh"
             },
             {
@@ -3211,6 +3211,34 @@
                 "note": ""
             },
             {
+                "name": "Gladi bersih Paskah SD Kristen 04",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-04-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Paskah SD Kristen 04",
+                "time": "06:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-04-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Kebaktian Paskah KA",
                 "time": "07:30",
                 "time-to": "10:30",
@@ -3221,6 +3249,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA WILAYAH",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-05-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Ona Parzis ",
                 "status": "y",
                 "note": ""
             },
@@ -3239,20 +3281,6 @@
                 "note": ""
             },
             {
-                "name": "PA WIlayah V",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-06-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Bp. Triwibowo",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "PA Wilayah V",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -3267,45 +3295,17 @@
                 "note": "-"
             },
             {
-                "name": "PA WILAYAH",
-                "time": "18:00",
-                "time-to": "20:30",
+                "name": "PA WIlayah V",
+                "time": "17:00",
+                "time-to": "18:30",
                 "timezone": "WIB",
-                "date": "2025-05-06",
+                "date": "2025-06-03",
                 "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
-                "pic": "Ona Parzis ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi bersih Paskah SD Kristen 04",
-                "time": "09:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-04-21",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Yohana Puji Astuti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Paskah SD Kristen 04",
-                "time": "06:30",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-04-24",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Yohana Puji Astuti",
-                "status": "w",
+                "pic": "Bp. Triwibowo",
+                "status": "y",
                 "note": ""
             }
         ],
