@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3032,
-        "last-update": 1741756908,
+        "update-count": 3033,
+        "last-update": 1741761111,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3325,7 +3325,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -3465,6 +3465,20 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Anak",
                 "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Seminar anak",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-03-24",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
                 "status": "y",
                 "note": ""
             }
