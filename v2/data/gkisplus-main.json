@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3031,
-        "last-update": 1741754797,
+        "update-count": 3032,
+        "last-update": 1741756908,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2012,6 +2012,16 @@
                     "note": ""
                 },
                 {
+                    "name": "Persiapan Tim Perkunjungan",
+                    "time": "09:00",
+                    "time-to": "09:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kapernaum",
+                    "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                    "note": "Kamis Minggu ke-2"
+                },
+                {
                     "name": "Ibadah Komisi Usia Lanjut Bulanan",
                     "time": "16:00",
                     "time-to": "17:30",
@@ -3441,6 +3451,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rekaman Soundtrack Jalan Salib KA",
+                "time": "15:30",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-03-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Anak",
+                "pic": "Samarthya",
                 "status": "y",
                 "note": ""
             }
