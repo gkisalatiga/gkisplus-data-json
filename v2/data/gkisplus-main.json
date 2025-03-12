@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3033,
-        "last-update": 1741761111,
+        "update-count": 3034,
+        "last-update": 1741765195,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3161,6 +3161,20 @@
                 "note": ""
             },
             {
+                "name": "Rekaman Soundtrack Jalan Salib KA",
+                "time": "15:30",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-03-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Anak",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Pemusik Ibadah Lamentations/Ecclesiastes",
                 "time": "07:00",
                 "time-to": "10:00",
@@ -3187,6 +3201,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": "Terima kasih "
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-03-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Bp. Lukas Sukan",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "Rapat Komisi Remaja ",
@@ -3297,6 +3325,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Ibu Anti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Seminar anak",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-03-24",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
                 "status": "y",
                 "note": ""
             },
@@ -3451,34 +3493,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rekaman Soundtrack Jalan Salib KA",
-                "time": "15:30",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2025-03-12",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Anak",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Seminar anak",
-                "time": "07:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-03-24",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Endah",
                 "status": "y",
                 "note": ""
             }
