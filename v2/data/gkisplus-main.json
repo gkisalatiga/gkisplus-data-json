@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3027,
-        "last-update": 1741724270,
-        "last-updated-item": "yt",
+        "update-count": 3028,
+        "last-update": 1741744063,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3085,6 +3085,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik Ibadah Tim Lamentation/Ecclesiastes",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-03-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Koordinasi Tim Urban Farming",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-03-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Johnson Umbu Radda",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Lamentations/Ecclesiastes",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-03-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Komisi Remaja ",
                 "time": "16:30",
                 "time-to": "18:00",
@@ -3305,20 +3347,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Tim Lamentation/Ecclesiastes",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-03-11",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
                 "status": "y",
                 "note": ""
             }
