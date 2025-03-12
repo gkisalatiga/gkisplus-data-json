@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3034,
-        "last-update": 1741765195,
+        "update-count": 3035,
+        "last-update": 1741789350,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3495,6 +3495,34 @@
                 "pic": "Bp. Triwibowo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rekaman Soundtrack Jalan Salib KA",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-03-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Anak",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Lamentations/Ecclesiastes",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-03-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Mohon dibatalkan permohonan yang jam 7 pagi"
             }
         ],
         "backend": {
