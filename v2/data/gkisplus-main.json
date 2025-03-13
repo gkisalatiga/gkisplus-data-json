@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3038,
-        "last-update": 1741834759,
-        "last-updated-item": "yt",
+        "update-count": 3039,
+        "last-update": 1741837008,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3517,6 +3517,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": "Mohon dibatalkan permohonan yang jam 7 pagi"
+            },
+            {
+                "name": "Rekaman audio warta lisan (Minggu, 16 Maret)",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-03-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Panitia",
+                "pic": "Joaquim ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
