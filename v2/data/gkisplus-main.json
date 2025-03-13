@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3044,
-        "last-update": 1741854582,
-        "last-updated-item": "agenda",
+        "update-count": 3045,
+        "last-update": 1741864763,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Mar 2025 | Penyangkalan Diri",
+                        "date": "2025-03-13",
+                        "desc": "Dibawakan oleh Bpk. Yulius Ranimpi",
+                        "link": "https://www.youtube.com/watch?v=nD-wLwQNW5w",
+                        "thumbnail": "https://i3.ytimg.com/vi/nD-wLwQNW5w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Mar 2025 | Bermegah dan Rendah Hati",
                         "date": "2025-03-12",
