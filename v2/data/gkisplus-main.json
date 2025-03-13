@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3040,
-        "last-update": 1741840047,
+        "update-count": 3041,
+        "last-update": 1741841154,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3492,8 +3492,8 @@
             },
             {
                 "name": "Rekaman Soundtrack Jalan Salib KA",
-                "time": "09:00",
-                "time-to": "12:00",
+                "time": "15:30",
+                "time-to": "18:30",
                 "timezone": "WIB",
                 "date": "2025-03-13",
                 "weekday": "thu",
