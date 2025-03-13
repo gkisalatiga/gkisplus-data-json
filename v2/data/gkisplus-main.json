@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3041,
-        "last-update": 1741841154,
+        "update-count": 3042,
+        "last-update": 1741847503,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3267,20 +3267,6 @@
                 "note": "Teh"
             },
             {
-                "name": "PA Wilayah V",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Ibu Ona Parzis",
-                "status": "w",
-                "note": "-"
-            },
-            {
                 "name": "PA WILAYAH",
                 "time": "18:00",
                 "time-to": "20:30",
@@ -3501,7 +3487,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Anak",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3543,7 +3529,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Remaja",
                 "pic": "Renzo",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             }
         ],
