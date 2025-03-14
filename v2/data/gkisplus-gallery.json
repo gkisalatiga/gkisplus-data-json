@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 16,
-        "last-update": 1741630389,
+        "update-count": 17,
+        "last-update": 1741924025,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -9982,11 +9982,16 @@
                 {
                     "folder_id": "1DSAxl7bllEYcO4tLhMbUu8fSAqXzeVSx",
                     "last_update": "2025-03-06",
-                    "featured_photo_id": "1qkkbP4nu7yf-IJXKuQVQTzA28zsnBtOq",
+                    "featured_photo_id": "1Qbtz5-azg_Ex-UnmudqTOb4B2kHfm9cy",
                     "story": "Foto-foto dokumentasi Ibadah Minggu & Sekolah Minggu, 23 Februari yang dilaksanakan pada 23 Februari 2025.",
                     "title": "Ibadah Minggu & Sekolah Minggu, 23 Februari",
                     "event_date": "2025.02.23",
                     "photos": [
+                        {
+                            "id": "1ySK-a9n76hDm5YxSXm-FpCRWgmNOjoe9",
+                            "name": "GKI Salatiga 230225-7-00076.JPG",
+                            "date": "2025-03-14"
+                        },
                         {
                             "id": "1MjDqGpcEhXZEqYJc_fwV7Wf6v5l9SdlN",
                             "name": "GKI Salatiga 230225-7-00169.JPG",
