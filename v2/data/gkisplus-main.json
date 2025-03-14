@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3050,
-        "last-update": 1741940912,
-        "last-updated-item": "agenda",
+        "update-count": 3051,
+        "last-update": 1741951122,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Mar 2025 | Seni Memberi",
+                        "date": "2025-03-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=K6CxVuvaVCE",
+                        "thumbnail": "https://i4.ytimg.com/vi/K6CxVuvaVCE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Mar 2025 | Penyangkalan Diri",
                         "date": "2025-03-13",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=hPKO65m93bQ",
                         "thumbnail": "https://i1.ytimg.com/vi/hPKO65m93bQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Mar 2025 | Menemukan Identitas Diri dan Makna Hidup",
-                        "date": "2025-03-02",
-                        "desc": "Dibawakan oleh Pnt. Hendra Aribowo",
-                        "link": "https://www.youtube.com/watch?v=b4mS4At4X7o",
-                        "thumbnail": "https://i3.ytimg.com/vi/b4mS4At4X7o/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
