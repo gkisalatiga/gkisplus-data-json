@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3048,
-        "last-update": 1741929719,
-        "last-updated-item": "yt",
+        "update-count": 3049,
+        "last-update": 1741936934,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3560,6 +3560,20 @@
                 "pic": "Bp Yefta SK",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Formatur Ikatan Alumni ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-03-16",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
