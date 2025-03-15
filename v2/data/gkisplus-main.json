@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3056,
-        "last-update": 1742017238,
-        "last-updated-item": "agenda",
+        "update-count": 3057,
+        "last-update": 1742048432,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Mar 2025",
+                        "date": "2025-03-15",
+                        "desc": "Dibawakan oleh Bpk. Warjendro",
+                        "link": "https://www.youtube.com/watch?v=gyABLauIfwo",
+                        "thumbnail": "https://i4.ytimg.com/vi/gyABLauIfwo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Mar 2025 | Seni Memberi",
                         "date": "2025-03-14",
