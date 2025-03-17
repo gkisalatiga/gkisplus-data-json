@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3069,
-        "last-update": 1742176326,
+        "update-count": 3070,
+        "last-update": 1742180491,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3212,6 +3212,34 @@
                 "note": ""
             },
             {
+                "name": "Percakapan atestasi masuk",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-03-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS.Efrata",
+                "time": "09:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-03-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Warjini",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. GKIS (menggantikan Sabtu, 29 Maret)",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -3366,32 +3394,18 @@
                 "note": ""
             },
             {
-                "name": "Percakapan atestasi masuk",
-                "time": "19:00",
-                "time-to": "20:00",
+                "name": "Rapat Panitia KR/KP",
+                "time": "18:00",
+                "time-to": "20:30",
                 "timezone": "WIB",
-                "date": "2025-03-21",
-                "weekday": "fri",
+                "date": "2025-03-19",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yosua",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS.Efrata",
-                "time": "09:30",
-                "time-to": "10:30",
-                "timezone": "WIB",
-                "date": "2025-03-21",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Ibu Warjini",
-                "status": "y",
-                "note": ""
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
