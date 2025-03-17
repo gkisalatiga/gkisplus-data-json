@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3075,
-        "last-update": 1742203558,
+        "update-count": 3076,
+        "last-update": 1742211546,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3406,6 +3406,20 @@
                 "pic": "Bp. Triwibowo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat perdana paskah gabungan kr kp ",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-03-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Renzo",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
