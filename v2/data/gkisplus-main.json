@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3076,
-        "last-update": 1742211546,
-        "last-updated-item": "agenda",
+        "update-count": 3077,
+        "last-update": 1742221419,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Mar 2025 | Kaya Dalam Tuhan",
+                        "date": "2025-03-17",
+                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
+                        "link": "https://www.youtube.com/watch?v=VFTfRarGbK8",
+                        "thumbnail": "https://i3.ytimg.com/vi/VFTfRarGbK8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Mar 2025",
                         "date": "2025-03-16",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Bpk. Joko Suyono",
                         "link": "https://www.youtube.com/watch?v=YThPZxJYofg",
                         "thumbnail": "https://i2.ytimg.com/vi/YThPZxJYofg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Mar 2025 | Pelajaran dari Titik Terendah",
-                        "date": "2025-03-05",
-                        "desc": "Dibawakan oleh Pnt. July Silooy",
-                        "link": "https://www.youtube.com/watch?v=6KsjPWS5v68",
-                        "thumbnail": "https://i3.ytimg.com/vi/6KsjPWS5v68/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
