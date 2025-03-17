@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3070,
-        "last-update": 1742180491,
+        "update-count": 3071,
+        "last-update": 1742183379,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3404,7 +3404,7 @@
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Indry",
-                "status": "w",
+                "status": "y",
                 "note": "Teh"
             }
         ],
