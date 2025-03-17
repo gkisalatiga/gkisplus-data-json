@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3071,
-        "last-update": 1742183379,
-        "last-updated-item": "agenda",
+        "update-count": 3072,
+        "last-update": 1742188985,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -89,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. July Silooy",
                         "link": "https://www.youtube.com/watch?v=6KsjPWS5v68",
                         "thumbnail": "https://i3.ytimg.com/vi/6KsjPWS5v68/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Mar 2025 | Berpuasa Dengan Diam diam",
-                        "date": "2025-03-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=1FexVq3lag4",
-                        "thumbnail": "https://i2.ytimg.com/vi/1FexVq3lag4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1065,6 +1058,13 @@
                         "desc": "",
                         "link": "https://www.youtube.com/watch?v=IccmObEyXOU",
                         "thumbnail": "https://i.ytimg.com/vi/IccmObEyXOU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "Doa Mohon Pengampunan (Agastya Rama Listya)",
+                        "date": "2025-03-17",
+                        "desc": "",
+                        "link": "https://www.youtube.com/watch?v=IRkIqvPRYrg",
+                        "thumbnail": "https://i.ytimg.com/vi/IRkIqvPRYrg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
