@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3084,
-        "last-update": 1742289925,
-        "last-updated-item": "agenda",
+        "update-count": 3085,
+        "last-update": 1742307787,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Mar 2025 | Tinggal di Dalam Yesus",
+                        "date": "2025-03-18",
+                        "desc": "Dibawakan oleh Ibu Dwi Handari",
+                        "link": "https://www.youtube.com/watch?v=ThOzP8ZHuKg",
+                        "thumbnail": "https://i1.ytimg.com/vi/ThOzP8ZHuKg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Mar 2025 | Percaya Janji Tuhan",
+                        "date": "2025-03-18",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=PaLF6vXWd3E",
+                        "thumbnail": "https://i1.ytimg.com/vi/PaLF6vXWd3E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Mar 2025 | Kaya Dalam Tuhan",
                         "date": "2025-03-17",
@@ -82,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Natanael Harjono",
                         "link": "https://www.youtube.com/watch?v=6RYEqfQN24s",
                         "thumbnail": "https://i3.ytimg.com/vi/6RYEqfQN24s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Mar 2025 | Anugerah Yang Paling Indah",
-                        "date": "2025-03-06",
-                        "desc": "Dibawakan oleh Bpk. Joko Suyono",
-                        "link": "https://www.youtube.com/watch?v=YThPZxJYofg",
-                        "thumbnail": "https://i2.ytimg.com/vi/YThPZxJYofg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
