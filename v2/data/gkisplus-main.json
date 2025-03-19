@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3093,
-        "last-update": 1742373024,
-        "last-updated-item": "agenda",
+        "update-count": 3094,
+        "last-update": 1742383156,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Mar 2025 | Doa Yang Menumbuhkan Iman",
+                        "date": "2025-03-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=7qw2VXLnbbc",
+                        "thumbnail": "https://i4.ytimg.com/vi/7qw2VXLnbbc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Mar 2025",
                         "date": "2025-03-18",
