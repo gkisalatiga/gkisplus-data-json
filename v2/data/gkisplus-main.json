@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3092,
-        "last-update": 1742365926,
+        "update-count": 3093,
+        "last-update": 1742373024,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3105,16 +3105,72 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "PA wilayah 11",
+                "name": "Pelatihan PNK- Rutin sampai Mei 2025",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-03-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS Sola Gratia",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-03-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samuel Arif",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. GKIS (menggantikan Sabtu, 29 Maret)",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-03-24",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Ibu Anti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS GKIS (Menggantikan Sabtu, 5 April)",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Ibu Anti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pemahaman Alkitab",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
                 "date": "2025-04-22",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
-                "pic": "Yuliyanti",
+                "pic": "Woro Tjiptaningsih",
                 "status": "y",
                 "note": ""
             }
