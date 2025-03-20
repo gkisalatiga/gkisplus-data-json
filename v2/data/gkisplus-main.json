@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3097,
-        "last-update": 1742444820,
-        "last-updated-item": "agenda",
+        "update-count": 3098,
+        "last-update": 1742459388,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -89,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Made Rai Shanti",
                         "link": "https://www.youtube.com/watch?v=AO1HVpw4R1A",
                         "thumbnail": "https://i2.ytimg.com/vi/AO1HVpw4R1A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Mar 2025 | Pencobaan Sebagai Hukuman Atau Berkat",
-                        "date": "2025-03-10",
-                        "desc": "Dibawakan oleh Pnt. Jonhson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=3p1eBf2O3dA",
-                        "thumbnail": "https://i4.ytimg.com/vi/3p1eBf2O3dA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -106,6 +99,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu Prapaskah III | 23 Maret 2025 | Mengalami Anugerah Allah Dalam Pertobatan",
+                        "date": "2025-03-20",
+                        "desc": "*KEBAKTIAN MINGGU PRAPASKAH III GKI Salatiga 23 Maret 2025; Pukul 07:00 WIB\n\nTema: Mengalami Anugerah Allah Dalam Pertobatan\n\nBacaan I : Yesaya 55:1-9\nTanggapan: Mazmur 63:1-8\nBacaan II: 1 Korintus 10:1-13\nBacaan Injil: Lukas 13:1-9\n\nNyanyian: KJ 161:1,5; PKJ 212; NKB 22:1,3; KJ 302; NKB 176:1,3\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana\nKredo dan Warta: Pnt. Hananto Seno\nSambut Tamu: Pnt. July Silooy, Pnt. Paskah Ika N.\nPemandu Liturgi: Henri Kristanto\nLektor 1: Nathalia Arviandri\nLektor 2: Ristiani Gani Mendrofa\n\nPemusik: Chronicles + Rea\nPNK/PMZ: Jeffrey / Firsteva\nTim Multimedia: N. Jeffrey, Hermawan, Evan Budiarso, Atma, Nuel, Erio\n\nUsher dan Kolektan: Komisi Dewasa\n\nFlorist : Tim Anggrek\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "link": "https://www.youtube.com/watch?v=amdQvdGpfyU",
+                        "thumbnail": "https://i.ytimg.com/vi/amdQvdGpfyU/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu Prapaskah II | 16 Maret 2025 | Merengkuh Salib Sang Kristus",
                         "date": "2025-03-16",
@@ -294,13 +294,6 @@
                         "desc": "KEBAKTIAN PENUTUPAN BULAN KELUARGA GKI Salatiga 27 Oktober 2024; Pukul 16.30 WIB\n\nTema: Panggilah Nama-nama Kami\n\nBerita Anugerah: Yesaya 43:1,3a\nBacaan : Markus 10:46-52\nPersembahan: 2 Korintus 9:7-8\nNyanyian: KJ 4:1,4,6; Maz 8; PKJ 43:1; Bersukacitala Selalu; NKB 164:1-3; PKJ 264; PKJ 288\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Samuel Martono\nKredo dan Warta : Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Nadia Sitaresmi; Pnt. Rodiana\nPemandu Liturgi: Lorentia\n\nPemusik: Ben KA\nPNK: Gita Hastuti\n\nTim Multimedia: Joaquim, Caitleen, Erio, Jeffrey\n\nUsher dan Kolektan: Bpk & Ibu Henri K.; Bpk & Ibu Lukas Sukan\n\nFlorist : Tim Puma\n\n*Kidung Jemaat, Pelengkap Kidung Jemaat, Kidung Keesaan: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=bNgiL9iWzD0",
                         "thumbnail": "https://i.ytimg.com/vi/bNgiL9iWzD0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Penutupan Bulan Keluarga GKI Salatiga 09:30 WIB | 27 Oktober 2024 | Panggilah Nama-nama Kami",
-                        "date": "2024-10-24",
-                        "desc": "*KEBAKTIAN PENUTUPAN BULAN KELUARGA GKI Salatiga 27 Oktober 2024; Pukul 09.30 WIB\n\nTema: Panggilah Nama-nama Kami\n\nBerita Anugerah: Yesaya 43:1,3a\nBacaan : Markus 10:46-52\nPersembahan: 2 Korintus 9:7-8\nNyanyian: KJ 4:1,4,6; Maz 8; PKJ 43:1; Bersukacitala Selalu; NKB 164:1-3; PKJ 264; PKJ 288\n\nPelayan Firman: Pdt. Em. Iman Santoso \nKoordinator Ibadah dan Persembahan: Pnt. Priyo Hari Adi\nKredo dan Warta : Pnt. July Silooy\nSambut Tamu: Pnt. Nadia Sitaresmi; Pnt. Sri Yuniwati R.\nPemandu Liturgi: Ivana Kesli Parera\n\nPemusik: Ben KA\nPNK: Gita Hastuti\n\nPersembahan Pujian: Panitia Bulan Keluarga\n\nTim Multimedia: Bambang, Emilia, Erio, Jeffrey\n\nUsher dan Kolektan: Panitia Bulan Keluarga\n\nFlorist : Tim Puma\n\n*Kidung Jemaat, Pelengkap Kidung Jemaat, Kidung Keesaan: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=U6u420PUEnQ",
-                        "thumbnail": "https://i.ytimg.com/vi/U6u420PUEnQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
