@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3096,
-        "last-update": 1742409381,
-        "last-updated-item": "ykb",
+        "update-count": 3097,
+        "last-update": 1742444820,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3172,6 +3172,20 @@
                 "representative": "Wilayah",
                 "pic": "Woro Tjiptaningsih",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Koreo untuk Paskah KA",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-03-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia",
+                "status": "w",
                 "note": ""
             }
         ],
