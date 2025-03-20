@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3101,
-        "last-update": 1742495788,
-        "last-updated-item": "ykb",
+        "update-count": 3102,
+        "last-update": 1742501862,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Mar 2025 | Percaya Janji Tuhan",
+                        "date": "2025-03-20",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=PaLF6vXWd3E",
+                        "thumbnail": "https://i1.ytimg.com/vi/PaLF6vXWd3E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Mar 2025 | Doa Yang Menumbuhkan Iman",
                         "date": "2025-03-19",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Ibu Dwi Handari",
                         "link": "https://www.youtube.com/watch?v=ThOzP8ZHuKg",
                         "thumbnail": "https://i1.ytimg.com/vi/ThOzP8ZHuKg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Mar 2025 | Percaya Janji Tuhan",
-                        "date": "2025-03-18",
-                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
-                        "link": "https://www.youtube.com/watch?v=PaLF6vXWd3E",
-                        "thumbnail": "https://i1.ytimg.com/vi/PaLF6vXWd3E/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 18 Mar 2025 | Kaya Dalam Tuhan",
