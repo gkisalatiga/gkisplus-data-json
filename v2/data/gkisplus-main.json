@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3106,
-        "last-update": 1742582093,
-        "last-updated-item": "ykb",
+        "update-count": 3107,
+        "last-update": 1742588257,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Mar 2025 | Tinggal di Dalam Yesus",
+                        "date": "2025-03-21",
+                        "desc": "Dibawakan oleh Ibu Dwi Handari",
+                        "link": "https://www.youtube.com/watch?v=ThOzP8ZHuKg",
+                        "thumbnail": "https://i1.ytimg.com/vi/ThOzP8ZHuKg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Mar 2025 | Percaya Janji Tuhan",
                         "date": "2025-03-20",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Sdri. Maria C. Nenabu",
                         "link": "https://www.youtube.com/watch?v=OFsjyUemey4",
                         "thumbnail": "https://i4.ytimg.com/vi/OFsjyUemey4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Mar 2025 | Tinggal di Dalam Yesus",
-                        "date": "2025-03-18",
-                        "desc": "Dibawakan oleh Ibu Dwi Handari",
-                        "link": "https://www.youtube.com/watch?v=ThOzP8ZHuKg",
-                        "thumbnail": "https://i1.ytimg.com/vi/ThOzP8ZHuKg/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 18 Mar 2025 | Kaya Dalam Tuhan",
