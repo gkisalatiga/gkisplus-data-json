@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3117,
-        "last-update": 1742788232,
+        "update-count": 3118,
+        "last-update": 1742798005,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3144,6 +3144,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat panitia acara paskah",
+                "time": "16:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-03-24",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "y",
+                "note": "Teh"
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -3154,6 +3168,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pekatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-03-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-03-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
                 "status": "y",
                 "note": ""
             },
@@ -3308,48 +3350,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pekatihan PNK",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-03-26",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Eriyani",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat panitia acara paskah",
-                "time": "16:30",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-03-24",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Indry",
-                "status": "y",
-                "note": "Teh"
-            },
-            {
-                "name": "Percakapan Atestasi Masuk",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-03-26",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yosua Candana",
                 "status": "y",
                 "note": ""
             }
