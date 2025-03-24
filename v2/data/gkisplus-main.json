@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3120,
-        "last-update": 1742841329,
-        "last-updated-item": "ykb",
+        "update-count": 3121,
+        "last-update": 1742850910,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Mar 2025",
+                        "date": "2025-03-24",
+                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=7E57QRDLrF8",
+                        "thumbnail": "https://i4.ytimg.com/vi/7E57QRDLrF8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Mar 2025 | Bukti KepedulianNya",
                         "date": "2025-03-23",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Bpk. Yulius Ranimpi",
                         "link": "https://www.youtube.com/watch?v=nD-wLwQNW5w",
                         "thumbnail": "https://i3.ytimg.com/vi/nD-wLwQNW5w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Mar 2025 | Bermegah dan Rendah Hati",
-                        "date": "2025-03-12",
-                        "desc": "Dibawakan oleh Ibu Celly Murniningsih",
-                        "link": "https://www.youtube.com/watch?v=PVl5i_lZnAc",
-                        "thumbnail": "https://i1.ytimg.com/vi/PVl5i_lZnAc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
