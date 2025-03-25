@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3121,
-        "last-update": 1742850910,
-        "last-updated-item": "yt",
+        "update-count": 3122,
+        "last-update": 1742874568,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3118,48 +3118,6 @@
             }
         ],
         "agenda-ruangan": [
-            {
-                "name": "Latihan PS. GKIS (menggantikan Sabtu, 29 Maret)",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-03-24",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Ibu Anti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Seminar anak",
-                "time": "07:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-03-24",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Endah",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat panitia acara paskah",
-                "time": "16:30",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-03-24",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Indry",
-                "status": "y",
-                "note": "Teh"
-            },
             {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
