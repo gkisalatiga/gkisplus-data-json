@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3122,
-        "last-update": 1742874568,
+        "update-count": 3123,
+        "last-update": 1742912632,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3313,6 +3313,20 @@
                 "pic": "Bp. Triwibowo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 30 Maret 2025",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-03-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta ",
+                "status": "w",
+                "note": "H"
             }
         ],
         "backend": {
