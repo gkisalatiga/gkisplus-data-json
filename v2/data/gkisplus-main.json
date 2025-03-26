@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3129,
-        "last-update": 1742987948,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3130,
+        "last-update": 1743006403,
+        "last-updated-item": "forms",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -2326,6 +2326,10 @@
             {
                 "title": "Formulir Peminjaman Ruangan",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSeyEkev1S8Hm72O_uF2epD9SpEfqkYx2MlEpVK8BiBZ1NQrKA/viewform"
+            },
+            {
+                "title": "Formulir Pendaftaran Parade Mazmur GKI Salatiga 2025",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-UOmJ4CudGcRTHo_N1V6miND9e8N81cbWb_LUWm8Mb9V1sw/viewform"
             }
         ],
         "ykb": [
