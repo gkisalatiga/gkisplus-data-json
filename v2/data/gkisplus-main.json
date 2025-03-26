@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3128,
-        "last-update": 1742981108,
-        "last-updated-item": "agenda",
+        "update-count": 3129,
+        "last-update": 1742987948,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Mar 2025 | Berjalan di Atas Gelombang",
+                        "date": "2025-03-26",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=Akk_72zIcyE",
+                        "thumbnail": "https://i2.ytimg.com/vi/Akk_72zIcyE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Mar 2025 | Mercusuar Kehidupan",
                         "date": "2025-03-25",
