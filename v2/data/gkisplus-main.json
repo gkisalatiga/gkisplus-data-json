@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3127,
-        "last-update": 1742973731,
+        "update-count": 3128,
+        "last-update": 1742981108,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3327,6 +3327,34 @@
                 "pic": "Cinta ",
                 "status": "y",
                 "note": "H"
+            },
+            {
+                "name": "Latihan Paduan Suara",
+                "time": "09:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-04-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Paduan Suara",
+                "time": "09:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-04-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
