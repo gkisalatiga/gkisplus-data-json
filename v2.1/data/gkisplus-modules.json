@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 9,
-        "last-update": 1743102634,
+        "update-count": 10,
+        "last-update": 1743103633,
         "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
@@ -214,7 +214,7 @@
         },
         "seasonal": {
             "title": "[TESTING] Masa Raya Paskah 2025",
-            "banner-front": "https://i.ytimg.com/vi/W-vdNCcaTZM/hqdefault.jpg",
+            "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2025.webp",
             "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/banner_mrp_2025.webp",
             "static-menu": {
                 "agenda": {
