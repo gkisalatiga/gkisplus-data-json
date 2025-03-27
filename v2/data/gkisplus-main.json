@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3133,
-        "last-update": 1743061189,
+        "update-count": 3134,
+        "last-update": 1743064187,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3308,6 +3308,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "16:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-03-29",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Adita Sutresno",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan dg Mahasiswa PPL",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-03-30",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Bp. Lukas Sukan",
                 "status": "y",
                 "note": ""
             }
