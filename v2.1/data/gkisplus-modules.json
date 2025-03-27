@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 8,
-        "last-update": 1741532317,
+        "update-count": 9,
+        "last-update": 1743102634,
         "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
@@ -215,29 +215,29 @@
         "seasonal": {
             "title": "[TESTING] Masa Raya Paskah 2025",
             "banner-front": "https://i.ytimg.com/vi/W-vdNCcaTZM/hqdefault.jpg",
-            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_beasiswa_diakonia.webp",
+            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/banner_mrp_2025.webp",
             "static-menu": {
                 "agenda": {
-                    "title": "[TESTING] Agenda MRP GKI Salatiga 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_cheese.webp",
+                    "title": "Agenda MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/agenda_mrp.webp",
                     "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_bug.webp",
                     "is_shown": 1
                 },
                 "books": {
-                    "title": "[TESTING] Buku Panduan em er pe",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_massage.webp",
+                    "title": "Buku Panduan MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/buku_panduan_mrp.webp",
                     "selection-tag": "mrp-2025",
                     "is_shown": 1
                 },
                 "gallery": {
-                    "title": "[TESTING] Galeri MRP25",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_broom.webp",
+                    "title": "Galeri Kegiatan dan Ibadah MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/galeri_mrp_2.webp",
                     "album-keyword": "[MRP 2025]",
                     "is_shown": 1
                 },
                 "twibbon": {
-                    "title": "[TESTING] Twibon MRP25",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_camera.webp",
+                    "title": "[Uji Coba] Twibon MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/twibbon_mrp.webp",
                     "is_shown": 1,
                     "twibs": [
                         {
