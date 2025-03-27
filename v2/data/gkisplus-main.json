@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3134,
-        "last-update": 1743064187,
-        "last-updated-item": "agenda",
+        "update-count": 3135,
+        "last-update": 1743085419,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Mar 2025 | Dikenali Untuk Dilawan",
+                        "date": "2025-03-27",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=mPcn-zHdCN8",
+                        "thumbnail": "https://i2.ytimg.com/vi/mPcn-zHdCN8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Mar 2025",
                         "date": "2025-03-26",
