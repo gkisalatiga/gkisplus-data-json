@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3136,
-        "last-update": 1743100483,
-        "last-updated-item": "ykb",
+        "update-count": 3137,
+        "last-update": 1743136085,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3344,6 +3344,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Bp. Lukas Sukan",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Edit video warta",
+                "time": "11:40",
+                "time-to": "00:30",
+                "timezone": "WIB",
+                "date": "2025-03-28",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang mulmed",
+                "representative": "Panitia",
+                "pic": "Jeffrey",
+                "status": "w",
                 "note": ""
             }
         ],
