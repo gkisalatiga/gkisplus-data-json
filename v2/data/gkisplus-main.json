@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3139,
-        "last-update": 1743186903,
-        "last-updated-item": "yt",
+        "update-count": 3140,
+        "last-update": 1743222477,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3344,6 +3344,20 @@
                 "pic": "Jeffrey",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat rutin KP",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-03-31",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
