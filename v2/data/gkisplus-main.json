@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3146,
-        "last-update": 1743283289,
-        "last-updated-item": "ykb",
+        "update-count": 3147,
+        "last-update": 1743299916,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3388,7 +3388,7 @@
                 "place": "Ruang mulmed",
                 "representative": "Panitia",
                 "pic": "Jeffrey",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3402,8 +3402,22 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Indry",
-                "status": "w",
+                "status": "y",
                 "note": "Teh"
+            },
+            {
+                "name": "Latihan pemusik paskah KR/KP",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-03-30",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
