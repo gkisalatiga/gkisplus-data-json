@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3149,
-        "last-update": 1743312068,
-        "last-updated-item": "agenda",
+        "update-count": 3150,
+        "last-update": 1743323231,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 31 Mar 2025 | Menanti Dengan Iman",
+                        "date": "2025-03-30",
+                        "desc": "Dibawakan oleh Sdri. Sdri. Debora Mayang Arum",
+                        "link": "https://www.youtube.com/watch?v=C4HpulfIs0Q",
+                        "thumbnail": "https://i4.ytimg.com/vi/C4HpulfIs0Q/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Mar 2025 | Berjalan di Atas Gelombang",
                         "date": "2025-03-28",
