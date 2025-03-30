@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3148,
-        "last-update": 1743306744,
+        "update-count": 3149,
+        "last-update": 1743312068,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3417,6 +3417,20 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Triwibowo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Jalan salib",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-04-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Asputri Kaat",
+                "status": "w",
                 "note": ""
             }
         ],
