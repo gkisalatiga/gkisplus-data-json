@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3155,
-        "last-update": 1743393136,
-        "last-updated-item": "offertory-code",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 3156,
+        "last-update": 1743441643,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Apr 2025 | Kasih Allah Membawa Kebaikan",
+                        "date": "2025-03-31",
+                        "desc": "Dibawakan oleh Ibu Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=oCcqh5iniYI",
+                        "thumbnail": "https://i4.ytimg.com/vi/oCcqh5iniYI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 31 Mar 2025 | Menanti Dengan Iman",
                         "date": "2025-03-30",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Maria C. Nenabu",
                         "link": "https://www.youtube.com/watch?v=OFsjyUemey4",
                         "thumbnail": "https://i4.ytimg.com/vi/OFsjyUemey4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Mar 2025 | Kaya Dalam Tuhan",
-                        "date": "2025-03-17",
-                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
-                        "link": "https://www.youtube.com/watch?v=VFTfRarGbK8",
-                        "thumbnail": "https://i3.ytimg.com/vi/VFTfRarGbK8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
