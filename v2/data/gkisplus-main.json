@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3154,
-        "last-update": 1743390564,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3155,
+        "last-update": 1743393136,
+        "last-updated-item": "offertory-code",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -2912,24 +2912,49 @@
         ],
         "offertory-code": [
             {
+                "unique-code": "2",
+                "title": "Komisi Usia Lanjut",
+                "desc": "Persembahan yang masuk ke dalam kolekte ibadah-ibadah yang diselenggarakan oleh Komisi Usia Lanjut (KUL)"
+            },
+            {
+                "unique-code": "4",
+                "title": "Komisi Pemuda",
+                "desc": "Persembahan yang masuk ke dalam kolekte ibadah-ibadah yang diselenggarakan oleh Komisi Pemuda (KP)"
+            },
+            {
+                "unique-code": "5",
+                "title": "Komisi Remaja",
+                "desc": "Persembahan yang masuk ke dalam kolekte ibadah-ibadah yang diselenggarakan oleh Komisi Remaja (KR)"
+            },
+            {
+                "unique-code": "6",
+                "title": "Komisi Anak",
+                "desc": "Persembahan yang masuk ke dalam kolekte ibadah-ibadah yang diselenggarakan oleh Komisi Anak (KA)"
+            },
+            {
+                "unique-code": "8",
+                "title": "English Service",
+                "desc": "Persembahan yang masuk ke dalam kolekte ibadah-ibadah yang diselenggarakan oleh Komisi Hubungan Internasional (KHI)"
+            },
+            {
                 "unique-code": "13",
                 "title": "Pundi Samaria",
-                "desc": "Persembahan digunakan untuk memberikan beasiswa pendidikan bagi anggota dan simpatisan GKI Salatiga"
+                "desc": "Persembahan yang digunakan untuk memberikan beasiswa pendidikan bagi anggota dan simpatisan GKI Salatiga"
             },
             {
                 "unique-code": "19",
                 "title": "GKI Salatiga Peduli",
-                "desc": "Persembahan dikelola untuk membantu para korban bencana alam serta membantu orang-orang yang membutuhkan"
+                "desc": "Persembahan yang dikelola untuk membantu para korban bencana alam serta membantu orang-orang yang membutuhkan"
             },
             {
                 "unique-code": "25",
                 "title": "Natal",
-                "desc": "Persembahan dalam rangka perayaan Natal setiap tanggal 25 Desember di GKI Salatiga"
+                "desc": "Persembahan yang diberikan dalam rangka perayaan Natal setiap tanggal 25 Desember di GKI Salatiga"
             },
             {
                 "unique-code": "33",
                 "title": "Dana Kebersamaan Klasis (DKK)",
-                "desc": "Persembahan dipakai untuk mendukung pelayanan gereja-gereja dalam lingkup Klasis Magelang"
+                "desc": "Persembahan yang dipakai untuk mendukung pelayanan gereja-gereja dalam lingkup Klasis Magelang"
             },
             {
                 "unique-code": "50",
@@ -2939,7 +2964,7 @@
             {
                 "unique-code": "93",
                 "title": "Yayasan Pendidikan Eben Haezer (YPE)",
-                "desc": "Persembahan dikelola untuk mendukung pelayanan pendidikan di Yayasan Pendidikan Eben Haezer GKI Salatiga"
+                "desc": "Persembahan yang dikelola untuk mendukung pelayanan pendidikan di Yayasan Pendidikan Eben Haezer GKI Salatiga (biasa disebut sebagai \"Kantong P\")"
             }
         ],
         "carousel": [
