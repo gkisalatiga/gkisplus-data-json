@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3158,
-        "last-update": 1743485145,
+        "update-count": 3159,
+        "last-update": 1743496312,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Apr 2025 | Melayani Serupa Yesus",
+                        "date": "2025-04-01",
+                        "desc": "Dibawakan oleh Pnt. Paul Arototonafo W. Gul\u00f6",
+                        "link": "https://www.youtube.com/watch?v=4DEfqscm1pU",
+                        "thumbnail": "https://i1.ytimg.com/vi/4DEfqscm1pU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Apr 2025",
+                        "date": "2025-04-01",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=m07E4veWt9k",
+                        "thumbnail": "https://i2.ytimg.com/vi/m07E4veWt9k/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
                         "date": "2025-04-01",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Dwi Handari",
                         "link": "https://www.youtube.com/watch?v=ThOzP8ZHuKg",
                         "thumbnail": "https://i1.ytimg.com/vi/ThOzP8ZHuKg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Mar 2025 | Percaya Janji Tuhan",
-                        "date": "2025-03-20",
-                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
-                        "link": "https://www.youtube.com/watch?v=PaLF6vXWd3E",
-                        "thumbnail": "https://i1.ytimg.com/vi/PaLF6vXWd3E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Mar 2025 | Doa Yang Menumbuhkan Iman",
-                        "date": "2025-03-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=7qw2VXLnbbc",
-                        "thumbnail": "https://i4.ytimg.com/vi/7qw2VXLnbbc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
