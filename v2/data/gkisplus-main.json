@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3157,
-        "last-update": 1743446052,
-        "last-updated-item": "ykb",
+        "update-count": 3158,
+        "last-update": 1743485145,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
+                        "date": "2025-04-01",
+                        "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
+                        "link": "https://www.youtube.com/watch?v=jUpn5ayP3hU",
+                        "thumbnail": "https://i3.ytimg.com/vi/jUpn5ayP3hU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Apr 2025 | Kasih Allah Membawa Kebaikan",
                         "date": "2025-03-31",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=7qw2VXLnbbc",
                         "thumbnail": "https://i4.ytimg.com/vi/7qw2VXLnbbc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Mar 2025",
-                        "date": "2025-03-18",
-                        "desc": "Dibawakan oleh Sdri. Maria C. Nenabu",
-                        "link": "https://www.youtube.com/watch?v=OFsjyUemey4",
-                        "thumbnail": "https://i4.ytimg.com/vi/OFsjyUemey4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
