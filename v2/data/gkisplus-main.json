@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3163,
-        "last-update": 1743565972,
+        "update-count": 3164,
+        "last-update": 1743568069,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3456,6 +3456,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rekaman Soundtrack Jalan Salib KA",
+                "time": "13:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-04-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Anak",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
