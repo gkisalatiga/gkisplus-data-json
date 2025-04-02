@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3162,
-        "last-update": 1743532434,
-        "last-updated-item": "ykb",
+        "update-count": 3163,
+        "last-update": 1743565972,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3435,6 +3435,20 @@
                 "name": "Latihan musik untuk ibadah umum",
                 "time": "10:00",
                 "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-04-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk ibadah umum",
+                "time": "13:00",
+                "time-to": "15:00",
                 "timezone": "WIB",
                 "date": "2025-04-02",
                 "weekday": "wed",
