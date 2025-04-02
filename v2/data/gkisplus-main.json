@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3165,
-        "last-update": 1743618963,
-        "last-updated-item": "ykb",
+        "update-count": 3166,
+        "last-update": 1743625085,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
+                        "date": "2025-04-02",
+                        "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
+                        "link": "https://www.youtube.com/watch?v=jUpn5ayP3hU",
+                        "thumbnail": "https://i3.ytimg.com/vi/jUpn5ayP3hU/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 2 Apr 2025 | Melayani Serupa Yesus",
                         "date": "2025-04-01",
                         "desc": "Dibawakan oleh Pnt. Paul Arototonafo W. Gul\u00f6",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=m07E4veWt9k",
                         "thumbnail": "https://i2.ytimg.com/vi/m07E4veWt9k/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
-                        "date": "2025-04-01",
-                        "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
-                        "link": "https://www.youtube.com/watch?v=jUpn5ayP3hU",
-                        "thumbnail": "https://i3.ytimg.com/vi/jUpn5ayP3hU/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 1 Apr 2025 | Kasih Allah Membawa Kebaikan",
