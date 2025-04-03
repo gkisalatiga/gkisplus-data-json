@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3167,
-        "last-update": 1743645075,
-        "last-updated-item": "agenda",
+        "update-count": 3168,
+        "last-update": 1743657803,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Apr 2025 | Mengingat Jalan Keselamatan",
+                        "date": "2025-04-03",
+                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
+                        "link": "https://www.youtube.com/watch?v=mbn74PLwwrQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/mbn74PLwwrQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
                         "date": "2025-04-02",
