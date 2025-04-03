@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3171,
-        "last-update": 1743684503,
+        "update-count": 3172,
+        "last-update": 1743687092,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -3675,6 +3675,20 @@
                 "pic": "Cinta",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan ibadah",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-04-07",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": "Jika jam 19.00 kosong maka kami akan berlatih dari jam 19.00 sampai 22.00 terima kasih"
             }
         ],
         "backend": {
