@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3166,
-        "last-update": 1743625085,
-        "last-updated-item": "yt",
+        "update-count": 3167,
+        "last-update": 1743645075,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3470,6 +3470,48 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Anak",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk ibadah umum ",
+                "time": "08:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-04-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
                 "status": "w",
                 "note": ""
             }
