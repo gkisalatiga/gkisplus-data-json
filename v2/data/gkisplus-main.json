@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3169,
-        "last-update": 1743669061,
-        "last-updated-item": "agenda",
+        "update-count": 3170,
+        "last-update": 1743679298,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Apr 2025 | Tumbal",
+                        "date": "2025-04-03",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=av43NVN2z8E",
+                        "thumbnail": "https://i2.ytimg.com/vi/av43NVN2z8E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Apr 2025 | Mengingat Jalan Keselamatan",
                         "date": "2025-04-03",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Sdri. Martha Marau",
                         "link": "https://www.youtube.com/watch?v=BosOZqG8DgE",
                         "thumbnail": "https://i3.ytimg.com/vi/BosOZqG8DgE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Mar 2025 | Tinggal di Dalam Yesus",
-                        "date": "2025-03-21",
-                        "desc": "Dibawakan oleh Ibu Dwi Handari",
-                        "link": "https://www.youtube.com/watch?v=ThOzP8ZHuKg",
-                        "thumbnail": "https://i1.ytimg.com/vi/ThOzP8ZHuKg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
