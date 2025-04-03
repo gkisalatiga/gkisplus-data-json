@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3168,
-        "last-update": 1743657803,
-        "last-updated-item": "yt",
+        "update-count": 3169,
+        "last-update": 1743669061,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3519,6 +3519,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas Ibadah Paskah KA",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-04-04",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia",
                 "status": "w",
                 "note": ""
             }
