@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3178,
-        "last-update": 1743743249,
-        "last-updated-item": "backend",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 3179,
+        "last-update": 1743744240,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
     "data": {
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Apr 2025 | Pengampunan",
+                        "date": "2025-04-04",
+                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=aJtKOiTO0sg",
+                        "thumbnail": "https://i2.ytimg.com/vi/aJtKOiTO0sg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Apr 2025 | Mengingat Jalan Keselamatan",
                         "date": "2025-04-03",
