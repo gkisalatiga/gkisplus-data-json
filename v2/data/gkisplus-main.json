@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3179,
-        "last-update": 1743744240,
-        "last-updated-item": "yt",
+        "update-count": 3180,
+        "last-update": 1743780336,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3669,6 +3669,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Bpk. Lukas Sukan",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS Magnificat",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-05",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Jeffrey Nugroho",
+                "status": "w",
                 "note": ""
             }
         ],
