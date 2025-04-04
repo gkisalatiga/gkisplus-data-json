@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3174,
-        "last-update": 1743711512,
-        "last-updated-item": "yt",
+        "update-count": 3175,
+        "last-update": 1743731476,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -3423,7 +3423,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Asputri Kaat",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3437,7 +3437,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Anak",
                 "pic": "Dian Aprilia",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3451,7 +3451,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3465,7 +3465,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3479,7 +3479,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Anak",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3493,7 +3493,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3535,7 +3535,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Dian Aprilia",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3549,7 +3549,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3563,7 +3563,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3577,7 +3577,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3591,7 +3591,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3605,7 +3605,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3619,21 +3619,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-06-17",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3647,7 +3633,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3661,7 +3647,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3675,7 +3661,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3689,8 +3675,22 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": "Jika jam 19.00 kosong maka kami akan berlatih dari jam 19.00 sampai 22.00 terima kasih"
+            },
+            {
+                "name": "Pertemuan perdana mhs PPL I dan III  dengan Supervisor Lapangan, Pdt, MJ dan Pengurus KR dan KP",
+                "time": "08:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-04-05",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Bpk. Lukas Sukan",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
