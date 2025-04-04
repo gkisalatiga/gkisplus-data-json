@@ -6,11 +6,11 @@ class Minify():
     
     # The list of paths to all JSON files.
     JSON_PATH_LIST = [
-        'v2.1/data/feeds.json',
-        'v2.1/data/gkisplus-gallery.json',
-        'v2.1/data/gkisplus-main.json',
-        'v2.1/data/gkisplus-modules.json',
-        'v2.1/data/gkisplus-static.json',
+        'staging/data/feeds.json',
+        'staging/data/gkisplus-gallery.json',
+        'staging/data/gkisplus-main.json',
+        'staging/data/gkisplus-modules.json',
+        'staging/data/gkisplus-static.json',
     ]
     
     def __init__(self):
