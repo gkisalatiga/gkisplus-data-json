@@ -1,10 +1,10 @@
 {
     "meta": {
-        "update-count": 9,
-        "last-update": 1741536860,
-        "last-updated-item": ".",
+        "update-count": 10,
+        "last-update": 1743743249,
+        "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
-        "schema-version": "2.0"
+        "schema-version": "2.1"
     },
     "modules": {
         "bible": [
@@ -61,7 +61,9 @@
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1kW7T2WzUd-pDFqgyDWQqSsM2jF50YUQR",
                 "download-url": "https://drive.google.com/uc?export=download&id=14-d-Oex4FlL8lL7cdf7HfQBbotQ2Quxf",
                 "source": "https://lpps.or.id/wp/2025/01/29/bahan-pentakosta-2025/",
-                "size": "4.08 MB"
+                "size": "4.08 MB",
+                "tags": ["mrp-2025"],
+                "is_shown": 1
             },
             {
                 "title": "Masa Paskah 2025: \u201cMengingat, Percaya, dan Menjadi Saksi-Nya\u201d",
@@ -72,7 +74,9 @@
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1_xM5VnrfmAhs4m8EOxmL4rj8GN-XtnBC",
                 "download-url": "https://drive.google.com/uc?export=download&id=1j819zbCSDYz-imHE0uumdBwc24O7bmHO",
                 "source": "https://lpps.or.id/wp/2024/12/26/masa-paskah-2025",
-                "size": "7.34 MB"
+                "size": "7.34 MB",
+                "tags": ["mrp-2025"],
+                "is_shown": 1
             },
             {
                 "title": "Masa Adven Natal 2024: \u201cDia Tinggal Di Antara Kita\u201d",
@@ -83,7 +87,9 @@
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1nDZR_JJvR8-c3gqI3RWNb-JoswzqojNF",
                 "download-url": "https://drive.google.com/uc?export=download&id=1YjgZjLSn6Gq2-kAf9vlRLR5M9t-3U21P",
                 "source": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024",
-                "size": "3.46 MB"
+                "size": "3.46 MB",
+                "tags": [],
+                "is_shown": 1
             },
             {
                 "title": "Bulan Keluarga 2024: \u201cSupaya Kamu Saling Mengasihi\u201d",
@@ -94,7 +100,9 @@
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1QNpNhJMBcvsl6378OSOx7zlz_LuJc0WM",
                 "download-url": "https://drive.google.com/uc?export=download&id=14F0CwF0JLq0h9P2PMrQY7HIpKLwnS8bB",
                 "source": "https://lpps.or.id/wp/2024/07/29/bulan-keluarga-2024",
-                "size": "2.41 MB"
+                "size": "2.41 MB",
+                "tags": [],
+                "is_shown": 1
             },
             {
                 "title": "Masa Paskah 2024: \u201cBangkit Untuk Menata Kehidupan\u201d",
@@ -105,7 +113,9 @@
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1HLldf_z6AUy3HDT3RLLrj8jvHr75QVXE",
                 "download-url": "https://drive.google.com/uc?export=download&id=14JazXw4C2BV7Kz-xKGbxm_Ij4vtINsFW",
                 "source": "https://lpps.or.id/wp/2023/12/05/masa-paskah",
-                "size": "2.83 MB"
+                "size": "2.83 MB",
+                "tags": [],
+                "is_shown": 1
             }
         ],
         "attributions": {
@@ -201,6 +211,43 @@
                     "link": "https://worldenglish.bible"
                 }
             ]
+        },
+        "seasonal": {
+            "title": "Masa Raya Paskah 2025",
+            "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2025.webp",
+            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/banner_mrp_2025.webp",
+            "static-menu": {
+                "agenda": {
+                    "title": "Agenda MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/agenda_mrp.webp",
+                    "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/agenda_mrp_isi.webp",
+                    "is_shown": 1
+                },
+                "books": {
+                    "title": "Buku Panduan MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/buku_panduan_mrp.webp",
+                    "selection-tag": "mrp-2025",
+                    "is_shown": 1
+                },
+                "gallery": {
+                    "title": "Galeri Kegiatan dan Ibadah MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/galeri_mrp_2.webp",
+                    "album-keyword": "[MRP 2025]",
+                    "is_shown": 1
+                },
+                "twibbon": {
+                    "title": "[Uji Coba] Twibon MRP 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/twibbon_mrp.webp",
+                    "is_shown": 0,
+                    "twibs": [
+                        {
+                            "title": "Twibbon A Lorem Ipsum",
+                            "url": "https://path/to/image/url",
+                            "post-page": "https://url/to/website-based/twibbon/service"
+                        }
+                    ]
+                }
+            }
         }
     }
 }

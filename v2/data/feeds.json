@@ -1,4 +1,7 @@
 {
+    "meta": {
+        "schema-version": "2.1"
+    },
     "feeds": {
         "app-update": {
             "enable-update-check": 1,
@@ -7,8 +10,8 @@
             "download-url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus"
         },
         "last-gallery-update": 1742833907,
-        "last-main-update": 1743737710,
-        "last-modules-update": 1741532317,
+        "last-main-update": 1743743249,
+        "last-modules-update": 1743743249,
         "last-static-update": 1742834645
     }
 }
