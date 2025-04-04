@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3181,
-        "last-update": 1743791784,
-        "last-updated-item": "ykb",
+        "update-count": 3182,
+        "last-update": 1743797860,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,20 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 5 Apr 2025 | Tumbal",
+                        "date": "2025-04-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=av43NVN2z8E",
+                        "thumbnail": "https://i2.ytimg.com/vi/av43NVN2z8E/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Apr 2025 | Pertobatan yang Sejati",
+                        "date": "2025-04-04",
+                        "desc": "Dibawakan oleh Sdri. Mengsih Mawarni Dakabesy",
+                        "link": "https://www.youtube.com/watch?v=xjNM1KB6L_E",
+                        "thumbnail": "https://i1.ytimg.com/vi/xjNM1KB6L_E/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 7 Apr 2025 | Pengampunan",
                         "date": "2025-04-04",
                         "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
@@ -33,13 +47,6 @@
                         "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
                         "link": "https://www.youtube.com/watch?v=mbn74PLwwrQ",
                         "thumbnail": "https://i2.ytimg.com/vi/mbn74PLwwrQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Apr 2025 | Tumbal",
-                        "date": "2025-04-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=av43NVN2z8E",
-                        "thumbnail": "https://i2.ytimg.com/vi/av43NVN2z8E/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
@@ -110,13 +117,6 @@
                         "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
                         "link": "https://www.youtube.com/watch?v=7E57QRDLrF8",
                         "thumbnail": "https://i4.ytimg.com/vi/7E57QRDLrF8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Mar 2025 | Bukti KepedulianNya",
-                        "date": "2025-03-23",
-                        "desc": "Dibawakan oleh Sdri. Martha Marau",
-                        "link": "https://www.youtube.com/watch?v=BosOZqG8DgE",
-                        "thumbnail": "https://i3.ytimg.com/vi/BosOZqG8DgE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
