@@ -27,6 +27,12 @@ class FallbackGenerator():
         with open(path, 'r') as fi:
             j = json.load(fi)
         
+        # Updating metadata.
+        j['meta']['update-count'] = 1
+        j['meta']['last-update'] = 1
+        j['meta']['last-updated-item'] = '.'
+        j['meta']['last-actor'] = 'FALLBACK'
+        
         if path.__contains__('gallery'):
             for i in range(len(j['gallery']) - 1):
                 j['gallery'].pop(0)
