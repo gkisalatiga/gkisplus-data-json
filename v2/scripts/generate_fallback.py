@@ -27,6 +27,12 @@ class FallbackGenerator():
         with open(path, 'r') as fi:
             j = json.load(fi)
         
+        # Updating metadata.
+        j['meta']['update-count'] = 1
+        j['meta']['last-update'] = 1
+        j['meta']['last-updated-item'] = '.'
+        j['meta']['last-actor'] = 'FALLBACK'
+        
         if path.__contains__('gallery'):
             for i in range(len(j['gallery']) - 1):
                 j['gallery'].pop(0)
@@ -69,6 +75,17 @@ class FallbackGenerator():
             # Shrinking agenda ruangan.
             for i in range(len(j['data']['agenda-ruangan']) - 1):
                 j['data']['agenda-ruangan'].pop(0)
+            # Messing around with the flags.
+            j['data']['backend']['is_easter_egg_devmode_enabled'] = 0
+            j['data']['backend']['is_feature_agenda_shown'] = 0
+            j['data']['backend']['is_feature_persembahan_shown'] = 0
+            j['data']['backend']['is_feature_ykb_shown'] = 0
+            j['data']['backend']['is_feature_formulir_shown'] = 0
+            j['data']['backend']['is_feature_galeri_shown'] = 0
+            j['data']['backend']['is_feature_bible_shown'] = 0
+            j['data']['backend']['is_feature_library_shown'] = 0
+            j['data']['backend']['is_feature_lapak_shown'] = 0
+            j['data']['backend']['is_feature_seasonal_shown'] = 0
         
         elif path.__contains__('modules'):
             for i in range(len(j['modules']['bible']) - 1):
