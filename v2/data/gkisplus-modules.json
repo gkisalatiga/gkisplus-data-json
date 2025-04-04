@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 10,
-        "last-update": 1743743249,
-        "last-updated-item": "seasonal",
+        "update-count": 11,
+        "last-update": 1743744286,
+        "last-updated-item": "library",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
@@ -115,7 +115,7 @@
                 "source": "https://lpps.or.id/wp/2023/12/05/masa-paskah",
                 "size": "2.83 MB",
                 "tags": [],
-                "is_shown": 1
+                "is_shown": 0
             }
         ],
         "attributions": {
