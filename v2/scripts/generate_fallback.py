@@ -107,6 +107,8 @@ class FallbackGenerator():
         # Write the compactified JSON file.
         with open(save_filepath, 'w') as fo:
             json.dump(j, fo, separators=(',', ':'))
+        
+        del j
 
 if __name__ == "__main__":
     generator = FallbackGenerator()
