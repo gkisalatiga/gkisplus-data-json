@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3184,
-        "last-update": 1743831148,
+        "update-count": 3185,
+        "last-update": 1743831710,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1135,6 +1135,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 6 April 2025",
+                    "date": "2025-04-05",
+                    "link": "https://drive.google.com/file/d/1CcJkaOmPyBhcCPmeHNa-Ilmh5VvHk4C5/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-6-april-2025/",
+                    "thumbnail": "",
+                    "id": "1CcJkaOmPyBhcCPmeHNa-Ilmh5VvHk4C5",
+                    "size": "1.40 MB"
+                },
+                {
                     "title": "Warta Jemaat 30 Maret 2025",
                     "date": "2025-03-29",
                     "link": "https://drive.google.com/file/d/1_oswyH65vPEdHTETL4rFbfSRl3qL0G4l/view",
@@ -1442,6 +1451,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 6 April 2025",
+                    "date": "2025-04-05",
+                    "link": "https://drive.google.com/file/d/1Q0uOZjuyJFjQhCyeoYs0QifqNE8WRfdu/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-6-april-2025/",
+                    "thumbnail": "",
+                    "id": "1Q0uOZjuyJFjQhCyeoYs0QifqNE8WRfdu",
+                    "size": "0.30 MB"
+                },
                 {
                     "title": "Tata Ibadah 30 Maret 2025",
                     "date": "2025-03-29",
