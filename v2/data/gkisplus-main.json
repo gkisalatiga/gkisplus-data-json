@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3189,
-        "last-update": 1743851871,
-        "last-updated-item": "yt",
+        "update-count": 3190,
+        "last-update": 1743853125,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3759,6 +3759,20 @@
                 "pic": "Syella",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Gladi Bersih Jumat Agung KA",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-04-13",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
