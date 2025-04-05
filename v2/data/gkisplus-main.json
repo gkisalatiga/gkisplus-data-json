@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3187,
-        "last-update": 1743841621,
-        "last-updated-item": "yt",
+        "update-count": 3188,
+        "last-update": 1743844901,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3745,6 +3745,20 @@
                 "pic": "Indry",
                 "status": "w",
                 "note": "Teh"
+            },
+            {
+                "name": "Membuat PPT Paskah KR/KP",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-04-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Syella",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
