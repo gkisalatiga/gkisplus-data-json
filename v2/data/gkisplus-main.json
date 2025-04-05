@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3190,
-        "last-update": 1743853125,
+        "update-count": 3191,
+        "last-update": 1743872640,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3000,14 +3000,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Persekutuan SODA",
-                "type": "poster",
-                "date-created": "2025-03-29",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
                 "title": "Ibadah Minggu Prapaskah V",
                 "type": "poster",
@@ -3102,14 +3094,6 @@
                 "date-created": "2025-04-05",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_khi.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
-                "title": "Informasi Warung Tiberias",
-                "type": "poster",
-                "date-created": "2025-03-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_wartib_libur.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             }
         ],
         "pukat-berkat": [
