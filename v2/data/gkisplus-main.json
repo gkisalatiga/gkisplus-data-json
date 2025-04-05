@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3183,
-        "last-update": 1743828211,
-        "last-updated-item": "agenda",
+        "update-count": 3184,
+        "last-update": 1743830590,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -110,13 +110,6 @@
                         "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
                         "link": "https://www.youtube.com/watch?v=8Wnii8IuZlg",
                         "thumbnail": "https://i1.ytimg.com/vi/8Wnii8IuZlg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Mar 2025",
-                        "date": "2025-03-24",
-                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=7E57QRDLrF8",
-                        "thumbnail": "https://i4.ytimg.com/vi/7E57QRDLrF8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -127,6 +120,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu Prapaskah V | 6 April 2025 | Menyadari dan Merespons Kasih Tak Terhitung",
+                        "date": "2025-04-05",
+                        "desc": "*KEBAKTIAN MINGGU PRAPASKAH V GKI Salatiga 6 April 2025; Pukul 07:00 WIB\n\nTema: Menyadari dan Merespons Kasih Tak Terhitung\n\nBacaan I : Yesaya 43: 16-21\nTanggapan: Mazmur 126\nBacaan II: Filipi 3: 4-14\nBacaan Injil: Yohanes 12: 1-8\n\nNyanyian: PKJ 212; NKB 141:1-3; NKB 85; KLIK 103; KK 560:1-2\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Natalis Sidanta\nKredo dan Warta: Pnt. Samuel Martono\nSambut Tamu: Pnt. Santoso Adi. P , Pnt. Johnson U. Radda\nPemandu Liturgi: Titik Ernawati\nLektor 1: Tejo Prayitno\nLektor 2: Atiek Widyati\n\nPemusik: Zephaniah + Gesang\nPNK/PMZ: Dhara / Inggrid\nPaduan Suara: Bp. Yosep\nTim Multimedia: Budi Santoso, Tunggul Laras, Rico, Bobby/Alvin\n\nUsher dan Kolektan: Wilayah XIII\n\nFlorist : Tim Dahlia\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "link": "https://www.youtube.com/watch?v=7Ub-9xvrLbY",
+                        "thumbnail": "https://i.ytimg.com/vi/7Ub-9xvrLbY/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu Prapaskah IV | 30 Maret 2025 | Menerima Sebagai Kawan",
                         "date": "2025-03-28",
@@ -315,13 +315,6 @@
                         "desc": "*KEBAKTIAN MINGGU GKI Salatiga 10 November 2024 | Pukul 07:00 WIB\n\nTema: Mengenali Hasrat Yang Tersembunyi\n\nBerita Anugerah: Mazmur 103:8-14\nBacaan I: 1 Raja-raja 17:8-16\nTanggapan: Mazmur 146\nBacaan II: Ibrani 9:24-28\nBacaan Injil: Markus 12:38-44\nPersembahan: Yohanes 3:16-18\nNyanyian: KK 15; Kasihilah Tuhan Allahmu; KK 483; KK 556:1,3\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana.\nKredo dan Warta : Pnt. Benny A. Kailolao\nSambut Tamu: Pnt. Johnson U. Radda, Pnt. Desemy Ch. N. Ballo\n\nPemandu Liturgi: Chandra Novita\nLektor I: Maria Nenabu\nLektor II: Abraham Tobe\n\nPemusik: Elhanan\nPNK/Pemazmur: Yambres/Inggrid\n\nPersembahan Pujian: PS. GKJ Sidomukti\n\nTim Multimedia: Amelia, Hermawan, Evan, Wayan, Puguh\n\nUsher dan Kolektan: Tim Samaria: Eilena, Riski Aprilia, Maria Nenabu\n\nFlorist : Tim Aster\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=Q8C3SFVzPXU",
                         "thumbnail": "https://i.ytimg.com/vi/Q8C3SFVzPXU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu GKI Salatiga | 3 November 2024 | Kasihilah Tuhan Allahmu",
-                        "date": "2024-11-02",
-                        "desc": "*KEBAKTIAN MINGGU GKI Salatiga 3 November 2024 | Pukul 07:00 WIB\n\nTema: Kasihilah Tuhan Allahmu\n\nBerita Anugerah: 2 Korintus 5:17\nBacaan I: Ulangan 6:1-9\nTanggapan: Mazmur 119:1-8\nBacaan II: Ibrani 9:11-14\nBacaan Injil: Markus 12:28-34\nPersembahan: Amzal 3:9-10\nNyanyian: KK1; Kasihanilah Tuhan Allahmu; Selidiki Aku; KK 382; PKJ 277\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yosua Candana H.K.\nKredo dan Warta : Pnt. Samuel Martono\nSambut Tamu: Pnt. Catur Winarno; Pnt. Sri Yuniwati R.\n\nPemandu Liturgi: Widyaningtyas Prayogo\nLektor I: Lukas Sukan\nLektor II: Subur HP\n\nPemusik: Band KP\nPNK/Pemazmur: Evangs / Aurell\n\nPersembahan Pujian: Bpk. Joseph (Kasihilah Tuhan Allahmu)\n\nTim Multimedia: Purnomo, Daniel Eko; Hermawan; Atma; Nuel; Erio; Yosua\n\nUsher dan Kolektan: Komisi Usia Lanjut; Dwi Supriani; Budhiarti S.; Magriet E.\n\nFlorist : Tim Anthurium\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=AJkS2DtUw5s",
-                        "thumbnail": "https://i.ytimg.com/vi/AJkS2DtUw5s/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
