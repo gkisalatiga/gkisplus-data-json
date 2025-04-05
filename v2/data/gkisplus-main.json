@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3182,
-        "last-update": 1743797860,
-        "last-updated-item": "yt",
+        "update-count": 3183,
+        "last-update": 1743828211,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3688,6 +3688,20 @@
                 "pic": "Jeffrey Nugroho",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Sie Acara Paskah",
+                "time": "16:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-04-07",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
