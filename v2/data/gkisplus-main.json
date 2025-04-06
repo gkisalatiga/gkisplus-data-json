@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3195,
-        "last-update": 1743951904,
+        "update-count": 3196,
+        "last-update": 1743959928,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -103,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Lilis Supriyanti",
                         "link": "https://www.youtube.com/watch?v=qnGz0uLwCuM",
                         "thumbnail": "https://i2.ytimg.com/vi/qnGz0uLwCuM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Mar 2025 | Mercusuar Kehidupan",
-                        "date": "2025-03-25",
-                        "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
-                        "link": "https://www.youtube.com/watch?v=8Wnii8IuZlg",
-                        "thumbnail": "https://i1.ytimg.com/vi/8Wnii8IuZlg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -325,6 +318,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "GKI Salatiga | English Service | Sunday, April 13th, 2025 | 10 a.m. Jakarta Time",
+                        "date": "2025-04-06",
+                        "desc": "NO CONDEMNATION\nRomans 8:1-4\n\nLed by\nMr. Allan Cross\n\nPL: -\nPrayer: -\nReader: -\nOffertory: -\nPrayer of Intercession: -\nMultimedia: -\nPemusik: -\nSL: -\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
+                        "link": "https://www.youtube.com/watch?v=aCxZFVxAd0E",
+                        "thumbnail": "https://i.ytimg.com/vi/aCxZFVxAd0E/hqdefault_live.jpg"
+                    },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, March 2nd, 2025 | 10 a.m. Jakarta Time",
                         "date": "2025-03-01",
