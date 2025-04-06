@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3192,
-        "last-update": 1743877859,
-        "last-updated-item": "ykb",
+        "update-count": 3193,
+        "last-update": 1743911358,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3751,6 +3751,20 @@
                 "timezone": "WIB",
                 "date": "2025-04-13",
                 "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih paskah KA ",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-25",
+                "weekday": "fri",
                 "type": "proposal",
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
