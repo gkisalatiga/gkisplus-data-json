@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3197,
-        "last-update": 1743964275,
-        "last-updated-item": "ykb",
+        "update-count": 3198,
+        "last-update": 1743970608,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 7 Apr 2025 | Pengampunan",
+                        "date": "2025-04-06",
+                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=aJtKOiTO0sg",
+                        "thumbnail": "https://i2.ytimg.com/vi/aJtKOiTO0sg/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 5 Apr 2025 | Tumbal",
                         "date": "2025-04-04",
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Sdri. Mengsih Mawarni Dakabesy",
                         "link": "https://www.youtube.com/watch?v=xjNM1KB6L_E",
                         "thumbnail": "https://i1.ytimg.com/vi/xjNM1KB6L_E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Apr 2025 | Pengampunan",
-                        "date": "2025-04-04",
-                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
-                        "link": "https://www.youtube.com/watch?v=aJtKOiTO0sg",
-                        "thumbnail": "https://i2.ytimg.com/vi/aJtKOiTO0sg/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 4 Apr 2025 | Mengingat Jalan Keselamatan",
