@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3198,
-        "last-update": 1743970608,
-        "last-updated-item": "yt",
+        "update-count": 3199,
+        "last-update": 1743995212,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3729,6 +3729,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat besar panitia BCR 2025",
+                "time": "17:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-07",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
                 "status": "w",
                 "note": ""
             }
