@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3204,
-        "last-update": 1744004900,
+        "update-count": 3205,
+        "last-update": 1744030153,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3689,6 +3689,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-07",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
