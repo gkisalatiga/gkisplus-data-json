@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3206,
-        "last-update": 1744050903,
-        "last-updated-item": "ykb",
+        "update-count": 3207,
+        "last-update": 1744057118,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Apr 2025 | Pertobatan yang Sejati",
+                        "date": "2025-04-07",
+                        "desc": "Dibawakan oleh Sdri. Mengsih Mawarni Dakabesy",
+                        "link": "https://www.youtube.com/watch?v=xjNM1KB6L_E",
+                        "thumbnail": "https://i1.ytimg.com/vi/xjNM1KB6L_E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Apr 2025 | Berjalan Bersama Kristus Dalam Tuntunan Roh Kudus",
                         "date": "2025-04-07",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=av43NVN2z8E",
                         "thumbnail": "https://i2.ytimg.com/vi/av43NVN2z8E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Apr 2025 | Pertobatan yang Sejati",
-                        "date": "2025-04-04",
-                        "desc": "Dibawakan oleh Sdri. Mengsih Mawarni Dakabesy",
-                        "link": "https://www.youtube.com/watch?v=xjNM1KB6L_E",
-                        "thumbnail": "https://i1.ytimg.com/vi/xjNM1KB6L_E/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 4 Apr 2025 | Mengingat Jalan Keselamatan",
