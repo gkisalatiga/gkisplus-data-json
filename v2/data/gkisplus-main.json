@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3201,
-        "last-update": 1743997844,
+        "update-count": 3202,
+        "last-update": 1744003444,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3549,6 +3549,76 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Paskah KP/KR",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Paskah KP/KR",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Paskah KR/KP",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas Paskah KR/KP",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-06",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas Paskah KR/KP",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-16",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": "Perbaikan tanggal dari data sebelumnya karena ada kesalahan pada tanggal"
             }
         ],
         "backend": {
