@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3217,
-        "last-update": 1744190803,
+        "update-count": 3218,
+        "last-update": 1744191845,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3733,6 +3733,20 @@
                 "pic": "Samarthya",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pemanasan Violinis Lamentations",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Persiapan pemusik Kamis Putih"
             }
         ],
         "backend": {
