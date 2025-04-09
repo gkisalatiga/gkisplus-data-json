@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3219,
-        "last-update": 1744208709,
+        "update-count": 3220,
+        "last-update": 1744212514,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3761,6 +3761,20 @@
                 "pic": "Renzo",
                 "status": "w",
                 "note": "Kami memohon izin untuk disediakan Teh 1 Wadah saja dan gelas Terimakasih Tuhan memberkati"
+            },
+            {
+                "name": "Latihan petugas Ibadah Paskah KP/KR (Mengantikan jadwal di hari Jumad, 11 April 2025, Jam 18.00-21.00)",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-13",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
