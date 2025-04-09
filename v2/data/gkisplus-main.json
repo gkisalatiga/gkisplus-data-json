@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3221,
-        "last-update": 1744223790,
-        "last-updated-item": "ykb",
+        "update-count": 3222,
+        "last-update": 1744229852,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Apr 2025 | Masihkah Ada Cinta?",
+                        "date": "2025-04-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=m07E4veWt9k",
+                        "thumbnail": "https://i2.ytimg.com/vi/m07E4veWt9k/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Apr 2025 | Berjalan Bersama Kristus Dalam Tuntunan Roh Kudus",
                         "date": "2025-04-08",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Pnt. Paul Arototonafo W. Gul\u00f6",
                         "link": "https://www.youtube.com/watch?v=4DEfqscm1pU",
                         "thumbnail": "https://i1.ytimg.com/vi/4DEfqscm1pU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Apr 2025 | Masihkah Ada Cinta?",
-                        "date": "2025-04-01",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=m07E4veWt9k",
-                        "thumbnail": "https://i2.ytimg.com/vi/m07E4veWt9k/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 1 Apr 2025 | Kasih Allah Membawa Kebaikan",
