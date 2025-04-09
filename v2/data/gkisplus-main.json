@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3218,
-        "last-update": 1744191845,
+        "update-count": 3219,
+        "last-update": 1744208709,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3747,6 +3747,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": "Persiapan pemusik Kamis Putih"
+            },
+            {
+                "name": "Rapat paskah komisi remaja dan pemuda",
+                "time": "17:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Renzo",
+                "status": "w",
+                "note": "Kami memohon izin untuk disediakan Teh 1 Wadah saja dan gelas Terimakasih Tuhan memberkati"
             }
         ],
         "backend": {
