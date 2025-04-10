@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3224,
-        "last-update": 1744256238,
-        "last-updated-item": "ykb",
+        "update-count": 3225,
+        "last-update": 1744257053,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3175,18 +3175,32 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan Paduan Suara",
-                "time": "09:00",
-                "time-to": "00:00",
+                "name": "Rapat paskah komisi remaja dan pemuda",
+                "time": "17:30",
+                "time-to": "20:00",
                 "timezone": "WIB",
                 "date": "2025-04-10",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Renzo",
                 "status": "y",
-                "note": ""
+                "note": "Kami memohon izin untuk disediakan Teh 1 Wadah saja dan gelas Terimakasih Tuhan memberkati"
+            },
+            {
+                "name": "Rakor",
+                "time": "11:30",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-04-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
             },
             {
                 "name": "Paskah SD Kristen 04",
@@ -3217,32 +3231,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat paskah komisi remaja dan pemuda",
-                "time": "17:30",
-                "time-to": "20:00",
+                "name": "Latihan PS. GKIS- Sectional ",
+                "time": "18:00",
+                "time-to": "19:30",
                 "timezone": "WIB",
                 "date": "2025-04-10",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Renzo",
-                "status": "w",
-                "note": "Kami memohon izin untuk disediakan Teh 1 Wadah saja dan gelas Terimakasih Tuhan memberkati"
-            },
-            {
-                "name": "Rakor",
-                "time": "11:30",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2025-04-10",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Ibu Anti",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
