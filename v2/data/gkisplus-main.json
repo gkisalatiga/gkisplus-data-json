@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3227,
-        "last-update": 1744269782,
+        "update-count": 3228,
+        "last-update": 1744277128,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3691,6 +3691,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Pemusik English Service",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Sudah koordinasi dengan KP"
             }
         ],
         "backend": {
