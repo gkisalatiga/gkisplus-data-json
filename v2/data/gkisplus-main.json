@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3228,
-        "last-update": 1744277128,
-        "last-updated-item": "agenda",
+        "update-count": 3229,
+        "last-update": 1744305674,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Apr 2025 | Menabur Kebaikan",
+                        "date": "2025-04-10",
+                        "desc": "Dibawakan oleh Pnt. Adita Sutresno",
+                        "link": "https://www.youtube.com/watch?v=CGYHJZZa04w",
+                        "thumbnail": "https://i4.ytimg.com/vi/CGYHJZZa04w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Apr 2025 | Masihkah Ada Cinta?",
                         "date": "2025-04-09",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Sdri. Debora Mayang Arum",
                         "link": "https://www.youtube.com/watch?v=C4HpulfIs0Q",
                         "thumbnail": "https://i4.ytimg.com/vi/C4HpulfIs0Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Mar 2025 | Berjalan di Atas Gelombang",
-                        "date": "2025-03-28",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=Akk_72zIcyE",
-                        "thumbnail": "https://i2.ytimg.com/vi/Akk_72zIcyE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
