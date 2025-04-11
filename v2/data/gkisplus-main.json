@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3232,
-        "last-update": 1744360265,
-        "last-updated-item": "agenda",
+        "update-count": 3233,
+        "last-update": 1744360288,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Apr 2025 | Tuhan Melihat Hati",
+                        "date": "2025-04-11",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim Riyanto",
+                        "link": "https://www.youtube.com/watch?v=PAJuKp7YKgU",
+                        "thumbnail": "https://i1.ytimg.com/vi/PAJuKp7YKgU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Apr 2025 | Menabur Kebaikan",
                         "date": "2025-04-10",
