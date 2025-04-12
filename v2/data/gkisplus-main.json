@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3237,
-        "last-update": 1744426882,
+        "update-count": 3238,
+        "last-update": 1744429700,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3772,6 +3772,20 @@
                 "pic": "Bpk. Budi Prasetyo",
                 "status": "y",
                 "note": "Setelah gladi Kamis Putih"
+            },
+            {
+                "name": "Latihan PS. Efrata",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-04-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Ibu Warjini",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
