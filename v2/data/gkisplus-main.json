@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3235,
-        "last-update": 1744396567,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3236,
+        "last-update": 1744424760,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -1142,6 +1142,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 13 April 2025",
+                    "date": "2025-04-12",
+                    "link": "https://drive.google.com/file/d/1bg_y4tRRitzyW4tezqw3_bqOeygrmttP/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-13-april-2025/",
+                    "thumbnail": "https://drive.google.com/drive-viewer/AKGpihaDw1KmpJIWrRMDwbsBWSLA2NmPY_J203azwAdIVToBsmRy5w5KFJIJ5ZxOT366nzCxqOTf1FgcuRc9-uP_N-G18RLb_qBF1hs=s1600-rw-v1",
+                    "id": "1bg_y4tRRitzyW4tezqw3_bqOeygrmttP",
+                    "size": "1.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 6 April 2025",
                     "date": "2025-04-05",
                     "link": "https://drive.google.com/file/d/1CcJkaOmPyBhcCPmeHNa-Ilmh5VvHk4C5/view",
@@ -1458,6 +1467,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 13 April 2025",
+                    "date": "2025-04-12",
+                    "link": "https://drive.google.com/file/d/1ecwjleDHJFPX3IjKH7PFKrwUoOeFZC7w/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-13-april-2025/",
+                    "thumbnail": "https://drive.google.com/drive-viewer/AKGpihZ8OanD0CxtZi1y4-PvbH-FyId3gtB9k6kWHHCWX4JtLLFLCHkgTA6IEE-OjTLhrb18lrpvUt42ndarGuq2F1vzs9tV2UvoXqo=s1600-rw-v1",
+                    "id": "1ecwjleDHJFPX3IjKH7PFKrwUoOeFZC7w",
+                    "size": "0.40 MB"
+                },
                 {
                     "title": "Tata Ibadah 6 April 2025",
                     "date": "2025-04-05",
