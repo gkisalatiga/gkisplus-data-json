@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3244,
-        "last-update": 1744543084,
-        "last-updated-item": "yt",
+        "update-count": 3245,
+        "last-update": 1744548117,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3700,6 +3700,34 @@
                 "pic": "Cinta ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Perayaan Paskah KD",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": "Makan malam di Ruang Betania"
+            },
+            {
+                "name": "Perayaan Paskah KD",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": "Utk tempat makan malam peserta."
             }
         ],
         "backend": {
