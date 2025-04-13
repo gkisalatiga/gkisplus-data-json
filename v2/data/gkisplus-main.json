@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3243,
-        "last-update": 1744482744,
-        "last-updated-item": "ykb",
+        "update-count": 3244,
+        "last-update": 1744543084,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Apr 2025 | Sengsara Membawa Nikmat",
+                        "date": "2025-04-13",
+                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=uS-cHkCTK7M",
+                        "thumbnail": "https://i2.ytimg.com/vi/uS-cHkCTK7M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Apr 2025 | Tuhan Melihat Hati",
                         "date": "2025-04-11",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Gita Hastuti",
                         "link": "https://www.youtube.com/watch?v=oCcqh5iniYI",
                         "thumbnail": "https://i4.ytimg.com/vi/oCcqh5iniYI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Mar 2025 | Menanti Dengan Iman",
-                        "date": "2025-03-30",
-                        "desc": "Dibawakan oleh Sdri. Sdri. Debora Mayang Arum",
-                        "link": "https://www.youtube.com/watch?v=C4HpulfIs0Q",
-                        "thumbnail": "https://i4.ytimg.com/vi/C4HpulfIs0Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
