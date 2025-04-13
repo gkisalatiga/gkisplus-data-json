@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3246,
-        "last-update": 1744553997,
+        "update-count": 3247,
+        "last-update": 1744558495,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3025,36 +3025,12 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
-                "title": "Ibadah Minggu Prapaskah VI",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_kamis_putih.webp",
+                "title": "Ibadah Kamis Putih",
                 "type": "poster",
-                "date-created": "2025-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
+                "date-created": "2025-04-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_kamis_putih.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
-                "title": "Ibadah Sekolah Minggu 13 April",
-                "type": "poster",
-                "date-created": "2025-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_1.webp",
-                "title": "Ibadah Komisi Remaja 13 April",
-                "type": "poster",
-                "date-created": "2025-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
-                "title": "English Service",
-                "type": "poster",
-                "date-created": "2025-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_khi.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_3.webp",
@@ -3073,14 +3049,6 @@
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_cover_pukat_berkat.webp",
-                "title": "Lapak Pukat Berkat",
-                "type": "poster",
-                "date-created": "2025-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_poster_pukat_berkat.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ja_ka.webp",
                 "title": "Jumat Agung Komisi Anak",
                 "type": "poster",
@@ -3094,6 +3062,14 @@
                 "type": "poster",
                 "date-created": "2025-04-05",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
+                "title": "Waroeng Tiberias",
+                "type": "poster",
+                "date-created": "2025-04-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
