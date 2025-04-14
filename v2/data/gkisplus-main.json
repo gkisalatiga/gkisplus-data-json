@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3250,
-        "last-update": 1744595818,
+        "update-count": 3251,
+        "last-update": 1744600233,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3296,7 +3296,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3324,7 +3324,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Bpk. Budi Prasetyo",
-                "status": "y",
+                "status": "c",
                 "note": "Setelah gladi Kamis Putih"
             },
             {
@@ -3338,7 +3338,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samuel Arif",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
