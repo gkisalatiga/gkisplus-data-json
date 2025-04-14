@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3253,
-        "last-update": 1744605976,
+        "update-count": 3254,
+        "last-update": 1744609388,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3282,6 +3282,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Anak",
                 "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Paduan Suara Anak",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-04-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
