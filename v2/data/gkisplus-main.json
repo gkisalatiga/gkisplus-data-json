@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3252,
-        "last-update": 1744604877,
+        "update-count": 3253,
+        "last-update": 1744605976,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3269,6 +3269,20 @@
                 "representative": "Komisi Pemuda",
                 "pic": "Dian Aprilia",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan petugas Paskah KR/KP",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-16",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia",
+                "status": "w",
                 "note": ""
             }
         ],
