@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3256,
-        "last-update": 1744615439,
-        "last-updated-item": "agenda",
+        "update-count": 3257,
+        "last-update": 1744619564,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Apr 2025 | Mengelu elukan Yesus",
+                        "date": "2025-04-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=aT6MG2l7NuU",
+                        "thumbnail": "https://i2.ytimg.com/vi/aT6MG2l7NuU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Apr 2025 | Sengsara Membawa Nikmat",
                         "date": "2025-04-13",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Paul Arototonafo W. Gul\u00f6",
                         "link": "https://www.youtube.com/watch?v=4DEfqscm1pU",
                         "thumbnail": "https://i1.ytimg.com/vi/4DEfqscm1pU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Apr 2025 | Kasih Allah Membawa Kebaikan",
-                        "date": "2025-03-31",
-                        "desc": "Dibawakan oleh Ibu Gita Hastuti",
-                        "link": "https://www.youtube.com/watch?v=oCcqh5iniYI",
-                        "thumbnail": "https://i4.ytimg.com/vi/oCcqh5iniYI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
