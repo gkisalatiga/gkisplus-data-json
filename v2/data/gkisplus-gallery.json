@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 22,
-        "last-update": 1744559171,
+        "update-count": 23,
+        "last-update": 1744699438,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -12181,12 +12181,232 @@
                 },
                 {
                     "folder_id": "1x3Vd2OWUnUXE26_0jIVoTg-BxRu8mWGv",
-                    "last_update": "2025-04-13",
-                    "featured_photo_id": "1cHDbbA1GZ1hibFxV-r5rq_OITGYY_RIX",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu Prapaskah 6 (English Service) [MRP 2025] yang dilaksanakan pada 6 April 2025.",
+                    "last_update": "2025-04-15",
+                    "featured_photo_id": "1s7sbkQvdv9-Q4ao2B9rSbcTME2XQxAEE",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Prapaskah 6 (English Service) [MRP 2025] yang dilaksanakan pada 13 April 2025.",
                     "title": "Ibadah Minggu Prapaskah 6 (English Service) [MRP 2025]",
-                    "event_date": "2025.04.06",
+                    "event_date": "2025.04.13",
                     "photos": [
+                        {
+                            "id": "19pKz1voGnH9nF33zh5n8dqf_wJJtYSrm",
+                            "name": "GKI Prapaskah 6 Palmarum (neria) (1).JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1iht-h-PAF_ms9GWH0PUPjuao7asvlH70",
+                            "name": "GKI Prapaskah 6 Palmarum (jeff) (56).JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "182_nHSp4kb3xMIMmXX_Nah8qtL6s70fx",
+                            "name": "GKI Pra-Paskah 6 130425-7-00044.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1dHkabFi2FHkG90fbZhJ3L2JQr6yXocvf",
+                            "name": "GKI Pra-Paskah 6 130425-7-00004.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1FOAh4PVMgoDWrBm_lGL3gATqed4uUYkr",
+                            "name": "GKI Pra-Paskah 6 130425-7-00021.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1wVUNdWe9Ud4aZ4w6RPyBkeizr8G7yxeG",
+                            "name": "GKI Pra-Paskah 6 130425-7-00020.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1rx05Ck_myggLyMq_ZpzWrCwPO4KQz2Zc",
+                            "name": "GKI Pra-Paskah 6 130425-7-00002.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1y3r_UGREwGT1nnQrZZIw6UerT-84yn7C",
+                            "name": "GKI Pra-Paskah 6 130425-7-00046.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1g_1rlI2GZCbE1Nw8JnlDzAY7FFC5Ppbh",
+                            "name": "GKI Pra-Paskah 6 130425-7-00043.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1D5_B6mHzNcAopIuJsI41xrEdzgTpsSIH",
+                            "name": "GKI Pra-Paskah 6 130425-7-00067.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "15WeoB3In_c3zrNfTkgvFyqMLApFsynSm",
+                            "name": "GKI Pra-Paskah 6 130425-7-00135.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1kGqBVwEfKhKKTE-z5IjaEXLKtdhy7mWT",
+                            "name": "GKI Pra-Paskah 6 130425-7-00094.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1lRMbsSaziF6DlX2ckUywA774T7hT2-J1",
+                            "name": "GKI Pra-Paskah 6 130425-7-00129.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1eErTi0SAVO8JXovNQ_tfH3c6TN-xPAkL",
+                            "name": "GKI Pra-Paskah 6 130425-7-00120.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1hJEqqWMrRQEKCFFi-WsGxjQBQp55V-CE",
+                            "name": "GKI Pra-Paskah 6 130425-7-00072.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "120moHj6D4_kO-rVrNHTYwc1kygPmX7KJ",
+                            "name": "GKI Pra-Paskah 6 130425-7-00131.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1oYj5jVDOTxXvqhMIJb2L8UQJ4zrFZFzx",
+                            "name": "GKI Pra-Paskah 6 130425-7-00133.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1fqPZrnL59aji3S3OIxCasxDkcPVWGO3H",
+                            "name": "GKI Pra-Paskah 6 130425-7-00102.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1A5U29gNDabAaNXa10LWO2utC4qBu5ZGX",
+                            "name": "GKI Pra-Paskah 6 130425-7-00139.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1R7uqOiz1VmOLww6K-x_gdNDKBeKZRi5-",
+                            "name": "GKI Pra-Paskah 6 130425-7-00092.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1IWpdjqk27aHBMAGWE4evDlzpczkEyEjt",
+                            "name": "GKI Pra-Paskah 6 130425-7-00162.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1N9abI9apOLNM6euVSzeYqollJjPOzVxd",
+                            "name": "GKI Pra-Paskah 6 130425-7-00145.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1F7H6I8-IkEkSSsZYAYtt3Vn-G-RlSRem",
+                            "name": "GKI Pra-Paskah 6 130425-7-00154.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1aQO2lEJhnNy7F3OX-s_k3Vgly5njSNr8",
+                            "name": "GKI Pra-Paskah 6 130425-7-00172.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1fvjaLk4zg2ADGnKPwklM11Co3CjSbXJz",
+                            "name": "GKI Pra-Paskah 6 130425-7-00179.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1oYzshGjm-zd8p5a3BKxNvb-uml2Q6sja",
+                            "name": "GKI Pra-Paskah 6 130425-7-00152.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1I-3Pg6Di-8ZZRnp-OBAXBZDZSl0M2ZOl",
+                            "name": "GKI Pra-Paskah 6 130425-7-00177.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1X381MeNSudFfUpQcvkKWcJREAgHQCJnD",
+                            "name": "GKI Pra-Paskah 6 130425-7-00185.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1YHxxsdt4keAbtCBdydYcHSZNidb6g1zp",
+                            "name": "GKI Pra-Paskah 6 130425-7-00214.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1H62qOBi8G9CBSO1dkSlIunEXlYo-oNYc",
+                            "name": "GKI Pra-Paskah 6 130425-7-00143.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "13FHI11eXmDn6cvLxpjfWWCHUHfCsJZBE",
+                            "name": "GKI Pra-Paskah 6 130425-7-00346.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1j-3v-2EKdWcU82M3Vb659eJzd5Y06gCD",
+                            "name": "GKI Pra-Paskah 6 130425-7-00313.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1ForicfJjqyGkkoOedw_lgNmN7FC-DQby",
+                            "name": "GKI Pra-Paskah 6 130425-7-00218.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1d9fTz4f-_c3Pm97LAHZWNp9fMMD6MI1C",
+                            "name": "GKI Pra-Paskah 6 130425-7-00227.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1UJj7M-zp-F5RHl-xVGCMOLr3_iH22QpU",
+                            "name": "GKI Pra-Paskah 6 130425-7-00290.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1Yh0NeWX1pOylynVODZZnXMECnm2fhsnb",
+                            "name": "GKI Pra-Paskah 6 130425-7-00349.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1H1sIZXNNtUMpH8YZ-qAL7PEZdf6o7oIP",
+                            "name": "GKI Pra-Paskah 6 130425-7-00305.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1wahOUUrsJxYwhr8aCeXJmmqJC3zDiJ6G",
+                            "name": "GKI Pra-Paskah 6 130425-7-00353.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1OVlwrLSzJd9jbbiL_hGU4ZwYlwf5YMCX",
+                            "name": "GKI Pra-Paskah 6 130425-7-00364.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1e3RFZYe-J5Cip2dh4g0IZ9kPEfda7LQO",
+                            "name": "GKI Pra-Paskah 6 130425-7-00326.JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1plQ46Jy5BxBjrh_56fKRy71_HADuDbHr",
+                            "name": "GKI Prapaskah 6 Palmarum (jeff) (18).JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1i4OZ3geljHJGjI_KlgOhxeoXj0cyYVYK",
+                            "name": "GKI Prapaskah 6 Palmarum (jeff) (25).JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "12QD-IyJC8-1RrqAosIlPheLkU2q1aiIP",
+                            "name": "GKI Prapaskah 6 Palmarum (jeff) (22).JPG",
+                            "date": "2025-04-15"
+                        },
+                        {
+                            "id": "1xpqIsItDF-wHznMcRbKcQpF3bEKtCk0O",
+                            "name": "GKI Prapaskah 6 Palmarum (jeff) (37).JPG",
+                            "date": "2025-04-15"
+                        },
                         {
                             "id": "1LpZsaFUOZ-G3iOsIPeCYfyj2nh30gHeM",
                             "name": "GKI Prapaskah 6 Palmarum (neria) (81).JPG",
