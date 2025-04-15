@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3262,
-        "last-update": 1744661925,
-        "last-updated-item": "yt",
+        "update-count": 3263,
+        "last-update": 1744682134,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3574,7 +3574,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Dewasa",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": "Makan malam di Ruang Betania"
             },
             {
@@ -3588,7 +3588,7 @@
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Komisi Dewasa",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": "Utk tempat makan malam peserta."
             },
             {
@@ -3800,6 +3800,48 @@
                 "pic": "Cinta",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Gladi Bersih Persiapan Ibadah Paskah SMP Kristen 2 Salatiga 2025",
+                "time": "00:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Perayaan Ibadah Paskah SMP Kristen 2 Salatiga 2025",
+                "time": "06:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2025-04-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Ujian praktik Kelas 9 ",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-05-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
