@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3264,
-        "last-update": 1744686489,
+        "update-count": 3265,
+        "last-update": 1744692481,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3214,118 +3214,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Membuat PPT Paskah KR/KP",
-                "time": "10:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-04-12",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "Syella",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan PS. GKIS- Sectional ",
-                "time": "17:45",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-04-12",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Ibu Anti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. GKIS- Sectional ",
-                "time": "17:45",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-04-12",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Ibu Anti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Gladi Bersih Jumat Agung KA",
-                "time": "11:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-04-13",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan petugas Ibadah Paskah KP/KR (Mengantikan jadwal di hari Jumad, 11 April 2025, Jam 18.00-21.00)",
-                "time": "18:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-04-13",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Dian Aprilia",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik paskah ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-04-13",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Paskah KR/KP",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-04-14",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Dian Aprilia",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. Imanuel",
-                "time": "19:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-04-14",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Bpk. Budi Prasetyo",
-                "status": "c",
-                "note": "Setelah gladi Kamis Putih"
-            },
-            {
                 "name": "Latihan Tim Musik Chronicles utk Jumat Agung",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -3784,7 +3672,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
@@ -3798,7 +3686,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
