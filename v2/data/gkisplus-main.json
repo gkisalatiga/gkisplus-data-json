@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3269,
-        "last-update": 1744721320,
+        "update-count": 3270,
+        "last-update": 1744727045,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3770,6 +3770,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "  Pembukaan Pembinaan GSM ",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-05-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
                 "status": "w",
                 "note": ""
             }
