@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3265,
-        "last-update": 1744692481,
-        "last-updated-item": "agenda",
+        "update-count": 3266,
+        "last-update": 1744694649,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Apr 2025 | Sekarang Bersyukur",
+                        "date": "2025-04-15",
+                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
+                        "link": "https://www.youtube.com/watch?v=X8Nb0g0WpfY",
+                        "thumbnail": "https://i1.ytimg.com/vi/X8Nb0g0WpfY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Apr 2025 | Mengelu-elukan Yesus",
                         "date": "2025-04-14",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
                         "link": "https://www.youtube.com/watch?v=jUpn5ayP3hU",
                         "thumbnail": "https://i3.ytimg.com/vi/jUpn5ayP3hU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Apr 2025 | Melayani Serupa Yesus",
-                        "date": "2025-04-01",
-                        "desc": "Dibawakan oleh Pnt. Paul Arototonafo W. Gul\u00f6",
-                        "link": "https://www.youtube.com/watch?v=4DEfqscm1pU",
-                        "thumbnail": "https://i1.ytimg.com/vi/4DEfqscm1pU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
