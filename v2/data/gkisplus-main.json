@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3263,
-        "last-update": 1744682134,
+        "update-count": 3264,
+        "last-update": 1744686489,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3756,7 +3756,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Syella",
-                "status": "w",
+                "status": "y",
                 "note": "mungkin minta tolong mulmed gereja utk bisa mengajari cara menggunakan obs\ud83d\ude4f\ud83c\udffb"
             },
             {
@@ -3770,7 +3770,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti, M.Pd",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3826,7 +3826,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3842,6 +3842,20 @@
                 "pic": "Van Gouh Arimatea",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Fellowship Paskah KPKR",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric ",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
