@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3268,
-        "last-update": 1744698821,
+        "update-count": 3269,
+        "last-update": 1744721320,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3757,6 +3757,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
                 "note": ""
             }
         ],
