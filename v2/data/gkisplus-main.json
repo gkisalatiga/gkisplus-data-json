@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3266,
-        "last-update": 1744694649,
-        "last-updated-item": "yt",
+        "update-count": 3267,
+        "last-update": 1744695780,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3743,6 +3743,20 @@
                 "representative": "Komisi Remaja",
                 "pic": "Cedric ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik kamis putih ",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-04-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
                 "note": ""
             }
         ],
