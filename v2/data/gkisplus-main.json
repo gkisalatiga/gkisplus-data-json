@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3273,
-        "last-update": 1744777681,
-        "last-updated-item": "agenda",
+        "update-count": 3274,
+        "last-update": 1744781050,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -82,27 +82,6 @@
                         "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
                         "link": "https://www.youtube.com/watch?v=aJtKOiTO0sg",
                         "thumbnail": "https://i2.ytimg.com/vi/aJtKOiTO0sg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Apr 2025 | Tumbal",
-                        "date": "2025-04-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=av43NVN2z8E",
-                        "thumbnail": "https://i2.ytimg.com/vi/av43NVN2z8E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Apr 2025 | Mengingat Jalan Keselamatan",
-                        "date": "2025-04-03",
-                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
-                        "link": "https://www.youtube.com/watch?v=mbn74PLwwrQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/mbn74PLwwrQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Apr 2025 | Bertobat dan Kembalilah Kepada Tuhan",
-                        "date": "2025-04-02",
-                        "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
-                        "link": "https://www.youtube.com/watch?v=jUpn5ayP3hU",
-                        "thumbnail": "https://i3.ytimg.com/vi/jUpn5ayP3hU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -113,6 +92,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Paskah Subuh | 20 April 2025 | Mengingat, Percaya, dan Menjadi Saksi-Nya",
+                        "date": "2025-04-16",
+                        "desc": "KEBAKTIAN PASKAH SUBUH GKI Salatiga 20 April 2025; Pukul 05:00 WIB\n\nTema: Mengingat, Percaya, dan Menjadi Saksi-Nya\n\nBacaan I : Yesaya 65:17-25\nTanggapan: Mazmur 118:1-2, 14-24\nBacaan II: Kisah Para Rasul 10:34-43\nBacaan Injil: Lukas 24:1-12\n\nNyanyian: He Is Alive; KJ 194; Rejoice And Sing Praise; KJ 188:1-2,5-6\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta: Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Sri Yuniwati R. , Pnt. Rodiana\nPemandu Liturgi: Pnt. Ervien Dian W.\nLektor 1: Pnt. Benny A. Kailola\nLektor 2: Pnt. Paskah Ika N.\n\nPemusik: Ecclesiastes + Vica\nPNK/PMZ: Agastya / Dhara\nPaduan Suara: PS. GKI\nTim Multimedia: N. Jeffrey, Budi Santoso, Bambang, Alvin/Joshua, Salsa\n\nUsher dan Kolektan: Panitia MRP\n\nFlorist : Tim Anggrek\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\n- Kidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n- Kidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n- Kumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\n- Nyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\n- Pelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n- WEB: https://www.gkisalatiga.org\n- FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n- INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\nhttps://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
+                        "link": "https://www.youtube.com/watch?v=WO6o3_jbBUA",
+                        "thumbnail": "https://i.ytimg.com/vi/WO6o3_jbBUA/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Sabtu Sunyi | 19 April 2025 | Merespons Duka: Tetaplah Berkarya",
                         "date": "2025-04-09",
@@ -308,13 +294,6 @@
                         "desc": "**KEBAKTIAN MINGGU Adven II GKI Salatiga 8 Desember 2024 | Pukul 07:00 WIB**\n\nTema: Tuhan Sudah Dekat\n\nBerita Anugerah: Ibrani 10:16b-17\nBacaan I: Maleakhi 3:1-4\nTanggapan: Lukas 1:68-79\nBacaan II: Filipi 1:3-11\nBacaan Injil: Lukas 3:1-6\nPersembahan: Mazmur 30:5\nNyanyian: NKB 50; KK 277:1,4; PKJ 37; PKJ 115:1,2,4; KJ 450: 1,3,5; KJ 278\n\nPelayan Firman: Pdt. Hamzah (GKI Diponegoro Magelang)\nKoordinator Ibadah dan Persembahan: Pnt. Benny A. Kailola\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Yosua Candana H.K. & Pnt. Sri Yuniwati\nPemandu Liturgi: Made Rai Suci Shanti N.A\nLektor I: Tuti Hemawati\nLektor II: Rosmayanti Naibaho\n\nPemusik: BAND KA\nPNK: Vica\nPemazmur: Benaya & Eriyani T.L\n\nPersembahan Pujian: Pak Yosep\n\nTim Multimedia:\n- Tata Suara: Bayu O.\n- OBS: Joshua A.G\n- PPT: Evan Budiarso\n- Kamerawan: Puguh & Wayan\n- Dokumentasi: Erio, Jeffrey\n\nUsher dan Kolektan: Wilayah I\nFlorist: Tim Aster\n\n- Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) \u00a9 YAMUGER\n- Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI\n- Kidung Keesaan: Hak Cipta dan Terjemahan Tim Inti Nyanyian Gereja (TING YAMUGER) \u00a9 YAMUGER, 2017",
                         "link": "https://www.youtube.com/watch?v=pTL_zmjqiOE",
                         "thumbnail": "https://i.ytimg.com/vi/pTL_zmjqiOE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu Intergenerasional GKI Salatiga | 1 Desember 2024 | \"Jagalah Hatimu Supaya Kuat\"",
-                        "date": "2024-11-30",
-                        "desc": "**KEBAKTIAN MINGGU INTERGENERASIONAL GKI Salatiga 1 Desember 2024 | Pukul 07:00 WIB**\n\nTema: Jagalah Hatimu Supaya Kuat\n\nBerita Anugerah: 2 Tesalonika 3:3\nBacaan I: Yeremia 33:14-16\nTanggapan: Mazmur 25:1-10\nBacaan II: 1 Tesalonika 3:9-13\nBacaan Injil: Lukas 21:25-36\nPersembahan: 1 Tawarikh 16:29\nNyanyian: PKJ 115:1-12; KK 159; PKJ 198:1,3; KK 461b; KK 522:1,4-5\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Desemy Ch. N. Ballo\nKredo dan Warta: Pnt. Yosua Candana H. K.\nSambut Tamu: Pnt. Benny A. Kailola, Pnt. Yuliani Nugroho\nPemandu Liturgi: Pnt. Sri Yuniwati R.\nLektor I: Pnt. July Silooy\nLektor II: Pnt. Nadia Sitaresmi\n\nAnggota:\n1. Pnt. Catur Winarno\n2. Pnt. Hananto Seno\n3. Pnt. Paul A. W. Gulo\n4. Pnt. Samuel Martono\n5. Pnt. Johnson U. Radda\n\nPemusik: Chronicles + Adrian, Verren\nPNK: Natalis\nPemazmur: Dhara\n\nPersembahan Pujian: PS. Sola Gratia\n\nTim Multimedia:\n- Tata Suara: Sakti KR\n- OBS: Hermawan\n- PPT: Revo A. S.\n- Kamerawan: Alvin, Kia\n- Dokumentasi: Erio, Jeffrey\n\nUsher dan Kolektan: Majelis Jemaat\nFlorist: Tim Anthurium\n\n- Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) \u00a9 YAMUGER\n- Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI\n- Kidung Keesaan: Hak Cipta dan Terjemahan Tim Inti Nyanyian Gereja (TING YAMUGER) \u00a9 YAMUGER, 2017",
-                        "link": "https://www.youtube.com/watch?v=Gea-RR8oBTg",
-                        "thumbnail": "https://i.ytimg.com/vi/Gea-RR8oBTg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
