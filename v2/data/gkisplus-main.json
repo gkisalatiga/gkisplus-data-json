@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3279,
-        "last-update": 1744817196,
+        "update-count": 3280,
+        "last-update": 1744822931,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1439,6 +1439,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Kamis Putih 17 April 2025",
+                    "date": "2025-04-17",
+                    "link": "https://drive.google.com/file/d/1ng6sWtepTAgjrLt12WrI_5jz5KebQWVV/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-kamis-putih-17-april-2025/",
+                    "thumbnail": "",
+                    "id": "1ng6sWtepTAgjrLt12WrI_5jz5KebQWVV",
+                    "size": "0.35 MB"
+                },
                 {
                     "title": "Tata Ibadah 13 April 2025",
                     "date": "2025-04-12",
