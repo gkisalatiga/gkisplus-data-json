@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3278,
-        "last-update": 1744807742,
+        "update-count": 3279,
+        "last-update": 1744817196,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3844,6 +3844,20 @@
                 "pic": "Ayu",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan pemusik paskah",
+                "time": "10:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-04-18",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
