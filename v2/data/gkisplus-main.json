@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3277,
-        "last-update": 1744802398,
-        "last-updated-item": "yt",
+        "update-count": 3278,
+        "last-update": 1744807742,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3816,6 +3816,34 @@
                 "pic": "Cinta",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan pemusik kamis putih ",
+                "time": "00:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-04-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik paskah ceria",
+                "time": "16:00",
+                "time-to": "16:50",
+                "timezone": "WIB",
+                "date": "2025-04-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Panitia",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
