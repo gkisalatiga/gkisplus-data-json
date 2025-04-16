@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3274,
-        "last-update": 1744781050,
+        "update-count": 3275,
+        "last-update": 1744783184,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3000,36 +3000,60 @@
         ],
         "carousel": [
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_informasi_parkir.webp",
+                "title": "Informasi Tempat Parkir",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_informasi_parkir.webp",
+                "poster-caption": "Informasi lebih lanjut dapat melihat pada poster yang tertera."
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_kamis_putih.webp",
                 "title": "Ibadah Kamis Putih",
                 "type": "poster",
-                "date-created": "2025-04-13",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_kamis_putih.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_3.webp",
-                "title": "Program Penanaman Pohon Palem",
-                "type": "poster",
-                "date-created": "2025-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_3.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_parade_mazmur.webp",
-                "title": "Parade Mazmur",
-                "type": "poster",
-                "date-created": "2025-04-05",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_parade_mazmur.webp",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_kamis_putih.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ja_ka.webp",
-                "title": "Jumat Agung Komisi Anak",
+                "title": "Kebaktian Jumat Agung Komisi Anak",
                 "type": "poster",
-                "date-created": "2025-04-12",
+                "date-created": "2025-04-16",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ja_ka.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_jumat_agung.webp",
+                "title": "Ibadah Jumat Agung",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_jumat_agung.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_sabtu_sunyi.webp",
+                "title": "Ibadah Sabtu Sunyi",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_sabtu_sunyi.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_paskah_subuh.webp",
+                "title": "Ibadah Paskah Subuh",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_paskah_dan_ceria.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_paskah_ceria.webp",
+                "title": "Paskah Ceria",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_paskah_dan_ceria.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
@@ -3037,14 +3061,6 @@
                 "type": "poster",
                 "date-created": "2025-04-05",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
-                "title": "Waroeng Tiberias",
-                "type": "poster",
-                "date-created": "2025-04-13",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
@@ -3086,6 +3102,22 @@
                 "date-created": "2025-04-12",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_paskah_kr_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
+                "title": "Waroeng Tiberias",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_parade_mazmur.webp",
+                "title": "Parade Mazmur",
+                "type": "poster",
+                "date-created": "2025-04-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_parade_mazmur.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             }
         ],
         "pukat-berkat": [
