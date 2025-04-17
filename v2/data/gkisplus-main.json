@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3282,
-        "last-update": 1744834723,
+        "update-count": 3283,
+        "last-update": 1744872254,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1432,6 +1432,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Jumat Agung 18 April 2025",
+                    "date": "2025-04-17",
+                    "link": "https://drive.google.com/file/d/1l55egJFiC729ITm26bKeCAAgY3Tjhvd8/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-jumat-agung-18-april-2025/",
+                    "thumbnail": "",
+                    "id": "1l55egJFiC729ITm26bKeCAAgY3Tjhvd8",
+                    "size": "0.58 MB"
+                },
                 {
                     "title": "Tata Ibadah Kamis Putih 17 April 2025",
                     "date": "2025-04-17",
@@ -3080,6 +3089,14 @@
                 "type": "poster",
                 "date-created": "2025-04-12",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_paskah_bersama.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_paskah_kul.webp",
+                "title": "Paskah Komisi Usia Lanjut",
+                "type": "poster",
+                "date-created": "2025-04-17",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_paskah_kul.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
