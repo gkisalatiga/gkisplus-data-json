@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3284,
-        "last-update": 1744914873,
-        "last-updated-item": "ykb",
+        "update-count": 3285,
+        "last-update": 1744945410,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3791,7 +3791,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3805,7 +3805,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3861,7 +3861,7 @@
                 "place": "Ruang Studio",
                 "representative": "Panitia",
                 "pic": "Ayu",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3876,6 +3876,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPK",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-04-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Ibu Lobby",
+                "status": "y",
                 "note": ""
             }
         ],
