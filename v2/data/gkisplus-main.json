@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3286,
-        "last-update": 1744945433,
-        "last-updated-item": "yt",
+        "update-count": 3287,
+        "last-update": 1744948204,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3891,6 +3891,20 @@
                 "pic": "Ibu Lobby",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan petugas musik Paskah Ceria",
+                "time": "20:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-18",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Panitia",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
