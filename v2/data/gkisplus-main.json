@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3288,
-        "last-update": 1744953819,
+        "update-count": 3289,
+        "last-update": 1745001253,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3012,30 +3012,6 @@
                 "poster-caption": "Informasi lebih lanjut dapat melihat pada poster yang tertera."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_kamis_putih.webp",
-                "title": "Ibadah Kamis Putih",
-                "type": "poster",
-                "date-created": "2025-04-16",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_kamis_putih.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ja_ka.webp",
-                "title": "Kebaktian Jumat Agung Komisi Anak",
-                "type": "poster",
-                "date-created": "2025-04-16",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ja_ka.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_jumat_agung.webp",
-                "title": "Ibadah Jumat Agung",
-                "type": "poster",
-                "date-created": "2025-04-16",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_jumat_agung.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_sabtu_sunyi.webp",
                 "title": "Ibadah Sabtu Sunyi",
                 "type": "poster",
@@ -3057,14 +3033,6 @@
                 "type": "poster",
                 "date-created": "2025-04-16",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_paskah_dan_ceria.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-04-05",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
