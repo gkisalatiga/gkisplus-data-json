@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3293,
-        "last-update": 1745051242,
+        "update-count": 3294,
+        "last-update": 1745051871,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1107,6 +1107,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 20 April 2025 (Paskah)",
+                    "date": "2025-04-19",
+                    "link": "https://drive.google.com/file/d/1PDFyVZ94JOHgIf8_XhZcew2HJokklw_M/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-20-april-2025-paskah/",
+                    "thumbnail": "",
+                    "id": "1PDFyVZ94JOHgIf8_XhZcew2HJokklw_M",
+                    "size": "1.90 MB"
+                },
+                {
                     "title": "Warta Jemaat 13 April 2025",
                     "date": "2025-04-12",
                     "link": "https://drive.google.com/file/d/1bg_y4tRRitzyW4tezqw3_bqOeygrmttP/view",
@@ -1432,6 +1441,24 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Paskah 20 April 2025 (siang & sore)",
+                    "date": "2025-04-19",
+                    "link": "https://drive.google.com/file/d/1_eV1NLIBj6FJ-HCuJIG_wIfcJps-4QB3/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-paskah-20-april-2025/",
+                    "thumbnail": "",
+                    "id": "1_eV1NLIBj6FJ-HCuJIG_wIfcJps-4QB3",
+                    "size": "0.34 MB"
+                },
+                {
+                    "title": "Tata Ibadah Paskah Subuh 20 April 2025",
+                    "date": "2025-04-19",
+                    "link": "https://drive.google.com/file/d/1azaGa5t_ZDSn0Ie82OpWMnc9h91jttLE/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-paskah-subuh-20-april-2025/",
+                    "thumbnail": "",
+                    "id": "1azaGa5t_ZDSn0Ie82OpWMnc9h91jttLE",
+                    "size": "0.34 MB"
+                },
                 {
                     "title": "Tata Ibadah Sabtu Sunyi 19 April 2025",
                     "date": "2025-04-19",
