@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3290,
-        "last-update": 1745014590,
+        "update-count": 3291,
+        "last-update": 1745042336,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1432,6 +1432,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Sabtu Sunyi 19 April 2025",
+                    "date": "2025-04-19",
+                    "link": "https://drive.google.com/file/d/1ALx8JUv8CZWG8hIXLYbTZLJHI3rjlZRx/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-sabtu-sunyi-19-april-2025/",
+                    "thumbnail": "",
+                    "id": "1ALx8JUv8CZWG8hIXLYbTZLJHI3rjlZRx",
+                    "size": "0.39 MB"
+                },
                 {
                     "title": "Tata Ibadah Jumat Agung 18 April 2025",
                     "date": "2025-04-17",
