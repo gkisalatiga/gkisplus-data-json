@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3297,
-        "last-update": 1745118680,
+        "update-count": 3298,
+        "last-update": 1745137638,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi 21 Apr 2025 Kebangkitan Nya Membarui Hidupku",
+                        "date": "2025-04-20",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=vwmYs0RaWWY",
+                        "thumbnail": "https://i3.ytimg.com/vi/vwmYs0RaWWY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Apr 2025 | Sekarang Bersyukur",
                         "date": "2025-04-15",
@@ -54,13 +61,6 @@
                         "desc": "Dibawakan oleh Pnt. Adita Sutresno",
                         "link": "https://www.youtube.com/watch?v=CGYHJZZa04w",
                         "thumbnail": "https://i4.ytimg.com/vi/CGYHJZZa04w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Apr 2025 | Masihkah Ada Cinta?",
-                        "date": "2025-04-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=m07E4veWt9k",
-                        "thumbnail": "https://i2.ytimg.com/vi/m07E4veWt9k/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
