@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3304,
-        "last-update": 1745205245,
+        "update-count": 3305,
+        "last-update": 1745207752,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3980,6 +3980,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat KUL SW Jateng",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Lainnya",
+                "pic": "Pdt. Em. Iman Santoso",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
