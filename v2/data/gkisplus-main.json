@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3307,
-        "last-update": 1745224351,
+        "update-count": 3308,
+        "last-update": 1745227555,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3265,6 +3265,20 @@
                 "representative": "Panitia",
                 "pic": "Indry",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
                 "note": ""
             }
         ],
