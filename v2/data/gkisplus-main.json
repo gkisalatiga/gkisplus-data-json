@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3312,
-        "last-update": 1745260443,
-        "last-updated-item": "ykb",
+        "update-count": 3313,
+        "last-update": 1745270152,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Apr 2025 | Tetap Setia di Tengah Kebingungan dan Keraguan",
+                        "date": "2025-04-21",
+                        "desc": "Dibawakan oleh Pnt. Dessy Ballo",
+                        "link": "https://www.youtube.com/watch?v=Z3gpHLfrFUU",
+                        "thumbnail": "https://i3.ytimg.com/vi/Z3gpHLfrFUU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi 21 Apr 2025 Kebangkitan Nya Membarui Hidupku",
                         "date": "2025-04-20",
@@ -54,13 +61,6 @@
                         "desc": "Dibawakan oleh Sdr. Hosea Mahanaim Riyanto",
                         "link": "https://www.youtube.com/watch?v=PAJuKp7YKgU",
                         "thumbnail": "https://i1.ytimg.com/vi/PAJuKp7YKgU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Apr 2025 | Menabur Kebaikan",
-                        "date": "2025-04-10",
-                        "desc": "Dibawakan oleh Pnt. Adita Sutresno",
-                        "link": "https://www.youtube.com/watch?v=CGYHJZZa04w",
-                        "thumbnail": "https://i4.ytimg.com/vi/CGYHJZZa04w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
