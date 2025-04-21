@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3302,
-        "last-update": 1745173925,
-        "last-updated-item": "ykb",
+        "update-count": 3303,
+        "last-update": 1745200762,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3922,6 +3922,62 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Anak",
                 "pic": "Dian Aprilia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BCR ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": "Minta tolong dibuatkan teh, Terima kasih "
+            },
+            {
+                "name": "Workshop guru YPE",
+                "time": "07:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-04-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
+            },
+            {
+                "name": "Latihan musik",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
                 "status": "w",
                 "note": ""
             }
