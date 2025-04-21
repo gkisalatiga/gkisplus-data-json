@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3310,
-        "last-update": 1745235574,
+        "update-count": 3311,
+        "last-update": 1745239650,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3290,6 +3290,20 @@
                 "weekday": "fri",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
+            },
+            {
+                "name": "Ibadah Paskah Organ, Guru, dan Karyawan YP Eben Haezer",
+                "time": "10:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-04-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
                 "representative": "YPE",
                 "pic": "Iryatun Trikorini ",
                 "status": "w",
