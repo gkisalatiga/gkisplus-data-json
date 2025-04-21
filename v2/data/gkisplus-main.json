@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3309,
-        "last-update": 1745234369,
-        "last-updated-item": "yt",
+        "update-count": 3310,
+        "last-update": 1745235574,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3280,6 +3280,20 @@
                 "pic": "Uncle Vidra",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Ibadah Paskah YP.Eben Harzer",
+                "time": "10:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-04-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
