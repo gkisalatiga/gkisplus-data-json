@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3305,
-        "last-update": 1745207752,
+        "update-count": 3306,
+        "last-update": 1745213075,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3994,6 +3994,20 @@
                 "pic": "Pdt. Em. Iman Santoso",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat BCR",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta ",
+                "status": "w",
+                "note": "Minta tolong untuk dibuatkan teh "
             }
         ],
         "backend": {
