@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3318,
-        "last-update": 1745294020,
+        "update-count": 3319,
+        "last-update": 1745303628,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3685,6 +3685,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Paskah Pengurus, Guru dan Karyawan YPE Salatiga",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-04-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
                 "note": ""
             }
         ],
