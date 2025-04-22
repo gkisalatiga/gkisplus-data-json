@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3319,
-        "last-update": 1745303628,
+        "update-count": 3320,
+        "last-update": 1745310714,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3352,20 +3352,6 @@
                 "note": ""
             },
             {
-                "name": "Latihan musik",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-04-24",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Paklik Vidra",
-                "status": "n",
-                "note": ""
-            },
-            {
                 "name": "Gladi bersih paskah KA ",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -3392,20 +3378,6 @@
                 "pic": "Indry",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Ibadah Paskah YP.Eben Harzer",
-                "time": "10:00",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2025-04-25",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "c",
-                "note": "Terima kasih "
             },
             {
                 "name": "Ibadah Paskah Organ, Guru, dan Karyawan YP Eben Haezer",
@@ -3699,6 +3671,34 @@
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan Kepemimpinan untuk Pengurus Yayasan,Kepsek dam guru sekolah Kristen",
+                "time": "08:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Pak Gunardi- Pengurus MPKW Jateng dan DIY",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan Kepemimpinan untuk Pengurus Yayasan,Kepsek dam guru sekolah Kristen",
+                "time": "08:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-05-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Pak Gunardi",
+                "status": "y",
                 "note": ""
             }
         ],
