@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 24,
-        "last-update": 1745044180,
+        "update-count": 25,
+        "last-update": 1745291859,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -12517,11 +12517,61 @@
                 {
                     "folder_id": "1ss8Y-Ln7b79343oDJNL3H-pm-CTyVHzI",
                     "last_update": "2025-04-19",
-                    "featured_photo_id": "1-iCBaTR9hCvU_4lMkzHeJrivFOtr-mq1",
+                    "featured_photo_id": "19AExV2ZV8u3TdKXjrr5mu61N27snjRyX",
                     "story": "Foto-foto dokumentasi Ibadah Kamis Putih [MRP 2025] yang dilaksanakan pada 17 April 2025.",
                     "title": "Ibadah Kamis Putih [MRP 2025]",
                     "event_date": "2025.04.17",
                     "photos": [
+                        {
+                            "id": "1LfWsqN7_85eTfQZZBSGKVdkU0ljmhWJ1",
+                            "name": "DSC_5698.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1BgqjZ9ejgm6MgYA76PERjAbj-S1Z1sZL",
+                            "name": "DSC_5684.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1oUwzJns98RX6eSVEd4tNHnrFeueN7t6Q",
+                            "name": "DSC_5781.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "11GfDDniDzroEAOgmF2oVAY9hBPdBopf2",
+                            "name": "DSC_5779.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "12_fD4ouxGACSuj8iiGWiMkrVwU8dGRX2",
+                            "name": "DSC_5683.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1dXXJejYeZxiYR3NA-v9ajxKQixUk7UC-",
+                            "name": "DSC_5786.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "13uO9hO_bN37OqJHF8f1P79SpGiiF2GaE",
+                            "name": "DSC_5765.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1NV6Z7vi94OTe2lV0zUNObJlhkJoUuKON",
+                            "name": "DSC_5812.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1Bcsz4qPTyTBjUz_VdH2l06fUmcA_IUCs",
+                            "name": "DSC_5743.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1NDD_UmQOID6enMqYyBTBhHCtdm0WrPj3",
+                            "name": "DSC_5803.JPG",
+                            "date": "2025-04-22"
+                        },
                         {
                             "id": "1jQaFFVO67dQ23oB9HRZ7BE6WdTT3igZ9",
                             "name": "GKI Kamis Putih 2025 (Salsa) (113).JPG",
@@ -12936,6 +12986,691 @@
                             "id": "1WgRaznolG0AEU5U0HnVQ0YiP67mmzB1O",
                             "name": "GKI Kamis Putih 2025 (Derryl) (4).JPG",
                             "date": "2025-04-19"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1rlxRPhZhdR1FtEOfKrWSFfEkIuQ0mwWc",
+                    "last_update": "2025-04-22",
+                    "featured_photo_id": "1VrXjRe51LK6NIPjvFKU1ew8VCyoVgRud",
+                    "story": "Foto-foto dokumentasi Ibadah Jumat Agung [MRP 2025] yang dilaksanakan pada 18 April 2025.",
+                    "title": "Ibadah Jumat Agung [MRP 2025]",
+                    "event_date": "2025.04.18",
+                    "photos": [
+                        {
+                            "id": "168F50617ze0GdpdAXZ4Qo4IRj4BP5iaf",
+                            "name": "YSA07188.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "14ILATvztw3HifTYXkP7n74y82J7BMZlU",
+                            "name": "YSA07084.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1ODSyJ13_FPUExS-hkbDAu6ct3Tgzmkie",
+                            "name": "YSA07013.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1DTlldTRCqecfxYjqlqDw59EWvWaUpXjq",
+                            "name": "YSA07077.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "18j-jPJRDVocxsVDouEWbD9F6SQnVy9Xk",
+                            "name": "YSA07063.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1uv5YjxwSjIHIyz8ts97wEE9G1rAfLM5D",
+                            "name": "YSA07027.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1vbcQTrt3vA6xaaCDjhJEv32_mdZiIfAZ",
+                            "name": "YSA07214.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1-Gqwnn_VpFClZeyJ_w_94t1rQBdTQmnR",
+                            "name": "DSCF1509.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1B72M6DMetS8l79PmAndQiTSa2Dsm1zRI",
+                            "name": "DSCF1476.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1P_XcNebObrgH1gTmYYHk-bgpwn8UfN68",
+                            "name": "DSCF1480.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1hlHVwYNw5bdlgIfLNp66_meJ2Gzbs0Tk",
+                            "name": "DSCF1491.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1iF5rzYt_UqVmjKbLkvLvypjJ2bBr9r3v",
+                            "name": "DSCF1502.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1wcZZroaVtZTnHCqsxV1Q6cTAJdNXlAof",
+                            "name": "DSCF1470.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1E3jU-kfMa_D-m19soLMjEuTvAgYa8vuU",
+                            "name": "DSCF1464.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1Nt9PnWzl6GKC6mahXVXE-wzQx9ODgPH4",
+                            "name": "DSCF1461.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1gyRKlkjIwV4gywETEgQDIp8kMdoD0wC9",
+                            "name": "GKI Jumat Agung 2025 (jeff) (42).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1fhbgglBKk6HbSoSmj_BR8hpZCiXNK8gc",
+                            "name": "GKI Jumat Agung 2025 (jeff) (10).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1DBNIfhz-QhXVTUII9A8_SqoJMyW-pwKY",
+                            "name": "GKI Jumat Agung 2025 (jeff) (22).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1UFiexVrWxPobSFf5BdzfVeyJ-KaKVdvh",
+                            "name": "GKI Jumat Agung 2025 (jeff) (52).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1tQkeZu57coHSdQaOhRZNVOSsqJdTBwlX",
+                            "name": "GKI Jumat Agung 2025 (jeff) (3).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1XVDAd5Kmx-rG-hAELMaB0uClDK2tDE1P",
+                            "name": "GKI Jumat Agung 2025 (jeff) (34).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1CCGNNAxUS1z510VHYRJughX88v2rIEAd",
+                            "name": "GKI Jumat Agung 2025 (jeff) (6).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1G18PWpBD7P9yY0DumjGcElM86pGxHNac",
+                            "name": "GKI Jumat Agung 2025 (jeff) (55).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "11i6TjaZw6rr_CZtVj6VG-p5bzku08hoY",
+                            "name": "GKI Jumat Agung 2025 (jeff) (59).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "14noF1ctll1Dgy-aXflYygoFLHGfoN8bi",
+                            "name": "GKI Jumat Agung 2025 (jeff) (24).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1E-OU2o8IQobOOhOQBIl7T955KJ4vXvkN",
+                            "name": "GKI Jumat Agung 180425-5-00070.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1RftbWtDfOqkQ-dAhzmqL-jZxryFaqA5S",
+                            "name": "GKI Jumat Agung 180425-5-00103.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "14u_UNdzBjaNWDwxSo_gzNQlue02CWiMC",
+                            "name": "GKI Jumat Agung 180425-5-00101.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "19J5s0osqb2lzP0q1IRK0ge4U8DUoIRDL",
+                            "name": "GKI Jumat Agung 180425-5-00097.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1DRmLiAJ8Ez3_O4y1W4JTwygPv1WmPRVO",
+                            "name": "GKI Jumat Agung 180425-5-00077.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1IVo9BDsS6m5AI12OCxVnauEOrT_qVeoY",
+                            "name": "GKI Jumat Agung 180425-5-00076.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1EP9gBRxXBpN-6enup0Ty5qnUfkBCV1-u",
+                            "name": "GKI Jumat Agung 180425-5-00075.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1CXp9RAZtgrBfeNNmOZiJaiitRJKT2-Tq",
+                            "name": "GKI Jumat Agung 180425-5-00015.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1EI69xhbmP4HN46bxET-5XPPPwyLkWcpr",
+                            "name": "GKI Jumat Agung 180425-5-00049.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "14VEv5Ka87wAKKiEmhqwSOghxhdIFQrr0",
+                            "name": "GKI Jumat Agung 180425-5-00019.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1Shcvgtlbq3M9FgNSO6vtSB6z---OjOWs",
+                            "name": "GKI Jumat Agung 180425-5-00001.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1TtCXeV0VrR1dvyp7U5oURaeDJcDDfr6m",
+                            "name": "GKI Jumat Agung 180425-5-00010.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1Vvt-_cSZHHw0PsUlfo7SzcRf5EzcWp1n",
+                            "name": "GKI Jumat Agung 180425-5-00071.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1TbWDYkUEIobZj_9PEzV5DHiwgk2-aZlS",
+                            "name": "GKI Jumat Agung 180425-5-00060.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "15S8lQu651gIJjAN9OKZM6gYLLRMD6V1j",
+                            "name": "GKI Jumat Agung 180425-5-00007.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1K5dtztyNxDBSwwPVf0uROKn9MRLUGjRY",
+                            "name": "GKI Jumat Agung 180425-5-00054.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1KN03FlOAljfhwNTlgG5wt-xw_g8C7tQn",
+                            "name": "GKI Jumat Agung 180425-5-00036.JPG",
+                            "date": "2025-04-22"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1c0MDaL1TvqUr0594ni4A0XMW1EH9XI3l",
+                    "last_update": "2025-04-22",
+                    "featured_photo_id": "1fqStpjfuBCDUQYB_IaMHW9koJvEJKnhS",
+                    "story": "Foto-foto dokumentasi Jumat Agung Komisi Anak [MRP 2025] yang dilaksanakan pada 18 April 2025.",
+                    "title": "Jumat Agung Komisi Anak [MRP 2025]",
+                    "event_date": "2025.04.18",
+                    "photos": [
+                        {
+                            "id": "17JXITGFgj8iMuBeNQGt2bJPulPp-bOMp",
+                            "name": "GKI KA Jumat Agung 180425-5-00068.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "14hs_jYFwaIjQ_Jdumyg74vXuE525lP20",
+                            "name": "GKI KA Jumat Agung 180425-5-00082.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1uFikOKRZ83ArVv25GO1DgNVLsfv2BRr-",
+                            "name": "GKI KA Jumat Agung 180425-5-00007.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1ZrQorEmPpBApWEe9nWP77zrI2aUYNrGa",
+                            "name": "GKI KA Jumat Agung 180425-5-00074.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1YX5V8eiWpvFjDVKIeayep2q-tk5L8lY7",
+                            "name": "GKI KA Jumat Agung 180425-5-00086.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1DeuEGk4Qr8rJ5P-eqbhmVn4xA7a74mCu",
+                            "name": "GKI KA Jumat Agung 180425-5-00088.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "15dCmlx7rrx3i7IdQuLXCgccLlTPGrCJH",
+                            "name": "GKI KA Jumat Agung 180425-5-00014.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1t8BlEsBLGxr07rcL1yhQtz5x8sdUhHSL",
+                            "name": "GKI KA Jumat Agung 180425-5-00052.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1CFW_CMeLT86zOprBOyNzm2bxPd3BoOPK",
+                            "name": "GKI KA Jumat Agung 180425-5-00053.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1ocMwqvvQum9rT4RaiwlZs44LWvwegCeZ",
+                            "name": "GKI KA Jumat Agung 180425-5-00004.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1TRg0Me3n2U_dqVv53cd0Zn0Ir1RQKGv6",
+                            "name": "GKI KA Jumat Agung 180425-5-00065.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1yiI7mUDDJkogoLaFkjmA-AG1p0b78-Bg",
+                            "name": "GKI KA Jumat Agung 180425-5-00046.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "10hAEkzD8WOjcP0pmifE5qXWkgv09oG-G",
+                            "name": "GKI KA Jumat Agung 180425-5-00024.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1tz-OIDFJH_CZHszaYLBMcc43VEvlhhr_",
+                            "name": "GKI KA Jumat Agung 180425-5-00028.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "15Jck9sGKXz-L8WAiPU_QE8nmEob7ERLx",
+                            "name": "GKI KA Jumat Agung 180425-5-00001.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1OzYgV71VpzBlTEhvWSQFzO4y8n8kBMYq",
+                            "name": "GKI KA Jumat Agung 180425-5-00038.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1Ts0uUgVheu8P6Im_omSTHA7yc9h4ZUjv",
+                            "name": "DSCF1389.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1_xZQrSjC4knP5sbya_auzzobqzI2qutn",
+                            "name": "DSCF1258.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1C4nCaN3kjK1ndkHCh4HIbxld_S18VOaO",
+                            "name": "DSCF1417.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1OBGyfqa-VOvbpYnoOOqMt775WxUd98R4",
+                            "name": "DSCF1358.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1h6gNui8Di-HTvYznSOIzjV4Zaz4HMA2p",
+                            "name": "DSCF1406.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1tDOFYckoSghy411aQ2mUCeFeDwlkd20c",
+                            "name": "DSCF1348.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1IVKuY6SmOP2_w7PoZJKarLH-dzqvHr3V",
+                            "name": "DSCF1304.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1ppjxW9exUiDpfcJMHrJFMZWnBdpLDn1B",
+                            "name": "DSCF1450.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1amWyCkCCwEU8dG0akXUNp2xH8DE1ut5Q",
+                            "name": "DSCF1229.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1_Pf8bWkHo6MAmH7Q6I4kAwcW9bJybn6P",
+                            "name": "DSCF1196.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1o0LdMIzaGwS5OtStQua6QH2BskAsvqHQ",
+                            "name": "DSCF1257.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "19eULnBJQ4x0YPI999AcworHqBTxi4zVZ",
+                            "name": "DSCF1265.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1gLr9bueLhULl491y4m3-1q8C2XEeBomK",
+                            "name": "DSCF1125.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1JUTWFIyDraT1K6zLdp_Y8STwaPxouD4d",
+                            "name": "DSCF1075.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "13p4ZGVn7Uc5j6tFXQld6Ek-Tcm5LPBDf",
+                            "name": "DSCF1239.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "12RICqlboTekn3nFnw_WxiT3V7KtAjYkt",
+                            "name": "DSCF1162.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "13vO5bU0znwFar-W2Phx6RWKIaAC30mu6",
+                            "name": "DSCF1194.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1h9k_QaQbxXbCqg86WrU7F5P0sSK4ucUS",
+                            "name": "DSCF1183.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1e--pdyVf9O4JWArIdqHe-YvxtZw7o1Mt",
+                            "name": "Jumat Agung KA 2025 (jeff) (32).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1LJHqWUsEk1jUCwQpngGTMpReHaMkn-42",
+                            "name": "Jumat Agung KA 2025 (jeff) (4).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1NUn-mL0eJO5NJ04CF7-3g1ltxOHQLK0-",
+                            "name": "Jumat Agung KA 2025 (jeff) (31).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1BLUzwsQGEX5g4KlNODUbEACkZtD-54iW",
+                            "name": "Jumat Agung KA 2025 (jeff) (9).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1_LK3O6V9mVjfsO-WsxYlKO0_L8UD3Uic",
+                            "name": "20250418 - Jumat Agung (155).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1EX7tC7sgm0DDdit8XGcTlmvxAGkUBXKy",
+                            "name": "20250418 - Jumat Agung (215).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1EPKQfXpTGi44bF58JdOG479a_o4N81lS",
+                            "name": "20250418 - Jumat Agung (196).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1xMMGmoaTYuKFGWAYdFqSGiqFymFnQhpY",
+                            "name": "20250418 - Jumat Agung (162).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1X50wOHsZrnX39emW3TPlgo5Y5v_NOwmt",
+                            "name": "20250418 - Jumat Agung (122).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1RBqb8xKTH9oHKZYCl6rhC3pYx_eE40hC",
+                            "name": "20250418 - Jumat Agung (102).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1219RzRZSJt6s3DOHwOggUflR0qM3rP7r",
+                            "name": "20250418 - Jumat Agung (113).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1z7agkq1I0Bo71Xa5wRJOihnD8xcN1TyF",
+                            "name": "20250418 - Jumat Agung (90).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1uOy8-K5Fe05q4UdJbscjyQQHHacNPMAJ",
+                            "name": "20250418 - Jumat Agung (107).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1vc11QGYORN4SWUITJK1dDOpQwWeCnmIe",
+                            "name": "20250418 - Jumat Agung (95).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1YDo90ZX2lUZC9b6YiD8qRGS6WUPbygp9",
+                            "name": "20250418 - Jumat Agung (119).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1vnfunIzKmRIGbnW_01glV15FelbuH7k5",
+                            "name": "20250418 - Jumat Agung (115).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1dWZ9yN2eCYWKdhpcdfjC_PmrxeIrNviO",
+                            "name": "20250418 - Jumat Agung (128).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1k3KTzlOhXYikc4PMkBfF_BdiQ8Y-5hQ1",
+                            "name": "20250418 - Jumat Agung (80).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1n9KQYH_aA2rqoUit2qoixA0reR17Fmek",
+                            "name": "20250418 - Jumat Agung (68).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1BHQiFbWnCw8MCBU6Sl1oIegyhCNSodUm",
+                            "name": "20250418 - Jumat Agung (56).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "17SGflNZmVa5_7u4iEr5zP3z2v3JEIVGd",
+                            "name": "20250418 - Jumat Agung (69).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1mZY5nrVJAfgLQ2ncgQCJARb2CUQB5uaT",
+                            "name": "20250418 - Jumat Agung (43).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1-8mp40fkKUDkmRSVKKX9MB4wxB8fsyZK",
+                            "name": "20250418 - Jumat Agung (66).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1D7CGsScz5YlzX33htLwsfOJ4sXQ8aG_7",
+                            "name": "20250418 - Jumat Agung (59).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "19H6xbB4A8Pnp8q72HnMduPM009ptjas3",
+                            "name": "20250418 - Jumat Agung (38).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1pckuUCG6PHnqL5HFh23yrwsDv3bK6WBP",
+                            "name": "20250418 - Jumat Agung (67).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1kp6TmzRUTlJxkbAi-2hNhL7eJgiKUGzr",
+                            "name": "20250418 - Jumat Agung (73).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "17rUzX3xT_wNCZG8UncAEFSRZZxfO_Ww8",
+                            "name": "20250418 - Jumat Agung (76).JPG",
+                            "date": "2025-04-22"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1VmKMEuQbPdlSnIGSFZtf9jj-vSXR3PBJ",
+                    "last_update": "2025-04-22",
+                    "featured_photo_id": "1L0WqWsseoRC5emSUr0ZSAIaW-gefhfrV",
+                    "story": "Foto-foto dokumentasi Ibadah Sabtu Sunyi [MRP 2025] yang dilaksanakan pada 19 April 2025.",
+                    "title": "Ibadah Sabtu Sunyi [MRP 2025]",
+                    "event_date": "2025.04.19",
+                    "photos": [
+                        {
+                            "id": "1q_Nz6rCCDAo1H3ssCPKX0Lvn1pPtnuGf",
+                            "name": "DSCF1523.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1ODGM6V67egn9akE0olpMScqj2kFtnN4n",
+                            "name": "DSCF1596.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1eaCnNjsLkkUeFH6A2DsH6qCzkXFoE-2v",
+                            "name": "DSCF1572.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1OqNBJUjW1kponf8U0J0V1eGVxJrag5so",
+                            "name": "DSCF1589.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1N-NubmGS4QP6yPF9sELfVFZvfzF1szKE",
+                            "name": "DSCF1586.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1ufY9jSoM478S9pKXReWc5-QABuqZgur4",
+                            "name": "DSCF1528.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1PvNUCUyQKsEzAi9Rhrsdi7DuglAvHuBz",
+                            "name": "DSCF1561.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1fxg7g-hg7rejU8EKlgwn3-_Pp2ynRQal",
+                            "name": "DSCF1566.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1a1_8nu-hnSToOGK9kjFDalLBTt4quUv6",
+                            "name": "DSCF1573.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "18RbTxulU3wxpi0jrtOH5aMpSL7gcWYJC",
+                            "name": "GKI Sabtu Sunyi (jeff) (19).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1QjLOn8JhqbT09Wa0FUw9s_yYjk0h-SkK",
+                            "name": "GKI Sabtu Sunyi (jeff) (10).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1EET60N-7jYBdArUyYx04V0WeG3DaK1We",
+                            "name": "GKI Sabtu Sunyi (jeff) (9).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1Pxd5iUz0CODTpxm1PzH8L6O_dflnfAvr",
+                            "name": "GKI Sabtu Sunyi (jeff) (32).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1rEDOnjeuYf1rGwB9b6ru3n-N9ygw6ctM",
+                            "name": "GKI Sabtu Sunyi (jeff) (4).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1iSCUSl2zq_8O1oTXg7LyBAktjG6F_CIb",
+                            "name": "GKI Sabtu Sunyi (jeff) (1).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "12eeiP_pE5VLNwqM4rtBMYvIfXFBM4j2T",
+                            "name": "GKI Sabtu Sunyi (jeff) (11).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1bSuErvDxjA5mDsQjouEJy7vVJA6KLTD8",
+                            "name": "GKI Sabtu Sunyi (jeff) (18).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "11Sr1YPoBz8xhl4Pw1qro2giALMxC9caB",
+                            "name": "GKI Sabtu Sunyi (jeff) (34).JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1pPektr7nLJT5o9YE6cMG7o4vM_vbegz5",
+                            "name": "GKI Sabtu Sunyi 190425-6-00001.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1HQ_KcJ0OxBMgnzd176B3lbRkL6tzuGIu",
+                            "name": "GKI Sabtu Sunyi 190425-6-00047.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1p3mmjs7HYJk35yZBRwtpWCqItrjJfq2Q",
+                            "name": "GKI Sabtu Sunyi 190425-6-00020.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1F2XIcLab0ll4BRA8UAc4_GjXBNrDGUy3",
+                            "name": "GKI Sabtu Sunyi 190425-6-00041.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1EEOzE_BmaagOfYeP6bKanPhI9Fg4T2L2",
+                            "name": "GKI Sabtu Sunyi 190425-6-00009.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1-oe5xLO-WGjMrmHoR_y_p0h-vroZk_2T",
+                            "name": "GKI Sabtu Sunyi 190425-6-00004.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1KyCANpV-pNhbDxu0b66Psi0wNaGfrv7w",
+                            "name": "GKI Sabtu Sunyi 190425-6-00045.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "12HUAJ1RaqHGv2hkZygjn_p2RhU8haDGS",
+                            "name": "GKI Sabtu Sunyi 190425-6-00007.JPG",
+                            "date": "2025-04-22"
+                        },
+                        {
+                            "id": "1m-3JQ-QxooMLGmyW04PUw_ZT9F3MvsYP",
+                            "name": "GKI Sabtu Sunyi 190425-6-00029.JPG",
+                            "date": "2025-04-22"
                         }
                     ]
                 }
