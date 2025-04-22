@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3320,
-        "last-update": 1745310714,
+        "update-count": 3321,
+        "last-update": 1745313944,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3699,6 +3699,20 @@
                 "representative": "Lainnya",
                 "pic": "Pak Gunardi",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "latihan fellowship paskah",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
                 "note": ""
             }
         ],
