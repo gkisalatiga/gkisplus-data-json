@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3321,
-        "last-update": 1745313944,
+        "update-count": 3322,
+        "last-update": 1745317531,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3712,6 +3712,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "latihan pemusik Paskah KA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia",
                 "status": "w",
                 "note": ""
             }
