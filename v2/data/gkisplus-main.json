@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3326,
-        "last-update": 1745377638,
+        "update-count": 3327,
+        "last-update": 1745423074,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3707,6 +3707,20 @@
                 "pic": "Bp. Lukas Sukan",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat final paskah kr kp",
+                "time": "16:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-04-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Renzo",
+                "status": "w",
+                "note": "Kami  minta tokong ditambahkan teh, Terimakasih Tuhan memberkati"
             }
         ],
         "backend": {
