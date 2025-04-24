@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3333,
-        "last-update": 1745479429,
+        "update-count": 3334,
+        "last-update": 1745483526,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3191,104 +3191,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan PS. Efrata",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Ibu Warjini",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Perayaan Ibadah Paskah SMP Kristen 2 Salatiga 2025",
-                "time": "06:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat KPPK",
-                "time": "16:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
-                "pic": "Ibu Lobby",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KUL SW Jateng",
-                "time": "09:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Lainnya",
-                "pic": "Pdt. Em. Iman Santoso",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan musik",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Petugas Paskah KA",
-                "time": "15:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Dian Aprilia",
-                "status": "c",
-                "note": ""
-            },
-            {
-                "name": "Latihan petugas ibadah paskah KA",
-                "time": "15:00",
-                "time-to": "16:30",
-                "timezone": "WIB",
-                "date": "2025-04-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Dian Aprilia",
-                "status": "y",
-                "note": "menggantikan link form yang di isi sebelumnya karena ada kesalahan dalam waktu penggunaan ruangan."
-            },
-            {
                 "name": "Paskah SD Kristen 04",
                 "time": "06:30",
                 "time-to": "11:00",
@@ -3327,7 +3229,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Renzo",
-                "status": "w",
+                "status": "y",
                 "note": "Kami  minta tokong ditambahkan teh, Terimakasih Tuhan memberkati"
             },
             {
@@ -3791,6 +3693,20 @@
                 "pic": "Erio FanggidaE",
                 "status": "y",
                 "note": "--"
+            },
+            {
+                "name": "Rapat Paskah dan Diakonia KD",
+                "time": "18:45",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Arvie Sinjal ",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
