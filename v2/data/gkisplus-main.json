@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3332,
-        "last-update": 1745476451,
+        "update-count": 3333,
+        "last-update": 1745479429,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3747,7 +3747,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti, M.Pd",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3761,7 +3761,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis Sidanta",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3775,7 +3775,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti, M.Pd",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3789,7 +3789,7 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Erio FanggidaE",
-                "status": "w",
+                "status": "y",
                 "note": "--"
             }
         ],
