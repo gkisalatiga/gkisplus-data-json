@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3334,
-        "last-update": 1745483526,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3335,
+        "last-update": 1745510832,
+        "last-updated-item": "yt",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -1100,6 +1100,70 @@
                 "last-update": "-",
                 "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
+                "type": "regular",
+                "pinned": 1
+            },
+            {
+                "content": [
+                    {
+                        "title": "PERSEKUTUAN PERAYAAN HUT KOMISI PEMUDA - GKI SALATIGA",
+                        "date": "2022-09-17",
+                        "desc": "SODA WORSHIP NINE\n\n\"UNITY IN DIVERSITY\"\nBacaan: Yohanes 17:20-26\nPF : Pdt. Mauriska Lauterboom\n\nPETUGAS PERSEKUTUAN:\nMC: Gloria\nSinger: Elis,  Abi,  Vrilen, dan Sarah\nPemusik: Andy,  Adriel,  Tigor,  Joshua, dan  Oka\nMultimedia: Nathan, Visi, Misi, Jefrey, Tora, Keiko",
+                        "link": "https://www.youtube.com/watch?v=jd_bcqiRDBk",
+                        "thumbnail": "https://i.ytimg.com/vi/jd_bcqiRDBk/hqdefault.jpg"
+                    }
+                ],
+                "last-update": "-",
+                "playlist-id": "PLtAv1OZRTdvLj0ie7dW0LYcVBLm1VYGg0",
+                "title": "Komisi Anak",
+                "type": "regular",
+                "pinned": 1
+            },
+            {
+                "content": [
+                    {
+                        "title": "PERSEKUTUAN PERAYAAN HUT KOMISI PEMUDA - GKI SALATIGA",
+                        "date": "2022-09-17",
+                        "desc": "SODA WORSHIP NINE\n\n\"UNITY IN DIVERSITY\"\nBacaan: Yohanes 17:20-26\nPF : Pdt. Mauriska Lauterboom\n\nPETUGAS PERSEKUTUAN:\nMC: Gloria\nSinger: Elis,  Abi,  Vrilen, dan Sarah\nPemusik: Andy,  Adriel,  Tigor,  Joshua, dan  Oka\nMultimedia: Nathan, Visi, Misi, Jefrey, Tora, Keiko",
+                        "link": "https://www.youtube.com/watch?v=jd_bcqiRDBk",
+                        "thumbnail": "https://i.ytimg.com/vi/jd_bcqiRDBk/hqdefault.jpg"
+                    }
+                ],
+                "last-update": "-",
+                "playlist-id": "PLtAv1OZRTdvLrzSSjEFsAYfVRbm2ck2jR",
+                "title": "Komisi Dewasa",
+                "type": "regular",
+                "pinned": 0
+            },
+            {
+                "content": [
+                    {
+                        "title": "PERSEKUTUAN PERAYAAN HUT KOMISI PEMUDA - GKI SALATIGA",
+                        "date": "2022-09-17",
+                        "desc": "SODA WORSHIP NINE\n\n\"UNITY IN DIVERSITY\"\nBacaan: Yohanes 17:20-26\nPF : Pdt. Mauriska Lauterboom\n\nPETUGAS PERSEKUTUAN:\nMC: Gloria\nSinger: Elis,  Abi,  Vrilen, dan Sarah\nPemusik: Andy,  Adriel,  Tigor,  Joshua, dan  Oka\nMultimedia: Nathan, Visi, Misi, Jefrey, Tora, Keiko",
+                        "link": "https://www.youtube.com/watch?v=jd_bcqiRDBk",
+                        "thumbnail": "https://i.ytimg.com/vi/jd_bcqiRDBk/hqdefault.jpg"
+                    }
+                ],
+                "last-update": "-",
+                "playlist-id": "PLtAv1OZRTdvLrzSSjEFsAYfVRbm2ck2jR",
+                "title": "Komisi Dewasa",
+                "type": "regular",
+                "pinned": 0
+            },
+            {
+                "content": [
+                    {
+                        "title": "PERSEKUTUAN PERAYAAN HUT KOMISI PEMUDA - GKI SALATIGA",
+                        "date": "2022-09-17",
+                        "desc": "SODA WORSHIP NINE\n\n\"UNITY IN DIVERSITY\"\nBacaan: Yohanes 17:20-26\nPF : Pdt. Mauriska Lauterboom\n\nPETUGAS PERSEKUTUAN:\nMC: Gloria\nSinger: Elis,  Abi,  Vrilen, dan Sarah\nPemusik: Andy,  Adriel,  Tigor,  Joshua, dan  Oka\nMultimedia: Nathan, Visi, Misi, Jefrey, Tora, Keiko",
+                        "link": "https://www.youtube.com/watch?v=jd_bcqiRDBk",
+                        "thumbnail": "https://i.ytimg.com/vi/jd_bcqiRDBk/hqdefault.jpg"
+                    }
+                ],
+                "last-update": "-",
+                "playlist-id": "PLtAv1OZRTdvKh7zRBAQfmh8TZz3WtDcWx",
+                "title": "Kebaktian Pernikahan",
                 "type": "regular",
                 "pinned": 0
             }
