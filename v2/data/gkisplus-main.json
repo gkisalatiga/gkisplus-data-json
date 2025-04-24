@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3336,
+        "update-count": 3337,
         "last-update": 1745510992,
         "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -456,7 +456,7 @@
                 "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
                 "title": "English Service",
                 "type": "regular",
-                "pinned": 1
+                "pinned": 0
             },
             {
                 "content": [
@@ -1321,36 +1321,6 @@
                 "title": "Komisi Anak",
                 "type": "regular",
                 "pinned": 1
-            },
-            {
-                "content": [
-                    {
-                        "title": "Bincang Online \" Cara Jitu Mengelola Keuangan \" 25 Maret 2022",
-                        "date": "2022-03-25",
-                        "desc": "Bincang Online  \" Cara Jitu Mengelola Keuangan \"\nPenyelenggara : Komisi Dewasa GKI Salatiga \nTanggal : 25 Maret 2022\nNarasumber : Ibu Maryam Idawati ( Jakarta )\nModerator : Ibu Ferini Handayaningsih",
-                        "link": "https://www.youtube.com/watch?v=CGILVDPgKvM",
-                        "thumbnail": "https://i.ytimg.com/vi/CGILVDPgKvM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Sarasehan Hidup Sehat, Bahagia, dan Berdamai dengan Covid 19 bersama Allah",
-                        "date": "2021-09-03",
-                        "desc": "",
-                        "link": "https://www.youtube.com/watch?v=THo143Mf-u8",
-                        "thumbnail": "https://i.ytimg.com/vi/THo143Mf-u8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Persekutuan Komisi Dewasa GKI Salatiga | 4 Agustus 2021 | \"Pengikut atau Penggemar\"",
-                        "date": "2021-09-03",
-                        "desc": "Persekutuan Komisi Dewasa GKI Salatiga\n4 Agustus 2021\n\nTema : Pengikut atau Penggemar\nPF : Sdri. Hani Handayani Tjahjadi\nPemusik : Sdr. Vidra\nPengantar : Pnt. Esther",
-                        "link": "https://www.youtube.com/watch?v=D4v1A8lIyqU",
-                        "thumbnail": "https://i.ytimg.com/vi/D4v1A8lIyqU/hqdefault.jpg"
-                    }
-                ],
-                "last-update": "-",
-                "playlist-id": "PLtAv1OZRTdvLrzSSjEFsAYfVRbm2ck2jR",
-                "title": "Komisi Dewasa",
-                "type": "regular",
-                "pinned": 0
             },
             {
                 "content": [
