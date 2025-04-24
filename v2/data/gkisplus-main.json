@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3331,
-        "last-update": 1745468891,
+        "update-count": 3332,
+        "last-update": 1745476451,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3777,6 +3777,20 @@
                 "pic": "Siska Indria Yuniarti, M.Pd",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Kelas online.",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-04-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Erio FanggidaE",
+                "status": "w",
+                "note": "--"
             }
         ],
         "backend": {
