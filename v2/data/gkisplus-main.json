@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3344,
-        "last-update": 1745573153,
+        "update-count": 3345,
+        "last-update": 1745577919,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3753,6 +3753,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat koordinasi Panitia Paskah KA",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia",
                 "status": "w",
                 "note": ""
             }
