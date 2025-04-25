@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3342,
-        "last-update": 1745558641,
-        "last-updated-item": "yt",
+        "update-count": 3343,
+        "last-update": 1745569899,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4048,6 +4048,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Lave",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-04-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Natalis",
+                "status": "w",
                 "note": ""
             }
         ],
