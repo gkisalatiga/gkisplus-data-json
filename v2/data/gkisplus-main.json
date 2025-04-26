@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3355,
-        "last-update": 1745677215,
+        "update-count": 3356,
+        "last-update": 1745680294,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1561,6 +1561,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 27 April 2025",
+                    "date": "2025-04-26",
+                    "link": "https://drive.google.com/file/d/1sWsp7PxGffNoFI0Fp-vNcH7t1RCqU7yV/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-27-april-2025/",
+                    "thumbnail": "",
+                    "id": "1sWsp7PxGffNoFI0Fp-vNcH7t1RCqU7yV",
+                    "size": "1.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 20 April 2025 (Paskah)",
                     "date": "2025-04-19",
                     "link": "https://drive.google.com/file/d/1PDFyVZ94JOHgIf8_XhZcew2HJokklw_M/view",
@@ -1895,6 +1904,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Paskah 27 April 2025",
+                    "date": "2025-04-26",
+                    "link": "https://drive.google.com/file/d/1CM2hhgNpo0u1TFEKq6NnmXoNNfrvtdIF/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-27-april-2025/",
+                    "thumbnail": "",
+                    "id": "1CM2hhgNpo0u1TFEKq6NnmXoNNfrvtdIF",
+                    "size": "0.41 MB"
+                },
                 {
                     "title": "Tata Ibadah Paskah 20 April 2025 (siang & sore)",
                     "date": "2025-04-19",
