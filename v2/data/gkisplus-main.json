@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3360,
-        "last-update": 1745723489,
-        "last-updated-item": "yt",
+        "update-count": 3361,
+        "last-update": 1745760422,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4025,6 +4025,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat panitia Sie Acara Paskah GKI",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-04-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
