@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3363,
-        "last-update": 1745778757,
-        "last-updated-item": "ykb",
+        "update-count": 3364,
+        "last-update": 1745788461,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Apr 2025 | Menjadi Pribadi Yang Berkenan Di Hadapan Tuhan dan Sesama",
+                        "date": "2025-04-27",
+                        "desc": "Dibawakan oleh Pnt. Dessy Ballo",
+                        "link": "https://www.youtube.com/watch?v=2VsDZQOukLQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/2VsDZQOukLQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Apr 2025 | Andaikan Kristus Tidak Bangkit",
                         "date": "2025-04-25",
