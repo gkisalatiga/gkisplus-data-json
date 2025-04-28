@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3366,
-        "last-update": 1745805543,
+        "update-count": 3367,
+        "last-update": 1745812507,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4086,7 +4086,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Yahya Kristanto",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
