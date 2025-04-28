@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3369,
-        "last-update": 1745826661,
+        "update-count": 3370,
+        "last-update": 1745837947,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4130,6 +4130,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat bulanan KP",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-04-29",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
