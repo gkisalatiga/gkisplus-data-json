@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3370,
-        "last-update": 1745837947,
-        "last-updated-item": "agenda",
+        "update-count": 3371,
+        "last-update": 1745850438,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Apr 2025 | Beriman dan Berbelaskasih",
+                        "date": "2025-04-28",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=VWbH3InePfg",
+                        "thumbnail": "https://i3.ytimg.com/vi/VWbH3InePfg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Apr 2025 | Menjadi Pribadi Yang Berkenan Di Hadapan Tuhan dan Sesama",
                         "date": "2025-04-27",
