@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3367,
-        "last-update": 1745812507,
+        "update-count": 3368,
+        "last-update": 1745818368,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3782,6 +3782,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Padus guru SMP",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-04-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yahya Kristanto",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Kegiatan kls 5 \"Fun and Learn Camp\"",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -3806,6 +3820,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-04-29",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Kristiani Murti Astuti",
                 "status": "y",
                 "note": ""
             },
@@ -4058,34 +4086,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KUL",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Kristiani Murti Astuti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Padus guru SMP",
-                "time": "09:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-04-28",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Yahya Kristanto",
                 "status": "y",
                 "note": ""
             }
