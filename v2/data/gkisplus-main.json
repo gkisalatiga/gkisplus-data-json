@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3373,
-        "last-update": 1745891789,
+        "update-count": 3374,
+        "last-update": 1745896187,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4079,7 +4079,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Yahya Kristanto",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
