@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3380,
-        "last-update": 1745951698,
-        "last-updated-item": "ykb",
+        "update-count": 3381,
+        "last-update": 1745957930,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Apr 2025 | Tuhan yang Hidup dan Penuh Kasih",
+                        "date": "2025-04-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=WsVhmWvNY84",
+                        "thumbnail": "https://i4.ytimg.com/vi/WsVhmWvNY84/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Apr 2025 | Beriman dan Berbelaskasih",
                         "date": "2025-04-28",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Ibu Alia Katharina",
                         "link": "https://www.youtube.com/watch?v=ZPg0QTCmV-U",
                         "thumbnail": "https://i3.ytimg.com/vi/ZPg0QTCmV-U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Apr 2025 | Tetap Setia di Tengah Kebingungan dan Keraguan",
-                        "date": "2025-04-21",
-                        "desc": "Dibawakan oleh Pnt. Dessy Ballo",
-                        "link": "https://www.youtube.com/watch?v=Z3gpHLfrFUU",
-                        "thumbnail": "https://i3.ytimg.com/vi/Z3gpHLfrFUU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
