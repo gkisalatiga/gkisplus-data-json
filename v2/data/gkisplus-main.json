@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3375,
-        "last-update": 1745904226,
+        "update-count": 3376,
+        "last-update": 1745911483,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4080,6 +4080,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik utk ibadah Minggu ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-04-29",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla ",
+                "status": "w",
                 "note": ""
             }
         ],
