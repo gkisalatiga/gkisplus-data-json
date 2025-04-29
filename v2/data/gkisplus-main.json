@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3374,
-        "last-update": 1745896187,
+        "update-count": 3375,
+        "last-update": 1745904226,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3901,6 +3901,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan VG Guru SMP KR 2",
+                "time": "09:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-05-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yahya Kristanto",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "  Pembukaan Pembinaan GSM ",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -4065,20 +4079,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan VG Guru SMP KR 2",
-                "time": "09:30",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-05-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Yahya Kristanto",
                 "status": "y",
                 "note": ""
             }
