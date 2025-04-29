@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3376,
-        "last-update": 1745911483,
-        "last-updated-item": "agenda",
+        "update-count": 3377,
+        "last-update": 1745915624,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1355,6 +1355,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN RICHY & EVA  | 3 MEI 2025",
+                        "date": "2025-04-29",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Richy Saputra Gerimu & Sdri. Eva Seti Dwi Astuti \n\nSabtu, 3 Mei 2025 pukul 13.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Ruth Helen Manurung\nMJ : Pnt. Samuel Martono,  Pnt. Catur Winarno\nPemusik : Ecclesiastes\nPNK : Dhara \nMultimedia : Daniel Eko, Risti , Bobby, Iwandi",
+                        "link": "https://www.youtube.com/watch?v=yUeeKnXHBj4",
+                        "thumbnail": "https://i.ytimg.com/vi/yUeeKnXHBj4/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN DIMAS & CLARISSA  | 8 FEBRUARI 2025",
                         "date": "2025-01-16",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Dimas Dhanubrata Gasmara & Sdri. Clarissa Cornelia Febiyani \n\nSabtu, 8 Februari 2025 pukul 09.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Em. Iman Santoso\nMJ : Pnt. Adita Sutresno ,  Pnt. Nadia Sitaresmi\nPemusik : Chronicles\nPNK : Samuel Arif \nMultimedia : Jeffry, Samarthya, Joshua . Bobby, Iwandi",
@@ -1556,13 +1563,6 @@
                         "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 18 Desember 2021 pukul 09.00 WIB\n\nSdr. Trias Fajar Novianto dengan Sdri. Gladys Hanneke Loudy Nikijuluw\n\nPF. : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Sandy M. Santoso ; Pnt. Gita Hastuti\nPemusik : Laviticus/Deuteronomy\nPNK: Yohana \nVoice Over: Raisa\nPPT : Budi Santoso ; Tata Suara : I Made Satya A\nOBS : Joshua Abdi Gracia",
                         "link": "https://www.youtube.com/watch?v=AYkVUe8oCO4",
                         "thumbnail": "https://i.ytimg.com/vi/AYkVUe8oCO4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Heru & Nike | Sabtu, 11 Desember 2021",
-                        "date": "2022-01-23",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 11 Desember 2021 Pkl 10.00\n\nSdr. Herunimo Thimotius Atakai (anggota GMIT Jemaat Pola Tribuana Kalabahi) & Sdri. Nike Fransiska Molobila (anggota GMIT Jemaat Fanating)\nPelayan Firman: Pdt. Helen Ruth Manurung\nMJ: Pnt. Sriono Sudarso; Pnt. Yuliani Nugroho\nPemusik : Natalis + Kezia ; PNK : Pnt. Gita Hastuti ; Voice over : Bianda\nTata Suara : Adityo W. ; OBS : Ryan bagas ; PPT : Otniel Kris A.",
-                        "link": "https://www.youtube.com/watch?v=BptGU5bWpUU",
-                        "thumbnail": "https://i.ytimg.com/vi/BptGU5bWpUU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
