@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3381,
-        "last-update": 1745957930,
-        "last-updated-item": "yt",
+        "update-count": 3382,
+        "last-update": 1745978167,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3712,88 +3712,18 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Kegiatan kls 5 \"Fun and Learn Camp\"",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti, M.Pd",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KD",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KUL",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Kristiani Murti Astuti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "percakapan gerejawi pernikahan",
-                "time": "19:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim BKJ 2025",
+                "name": "Latihan musik utk ibadah Minggu ",
                 "time": "18:30",
                 "time-to": "20:00",
                 "timezone": "WIB",
                 "date": "2025-04-29",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yosua Candana",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat bulanan KP",
-                "time": "19:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Indry",
-                "status": "y",
-                "note": "Teh"
             },
             {
                 "name": "percakapan gerejawi pernikahan",
@@ -3806,6 +3736,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pdt. Helen",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Bendahara dg BPHMJ",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-04-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sri Yuniwati",
                 "status": "y",
                 "note": ""
             },
@@ -3992,6 +3936,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4004,6 +3962,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA WIlayah V",
@@ -4034,6 +4006,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4046,6 +4032,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11 ",
@@ -4062,6 +4062,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4076,18 +4090,18 @@
                 "note": ""
             },
             {
-                "name": "Latihan musik utk ibadah Minggu ",
-                "time": "18:30",
-                "time-to": "20:00",
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-04-29",
+                "date": "2025-06-24",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyla ",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
                 "status": "w",
-                "note": ""
+                "note": "*"
             }
         ],
         "backend": {
