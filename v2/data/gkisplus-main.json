@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3384,
-        "last-update": 1745990682,
-        "last-updated-item": "yt",
+        "update-count": 3385,
+        "last-update": 1746005170,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3782,6 +3782,20 @@
                 "note": "Utk tempat makan malam peserta."
             },
             {
+                "name": "Percakapan gerejawi atestasi masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-05-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Johnson Umbu Radda",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA WILAYAH",
                 "time": "18:00",
                 "time-to": "20:30",
@@ -3946,7 +3960,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3974,7 +3988,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4016,7 +4030,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4044,7 +4058,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4072,7 +4086,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4100,22 +4114,8 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Percakapan gerejawi atestasi masuk",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-05-02",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Johnson Umbu Radda",
-                "status": "y",
-                "note": ""
             }
         ],
         "backend": {
