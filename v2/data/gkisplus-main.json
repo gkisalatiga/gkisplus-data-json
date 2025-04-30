@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3382,
-        "last-update": 1745978167,
+        "update-count": 3383,
+        "last-update": 1745987292,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4102,6 +4102,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "w",
                 "note": "*"
+            },
+            {
+                "name": "Percakapan gerejawi atestasi masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-05-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Johnson Umbu Radda",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
