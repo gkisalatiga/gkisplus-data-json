@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3386,
-        "last-update": 1746011975,
+        "update-count": 3387,
+        "last-update": 1746017308,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4128,6 +4128,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Musik English Service",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-05-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
