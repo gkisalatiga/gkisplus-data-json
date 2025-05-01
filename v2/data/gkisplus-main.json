@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3389,
-        "last-update": 1746038101,
+        "update-count": 3390,
+        "last-update": 1746074443,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1912,8 +1912,8 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah Paskah 27 April 2025",
-                    "date": "2025-04-26",
+                    "title": "Tata Ibadah 27 April 2025",
+                    "date": "2025-05-01",
                     "link": "https://drive.google.com/file/d/1CM2hhgNpo0u1TFEKq6NnmXoNNfrvtdIF/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-27-april-2025/",
                     "thumbnail": "",
@@ -3521,14 +3521,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pa_gabungan.webp",
-                "title": "Pemahaman Alkitab Gabungan",
-                "type": "poster",
-                "date-created": "2025-04-28",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pa_gabungan.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "KTB Komisi Remaja",
                 "type": "poster",
@@ -3550,6 +3542,14 @@
                 "type": "poster",
                 "date-created": "2025-04-27",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
+                "title": "Ibadah Minggu Paskah III",
+                "type": "poster",
+                "date-created": "2025-05-01",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
