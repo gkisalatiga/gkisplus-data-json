@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3392,
-        "last-update": 1746124548,
-        "last-updated-item": "ykb",
+        "update-count": 3393,
+        "last-update": 1746130642,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Mei 2025 | Partisipasi Semesta Wujudkan Pendidikan Bermutu Untuk Semua",
+                        "date": "2025-05-01",
+                        "desc": "Dibawakan oleh Bpk. Yahya Kristanto",
+                        "link": "https://www.youtube.com/watch?v=jDzJbePy0sQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/jDzJbePy0sQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Mei 2025 | Bekerja Dengan Hati Untuk Tuhan",
                         "date": "2025-04-30",
@@ -54,13 +61,6 @@
                         "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
                         "link": "https://www.youtube.com/watch?v=zEUUSEscdYo",
                         "thumbnail": "https://i3.ytimg.com/vi/zEUUSEscdYo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Apr 2025 | Aku Telah Melihat Tuhan",
-                        "date": "2025-04-24",
-                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=CxlrK10OUnk",
-                        "thumbnail": "https://i4.ytimg.com/vi/CxlrK10OUnk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
