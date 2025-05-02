@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3397,
-        "last-update": 1746174679,
+        "update-count": 3398,
+        "last-update": 1746177920,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4081,6 +4081,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Latihan musik utk Pernikahan Sabtu, 3 Mei 2025",
+                "time": "17:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-05-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
