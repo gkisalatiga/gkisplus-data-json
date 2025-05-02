@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3398,
-        "last-update": 1746177920,
-        "last-updated-item": "agenda",
+        "update-count": 3399,
+        "last-update": 1746195800,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Mei 2025 | Membangun Masa Depan Bersama",
+                        "date": "2025-05-02",
+                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
+                        "link": "https://www.youtube.com/watch?v=gluz8GJC-BQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/gluz8GJC-BQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Mei 2025 | Partisipasi Semesta Wujudkan Pendidikan Bermutu Untuk Semua",
                         "date": "2025-05-01",
