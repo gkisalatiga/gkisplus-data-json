@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3394,
-        "last-update": 1746151017,
+        "update-count": 3395,
+        "last-update": 1746155493,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4079,7 +4079,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Bp. Lukas Sukan ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
