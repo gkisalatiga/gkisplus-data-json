@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3395,
-        "last-update": 1746155493,
+        "update-count": 3396,
+        "last-update": 1746158039,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3791,7 +3791,7 @@
             {
                 "name": "Ujian praktik Kelas 9 ",
                 "time": "07:00",
-                "time-to": "00:00",
+                "time-to": "10:00",
                 "timezone": "WIB",
                 "date": "2025-05-09",
                 "weekday": "fri",
@@ -3799,7 +3799,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
