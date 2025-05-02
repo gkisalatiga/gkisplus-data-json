@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3393,
-        "last-update": 1746130642,
-        "last-updated-item": "yt",
+        "update-count": 3394,
+        "last-update": 1746151017,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3705,48 +3705,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan musik utk ibadah Minggu ",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-04-29",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyla ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "percakapan gerejawi pernikahan",
-                "time": "18:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-04-30",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Bendahara dg BPHMJ",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-04-30",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sri Yuniwati",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Perayaan Paskah KD",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4111,30 +4069,16 @@
                 "note": "*"
             },
             {
-                "name": "Latihan musik utk ibadah Minggu ",
-                "time": "09:00",
-                "time-to": "12:00",
+                "name": "Pertemuan dengan mhs PPL I",
+                "time": "08:00",
+                "time-to": "09:00",
                 "timezone": "WIB",
-                "date": "2025-05-01",
-                "weekday": "thu",
+                "date": "2025-05-03",
+                "weekday": "sat",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyla",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Musik English Service",
-                "time": "13:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-05-01",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Bp. Lukas Sukan ",
                 "status": "w",
                 "note": ""
             }
