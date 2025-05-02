@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3396,
-        "last-update": 1746158039,
+        "update-count": 3397,
+        "last-update": 1746174679,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3747,6 +3747,20 @@
                 "note": ""
             },
             {
+                "name": "Pertemuan dengan mhs PPL I",
+                "time": "08:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2025-05-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Bp. Lukas Sukan ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA WILAYAH",
                 "time": "18:00",
                 "time-to": "20:30",
@@ -4067,20 +4081,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Pertemuan dengan mhs PPL I",
-                "time": "08:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2025-05-03",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Bp. Lukas Sukan ",
-                "status": "y",
-                "note": ""
             }
         ],
         "backend": {
