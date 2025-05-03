@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3403,
-        "last-update": 1746259869,
-        "last-updated-item": "yt",
+        "update-count": 3404,
+        "last-update": 1746260238,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3737,62 +3737,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Perayaan Paskah KD",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-02",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": "Makan malam di Ruang Betania"
-            },
-            {
-                "name": "Perayaan Paskah KD",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-02",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": "Utk tempat makan malam peserta."
-            },
-            {
-                "name": "Percakapan gerejawi atestasi masuk",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-05-02",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Johnson Umbu Radda",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan dengan mhs PPL I",
-                "time": "08:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2025-05-03",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Bp. Lukas Sukan ",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "PA WILAYAH",
                 "time": "18:00",
                 "time-to": "20:30",
@@ -3835,6 +3779,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Komsarpras Mulmed",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Ujian praktik Kelas 9 ",
                 "time": "07:00",
                 "time-to": "10:00",
@@ -3859,6 +3817,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Yahya Kristanto",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah KPPK persiapan berangkat",
+                "time": "06:30",
+                "time-to": "07:00",
+                "timezone": "WIB",
+                "date": "2025-05-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Ibu Prijani",
                 "status": "y",
                 "note": ""
             },
@@ -4113,34 +4085,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Latihan musik utk Pernikahan Sabtu, 3 Mei 2025",
-                "time": "17:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-05-02",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyla",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Ibadah KPPK persiapan berangkat",
-                "time": "06:30",
-                "time-to": "07:00",
-                "timezone": "WIB",
-                "date": "2025-05-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
-                "pic": "Ibu Prijani",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
