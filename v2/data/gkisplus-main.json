@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3400,
-        "last-update": 1746210899,
-        "last-updated-item": "ykb",
+        "update-count": 3401,
+        "last-update": 1746247377,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4100,6 +4100,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ibadah KPPK persiapan berangkat",
+                "time": "06:30",
+                "time-to": "07:00",
+                "timezone": "WIB",
+                "date": "2025-05-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Ibu Prijani",
                 "status": "w",
                 "note": ""
             }
