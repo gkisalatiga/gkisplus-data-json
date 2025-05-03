@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "schema-version": "2.1"
+    },
+    "feeds": {
+        "app-update": {
+            "enable-update-check": 1,
+            "version-code": 39,
+            "version-name": "0.6.4"
+        },
+        "last-gallery-update": 1741356150,
+        "last-main-update": 1741626373,
+        "last-modules-update": 1743103633,
+        "last-static-update": 1737298164
+    }
+}
