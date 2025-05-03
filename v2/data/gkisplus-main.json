@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3404,
-        "last-update": 1746260238,
+        "update-count": 3405,
+        "last-update": 1746263630,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4085,6 +4085,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "PA WIL 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
