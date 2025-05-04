@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3415,
-        "last-update": 1746383332,
-        "last-updated-item": "ykb",
+        "update-count": 3416,
+        "last-update": 1746389293,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 6 Mei 2025 | Meneladani Yesus Sang Guru Agung",
-                        "date": "2025-05-04",
-                        "desc": "Dibawakan oleh Ibu Marmini Estiningsih",
-                        "link": "https://www.youtube.com/watch?v=FwY9P0z89jc",
-                        "thumbnail": "https://i3.ytimg.com/vi/FwY9P0z89jc/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 5 Mei 2025 | Pertolongan di Tengah Perang Dagang Dunia",
                         "date": "2025-05-04",
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=lFCLLCPQuUw",
                         "thumbnail": "https://i1.ytimg.com/vi/lFCLLCPQuUw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Mei 2025 | Meneladani Yesus Sang Guru Agung",
+                        "date": "2025-05-04",
+                        "desc": "Dibawakan oleh Ibu Marmini Estiningsih",
+                        "link": "https://www.youtube.com/watch?v=FwY9P0z89jc",
+                        "thumbnail": "https://i3.ytimg.com/vi/FwY9P0z89jc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Mei 2025 | Membangun Masa Depan Bersama",
