@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3410,
-        "last-update": 1746321452,
-        "last-updated-item": "agenda",
+        "update-count": 3411,
+        "last-update": 1746356827,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Mei 2025 | Pertolongan di Tengah Perang Dagang Dunia",
+                        "date": "2025-05-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=lFCLLCPQuUw",
+                        "thumbnail": "https://i1.ytimg.com/vi/lFCLLCPQuUw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Mei 2025 | Membangun Masa Depan Bersama",
                         "date": "2025-05-02",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Pnt. Dessy Ballo",
                         "link": "https://www.youtube.com/watch?v=2VsDZQOukLQ",
                         "thumbnail": "https://i3.ytimg.com/vi/2VsDZQOukLQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Apr 2025 | Andaikan Kristus Tidak Bangkit",
-                        "date": "2025-04-25",
-                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
-                        "link": "https://www.youtube.com/watch?v=zEUUSEscdYo",
-                        "thumbnail": "https://i3.ytimg.com/vi/zEUUSEscdYo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
