@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3417,
-        "last-update": 1746413796,
+        "update-count": 3418,
+        "last-update": 1746416467,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4088,6 +4088,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat Majelis Jemaat",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
