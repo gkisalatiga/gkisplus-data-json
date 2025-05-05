@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3416,
-        "last-update": 1746389293,
-        "last-updated-item": "yt",
+        "update-count": 3417,
+        "last-update": 1746413796,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3712,6 +3712,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Latihan Lux Aeterna",
+                "time": "11:15",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-05-04",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA WILAYAH",
                 "time": "18:00",
                 "time-to": "20:30",
@@ -3835,6 +3849,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA WIL 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4060,34 +4088,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "PA WIL 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Lux Aeterna",
-                "time": "11:15",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2025-05-04",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
