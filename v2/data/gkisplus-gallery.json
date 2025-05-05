@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 26,
-        "last-update": 1745688011,
+        "update-count": 27,
+        "last-update": 1746414593,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -14527,11 +14527,26 @@
                 {
                     "folder_id": "1PF3poxgrOH5XexXSLP3XtQR1A13FeJw2",
                     "last_update": "2025-04-26",
-                    "featured_photo_id": "1KP1VGvSAzOTZhQ4fZ2C_ZLILX_es1kjD",
+                    "featured_photo_id": "11QiNncSpwEZKQ0z9ceWadq81XcBXdouI",
                     "story": "Foto-foto dokumentasi Paskah KA [MRP 2025] yang dilaksanakan pada 26 April 2025.",
                     "title": "Paskah KA [MRP 2025]",
                     "event_date": "2025.04.26",
                     "photos": [
+                        {
+                            "id": "1p_-pIXYJiYKpwo7OSyX5uTcLsST3iZ4r",
+                            "name": "Paskah KA 2025 (Jeff) (35).JPG",
+                            "date": "2025-04-26"
+                        },
+                        {
+                            "id": "1m9X2SbTaBHThhgxdCi06Vhb-Qx1XiUYm",
+                            "name": "Paskah KA 2025 (Jeff) (32).JPG",
+                            "date": "2025-04-26"
+                        },
+                        {
+                            "id": "1PU0ngahTiSQzJfQG4Ur0f3-lDFuHVeeb",
+                            "name": "Paskah KA 2025 (Jeff) (36).JPG",
+                            "date": "2025-04-26"
+                        },
                         {
                             "id": "1VCbw3LCcbXNofideKDFDr5SiYaCon4_I",
                             "name": "Paskah KA 2025 (Jeff) (1).JPG",
@@ -15086,6 +15101,251 @@
                             "id": "13sfsqpBRIuc8Kx2D7VP6XWSQpjDFBqH7",
                             "name": "KP KR Paskah 260425-6 (Jeff) (38).JPG",
                             "date": "2025-04-26"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1GClxyQhUOt_FxK9v0WNDMaiR1nO9zLAo",
+                    "last_update": "2025-05-05",
+                    "featured_photo_id": "1rHafA1b7NOvzO-bQoBqGtGn8lnPzIxQn",
+                    "story": "Foto-foto dokumentasi Diakonia MRP - TK Kristen 02 & SD Kristen 01 Salatiga [MRP 2025] yang dilaksanakan pada 2 Mei 2025.",
+                    "title": "Diakonia MRP - TK Kristen 02 & SD Kristen 01 Salatiga [MRP 2025]",
+                    "event_date": "2025.05.02",
+                    "photos": [
+                        {
+                            "id": "1hOieM7Y5-czrDeJMn-cqniVxNcO5nO70",
+                            "name": "YSA07929.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "15OdEdIxVUg93U2jlteV1Rqcv5yG4YYv6",
+                            "name": "YSA07950.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1j492BY34yaeTumUb1Gt6YRLdelDo6TrH",
+                            "name": "YSA07955.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1N217zjdKpE36TzRcGdEoALDjY643-qJs",
+                            "name": "YSA07925.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1Q9dr1e2DArEd-MAv3QwUgrXyEG-YAqja",
+                            "name": "YSA07935.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1jvRHWkOwe3AHSYUBjUnwXH1Yvm2HeHD-",
+                            "name": "YSA07927.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1i5pK5eRGx9465u5tS1cwwfP6cksNFmkq",
+                            "name": "YSA07918.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1VfMESQXmq-462oHBa0cWZ4cuHROHmUcu",
+                            "name": "YSA07926.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1R-fyPdlRrNtxWcLoEaiP-g8ercBi_XH0",
+                            "name": "YSA07986.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1SyOmhdXVM-OVaKkc_Z1Fw48S8dD4cBtM",
+                            "name": "YSA07946.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1-kcscGNtPTYTy_CsSPTZJkMC6aLeaq83",
+                            "name": "YSA07892.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1EULp1VpJvlZhjTy5G2k3gm0fnmXKy3S6",
+                            "name": "YSA07872.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1Y6JAQ3ZvIRv9kC0tgujWelvAppK5T2h4",
+                            "name": "YSA07865.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1cqMRT_GhnFBbY2wVv8uOUP-EWpX9QCga",
+                            "name": "YSA07877.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "19FGxnohG15VSIe8VTVfK9BdmdLpB4bki",
+                            "name": "YSA07896.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1_sQxQh2FpFebmSVYozTgOOhAENm1RjX_",
+                            "name": "YSA07881.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1E8GHeqaWBTquTcHgw-FBbMxNjcUkQYlO",
+                            "name": "YSA07917.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1RFMjdnOl-VnWYpVGi028JUQmg5P1bCNG",
+                            "name": "YSA07879.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1pd-NZMMcXygZC7ySYRDsDVyj-vYRe8ch",
+                            "name": "YSA07903.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1hVXT7cEklN55LHNIIiOKNR7_B8xk1cXj",
+                            "name": "YSA07906.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1fnXhDXTEiim2zbawELzW1BX_1mHKUjRD",
+                            "name": "YSA07828.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1GieT5RJGbWqtWMmt7SFzu76KThDGv095",
+                            "name": "YSA07806.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1NC1M00V42a75aUqAyDGoi3X3Mlgd6eRQ",
+                            "name": "YSA07857.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1hVG0Dq432_M0d_WRSS3zs6_LTX4B3Z42",
+                            "name": "YSA07811.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1S-1Yu3LV8sOG5gM3A4oqN3_SZ-a_JlEL",
+                            "name": "YSA07856.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1GPqER5LauXcpMRtVP1EBUyLKNDsgu7Gn",
+                            "name": "YSA07868.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1N9bDwBCivA5Bcg1DOqfutu3pNp5OWvA7",
+                            "name": "YSA07788.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1RoMnoZaALY6EgFrto5JkPipzo3y35JtU",
+                            "name": "YSA07849.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "13uajTdw-WGaHmIJR_fpMnhgnvNQZ_1SH",
+                            "name": "YSA07793.JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1ixTrtycbE-mfDI_0OMzQczFsckwc86XE",
+                            "name": "YSA07836.JPG",
+                            "date": "2025-05-05"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1rOAJFTJr8CtcZgYxL-wCKx5uaDTbvBzi",
+                    "last_update": "2025-05-05",
+                    "featured_photo_id": "14Ox7_y5zZb8fQPoWw8EL6THF5fiipzUP",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah 3 (Sekolah Minggu & Ibadah Remaja) [MRP 2025] yang dilaksanakan pada 4 Mei 2025.",
+                    "title": "Ibadah Minggu Paskah 3 (Sekolah Minggu & Ibadah Remaja) [MRP 2025]",
+                    "event_date": "2025.05.04",
+                    "photos": [
+                        {
+                            "id": "1eLP84dGI4pRx2IJtsiVoLVTBTAKuViia",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(26).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1B33xSiYz401xjgd_w0Q3kL7bl_1y9_9x",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(15).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1KMYcvDi61wSmVhCC3YlGbNbcr72W_B2M",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(5).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1T679LK7o602ppaMqTnqCIc2IryQSRAOo",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(28).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1hqIuXWObRdvOe2MQSFAcgm4mTbe0zz9S",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(23).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1MWCmIPy-KJbeVCD7ZHnrx0afRKO7AJB6",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(1).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1Th-ddVbV1vM6poYyVTZYQl0W_QpRjRCC",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(6).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1LB8SHMsnTtDUtIG5kLjwsdIoQMX-QIuS",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(22).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1qZRwxyve-C7JKOCaoUpP0nPa_T51nFAn",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(12).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "114HjXJyFMsNwvV3fxfBXKlRDrhbymwu_",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(7).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1BhxBAp8rZA1KeTdpTczGnrmssNgkx45d",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(14).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1YsK186Htklj0f79XkN6s___kpj9mctSe",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(2).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1MIytBiz-UgcO_bR901395jvuq_5gEztq",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(17).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1eziPRssoW-SQBQof1Mz1cvmU-XAXejSF",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(9).JPG",
+                            "date": "2025-05-05"
+                        },
+                        {
+                            "id": "1QnKuav4olam17O7Z9yjYn_lYr6ofWSTw",
+                            "name": "GKI Minggu Paskah 3 (Derryl)(8).JPG",
+                            "date": "2025-05-05"
                         }
                     ]
                 }
