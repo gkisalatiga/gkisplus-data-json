@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3423,
-        "last-update": 1746505078,
+        "update-count": 3424,
+        "last-update": 1746538076,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4140,6 +4140,34 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Catur",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-05-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:45",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
                 "status": "w",
                 "note": ""
             }
