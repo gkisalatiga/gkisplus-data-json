@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3420,
-        "last-update": 1746475765,
-        "last-updated-item": "yt",
+        "update-count": 3421,
+        "last-update": 1746499976,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3780,6 +3780,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Majelis Jemaat",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Ujian praktik Kelas 9 ",
                 "time": "07:00",
                 "time-to": "10:00",
@@ -4088,18 +4102,18 @@
                 "note": "*"
             },
             {
-                "name": "Rapat Majelis Jemaat",
-                "time": "18:30",
-                "time-to": "21:00",
+                "name": "PA Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-05-08",
-                "weekday": "thu",
+                "date": "2025-05-13",
+                "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yosua Candana",
+                "representative": "Wilayah",
+                "pic": "Pak Luka Sukan",
                 "status": "w",
-                "note": ""
+                "note": "-"
             }
         ],
         "backend": {
