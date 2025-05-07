@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3426,
-        "last-update": 1746582591,
-        "last-updated-item": "ykb",
+        "update-count": 3427,
+        "last-update": 1746586458,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4168,6 +4168,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan mhs. PPL 3 dg pengurus KR KP",
+                "time": "08:00",
+                "time-to": "09:45",
+                "timezone": "WIB",
+                "date": "2025-05-10",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Lukas Sukan",
                 "status": "w",
                 "note": ""
             }
