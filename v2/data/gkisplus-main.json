@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3429,
-        "last-update": 1746591487,
-        "last-updated-item": "agenda",
+        "update-count": 3430,
+        "last-update": 1746616109,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1376,6 +1376,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN FIKRATYA & DELANEIRA  | 10 MEI 2025",
+                        "date": "2025-05-07",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Fikratya Yuka Widyatama & Sdri. Delaneira Timothea Sasti \n\nSabtu, 10 Mei 2025 pukul 08.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Em. Iman Santoso\nMJ : Pnt. Ervien Dian  W dan Pnt. Desemy Ch. N. Ballo\nPemusik : Chronicles\nPNK : Jeffry N \nMultimedia : Samartya, Ron, Jeffry,  Bobby, Iwandi",
+                        "link": "https://www.youtube.com/watch?v=7KqsshPoe-o",
+                        "thumbnail": "https://i.ytimg.com/vi/7KqsshPoe-o/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN RICHY & EVA  | 3 MEI 2025",
                         "date": "2025-04-29",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Richy Saputra Gerimu & Sdri. Eva Septi Dwi Astuti \n\nSabtu, 3 Mei 2025 pukul 13.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Ruth Helen Manurung\nMJ : Pnt. Samuel Martono,  Pnt. Catur Winarno\nPemusik : Ecclesiastes\nPNK : Dhara \nMultimedia : Daniel Eko, Risti , Bobby, Iwandi",
@@ -1577,13 +1584,6 @@
                         "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Minggu, 19 Desember 2021 pukul 13.00 WIB\n\nSdr. Dimas Dewabrata  dengan Sdri. Andryati Kristiningrum\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nMJ : Pnt. July Silooy \nPnt. Ester Juliawati\nPemusik : Solomon ; PNK: Joanda; Voice Over: Samuel; \nPPT : I Made Satya A.\nTata Suara : Bayu Octariyanto ; OBS : Daniel Eko",
                         "link": "https://www.youtube.com/watch?v=Y-gyutlIQh8",
                         "thumbnail": "https://i.ytimg.com/vi/Y-gyutlIQh8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Trias dan Gladys | Sabtu, 18 Desember 2021",
-                        "date": "2022-01-23",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 18 Desember 2021 pukul 09.00 WIB\n\nSdr. Trias Fajar Novianto dengan Sdri. Gladys Hanneke Loudy Nikijuluw\n\nPF. : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Sandy M. Santoso ; Pnt. Gita Hastuti\nPemusik : Laviticus/Deuteronomy\nPNK: Yohana \nVoice Over: Raisa\nPPT : Budi Santoso ; Tata Suara : I Made Satya A\nOBS : Joshua Abdi Gracia",
-                        "link": "https://www.youtube.com/watch?v=AYkVUe8oCO4",
-                        "thumbnail": "https://i.ytimg.com/vi/AYkVUe8oCO4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
