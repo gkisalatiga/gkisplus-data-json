@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3428,
-        "last-update": 1746589087,
+        "update-count": 3429,
+        "last-update": 1746591487,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3772,20 +3772,6 @@
                 "pic": "Van Gouh Arimatea",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan VG Guru SMP KR 2",
-                "time": "09:30",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-05-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Yahya Kristanto",
-                "status": "y",
-                "note": ""
             },
             {
                 "name": "Ibadah KPPK persiapan berangkat",
