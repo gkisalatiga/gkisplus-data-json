@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3427,
-        "last-update": 1746586458,
+        "update-count": 3428,
+        "last-update": 1746589087,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -2694,16 +2694,6 @@
                     "note": "Minggu ke-3"
                 },
                 {
-                    "name": "Latihan Persekutuan SODA",
-                    "time": "18:00",
-                    "time-to": "21:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kana",
-                    "representative": "Komisi Pemuda",
-                    "note": ""
-                },
-                {
                     "name": "Persidangan Majelis Jemaat (PMJ)",
                     "time": "18:30",
                     "time-to": "21:00",
@@ -2803,16 +2793,6 @@
                     "type": "rutin",
                     "place": "Ruang Kana",
                     "representative": "Komisi Pemuda",
-                    "note": ""
-                },
-                {
-                    "name": "Latihan PS Magnificat",
-                    "time": "18:30",
-                    "time-to": "20:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Gereja",
-                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 }
             ],
@@ -3724,62 +3704,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan Lux Aeterna",
-                "time": "11:15",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2025-05-04",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA WILAYAH",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-05-06",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Ona Parzis ",
-                "status": "y",
-                "note": "Bp. Tarto wil.5"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-06",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-06",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "c",
-                "note": "-"
-            },
-            {
                 "name": "Rapat Komsarpras Mulmed",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -3794,6 +3718,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-05-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Majelis Jemaat",
                 "time": "18:30",
                 "time-to": "21:00",
@@ -3804,7 +3742,21 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Yosua Candana",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:45",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3850,6 +3802,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ. Bidang 2",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan mhs. PPL 3 dg pengurus KR KP",
+                "time": "08:00",
+                "time-to": "09:45",
+                "timezone": "WIB",
+                "date": "2025-05-10",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "  Pembukaan Pembinaan GSM ",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -3888,8 +3868,22 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Pak Luka Sukan",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Pelatihan Kepemimpinan untuk Pengurus Yayasan,Kepsek dam guru sekolah Kristen",
@@ -4114,76 +4108,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "PA Wilayah 2/8",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Pak Luka Sukan",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat MJ. Bidang 2",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Catur",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "17:30",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-05-07",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "18:45",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan mhs. PPL 3 dg pengurus KR KP",
-                "time": "08:00",
-                "time-to": "09:45",
-                "timezone": "WIB",
-                "date": "2025-05-10",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Lukas Sukan",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
