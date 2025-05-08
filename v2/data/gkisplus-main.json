@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3436,
-        "last-update": 1746679450,
+        "update-count": 3437,
+        "last-update": 1746681344,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3784,7 +3784,7 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Erio FanggidaE",
-                "status": "w",
+                "status": "y",
                 "note": "--"
             },
             {
