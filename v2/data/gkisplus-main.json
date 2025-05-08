@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3434,
-        "last-update": 1746673537,
-        "last-updated-item": "yt",
+        "update-count": 3435,
+        "last-update": 1746677944,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4108,6 +4108,20 @@
                 "pic": "Alia",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Kelas online.",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-05-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Erio FanggidaE",
+                "status": "w",
+                "note": "--"
             }
         ],
         "backend": {
