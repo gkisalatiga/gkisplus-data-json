@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3442,
-        "last-update": 1746765821,
+        "update-count": 3443,
+        "last-update": 1746769257,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3837,6 +3837,20 @@
                 "note": ""
             },
             {
+                "name": "Rekaman VO warta lisan",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-05-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang multimedia",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Jeffrey",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan mhs. PPL 3 dg pengurus KR KP",
                 "time": "08:00",
                 "time-to": "09:45",
@@ -3861,6 +3875,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat koordinasi",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-05-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Budi",
                 "status": "y",
                 "note": ""
             },
@@ -4171,20 +4199,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Rekaman VO warta lisan",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-05-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang multimedia",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Jeffrey",
-                "status": "y",
-                "note": ""
             }
         ],
         "backend": {
