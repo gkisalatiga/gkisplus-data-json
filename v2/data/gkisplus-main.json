@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3439,
-        "last-update": 1746759240,
-        "last-updated-item": "agenda",
+        "update-count": 3440,
+        "last-update": 1746759869,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -89,6 +89,13 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=WsVhmWvNY84",
                         "thumbnail": "https://i4.ytimg.com/vi/WsVhmWvNY84/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Apr 2025 | Beriman dan Berbelaskasih",
+                        "date": "2025-04-28",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=VWbH3InePfg",
+                        "thumbnail": "https://i3.ytimg.com/vi/VWbH3InePfg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
