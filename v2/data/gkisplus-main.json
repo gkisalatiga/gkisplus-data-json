@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3441,
-        "last-update": 1746761893,
+        "update-count": 3442,
+        "last-update": 1746765821,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4183,7 +4183,7 @@
                 "place": "Ruang multimedia",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Jeffrey",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
