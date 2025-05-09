@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3438,
-        "last-update": 1746734979,
-        "last-updated-item": "yt",
+        "update-count": 3439,
+        "last-update": 1746759240,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3924,6 +3924,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Pak Gunardi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi masuk",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-05-18",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Adita Sutresno",
                 "status": "y",
                 "note": ""
             },
