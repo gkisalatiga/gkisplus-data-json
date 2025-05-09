@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3443,
-        "last-update": 1746769257,
+        "update-count": 3444,
+        "last-update": 1746780318,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4199,6 +4199,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Latian tari Cina utk pengiring pendeta saat pentakosta",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-05-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Giok",
+                "status": "w",
+                "note": "Sementara blm ada"
             }
         ],
         "backend": {
