@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3455,
-        "last-update": 1746864386,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3456,
+        "last-update": 1746869481,
+        "last-updated-item": "carousel",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -484,7 +484,7 @@
                 "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
                 "title": "English Service",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 1
             },
             {
                 "content": [
@@ -1129,7 +1129,7 @@
                 "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "regular",
-                "pinned": 1
+                "pinned": 0
             },
             {
                 "content": [
@@ -1348,7 +1348,7 @@
                 "playlist-id": "PLtAv1OZRTdvLj0ie7dW0LYcVBLm1VYGg0",
                 "title": "Komisi Anak",
                 "type": "regular",
-                "pinned": 1
+                "pinned": 0
             },
             {
                 "content": [
@@ -3615,6 +3615,14 @@
                 "type": "poster",
                 "date-created": "2025-04-16",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_parade_mazmur.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kul.webp",
+                "title": "Persekutuan Bulanan KUL",
+                "type": "poster",
+                "date-created": "2025-05-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kul.webp",
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             }
         ],
