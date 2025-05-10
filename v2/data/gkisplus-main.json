@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3456,
-        "last-update": 1746869481,
-        "last-updated-item": "carousel",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 3457,
+        "last-update": 1746875250,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
     "data": {
@@ -82,20 +82,6 @@
                         "desc": "Dibawakan oleh Pnt. Samuel Martono",
                         "link": "https://www.youtube.com/watch?v=Rkct7x87K88",
                         "thumbnail": "https://i3.ytimg.com/vi/Rkct7x87K88/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Apr 2025 | Tuhan yang Hidup dan Penuh Kasih",
-                        "date": "2025-04-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=WsVhmWvNY84",
-                        "thumbnail": "https://i4.ytimg.com/vi/WsVhmWvNY84/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Apr 2025 | Beriman dan Berbelaskasih",
-                        "date": "2025-04-28",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=VWbH3InePfg",
-                        "thumbnail": "https://i3.ytimg.com/vi/VWbH3InePfg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1089,6 +1075,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Persekutuan SODA - 10 Mei 2025 | Self-Conscious | GKI Salatiga",
+                        "date": "2025-05-10",
+                        "desc": "Persekutuan Sobat Muda GKI Salatiga | Sabtu, 10 Mei 2025\n\n\"Self-Conscious\"\nMazmur 22:6-11\nDipimpin oleh Bp. Yulius Y. Ranimpi\nMajelis Pendamping: Pnt. July Silooy",
+                        "link": "https://www.youtube.com/watch?v=t3ADZcHjZ8o",
+                        "thumbnail": "https://i.ytimg.com/vi/t3ADZcHjZ8o/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Paskah Komisi Remaja & Pemuda | 26 April 2025 | From Darkness To Light | GKI Salatiga",
                         "date": "2025-04-24",
