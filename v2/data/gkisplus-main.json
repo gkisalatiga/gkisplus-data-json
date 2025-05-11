@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3460,
-        "last-update": 1746932932,
-        "last-updated-item": "yt",
+        "update-count": 3461,
+        "last-update": 1746942036,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4286,6 +4286,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat pleno panitia BCR",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-05-12",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": "Minta tolong dibuatkan teh "
             }
         ],
         "backend": {
