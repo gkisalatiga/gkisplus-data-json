@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3465,
-        "last-update": 1746986965,
-        "last-updated-item": "ykb",
+        "update-count": 3466,
+        "last-update": 1747004856,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |12 Mei 2025 | Makin DItekan Makin Kuat",
+                        "date": "2025-05-11",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
+                        "link": "https://www.youtube.com/watch?v=N5cEgZ0RECE",
+                        "thumbnail": "https://i3.ytimg.com/vi/N5cEgZ0RECE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |10 Mei 2025 | Belajar Seumur Hidup",
                         "date": "2025-05-09",
