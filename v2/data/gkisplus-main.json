@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3466,
-        "last-update": 1747004856,
+        "update-count": 3467,
+        "last-update": 1747006344,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -21,9 +21,23 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi |19 Mei 2025 | Iman Seperti Hana",
+                        "date": "2025-05-11",
+                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
+                        "link": "https://www.youtube.com/watch?v=RmNXvEDoDog",
+                        "thumbnail": "https://i3.ytimg.com/vi/RmNXvEDoDog/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |15 Mei 2025 | Forget Me Not",
+                        "date": "2025-05-11",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=MDPT1ZlQfcw",
+                        "thumbnail": "https://i2.ytimg.com/vi/MDPT1ZlQfcw/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi |12 Mei 2025 | Makin DItekan Makin Kuat",
                         "date": "2025-05-11",
-                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim Riyanto",
                         "link": "https://www.youtube.com/watch?v=N5cEgZ0RECE",
                         "thumbnail": "https://i3.ytimg.com/vi/N5cEgZ0RECE/hqdefault.jpg"
                     },
@@ -75,20 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
                         "link": "https://www.youtube.com/watch?v=gluz8GJC-BQ",
                         "thumbnail": "https://i4.ytimg.com/vi/gluz8GJC-BQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Mei 2025 | Partisipasi Semesta Wujudkan Pendidikan Bermutu Untuk Semua",
-                        "date": "2025-05-01",
-                        "desc": "Dibawakan oleh Bpk. Yahya Kristanto",
-                        "link": "https://www.youtube.com/watch?v=jDzJbePy0sQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/jDzJbePy0sQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Mei 2025 | Bekerja Dengan Hati Untuk Tuhan",
-                        "date": "2025-04-30",
-                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
-                        "link": "https://www.youtube.com/watch?v=Rkct7x87K88",
-                        "thumbnail": "https://i3.ytimg.com/vi/Rkct7x87K88/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
