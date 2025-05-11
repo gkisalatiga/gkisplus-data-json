@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3461,
-        "last-update": 1746942036,
+        "update-count": 3462,
+        "last-update": 1746951475,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4300,6 +4300,20 @@
                 "pic": "Cinta",
                 "status": "w",
                 "note": "Minta tolong dibuatkan teh "
+            },
+            {
+                "name": "Latihan Lave",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-12",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
