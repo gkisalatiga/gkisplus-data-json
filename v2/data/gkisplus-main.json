@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3468,
-        "last-update": 1747014836,
-        "last-updated-item": "ykb",
+        "update-count": 3469,
+        "last-update": 1747069708,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |13 Mei 2025 | Berperang Melawan Dosa",
+                        "date": "2025-05-12",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=CKvxdeIxrCc",
+                        "thumbnail": "https://i4.ytimg.com/vi/CKvxdeIxrCc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |19 Mei 2025 | Iman Seperti Hana",
                         "date": "2025-05-11",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=lFCLLCPQuUw",
                         "thumbnail": "https://i1.ytimg.com/vi/lFCLLCPQuUw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Mei 2025 | Membangun Masa Depan Bersama",
-                        "date": "2025-05-02",
-                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
-                        "link": "https://www.youtube.com/watch?v=gluz8GJC-BQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/gluz8GJC-BQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
