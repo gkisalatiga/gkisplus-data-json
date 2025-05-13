@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3474,
-        "last-update": 1747114888,
+        "update-count": 3475,
+        "last-update": 1747120532,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4130,6 +4130,20 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Komisi Kesejahteraan",
                 "pic": "Suparmi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PERSEKUTUAN KOMISI DEWASA",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "YULIYANTI",
                 "status": "w",
                 "note": ""
             }
