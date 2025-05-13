@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3472,
-        "last-update": 1747104948,
+        "update-count": 3473,
+        "last-update": 1747107621,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3854,6 +3854,20 @@
                 "note": ""
             },
             {
+                "name": "Sosialisasi dan Pembinaan Karyawan",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-05-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. July Silooy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Percakapan Atestasi masuk",
                 "time": "18:00",
                 "time-to": "19:00",
@@ -4090,20 +4104,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Sosialisasi dan Pembinaan Karyawan",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-05-17",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. July Silooy",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
