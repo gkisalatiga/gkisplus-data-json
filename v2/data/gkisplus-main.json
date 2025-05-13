@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3473,
-        "last-update": 1747107621,
+        "update-count": 3474,
+        "last-update": 1747114888,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4104,6 +4104,34 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat Komkes",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Suparmi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat komkes",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Suparmi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
