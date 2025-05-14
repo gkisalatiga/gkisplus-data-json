@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3481,
-        "last-update": 1747197830,
+        "update-count": 3482,
+        "last-update": 1747205322,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4132,6 +4132,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat Sie Acara Paskah",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
