@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3480,
-        "last-update": 1747196336,
+        "update-count": 3481,
+        "last-update": 1747197830,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3805,7 +3805,7 @@
                 "date": "2025-05-14",
                 "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Kesejahteraan",
                 "pic": "Suparmi",
                 "status": "y",
