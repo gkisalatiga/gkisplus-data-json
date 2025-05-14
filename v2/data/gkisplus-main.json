@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3482,
-        "last-update": 1747205322,
+        "update-count": 3483,
+        "last-update": 1747210818,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3826,6 +3826,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Sie Acara Paskah",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "y",
+                "note": "Teh"
+            },
+            {
                 "name": "Pelatihan Kepemimpinan untuk Pengurus Yayasan,Kepsek dam guru sekolah Kristen",
                 "time": "08:00",
                 "time-to": "16:00",
@@ -4132,20 +4146,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Rapat Sie Acara Paskah",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-14",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Indry",
-                "status": "w",
-                "note": "Teh"
             }
         ],
         "backend": {
