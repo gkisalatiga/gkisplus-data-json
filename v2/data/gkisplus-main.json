@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3490,
-        "last-update": 1747291732,
+        "update-count": 3491,
+        "last-update": 1747293287,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4158,6 +4158,20 @@
                 "pic": "Siska Indria Yuniarti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan soda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
