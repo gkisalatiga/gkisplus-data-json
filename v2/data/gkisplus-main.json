@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3492,
-        "last-update": 1747294657,
-        "last-updated-item": "agenda",
+        "update-count": 3493,
+        "last-update": 1747307298,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Mei 2025 | Jatuh dan Bangkit",
+                        "date": "2025-05-15",
+                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
+                        "link": "https://www.youtube.com/watch?v=tmrFTh-CMHg",
+                        "thumbnail": "https://i1.ytimg.com/vi/tmrFTh-CMHg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |15 Mei 2025 | Forget-Me-Not",
                         "date": "2025-05-14",
