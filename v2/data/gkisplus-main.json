@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3491,
-        "last-update": 1747293287,
+        "update-count": 3492,
+        "last-update": 1747294657,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3740,6 +3740,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Latihan menyanyi utk wasanawarsa",
+                "time": "09:15",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2024-05-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Latian tari Cina utk pengiring pendeta saat pentakosta",
                 "time": "16:00",
                 "time-to": "17:30",
@@ -3821,6 +3835,20 @@
                 "representative": "Panitia",
                 "pic": "Indry",
                 "status": "y",
+                "note": "Teh"
+            },
+            {
+                "name": "Latihan soda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Ayu",
+                "status": "w",
                 "note": "Teh"
             },
             {
@@ -4146,32 +4174,18 @@
                 "note": "*"
             },
             {
-                "name": "Latihan menyanyi utk wasanawarsa",
-                "time": "09:15",
-                "time-to": "11:00",
+                "name": "Pemahaman Alkitab.",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2024-05-19",
-                "weekday": "sun",
+                "date": "2025-06-10",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Woro Tj",
                 "status": "w",
                 "note": ""
-            },
-            {
-                "name": "Latihan soda",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-05-15",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Ayu",
-                "status": "w",
-                "note": "Teh"
             }
         ],
         "backend": {
