@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3494,
-        "last-update": 1747307585,
+        "update-count": 3495,
+        "last-update": 1747316735,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4205,6 +4205,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 18 Mei 2025",
+                "time": "14:30",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
                 "status": "w",
                 "note": ""
             }
