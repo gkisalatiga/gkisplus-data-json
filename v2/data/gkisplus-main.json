@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3487,
-        "last-update": 1747253296,
-        "last-updated-item": "yt",
+        "update-count": 3488,
+        "last-update": 1747277611,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3879,6 +3879,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. July Silooy",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "RaKor KHI",
+                "time": "14:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-05-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Hastuti",
+                "status": "w",
                 "note": ""
             },
             {
