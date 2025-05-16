@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3504,
-        "last-update": 1747383623,
+        "update-count": 3505,
+        "last-update": 1747386960,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4186,6 +4186,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat Program KD",
+                "time": "18:15",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
