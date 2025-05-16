@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3498,
-        "last-update": 1747364187,
-        "last-updated-item": "agenda",
+        "update-count": 3499,
+        "last-update": 1747364815,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |17 Mei 2025 | Belajar Memikul Beban Seperti Yesus",
+                        "date": "2025-05-16",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=Z-k61aFvse8",
+                        "thumbnail": "https://i3.ytimg.com/vi/Z-k61aFvse8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Mei 2025 | Jatuh dan Bangkit",
                         "date": "2025-05-15",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Marmini Estiningsih",
                         "link": "https://www.youtube.com/watch?v=FwY9P0z89jc",
                         "thumbnail": "https://i3.ytimg.com/vi/FwY9P0z89jc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Mei 2025 | Pertolongan di Tengah Perang Dagang Dunia",
-                        "date": "2025-05-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=lFCLLCPQuUw",
-                        "thumbnail": "https://i1.ytimg.com/vi/lFCLLCPQuUw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
