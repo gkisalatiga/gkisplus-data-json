@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3497,
-        "last-update": 1747348755,
-        "last-updated-item": "yt",
+        "update-count": 3498,
+        "last-update": 1747364187,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3747,20 +3747,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan menyanyi utk wasanawarsa",
-                "time": "09:15",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2024-05-19",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "Latian tari Cina utk pengiring pendeta saat pentakosta",
                 "time": "16:00",
                 "time-to": "17:30",
@@ -3786,20 +3772,6 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Kristiani Murti A",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Komkes",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-14",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Kesejahteraan",
-                "pic": "Suparmi",
-                "status": "n",
                 "note": ""
             },
             {
@@ -3845,6 +3817,20 @@
                 "note": "Teh"
             },
             {
+                "name": "Rapat Komkes",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Suparmi",
+                "status": "n",
+                "note": ""
+            },
+            {
                 "name": "Latihan soda",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -3855,8 +3841,22 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Ayu",
-                "status": "w",
+                "status": "y",
                 "note": "Teh"
+            },
+            {
+                "name": "Latihan musik untuk hari minggu, 18 Mei 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta ",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pelatihan Kepemimpinan untuk Pengurus Yayasan,Kepsek dam guru sekolah Kristen",
@@ -3869,6 +3869,62 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Pak Gunardi- Pengurus MPKW Jateng dan DIY",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 18 Mei 2025",
+                "time": "14:30",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sarpras",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan gerejawi Pernikahan",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
@@ -3911,7 +3967,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Hastuti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3925,6 +3981,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Adita Sutresno",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan menyanyi utk wasanawarsa",
+                "time": "09:15",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-05-19",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
                 "status": "y",
                 "note": ""
             },
@@ -4111,6 +4181,20 @@
                 "note": "-"
             },
             {
+                "name": "Pemahaman Alkitab.",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Woro Tj",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PERSEKUTUAN KOMISI DEWASA",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -4179,48 +4263,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Pemahaman Alkitab.",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-06-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Woro Tj",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik untuk hari minggu, 18 Mei 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-15",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik minggu, 18 Mei 2025",
-                "time": "14:30",
-                "time-to": "17:00",
-                "timezone": "WIB",
-                "date": "2025-05-16",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
