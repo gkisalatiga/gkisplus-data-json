@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3509,
-        "last-update": 1747466450,
+        "update-count": 3510,
+        "last-update": 1747474625,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4134,6 +4134,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-19",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
