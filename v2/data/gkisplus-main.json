@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3514,
-        "last-update": 1747566421,
-        "last-updated-item": "yt",
+        "update-count": 3515,
+        "last-update": 1747571228,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4156,6 +4156,20 @@
                 "pic": "Yuliyanti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latian nari untuk pentakosta",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-05-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Giok",
+                "status": "w",
+                "note": "Tolong kl bisa,lampu gedung gereja di nyalakan pd saat mau latihan nari,..Terimakasih\ud83d\ude4f"
             }
         ],
         "backend": {
