@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 28,
-        "last-update": 1747305418,
+        "update-count": 29,
+        "last-update": 1747698656,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -15265,6 +15265,371 @@
                     ]
                 },
                 {
+                    "folder_id": "1xEv9sUEMKfVyXzAq5E8WUVofc98GzRRn",
+                    "last_update": "2025-05-19",
+                    "featured_photo_id": "12pPFH871E1Kwg8v7aGk_seJuWKUykRqv",
+                    "story": "Foto-foto dokumentasi PS. Magnificat goes to GKJ Samironobaru yang dilaksanakan pada 3 Mei 2025.",
+                    "title": "PS. Magnificat goes to GKJ Samironobaru",
+                    "event_date": "2025.05.03",
+                    "photos": [
+                        {
+                            "id": "1vw7nUy3DW2cX3MT0Xz2Gpyh-tiYpqTlh",
+                            "name": "Magnificat 2025 (Sony) (472).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1LJAVwH5PtqNfFYRWxMG-8iYafiGQVz4w",
+                            "name": "Magnificat 2025 (Sony) (486).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1HGPAnmw5YfA8kif39ReFSiUjdCvxw4C4",
+                            "name": "Magnificat 2025 (Sony) (329).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1HFYumPbKZvtBNL31-VkFKJnexXsBvVMt",
+                            "name": "Magnificat 2025 (Sony) (365).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "19F3zkVVojmp7KL8un5B6Jjtt2gUrzhoV",
+                            "name": "Magnificat 2025 (Sony) (370).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1AP55OfCDi163y1ZJwipojFb7nP9eDG76",
+                            "name": "Magnificat 2025 (Sony) (451).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Ic05sjM5xjSS7ft5Nk-rI9iD91S8MlT9",
+                            "name": "Magnificat 2025 (Sony) (397).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "12LuFlVHcFSHA8xXvw4A5kjBmJbkn93hu",
+                            "name": "Magnificat 2025 (Sony) (339).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "158d9gfHv_uOporPJ0U0v_En-zxzPCBIQ",
+                            "name": "Magnificat 2025 (Sony) (464).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1fu6UgKF4AXx1USJ9XHpkPcINsM7qSm6h",
+                            "name": "Magnificat 2025 (Sony) (406).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "10FA_j89QJmplRhfpjSiTz07Tt_2lO0wS",
+                            "name": "Magnificat 2025 (Sony) (435).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1zvzrn_vgrfQd5CWJ902wKVaWeJhGlQk-",
+                            "name": "Magnificat 2025 (Sony) (455).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1wTTF4tVXq24O5oj5Inw_UHZBVH8I-zDU",
+                            "name": "Magnificat 2025 (Sony) (225).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "18WwJkytfZ915QwdhGsfvOqdl0oWifeV-",
+                            "name": "Magnificat 2025 (Sony) (308).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "137VNm9GfnEPXXDoISfoO3UZKPk-YHtR9",
+                            "name": "Magnificat 2025 (Sony) (247).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1BpRm7w85rgq3sNv-8wSCDrIY9Stzocmk",
+                            "name": "Magnificat 2025 (Sony) (219).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1qKI0mtKYyfkiICHy7I5AdTCk7RIyv68W",
+                            "name": "Magnificat 2025 (Sony) (245).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "16V04BD6ckOlsEtHvKRN4PYZFLF5EbuSc",
+                            "name": "Magnificat 2025 (Sony) (312).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1zgbEVtECJXL5guixtc8Al6Fh-yKHSiCm",
+                            "name": "Magnificat 2025 (Sony) (306).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1wXKYEQHCZuYYWcn7Ee-UBpL8aXDTQ45X",
+                            "name": "Magnificat 2025 (Sony) (229).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1U6PoftCTwjbOMiHz--BDOoMXvVqVR1th",
+                            "name": "Magnificat 2025 (Sony) (221).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Kvam5X1PGUZILVtSkhDQnUfmLS3AUkUi",
+                            "name": "Magnificat 2025 (Sony) (317).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1rS5_kzJt-UEkjBKkklHiCW4zSviLy-jw",
+                            "name": "Magnificat 2025 (Sony) (197).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Dx-AojcDh7tAIusx9jr87RYak9bbMiwo",
+                            "name": "Magnificat 2025 (Sony) (203).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Fw8g9RZ6pOKr04-Lv9_ku7gmZaefTmWB",
+                            "name": "Magnificat 2025 (Sony) (214).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1bj0zHaX03iBR5ESrrKzSp6m5VuJHlUOr",
+                            "name": "Magnificat 2025 (Sony) (192).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1dVXm_Ia49WTN6buIp3z15jZGD7aoC_et",
+                            "name": "Magnificat 2025 (Sony) (189).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Pmym3FX14eFTK7zSj41gLRcvt6CrN6fz",
+                            "name": "Magnificat 2025 (Sony) (194).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "12Wmc8gSWHPFRmtj4lH0-xwV8ltK3SDxB",
+                            "name": "Magnificat 2025 (Sony) (209).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1wudzYstTxSeT7hOBm8nLAIdZ9HmNTK8l",
+                            "name": "Magnificat 2025 (Sony) (215).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1hRVi4g7wXAJf9NM4g1_57eoAP1I-NGS2",
+                            "name": "Magnificat 2025 (Sony) (181).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "19jPwAEHHSTIGPEWXOcX3zfSH9qlR7b-4",
+                            "name": "Magnificat 2025 (Sony) (191).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1-Yqvrs1pbwd8B8YzgfrOG74EzW4yUosM",
+                            "name": "Magnificat 2025 (Sony) (72).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1H-4GXgvEYqQvYcS1uHF8gCjrj3sl-R_G",
+                            "name": "IMG_20250503_160907.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1FG8EHMIy_kU_HGRjAkloA6Hs39jp0HXa",
+                            "name": "IMG_20250503_163600.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1H8WMfVaKyatDRQO_wXIuIX4QQ1FFnpRh",
+                            "name": "IMG_20250503_192053.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1FqfSE0Fb19_eJpCg5Z28h65jtyJZt1r6",
+                            "name": "IMG_20250503_162356.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1GBUxJJsDjEtwnPejzLFZA30OgjNjlV0A",
+                            "name": "IMG_20250503_162345.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Fdvv7BmcRUl0OPxzcXnkyaYxEX919nGH",
+                            "name": "IMG_20250503_163017.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Fg8yX9Ag_aB_w7dynfrUxCirKV_n0ktk",
+                            "name": "IMG_20250503_162856.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1FLtXlBM-IDTCnCy5AwxXhElCpmbPASAD",
+                            "name": "IMG_20250503_163300.jpg",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1StyTGRZmipMVjQTL9mWmx9b7PpkGe0Od",
+                            "name": "Magnificat 2025 (Canon) (50).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1kNk9BLvxlmkEviIqwqeRRBejRfR4SsQW",
+                            "name": "Magnificat 2025 (Canon) (48).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1yH3gZIsesf46fPF_kQkO6V11ab6_ywPh",
+                            "name": "Magnificat 2025 (Canon) (40).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1FXvR8sq3PHINLR8LQxoaJ4mFdV3NxOXD",
+                            "name": "Magnificat 2025 (Canon) (45).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1fhVbEE6cWMc0T2f-X0O3CAMvksIpQ0Kr",
+                            "name": "Magnificat 2025 (Canon) (43).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1KXZ5oqvWXwQd2M7YGVzfmc6_l16sFx_a",
+                            "name": "Magnificat 2025 (Canon) (23).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1l-B--XDPDi2VPLBANtokCIGAX9JA4hsG",
+                            "name": "Magnificat 2025 (Canon) (37).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1KQVrGdEgPVekxZZpGJCF7kbhvee5WIi9",
+                            "name": "Magnificat 2025 (Canon) (26).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Xe1Ttxna1Voyx4Tn8Hu2YgpYAdo6lyD1",
+                            "name": "Magnificat 2025 (Canon) (41).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "131mCeFOJfEb-XAL1VdSVvwn4mWm5hlSd",
+                            "name": "Magnificat 2025 (Canon) (25).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "148KBS-YFZt85s1TPysBHe0ScMkZZWE6m",
+                            "name": "Magnificat 2025 (Canon) (22).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1RNfbmYh3WIeMIJBII9Hbx__lYv16SbQ3",
+                            "name": "Magnificat 2025 (Canon) (39).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "11kNqUCSncqOZ2xO_Bj99b4hTtwfW-JdJ",
+                            "name": "Magnificat 2025 (Canon) (29).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1j-ejJ9Ot_b3ZQGkoUNG-VVKRhdsWXcam",
+                            "name": "Magnificat 2025 (Canon) (27).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "13dAGN3QVeDRPeTzOvlhXL5_DvQ_xhL8B",
+                            "name": "Magnificat 2025 (Sony) (163).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1YIHG69bOBV-DMiIXNev8mh23dSfLO9k0",
+                            "name": "Magnificat 2025 (Sony) (2).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "18lMLzfnfGsnOVFROZ5ZG0V1BOB1pQ91s",
+                            "name": "Magnificat 2025 (Sony) (39).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1EZ-EDvx5OOwU8JTc1Luks1DXtf6RHaju",
+                            "name": "Magnificat 2025 (Sony) (21).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Ux70zl8_ISqctwVHqLivCJnXTQY3Rqqo",
+                            "name": "Magnificat 2025 (Sony) (31).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1-0ck1cqWJNUuVlLolobIDmjJU3SBFAqX",
+                            "name": "Magnificat 2025 (Sony) (77).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "128gtpEW6QuHGJDM2pzbHCgLQpRuVbb5N",
+                            "name": "Magnificat 2025 (Sony) (84).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1MUnqEb5bmHMPeXBChiDqItZDUaMdLh-5",
+                            "name": "Magnificat 2025 (Sony) (32).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1qR6LhSdA2YlFEzW3nOyvZruXL9s6nBZ3",
+                            "name": "Magnificat 2025 (Sony) (45).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1579yOgJDWJYn1Io1Bl9mXQNRZv6Wd-m2",
+                            "name": "Magnificat 2025 (Sony) (54).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1FAFr-FOiH18WSJztMYgbctp_03M3pp77",
+                            "name": "Magnificat 2025 (Sony) (41).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1BB596ckqOimvxSbsrP8INaLtdK1qWP84",
+                            "name": "Magnificat 2025 (Canon) (17).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1fdBnWmfogAW7aep5WYYapijmXOqlIYNx",
+                            "name": "Magnificat 2025 (Canon) (20).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1fMebqgA3ltXeu4UOpQqBciEH_SkU0jQo",
+                            "name": "Magnificat 2025 (Canon) (12).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Q7ACpvhyiyq4HuDknv3zPfedUDcb9ww3",
+                            "name": "Magnificat 2025 (Canon) (10).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "14MEI8MXVJb8i22xIm_zDdxXKwpWjTkAr",
+                            "name": "Magnificat 2025 (Canon) (15).JPG",
+                            "date": "2025-05-19"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1rOAJFTJr8CtcZgYxL-wCKx5uaDTbvBzi",
                     "last_update": "2025-05-05",
                     "featured_photo_id": "14Ox7_y5zZb8fQPoWw8EL6THF5fiipzUP",
@@ -15611,6 +15976,101 @@
                             "id": "1K5WTaxQgvYMLhuLrY0SKh8a3EePnsyrW",
                             "name": "Pembinaan GSM 2025 (jeff) (10).JPG",
                             "date": "2025-05-15"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1TRXc_wnvwCzodY4ZPOSqjlkXqYStQ7D8",
+                    "last_update": "2025-05-19",
+                    "featured_photo_id": "1bTkmf_IbJvu4cxsQungTKgf_Z_6rFjPD",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah 5 [MRP 2025] yang dilaksanakan pada 18 Mei 2025.",
+                    "title": "Ibadah Minggu Paskah 5 [MRP 2025]",
+                    "event_date": "2025.05.18",
+                    "photos": [
+                        {
+                            "id": "1yD2arONflT-Z0IhciXZByVZXgR0Ctthx",
+                            "name": "GKI 180525-7-00143.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1YQuDY6mDUenOKQNEzYRcyUyDIRrtvzhI",
+                            "name": "GKI 180525-7-00078.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1nF1AWkDlb0ZmVO_56zPBwoCkk8aZjwom",
+                            "name": "GKI 180525-7-00089.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "10LzydMIhH-Qn65B_MFgSiwqKQcotfqym",
+                            "name": "GKI 180525-7-00100.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1t27JZlKsrlHmvFeDUCH_qYZtgRtzZaKG",
+                            "name": "GKI 180525-7-00067.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1n_CDMpIh4O8r5nkgYINe8csxeNA0CNJl",
+                            "name": "GKI 180525-7-00160.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "12KiEeeglKfx9rBgrgqHi_kZBYHMXmb5l",
+                            "name": "GKI Minggu Paskah 5 (Derryl)(2).JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1PvdipKSiTJASv4eTaM1ZLnVEV6wxAul3",
+                            "name": "GKI 180525-7-00012.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "16HZf6hqwVjt9sFT7uaKJk4F0flraPH7k",
+                            "name": "GKI 180525-7-00024.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1OG-5ymSY3OJnPsY-3KKE_Mdd6f0N7VlR",
+                            "name": "GKI 180525-7-00045.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1tNx7VKJaHUe7YZylZxnvLTcApN8Knoch",
+                            "name": "GKI 180525-7-00041.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "15TdQPlBCsx1wO6R-YHcaiHA4jQZWMWJA",
+                            "name": "GKI 180525-7-00019.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "143m1b2So0WrKQfZchpw9tALdR2i0lGcg",
+                            "name": "GKI 180525-7-00034.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1Yr7WTlwDENYKsS-3B-MowtTPQon1u7gB",
+                            "name": "GKI 180525-7-00001.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1XJqM9bwICY06tzobK8tWYhF6xdjoQO-F",
+                            "name": "GKI 180525-7-00011.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1vv9J8CSO2mnaDiCABne5sQ8f3Qv8sJvN",
+                            "name": "GKI 180525-7-00060.JPG",
+                            "date": "2025-05-19"
+                        },
+                        {
+                            "id": "1SsxDTj55KQoy0JrhxrdW0imH7Erg2ARo",
+                            "name": "GKI 180525-7-00037.JPG",
+                            "date": "2025-05-19"
                         }
                     ]
                 }
