@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3518,
-        "last-update": 1747598935,
-        "last-updated-item": "yt",
+        "update-count": 3519,
+        "last-update": 1747640286,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3866,6 +3866,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-19",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah V",
                 "time": "17:00",
                 "time-to": "18:30",
@@ -3920,6 +3934,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latian nari untuk pentakosta",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-05-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Giok",
+                "status": "y",
+                "note": "Tolong kl bisa,lampu gedung gereja di nyalakan pd saat mau latihan nari,..Terimakasih\ud83d\ude4f"
             },
             {
                 "name": "Line Dance",
@@ -4144,34 +4172,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Rapat Komisi Dewasa",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-19",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latian nari untuk pentakosta",
-                "time": "16:00",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2025-05-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Giok",
-                "status": "w",
-                "note": "Tolong kl bisa,lampu gedung gereja di nyalakan pd saat mau latihan nari,..Terimakasih\ud83d\ude4f"
             }
         ],
         "backend": {
