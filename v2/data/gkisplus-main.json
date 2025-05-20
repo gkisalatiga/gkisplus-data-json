@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3527,
-        "last-update": 1747718122,
+        "update-count": 3528,
+        "last-update": 1747729274,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3830,6 +3830,34 @@
                 "note": "Tolong kl bisa,lampu gedung gereja di nyalakan pd saat mau latihan nari,..Terimakasih\ud83d\ude4f"
             },
             {
+                "name": "Rapat MJ Bid. 3",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yuliani N",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Kambium",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Line Dance",
                 "time": "16:00",
                 "time-to": "17:30",
@@ -3840,6 +3868,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Dewasa",
                 "pic": "Fanitayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat sie.acara panitia konven pnt. SW Jateng",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
                 "status": "y",
                 "note": ""
             },
@@ -4082,32 +4124,18 @@
                 "note": "*"
             },
             {
-                "name": "Rapat MJ Bid. 3",
-                "time": "18:30",
+                "name": "Latihan band musik soda untuk ibadah Minggu",
+                "time": "17:00",
                 "time-to": "21:00",
                 "timezone": "WIB",
-                "date": "2025-05-21",
-                "weekday": "wed",
+                "date": "2025-05-20",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yuliani N",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Kambium",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
