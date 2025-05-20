@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3529,
-        "last-update": 1747733189,
-        "last-updated-item": "ykb",
+        "update-count": 3530,
+        "last-update": 1747741016,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4136,6 +4136,20 @@
                 "pic": "Ayu",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat KP",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "Persediaan teh"
             }
         ],
         "backend": {
