@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3530,
-        "last-update": 1747741016,
-        "last-updated-item": "agenda",
+        "update-count": 3531,
+        "last-update": 1747750202,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Mei 2025 | Kebangkitan Nasional di Era Digital Menjaga Kerukunan",
+                        "date": "2025-05-20",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwiprasetyo",
+                        "link": "https://www.youtube.com/watch?v=UN2HUwt3IOA",
+                        "thumbnail": "https://i2.ytimg.com/vi/UN2HUwt3IOA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Mei  2025 | Bangkit Bersama Wujudkan Indonesia Kuat",
                         "date": "2025-05-19",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
                         "link": "https://www.youtube.com/watch?v=i6F9lTsssVQ",
                         "thumbnail": "https://i2.ytimg.com/vi/i6F9lTsssVQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Mei 2025 | Belajar Dari Sang Guru Agung",
-                        "date": "2025-05-07",
-                        "desc": "Dibawakan oleh Ibu Natalia Setiawati",
-                        "link": "https://www.youtube.com/watch?v=ID7XzOrQUoY",
-                        "thumbnail": "https://i2.ytimg.com/vi/ID7XzOrQUoY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
