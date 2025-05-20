@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3526,
-        "last-update": 1747712451,
+        "update-count": 3527,
+        "last-update": 1747718122,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4080,6 +4080,34 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat MJ Bid. 3",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yuliani N",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Kambium",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
