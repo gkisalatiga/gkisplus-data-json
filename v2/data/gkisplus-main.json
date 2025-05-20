@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3525,
-        "last-update": 1747703610,
+        "update-count": 3526,
+        "last-update": 1747712451,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3854,6 +3854,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan gerejawi pernikahan Philip dan Natasha",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-05-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen",
                 "status": "y",
                 "note": ""
             },
