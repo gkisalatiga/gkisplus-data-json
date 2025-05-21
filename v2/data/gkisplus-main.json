@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3533,
-        "last-update": 1747789986,
+        "update-count": 3534,
+        "last-update": 1747810150,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3760,48 +3760,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "PA Wilayah V",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": " Ibu Titik Budiatmi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
                 "name": "Latihan PS. Efrata",
                 "time": "10:00",
                 "time-to": "11:00",
@@ -3940,6 +3898,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pengumuman Kelulusan",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-06-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah V",
@@ -4122,48 +4094,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Latihan band musik soda untuk ibadah Minggu",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Ayu",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat KP",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-05-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Ayu",
-                "status": "w",
-                "note": "Persediaan teh"
-            },
-            {
-                "name": "Pengumuman Kelulusan",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
