@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3535,
-        "last-update": 1747825702,
+        "update-count": 3536,
+        "last-update": 1747836619,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Mei 2025 | Transformasi Tantangan Kebangkitan Nasional",
+                        "date": "2025-05-21",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
+                        "link": "https://www.youtube.com/watch?v=Dh2RUZwZc4s",
+                        "thumbnail": "https://i1.ytimg.com/vi/Dh2RUZwZc4s/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Mei 2025 | Kebangkitan Nasional di Era Digital Menjaga Kerukunan",
                         "date": "2025-05-20",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=lLtP297lWD4",
                         "thumbnail": "https://i1.ytimg.com/vi/lLtP297lWD4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Mei 2025 | Imagodei",
-                        "date": "2025-05-08",
-                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
-                        "link": "https://www.youtube.com/watch?v=i6F9lTsssVQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/i6F9lTsssVQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
