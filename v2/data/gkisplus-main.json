@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3534,
-        "last-update": 1747810150,
-        "last-updated-item": "agenda",
+        "update-count": 3535,
+        "last-update": 1747825702,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1390,6 +1390,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN MIKHAEL & GABRIELLA  | 24 MEI 2025",
+                        "date": "2025-05-21",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. MIKHAEL REZA KURNIAWAN & Sdri. GABRIELLA ALFANI\n\nSabtu, 24 Mei 2025 pukul 08.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. July Silooy, Pnt. Jhonson U. Radda\nPemusik : Chronicles\nPNK : Eriyani\nMultimedia : Daniel Eko, Revo, Samarthya, Bobby, Iwandi",
+                        "link": "https://www.youtube.com/watch?v=RCLcnal0u-g",
+                        "thumbnail": "https://i.ytimg.com/vi/RCLcnal0u-g/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN FIKRATYA & DELANEIRA  | 10 MEI 2025",
                         "date": "2025-05-07",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Fikratya Yuka Widyatama & Sdri. Delaneira Timothea Sasti \n\nSabtu, 10 Mei 2025 pukul 08.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Em. Iman Santoso\nMJ : Pnt. Ervien Dian  W dan Pnt. Desemy Ch. N. Ballo\nPemusik : Chronicles\nPNK : Samuel Arif\nMultimedia : Samarthya, Ron, Jeffry,  Bobby, Iwandi",
@@ -1591,13 +1598,6 @@
                         "desc": "21 Desember 2021\npukul 10.00 WIT (08.00 WIB)\nGPM Rehoboth Ambon",
                         "link": "https://www.youtube.com/watch?v=BOVeo2Z8LgM",
                         "thumbnail": "https://i.ytimg.com/vi/BOVeo2Z8LgM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Dimas & Andryati | 19 Desember 2021",
-                        "date": "2022-01-23",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Minggu, 19 Desember 2021 pukul 13.00 WIB\n\nSdr. Dimas Dewabrata  dengan Sdri. Andryati Kristiningrum\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nMJ : Pnt. July Silooy \nPnt. Ester Juliawati\nPemusik : Solomon ; PNK: Joanda; Voice Over: Samuel; \nPPT : I Made Satya A.\nTata Suara : Bayu Octariyanto ; OBS : Daniel Eko",
-                        "link": "https://www.youtube.com/watch?v=Y-gyutlIQh8",
-                        "thumbnail": "https://i.ytimg.com/vi/Y-gyutlIQh8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
