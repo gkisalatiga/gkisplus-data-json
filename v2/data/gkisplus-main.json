@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3544,
-        "last-update": 1747938737,
-        "last-updated-item": "ykb",
+        "update-count": 3545,
+        "last-update": 1747944581,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 24 Mei 2025 | Dipanggil Untuk Menjadi Saksi Kristus",
-                        "date": "2025-05-22",
-                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
-                        "link": "https://www.youtube.com/watch?v=hmWs9Qfi1hU",
-                        "thumbnail": "https://i1.ytimg.com/vi/hmWs9Qfi1hU/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 23 Mei 2025 | Kebangkitan Nasional",
                         "date": "2025-05-22",
                         "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
                         "link": "https://www.youtube.com/watch?v=InnRf4tL5GE",
                         "thumbnail": "https://i2.ytimg.com/vi/InnRf4tL5GE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Mei 2025 | Dipanggil Untuk Menjadi Saksi Kristus",
+                        "date": "2025-05-22",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=hmWs9Qfi1hU",
+                        "thumbnail": "https://i1.ytimg.com/vi/hmWs9Qfi1hU/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 22 Mei 2025 | Transformasi Tantangan Kebangkitan Nasional",
