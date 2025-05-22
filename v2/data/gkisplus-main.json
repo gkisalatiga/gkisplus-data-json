@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3537,
-        "last-update": 1747852332,
-        "last-updated-item": "ykb",
+        "update-count": 3538,
+        "last-update": 1747876354,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4097,6 +4097,34 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "11:30",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-05-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "08:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-05-24",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
