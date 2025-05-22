@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3538,
-        "last-update": 1747876354,
+        "update-count": 3539,
+        "last-update": 1747882536,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4123,6 +4123,34 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihah band SoDa untuk ibadah Minggu",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-05-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan musik utk pernikahan Minggu",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-05-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla",
                 "status": "w",
                 "note": ""
             }
