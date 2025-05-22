@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3540,
-        "last-update": 1747889097,
+        "update-count": 3541,
+        "last-update": 1747910637,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4165,6 +4165,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia K",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik utk pernikahan Sabtu ",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-05-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyla",
                 "status": "w",
                 "note": ""
             }
