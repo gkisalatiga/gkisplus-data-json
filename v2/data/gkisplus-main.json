@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3547,
-        "last-update": 1747971565,
+        "update-count": 3548,
+        "last-update": 1747988421,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3864,7 +3864,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Ayu",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -3878,7 +3878,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3892,7 +3892,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyla",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3934,7 +3934,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3948,7 +3948,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia K",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3962,7 +3962,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3976,7 +3976,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4018,7 +4018,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
