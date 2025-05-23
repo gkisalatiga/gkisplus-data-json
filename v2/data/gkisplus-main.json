@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3550,
-        "last-update": 1748030978,
+        "update-count": 3551,
+        "last-update": 1748039929,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Junianto",
                         "link": "https://www.youtube.com/watch?v=CKvxdeIxrCc",
                         "thumbnail": "https://i4.ytimg.com/vi/CKvxdeIxrCc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |12 Mei 2025 | Makin DItekan Makin Kuat",
-                        "date": "2025-05-11",
-                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim Riyanto",
-                        "link": "https://www.youtube.com/watch?v=N5cEgZ0RECE",
-                        "thumbnail": "https://i3.ytimg.com/vi/N5cEgZ0RECE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1397,6 +1390,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN PHILIP & NATASHA  | 25 MEI 2025",
+                        "date": "2025-05-23",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Philip Putra Perdana & Sdri. Natasha Michelle Angeline\n\nMinggu, 25 Mei 2025 pukul 13.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Priyo Hari Adi & Pnt. Yuliani Nugroho\nPemusik : Ecclesiastes\nPNK : Adhara\nMultimedia : Bobby, Iwandi",
+                        "link": "https://www.youtube.com/watch?v=UDbvl3uy0OE",
+                        "thumbnail": "https://i.ytimg.com/vi/UDbvl3uy0OE/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN MIKHAEL & GABRIELLA  | 24 MEI 2025",
                         "date": "2025-05-21",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. MIKHAEL REZA KURNIAWAN & Sdri. GABRIELLA ALFANI\n\nSabtu, 24 Mei 2025 pukul 08.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. July Silooy, Pnt. Jhonson U. Radda\nPemusik : Chronicles\nPNK : Eriyani\nMultimedia : Daniel Eko, Revo, Samarthya, Bobby, Iwandi",
@@ -1598,13 +1598,6 @@
                         "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Minggu, 26 Desember 2021 Pkl 11.00\n\nSdr. Bayu Wahyu Suryawan dan Sdri. Priska Yulina Avinda Lisca\nPelayan Firman: Pdt. Yefta Setiawan K\nMJ: \nPemusik : \nVoice over : \nTata Suara :",
                         "link": "https://www.youtube.com/watch?v=wBazwhmpfhA",
                         "thumbnail": "https://i.ytimg.com/vi/wBazwhmpfhA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan NIkah Marcello Gefan Salenussa & Ratih Damayanti Pudyastuti",
-                        "date": "2022-01-23",
-                        "desc": "21 Desember 2021\npukul 10.00 WIT (08.00 WIB)\nGPM Rehoboth Ambon",
-                        "link": "https://www.youtube.com/watch?v=BOVeo2Z8LgM",
-                        "thumbnail": "https://i.ytimg.com/vi/BOVeo2Z8LgM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
