@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3551,
-        "last-update": 1748039929,
+        "update-count": 3552,
+        "last-update": 1748076647,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1610,6 +1610,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 25 Mei 2025",
+                    "date": "2025-05-24",
+                    "link": "https://drive.google.com/file/d/1Opy7kQu57guVB0ME4ZI3B16EHOKrBpe1/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-25-mei-2025/",
+                    "thumbnail": "",
+                    "id": "1Opy7kQu57guVB0ME4ZI3B16EHOKrBpe1",
+                    "size": "2.10 MB"
+                },
+                {
                     "title": "Warta Jemaat 18 Mei 2025",
                     "date": "2025-05-17",
                     "link": "https://drive.google.com/file/d/1AJ2gomoOAgFwehhRQMobpH2lZGcsoVuy/view",
@@ -1980,6 +1989,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 25 Mei 2025",
+                    "date": "2025-05-24",
+                    "link": "https://drive.google.com/file/d/1zCA6JN8fycyBoSZ2PWjGi85YbPapm_kb/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-25-mei-2025/",
+                    "thumbnail": "",
+                    "id": "1zCA6JN8fycyBoSZ2PWjGi85YbPapm_kb",
+                    "size": "0.29 MB"
+                },
                 {
                     "title": "Tata Ibadah 18 Mei 2025",
                     "date": "2025-05-17",
