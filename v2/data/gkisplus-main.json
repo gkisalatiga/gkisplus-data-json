@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3555,
-        "last-update": 1748111319,
-        "last-updated-item": "ykb",
+        "update-count": 3556,
+        "last-update": 1748160696,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -96,6 +96,13 @@
                         "desc": "Dibawakan oleh Bpk. Junianto",
                         "link": "https://www.youtube.com/watch?v=CKvxdeIxrCc",
                         "thumbnail": "https://i4.ytimg.com/vi/CKvxdeIxrCc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |12 Mei 2025 | Makin DItekan Makin Kuat",
+                        "date": "2025-05-11",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim Riyanto",
+                        "link": "https://www.youtube.com/watch?v=N5cEgZ0RECE",
+                        "thumbnail": "https://i3.ytimg.com/vi/N5cEgZ0RECE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
