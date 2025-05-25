@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3561,
-        "last-update": 1748203708,
+        "update-count": 3562,
+        "last-update": 1748212722,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Mei 2025 | Sudahkah Kau Mengalami Damai?",
+                        "date": "2025-05-25",
+                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=YkiP14bwG6I",
+                        "thumbnail": "https://i2.ytimg.com/vi/YkiP14bwG6I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Mei 2025 | Dipanggil Untuk Menjadi Saksi Kristus",
                         "date": "2025-05-23",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Bpk. Junianto",
                         "link": "https://www.youtube.com/watch?v=CKvxdeIxrCc",
                         "thumbnail": "https://i4.ytimg.com/vi/CKvxdeIxrCc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |12 Mei 2025 | Makin DItekan Makin Kuat",
-                        "date": "2025-05-11",
-                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim Riyanto",
-                        "link": "https://www.youtube.com/watch?v=N5cEgZ0RECE",
-                        "thumbnail": "https://i3.ytimg.com/vi/N5cEgZ0RECE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
