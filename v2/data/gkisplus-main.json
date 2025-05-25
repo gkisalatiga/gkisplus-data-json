@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3556,
-        "last-update": 1748160696,
-        "last-updated-item": "yt",
+        "update-count": 3557,
+        "last-update": 1748171476,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4278,6 +4278,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat BPH KD",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-26",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
