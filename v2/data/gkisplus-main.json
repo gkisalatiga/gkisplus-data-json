@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3568,
-        "last-update": 1748251794,
-        "last-updated-item": "agenda",
+        "update-count": 3569,
+        "last-update": 1748257679,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Mei 2025 | Hidup Yang Berkenan Kepada Allah",
+                        "date": "2025-05-26",
+                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
+                        "link": "https://www.youtube.com/watch?v=o8wsyzUCtWs",
+                        "thumbnail": "https://i4.ytimg.com/vi/o8wsyzUCtWs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Mei 2025 | Sudahkah Kau Mengalami Damai?",
                         "date": "2025-05-25",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Adoltina Muloko",
                         "link": "https://www.youtube.com/watch?v=4brEZDJUOow",
                         "thumbnail": "https://i1.ytimg.com/vi/4brEZDJUOow/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |13 Mei 2025 | Berperang Melawan Dosa",
-                        "date": "2025-05-12",
-                        "desc": "Dibawakan oleh Bpk. Junianto",
-                        "link": "https://www.youtube.com/watch?v=CKvxdeIxrCc",
-                        "thumbnail": "https://i4.ytimg.com/vi/CKvxdeIxrCc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
