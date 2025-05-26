@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3565,
-        "last-update": 1748233612,
+        "update-count": 3566,
+        "last-update": 1748236568,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4069,6 +4069,20 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Ivanuska",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik 29 Mei 2025",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-05-26",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
                 "note": ""
             }
         ],
