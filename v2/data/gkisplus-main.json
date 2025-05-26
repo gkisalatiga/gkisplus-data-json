@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3569,
-        "last-update": 1748257679,
-        "last-updated-item": "yt",
+        "update-count": 3570,
+        "last-update": 1748259391,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4083,6 +4083,34 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Bp. Ivanuska",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik 29 Mei 2025",
+                "time": "11:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-05-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik ",
+                "time": "19:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2025-05-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
                 "note": ""
             }
         ],
