@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3566,
-        "last-update": 1748236568,
+        "update-count": 3567,
+        "last-update": 1748242220,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3816,7 +3816,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3872,7 +3872,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti",
-                "status": "w",
+                "status": "y",
                 "note": "Pinjam ruang apabila cuaca tidak mendukung (hujan)"
             },
             {
@@ -4082,7 +4082,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
