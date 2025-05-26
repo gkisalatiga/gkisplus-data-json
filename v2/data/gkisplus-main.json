@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3567,
-        "last-update": 1748242220,
+        "update-count": 3568,
+        "last-update": 1748251794,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3820,6 +3820,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik 29 Mei 2025",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-05-26",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4066,22 +4080,8 @@
                 "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
+                "representative": "Majelis Jemaat",
                 "pic": "Bp. Ivanuska",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik 29 Mei 2025",
-                "time": "13:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-05-26",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
                 "status": "y",
                 "note": ""
             }
