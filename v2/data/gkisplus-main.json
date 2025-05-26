@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3570,
-        "last-update": 1748259391,
+        "update-count": 3571,
+        "last-update": 1748274680,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3622,6 +3622,14 @@
             }
         ],
         "carousel": [
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kenaikan_yesus.webp",
+                "title": "Kebaikan Kenaikan Yesus Kristus",
+                "type": "poster",
+                "date-created": "2025-05-26",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kenaikan_yesus.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
