@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3563,
-        "last-update": 1748222067,
+        "update-count": 3564,
+        "last-update": 1748231864,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4016,6 +4016,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPH KD",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-26",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4056,6 +4070,20 @@
                 "pic": "Siwi",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pengumuman kelulusan kelas 6",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-06-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "w",
+                "note": "Pinjam ruang apabila cuaca tidak mendukung (hujan)"
             },
             {
                 "name": "PA WIlayah V",
@@ -4238,34 +4266,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Rapat BPH KD",
-                "time": "19:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-26",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pengumuman kelulusan kelas 6",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
-                "status": "w",
-                "note": "Pinjam ruang apabila cuaca tidak mendukung (hujan)"
             }
         ],
         "backend": {
