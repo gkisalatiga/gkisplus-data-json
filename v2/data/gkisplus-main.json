@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3576,
-        "last-update": 1748324517,
+        "update-count": 3577,
+        "last-update": 1748328530,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4125,7 +4125,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Budi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
