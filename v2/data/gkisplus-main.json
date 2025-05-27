@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3575,
-        "last-update": 1748322917,
+        "update-count": 3576,
+        "last-update": 1748324517,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4113,6 +4113,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Budi",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
