@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3577,
-        "last-update": 1748328530,
-        "last-updated-item": "agenda",
+        "update-count": 3578,
+        "last-update": 1748354940,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Mei 2025 | Tugas Menggembalakan",
+                        "date": "2025-05-27",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=XudjKeE0M_M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XudjKeE0M_M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Mei 2025 | Hidup Yang Berkenan Kepada Allah",
                         "date": "2025-05-26",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Benny Kailola",
                         "link": "https://www.youtube.com/watch?v=tmrFTh-CMHg",
                         "thumbnail": "https://i1.ytimg.com/vi/tmrFTh-CMHg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |15 Mei 2025 | Forget-Me-Not",
-                        "date": "2025-05-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=MDPT1ZlQfcw",
-                        "thumbnail": "https://i2.ytimg.com/vi/MDPT1ZlQfcw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1391,6 +1391,13 @@
                 "content": [
                     {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN PHILIP & NATASHA  | 25 MEI 2025",
+                        "date": "2025-05-27",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Ivan Anthony & Sdri. Olivia Damayanti\n\nSabtu, 31 Mei 2025 pukul 11.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi & Romo Benediktus Mbemba Budo Bedi, MSF\nMJ : Pnt. Desemy Ch. N. Ballo & Pnt. Nadia Sitaresmi\nPemusik :  Lamentation\nPNK : Samuel\nMultimedia : Judica, Rico, Iwandi, Bobby",
+                        "link": "https://www.youtube.com/watch?v=dSVx1asIEWY",
+                        "thumbnail": "https://i.ytimg.com/vi/dSVx1asIEWY/hqdefault_live.jpg"
+                    },
+                    {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN PHILIP & NATASHA  | 25 MEI 2025",
                         "date": "2025-05-23",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Philip Putra Perdana & Sdri. Natasha Michelle Angeline\n\nMinggu, 25 Mei 2025 pukul 13.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Priyo Hari Adi & Pnt. Yuliani Nugroho\nPemusik : Ecclesiastes\nPNK : Adhara\nMultimedia : Bobby, Iwandi",
                         "link": "https://www.youtube.com/watch?v=UDbvl3uy0OE",
@@ -1591,13 +1598,6 @@
                         "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 12 Februari 2022 pukul 09.00\n\nSdr. Deddy Setiadi Hartono dan Sdri. Christina Deasy Octavianti Paroke\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi dan Romo Petrus Bimo Handoko MSF\nMJ: Pnt. Adita Sutresno, Pnt. Sri Yuniwati Retnaningsih\nPemusik : Vidra + Arvi\nVoice over : Jeffrey Nugroho\nTata Suara : Tata Suara: Evangs\nMultimedia : Bobby, Iwandi, Ryan Bagas, Otniel",
                         "link": "https://www.youtube.com/watch?v=tJjRd3SD0S0",
                         "thumbnail": "https://i.ytimg.com/vi/tJjRd3SD0S0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Bayu & Avinda | Minggu, 26 Desember 2021",
-                        "date": "2022-01-23",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Minggu, 26 Desember 2021 Pkl 11.00\n\nSdr. Bayu Wahyu Suryawan dan Sdri. Priska Yulina Avinda Lisca\nPelayan Firman: Pdt. Yefta Setiawan K\nMJ: \nPemusik : \nVoice over : \nTata Suara :",
-                        "link": "https://www.youtube.com/watch?v=wBazwhmpfhA",
-                        "thumbnail": "https://i.ytimg.com/vi/wBazwhmpfhA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
