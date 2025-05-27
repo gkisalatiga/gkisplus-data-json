@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3574,
-        "last-update": 1748319665,
+        "update-count": 3575,
+        "last-update": 1748322917,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3859,7 +3859,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
