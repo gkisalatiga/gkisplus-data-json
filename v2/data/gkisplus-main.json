@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3580,
-        "last-update": 1748370629,
-        "last-updated-item": "ykb",
+        "update-count": 3581,
+        "last-update": 1748417886,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3884,6 +3884,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Budi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dengan mhs PPL I",
                 "time": "08:00",
                 "time-to": "09:30",
@@ -4106,20 +4120,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Rapat",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Budi",
-                "status": "y",
-                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
