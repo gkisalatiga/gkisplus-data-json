@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3581,
-        "last-update": 1748417886,
+        "update-count": 3582,
+        "last-update": 1748420424,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4062,7 +4062,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "YULIYANTI",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
