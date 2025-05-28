@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3585,
-        "last-update": 1748467261,
+        "update-count": 3586,
+        "last-update": 1748475017,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1982,6 +1982,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Kenaikan Yesus Kristus 29 Mei 2025",
+                    "date": "2025-05-29",
+                    "link": "https://drive.google.com/file/d/1C3mGbicpl6LndrzGRpBwd0q0P4wvYa0g/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-kenaikan-yesus-kristus-29-mei-2025/",
+                    "thumbnail": "",
+                    "id": "1C3mGbicpl6LndrzGRpBwd0q0P4wvYa0g",
+                    "size": "0.39 MB"
+                },
                 {
                     "title": "Tata Ibadah 25 Mei 2025",
                     "date": "2025-05-24",
