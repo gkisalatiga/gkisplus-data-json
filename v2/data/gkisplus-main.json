@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3587,
-        "last-update": 1748488063,
-        "last-updated-item": "yt",
+        "update-count": 3588,
+        "last-update": 1748501359,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4145,6 +4145,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "KTB Remaja",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-06-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA WIlayah 5",
