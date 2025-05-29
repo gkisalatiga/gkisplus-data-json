@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3588,
-        "last-update": 1748501359,
+        "update-count": 3589,
+        "last-update": 1748504275,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4159,6 +4159,20 @@
                 "pic": "Asputri Kaat",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat bulanan KP",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             },
             {
                 "name": "PA WIlayah 5",
