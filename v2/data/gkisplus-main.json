@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3590,
-        "last-update": 1748510750,
-        "last-updated-item": "ykb",
+        "update-count": 3591,
+        "last-update": 1748538517,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 31 Mei 2025 | Melanjutkan Pekerjaan Tuhan",
+                        "date": "2025-05-29",
+                        "desc": "Dibawakan oleh Bpk. Prasetyandaru",
+                        "link": "https://www.youtube.com/watch?v=LxD2bRG1O6Q",
+                        "thumbnail": "https://i1.ytimg.com/vi/LxD2bRG1O6Q/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Mei 2025 | 40 Hari",
+                        "date": "2025-05-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=NCtgsjuxGno",
+                        "thumbnail": "https://i3.ytimg.com/vi/NCtgsjuxGno/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Mei 2025 | Tugas Menggembalakan",
                         "date": "2025-05-27",
@@ -82,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
                         "link": "https://www.youtube.com/watch?v=RmNXvEDoDog",
                         "thumbnail": "https://i3.ytimg.com/vi/RmNXvEDoDog/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |17 Mei 2025 | Belajar Memikul Beban Seperti Yesus",
-                        "date": "2025-05-16",
-                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
-                        "link": "https://www.youtube.com/watch?v=Z-k61aFvse8",
-                        "thumbnail": "https://i3.ytimg.com/vi/Z-k61aFvse8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -111,7 +118,7 @@
                         "date": "2025-05-26",
                         "desc": "KEBAKTIAN KENAIKAN TUHAN YESUS  KE SURGA GKI Salatiga; 29 Mei 2025; Pukul 09:00 WIB\n\nTema: Menjadi Satu Melalui Kenaikan\n\nBacaan I: Kisah Para Rasul 11 : 1-11\nTanggapan: Mazmur 47\nBacaan II: Efesus 1 : 15-23\nBacaan Injil: Lukas 24 : 44-53\n\nNyanyian: KK 271:1,7&8 ; KK 272:1,2&4 ; KK 274:1&4 ; KK 470 ; KJ370 ; PKJ180\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yuliani Nugroho\nKredo dan Warta: Pnt. Adita Sutresno\nSambut Tamu: Pnt. Ervien Dian W. & Pnt. Rodiana\nPemandu Liturgi: Issabella E.L Kambuno\nLektor 1: Kris Wantoro\nLektor 2: Hosea Mahanaim Riyanto\n\nPemusik: Lamentation + Eva\nPNK/PMZ: Gita Hastuti / Aurel\nTim Multimedia: Evangs M, N. Jeffrey, Joshua A. Gracia, Caitleen, Iwandi, Revo, Erio, Derryl \nUsher dan Kolektan: Panitia MRP\nFlorist: Tim Melati\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=xwScXif7DM4",
-                        "thumbnail": "https://i.ytimg.com/vi/xwScXif7DM4/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/xwScXif7DM4/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu Paskah VI | 25 Mei 2025 | \"Berawal dari Mendengarkan\"",
