@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3599,
-        "last-update": 1748578782,
+        "update-count": 3600,
+        "last-update": 1748596548,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4100,6 +4100,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
+            },
+            {
+                "name": "Rapat Rencana Program KD Periode 2025-2027",
+                "time": "18:15",
+                "time-to": "19:45",
+                "timezone": "WIB",
+                "date": "2025-05-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
