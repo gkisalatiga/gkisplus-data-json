@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3597,
-        "last-update": 1748574362,
-        "last-updated-item": "yt",
+        "update-count": 3598,
+        "last-update": 1748576413,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3823,17 +3823,17 @@
             },
             {
                 "name": "Pertemuan dengan mhs PPL I",
-                "time": "08:00",
-                "time-to": "09:30",
+                "time": "11:30",
+                "time-to": "12:30",
                 "timezone": "WIB",
-                "date": "2025-05-31",
-                "weekday": "sat",
+                "date": "2025-06-01",
+                "weekday": "sun",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Bp.Lukas Sukan",
-                "status": "c",
-                "note": "TIDAK JADI/BATAL"
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat bulanan KP",
