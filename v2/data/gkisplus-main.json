@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3598,
-        "last-update": 1748576413,
+        "update-count": 3599,
+        "last-update": 1748578782,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3818,6 +3818,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-05-30",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
