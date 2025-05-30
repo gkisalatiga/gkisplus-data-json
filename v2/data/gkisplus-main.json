@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3594,
-        "last-update": 1748549406,
-        "last-updated-item": "yt",
+        "update-count": 3595,
+        "last-update": 1748567456,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4156,6 +4156,20 @@
                 "pic": "Indry",
                 "status": "w",
                 "note": "Teh"
+            },
+            {
+                "name": "Latihan pemusik 1 Juni 2025",
+                "time": "11:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-05-30",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
