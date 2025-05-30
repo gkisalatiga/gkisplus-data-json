@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3601,
-        "last-update": 1748629897,
-        "last-updated-item": "ykb",
+        "update-count": 3602,
+        "last-update": 1748635768,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 31 Mei 2025 | Melanjutkan Pekerjaan Tuhan",
+                        "date": "2025-05-30",
+                        "desc": "Dibawakan oleh Bpk. Prasetyandaru",
+                        "link": "https://www.youtube.com/watch?v=LxD2bRG1O6Q",
+                        "thumbnail": "https://i1.ytimg.com/vi/LxD2bRG1O6Q/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 30 Mei 2025 | 40 Hari",
                         "date": "2025-05-29",
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=NCtgsjuxGno",
                         "thumbnail": "https://i3.ytimg.com/vi/NCtgsjuxGno/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Mei 2025 | Melanjutkan Pekerjaan Tuhan",
-                        "date": "2025-05-29",
-                        "desc": "Dibawakan oleh Bpk. Prasetyandaru",
-                        "link": "https://www.youtube.com/watch?v=LxD2bRG1O6Q",
-                        "thumbnail": "https://i1.ytimg.com/vi/LxD2bRG1O6Q/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 28 Mei 2025 | Tugas Menggembalakan",
