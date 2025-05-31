@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3602,
-        "last-update": 1748635768,
+        "update-count": 3603,
+        "last-update": 1748660656,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -89,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=VhYQc_ZOb30",
                         "thumbnail": "https://i3.ytimg.com/vi/VhYQc_ZOb30/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |19 Mei 2025 | Iman Seperti Hana",
-                        "date": "2025-05-18",
-                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
-                        "link": "https://www.youtube.com/watch?v=RmNXvEDoDog",
-                        "thumbnail": "https://i3.ytimg.com/vi/RmNXvEDoDog/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1392,7 +1385,7 @@
                     {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN IVAN & OLIVIA | 31 MEI 2025",
                         "date": "2025-05-27",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Ivan Anthony & Sdri. Olivia Damayanti\n\nSabtu, 31 Mei 2025 pukul 11.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi & Romo Benediktus Mbemba Budo Bedi, MSF\nMJ : Pnt. Desemy Ch. N. Ballo & Pnt. Nadia Sitaresmi\nPemusik :  Lamentation\nPNK : Samuel\nMultimedia : Judica, Rico, Iwandi, Bobby",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Ivan Antony Kurniawan & Sdri. Olivia Damayanti\n\nSabtu, 31 Mei 2025 pukul 11.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi & Romo Benediktus Mbemba Budo Bedi, MSF\nMJ : Pnt. Desemy Ch. N. Ballo & Pnt. Nadia Sitaresmi\nPemusik :  Lamentation\nPNK : Samuel\nMultimedia : Judica, Rico, Iwandi, Bobby",
                         "link": "https://www.youtube.com/watch?v=dSVx1asIEWY",
                         "thumbnail": "https://i.ytimg.com/vi/dSVx1asIEWY/hqdefault_live.jpg"
                     },
