@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3608,
-        "last-update": 1748706723,
+        "update-count": 3609,
+        "last-update": 1748710466,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3663,8 +3663,8 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
                 "title": "Kebaktian Berbahasa Inggris 1 Juni",
                 "type": "poster",
-                "date-created": "2025-05-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
+                "date-created": "2025-05-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_khi.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
