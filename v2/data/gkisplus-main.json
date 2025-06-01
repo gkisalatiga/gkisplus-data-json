@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3611,
-        "last-update": 1748722087,
-        "last-updated-item": "yt",
+        "update-count": 3612,
+        "last-update": 1748747924,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3903,6 +3903,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Rencana Program KD Periode 2025-2027",
+                "time": "18:15",
+                "time-to": "19:45",
+                "timezone": "WIB",
+                "date": "2025-05-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "c",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dengan mhs PPL I",
                 "time": "11:30",
                 "time-to": "12:30",
@@ -3924,7 +3938,7 @@
                 "date": "2025-06-01",
                 "weekday": "sun",
                 "type": "proposal",
-                "place": "Gedung Gereja",
+                "place": "Ruang Kapernaum",
                 "representative": "Komisi Pemuda",
                 "pic": "Indry",
                 "status": "y",
@@ -4027,6 +4041,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": "Minta disiapkan teh"
+            },
+            {
+                "name": "Rapat SAL",
+                "time": "10:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayantj",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sekolah Alkitab Liburan ",
@@ -4169,31 +4197,17 @@
                 "note": "*"
             },
             {
-                "name": "Rapat Rencana Program KD Periode 2025-2027",
-                "time": "18:15",
-                "time-to": "19:45",
+                "name": "Rapat Program Kerja KD 2025-2027",
+                "time": "18:00",
+                "time-to": "19:30",
                 "timezone": "WIB",
-                "date": "2025-05-31",
-                "weekday": "sat",
+                "date": "2025-06-01",
+                "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia K",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat SAL",
-                "time": "10:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-06-06",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayantj",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
