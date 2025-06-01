@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3616,
-        "last-update": 1748802605,
-        "last-updated-item": "ykb",
+        "update-count": 3617,
+        "last-update": 1748808540,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 2 Juni 2025 | Pancasila Terang Cahaya Alat Pemersatu",
+                        "date": "2025-06-01",
+                        "desc": "Dibawakan oleh Pnt. July Silooy",
+                        "link": "https://www.youtube.com/watch?v=lrJNwhdW7sA",
+                        "thumbnail": "https://i1.ytimg.com/vi/lrJNwhdW7sA/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 3 Juni 2025 | Nilai Pancasila Sejalan dengan Iman Kristen",
                         "date": "2025-05-31",
                         "desc": "Dibawakan oleh Ibu Ristiyani Gani Mendrofa",
                         "link": "https://www.youtube.com/watch?v=EVAsvEhcHIU",
                         "thumbnail": "https://i2.ytimg.com/vi/EVAsvEhcHIU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Juni 2025 | Pancasila Terang Cahaya Alat Pemersatu",
-                        "date": "2025-05-31",
-                        "desc": "Dibawakan oleh Pnt. July Silooy",
-                        "link": "https://www.youtube.com/watch?v=lrJNwhdW7sA",
-                        "thumbnail": "https://i1.ytimg.com/vi/lrJNwhdW7sA/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 31 Mei 2025 | Melanjutkan Pekerjaan Tuhan",
