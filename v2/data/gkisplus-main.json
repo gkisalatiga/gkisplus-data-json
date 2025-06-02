@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3618,
-        "last-update": 1748826973,
+        "update-count": 3619,
+        "last-update": 1748833611,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4221,6 +4221,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia K",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "19:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-06-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-06-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra ",
                 "status": "w",
                 "note": ""
             },
