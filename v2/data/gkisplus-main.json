@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3622,
-        "last-update": 1748847085,
+        "update-count": 3623,
+        "last-update": 1748848567,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3961,6 +3961,20 @@
                 "note": ""
             },
             {
+                "name": "RAPAT KDT",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Diakonia The Koen Bik",
+                "pic": "Bu Lobby",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA WIlayah V",
                 "time": "17:00",
                 "time-to": "18:30",
@@ -4129,6 +4143,20 @@
                 "note": ""
             },
             {
+                "name": "ASAS seni budaya kelas 8 ",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-06-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PERSEKUTUAN KOMISI DEWASA",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -4225,20 +4253,6 @@
                 "pic": "Maria",
                 "status": "w",
                 "note": "\n-"
-            },
-            {
-                "name": "ASAS seni budaya kelas 8 ",
-                "time": "07:00",
-                "time-to": "00:00",
-                "timezone": "WIB",
-                "date": "2025-06-11",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": "-"
             },
             {
                 "name": "PA WIlayah 5",
