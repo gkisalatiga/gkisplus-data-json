@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3620,
-        "last-update": 1748834804,
+        "update-count": 3621,
+        "last-update": 1748845401,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3905,6 +3905,20 @@
                 "note": "Teh"
             },
             {
+                "name": "Rapat Program Kerja KD 2025-2027",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-06-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pengumuman Kelulusan",
                 "time": "08:00",
                 "time-to": "10:00",
@@ -3931,6 +3945,20 @@
                 "pic": "Siska Indria Yuniarti",
                 "status": "y",
                 "note": "Pinjam ruang apabila cuaca tidak mendukung (hujan)"
+            },
+            {
+                "name": "Rapat Program Komisi Dewasa Periode 2025-2027",
+                "time": "11:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-06-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah V",
@@ -3975,6 +4003,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan musik",
+                "time": "19:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-06-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Seminar orang tua",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -4001,6 +4043,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": "Minta disiapkan teh"
+            },
+            {
+                "name": "Latihan musik",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-06-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra ",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "Rapat SAL",
@@ -4155,62 +4211,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "*"
-            },
-            {
-                "name": "Rapat Program Kerja KD 2025-2027",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-06-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Program Komisi Dewasa Periode 2025-2027",
-                "time": "11:00",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik",
-                "time": "19:30",
-                "time-to": "21:30",
-                "timezone": "WIB",
-                "date": "2025-06-04",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-06-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra ",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
