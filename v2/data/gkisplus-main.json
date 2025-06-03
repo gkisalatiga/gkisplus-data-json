@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3628,
-        "last-update": 1748922607,
+        "update-count": 3629,
+        "last-update": 1748924524,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3960,6 +3960,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ. Bidang 3",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat SAL",
                 "time": "10:00",
                 "time-to": "14:00",
@@ -4026,6 +4040,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Woro Tj",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Workshop guru",
+                "time": "07:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-06-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indra Yuniarti, M.Pd",
                 "status": "y",
                 "note": ""
             },
@@ -4140,20 +4168,6 @@
                 "pic": "Maria",
                 "status": "y",
                 "note": "\n-"
-            },
-            {
-                "name": "Workshop guru",
-                "time": "07:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2025-06-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indra Yuniarti, M.Pd",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
