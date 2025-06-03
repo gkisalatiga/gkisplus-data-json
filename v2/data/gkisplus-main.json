@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3633,
-        "last-update": 1748975580,
-        "last-updated-item": "ykb",
+        "update-count": 3634,
+        "last-update": 1748981380,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Jun 2025 | Mengembangkan Sikap Saling Tenggang Rasa dan Tepa Selira",
+                        "date": "2025-06-03",
+                        "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
+                        "link": "https://www.youtube.com/watch?v=puPYbZBqUHc",
+                        "thumbnail": "https://i1.ytimg.com/vi/puPYbZBqUHc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Juni 2025 | Mengumpulkan Harta Di Sorga",
                         "date": "2025-06-03",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
                         "link": "https://www.youtube.com/watch?v=o8wsyzUCtWs",
                         "thumbnail": "https://i4.ytimg.com/vi/o8wsyzUCtWs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Mei 2025 | Sudahkah Kau Mengalami Damai?",
-                        "date": "2025-05-25",
-                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=YkiP14bwG6I",
-                        "thumbnail": "https://i2.ytimg.com/vi/YkiP14bwG6I/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
