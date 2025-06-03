@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3629,
-        "last-update": 1748924524,
+        "update-count": 3630,
+        "last-update": 1748929333,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4168,6 +4168,20 @@
                 "pic": "Maria",
                 "status": "y",
                 "note": "\n-"
+            },
+            {
+                "name": "Latihan penari etnis untuk Pentakosta",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Indry",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
