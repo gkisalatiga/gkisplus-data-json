@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3626,
-        "last-update": 1748913269,
+        "update-count": 3627,
+        "last-update": 1748919610,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3834,146 +3834,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan pemusik 1 Juni 2025",
-                "time": "11:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-05-30",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KPPI",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-05-30",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Pengajaran dan Pekabaran Injil",
-                "pic": "Lukas Sukan",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Rencana Program KD Periode 2025-2027",
-                "time": "18:15",
-                "time-to": "19:45",
-                "timezone": "WIB",
-                "date": "2025-05-31",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "c",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan dengan mhs PPL I",
-                "time": "11:30",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2025-06-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Bp.Lukas Sukan",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat bulanan KP",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-06-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Pemuda",
-                "pic": "Indry",
-                "status": "y",
-                "note": "Teh"
-            },
-            {
-                "name": "Rapat Program Kerja KD 2025-2027",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-06-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pengumuman Kelulusan",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pengumuman kelulusan kelas 6",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
-                "status": "y",
-                "note": "Pinjam ruang apabila cuaca tidak mendukung (hujan)"
-            },
-            {
-                "name": "Rapat Program Komisi Dewasa Periode 2025-2027",
-                "time": "11:00",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "RAPAT KDT",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-06-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Diakonia The Koen Bik",
-                "pic": "Bu Lobby",
-                "status": "w",
-                "note": "-"
-            },
-            {
                 "name": "PA WIlayah V",
                 "time": "17:00",
                 "time-to": "18:30",
@@ -4026,7 +3886,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4040,7 +3900,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Martha Sulistya Wening",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4051,10 +3911,10 @@
                 "date": "2025-06-04",
                 "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
+                "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4096,7 +3956,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4180,7 +4040,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4278,7 +4138,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Maria",
-                "status": "w",
+                "status": "y",
                 "note": "\n-"
             },
             {
