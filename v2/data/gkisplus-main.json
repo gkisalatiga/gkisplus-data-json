@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3637,
-        "last-update": 1749043860,
-        "last-updated-item": "agenda",
+        "update-count": 3638,
+        "last-update": 1749046115,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1390,6 +1390,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN YULIUS & YESY | 7 JUNI 2025",
+                        "date": "2025-06-04",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Yulius Eko Cahyono & Sdri.  Yesy Chrisnawati\n\nSabtu, 7 Juni 2025 pukul 09.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Rodiana & Pnt. Natalis Sidanta\nPemusik :  Lamentation\nPNK : Dhara\nMultimedia :  Bayu Octa, Samarthya, Ristiani, Iwandi, Bobby",
+                        "link": "https://www.youtube.com/watch?v=orm4vlWS61c",
+                        "thumbnail": "https://i.ytimg.com/vi/orm4vlWS61c/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN IVAN & OLIVIA | 31 MEI 2025",
                         "date": "2025-05-27",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Ivan Antony Kurniawan & Sdri. Olivia Damayanti\n\nSabtu, 31 Mei 2025 pukul 11.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi & Romo Benediktus Mbemba Budo Bedi, MSF\nMJ : Pnt. Desemy Ch. N. Ballo & Pnt. Nadia Sitaresmi\nPemusik :  Lamentation\nPNK : Samuel\nMultimedia : Judica, Rico, Iwandi, Bobby",
@@ -1591,13 +1598,6 @@
                         "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Minggu, 24 April 2022 pukul 15.00\n\nSdr. Edhy Putranto dan Sdri. Desty Pranasiwi\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi \nMJ: Priyo Adi - Paul Gulo \nPemusik : Vidra\nVoice over : Gita Hastuti - Jefri\nTata Suara : Bayu\nMultimedia : Bobby, Iwandi, Ryan Bagas, Daniel Eko",
                         "link": "https://www.youtube.com/watch?v=Vvf-IWeyk8U",
                         "thumbnail": "https://i.ytimg.com/vi/Vvf-IWeyk8U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Deddy dan Christina | Sabtu, 12 Februari 2022",
-                        "date": "2022-01-24",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 12 Februari 2022 pukul 09.00\n\nSdr. Deddy Setiadi Hartono dan Sdri. Christina Deasy Octavianti Paroke\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi dan Romo Petrus Bimo Handoko MSF\nMJ: Pnt. Adita Sutresno, Pnt. Sri Yuniwati Retnaningsih\nPemusik : Vidra + Arvi\nVoice over : Jeffrey Nugroho\nTata Suara : Tata Suara: Evangs\nMultimedia : Bobby, Iwandi, Ryan Bagas, Otniel",
-                        "link": "https://www.youtube.com/watch?v=tJjRd3SD0S0",
-                        "thumbnail": "https://i.ytimg.com/vi/tJjRd3SD0S0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
