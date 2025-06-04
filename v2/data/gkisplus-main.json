@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3636,
-        "last-update": 1749008995,
+        "update-count": 3637,
+        "last-update": 1749043860,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4147,6 +4147,34 @@
                 "pic": "Maria",
                 "status": "y",
                 "note": "\n-"
+            },
+            {
+                "name": "Workshop Kurikulum ",
+                "time": "11:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-06-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
+            },
+            {
+                "name": "Rapat koordinasi ",
+                "time": "08:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-06-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             },
             {
                 "name": "PA WIlayah 5",
