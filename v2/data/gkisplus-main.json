@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3635,
-        "last-update": 1748999655,
+        "update-count": 3636,
+        "last-update": 1749008995,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3840,62 +3840,6 @@
             }
         ],
         "agenda-ruangan": [
-            {
-                "name": "PA WIlayah V",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-06-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Bp. Triwibowo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-06-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-06-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Ibu Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan penari etnis untuk Pentakosta",
-                "time": "19:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-06-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Panitia",
-                "pic": "Indry",
-                "status": "y",
-                "note": ""
-            },
             {
                 "name": "Latihan musik",
                 "time": "19:30",
