@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3639,
-        "last-update": 1749061935,
-        "last-updated-item": "ykb",
+        "update-count": 3640,
+        "last-update": 1749067651,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 5 Juni 2025 | Tiarap atau Gaspol?",
+                        "date": "2025-06-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=Z_38jleNP3c",
+                        "thumbnail": "https://i3.ytimg.com/vi/Z_38jleNP3c/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 4 Jun 2025 | Mengembangkan Sikap Saling Tenggang Rasa dan Tepa Selira",
                         "date": "2025-06-03",
                         "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=s7AB8Y0gKLg",
                         "thumbnail": "https://i4.ytimg.com/vi/s7AB8Y0gKLg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Juni 2025 | Tiarap atau Gaspol?",
-                        "date": "2025-06-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=Z_38jleNP3c",
-                        "thumbnail": "https://i3.ytimg.com/vi/Z_38jleNP3c/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Juni 2025 | Nilai Pancasila Sejalan dengan Iman Kristen",
