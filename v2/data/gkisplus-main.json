@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3643,
-        "last-update": 1749095373,
+        "update-count": 3644,
+        "last-update": 1749106272,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4229,6 +4229,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Lukas Sukan",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wil 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Bp. Lukas",
                 "status": "w",
                 "note": "-"
             },
