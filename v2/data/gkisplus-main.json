@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3642,
-        "last-update": 1749086005,
+        "update-count": 3643,
+        "last-update": 1749095373,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4217,6 +4217,20 @@
                 "pic": "Natalis",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "PA Wil. 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Lukas Sukan",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA WIlayah 5",
