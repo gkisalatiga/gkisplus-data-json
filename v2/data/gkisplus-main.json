@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3646,
-        "last-update": 1749111626,
-        "last-updated-item": "agenda",
+        "update-count": 3647,
+        "last-update": 1749143252,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Jun 2025 | Percayakan Langkahmu Pada Roh Kudus",
+                        "date": "2025-06-05",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=_bfJarP2mWM",
+                        "thumbnail": "https://i4.ytimg.com/vi/_bfJarP2mWM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Jun 2025 | Roh Kudus Ujud Curahan Kasih Allah",
+                        "date": "2025-06-05",
+                        "desc": "Dibawakan oleh Pnt. Priyo Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=ZJVHgfJkQJ0",
+                        "thumbnail": "https://i3.ytimg.com/vi/ZJVHgfJkQJ0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Juni 2025 | Tiarap atau Gaspol?",
                         "date": "2025-06-04",
@@ -68,13 +82,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=NCtgsjuxGno",
                         "thumbnail": "https://i3.ytimg.com/vi/NCtgsjuxGno/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Mei 2025 | Tugas Menggembalakan",
-                        "date": "2025-05-27",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=XudjKeE0M_M",
-                        "thumbnail": "https://i1.ytimg.com/vi/XudjKeE0M_M/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
