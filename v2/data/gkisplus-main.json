@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3647,
-        "last-update": 1749143252,
+        "update-count": 3648,
+        "last-update": 1749154077,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 7 Jun 2025 | Percayakan Langkahmu Pada Roh Kudus",
-                        "date": "2025-06-05",
-                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
-                        "link": "https://www.youtube.com/watch?v=_bfJarP2mWM",
-                        "thumbnail": "https://i4.ytimg.com/vi/_bfJarP2mWM/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 6 Jun 2025 | Roh Kudus Ujud Curahan Kasih Allah",
                         "date": "2025-06-05",
                         "desc": "Dibawakan oleh Pnt. Priyo Hari Adi",
                         "link": "https://www.youtube.com/watch?v=ZJVHgfJkQJ0",
                         "thumbnail": "https://i3.ytimg.com/vi/ZJVHgfJkQJ0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Jun 2025 | Percayakan Langkahmu Pada Roh Kudus",
+                        "date": "2025-06-05",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=_bfJarP2mWM",
+                        "thumbnail": "https://i4.ytimg.com/vi/_bfJarP2mWM/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 5 Juni 2025 | Tiarap atau Gaspol?",
