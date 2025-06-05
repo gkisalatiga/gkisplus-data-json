@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3645,
-        "last-update": 1749107716,
+        "update-count": 3646,
+        "last-update": 1749111626,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4273,6 +4273,20 @@
                 "pic": "Maria",
                 "status": "y",
                 "note": "\n-"
+            },
+            {
+                "name": "Latihan nari",
+                "time": "08:30",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Giok",
+                "status": "y",
+                "note": "Tlg lampu di nyalakan\ud83d\ude4f"
             },
             {
                 "name": "PA WIlayah 5",
