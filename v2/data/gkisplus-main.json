@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3650,
-        "last-update": 1749172400,
+        "update-count": 3651,
+        "last-update": 1749202830,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4306,6 +4306,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "KTB",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
                 "status": "w",
                 "note": ""
             },
