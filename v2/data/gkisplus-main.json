@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3649,
-        "last-update": 1749158555,
-        "last-updated-item": "ykb",
+        "update-count": 3650,
+        "last-update": 1749172400,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4294,6 +4294,20 @@
                 "pic": "Giok",
                 "status": "y",
                 "note": "Tlg lampu di nyalakan\ud83d\ude4f"
+            },
+            {
+                "name": "Rapat Retreat KD ",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
