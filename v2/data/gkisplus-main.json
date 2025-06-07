@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3654,
-        "last-update": 1749264951,
-        "last-updated-item": "agenda",
+        "update-count": 3655,
+        "last-update": 1749265638,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -75,13 +75,6 @@
                         "desc": "Dibawakan oleh Bpk. Prasetyandaru",
                         "link": "https://www.youtube.com/watch?v=LxD2bRG1O6Q",
                         "thumbnail": "https://i1.ytimg.com/vi/LxD2bRG1O6Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Mei 2025 | 40 Hari",
-                        "date": "2025-05-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=NCtgsjuxGno",
-                        "thumbnail": "https://i3.ytimg.com/vi/NCtgsjuxGno/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1399,7 +1392,7 @@
                     {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN YULIUS & YESY | 7 JUNI 2025",
                         "date": "2025-06-04",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Yulius Eko Cahyono & Sdri.  Yesy Chrisnawati\n\nSabtu, 7 Juni 2025 pukul 09.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Rodiana & Pnt. Natalis Sidanta\nPemusik :  Lamentation\nPNK : Dhara\nMultimedia :  Bayu Octa, Samarthya, Ristiani, Iwandi, Bobby",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Yulius Eko Cahyono & Sdri. Yesy Chrisnawati\n\nSabtu, 7 Juni 2025 pukul 09.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Rodiana & Pnt. Natalis Sidanta\nPemusik :  Lamentation\nPNK : Dhara\nMultimedia :  Bayu Octa, Samarthya, Ristiani, Iwandi, Bobby",
                         "link": "https://www.youtube.com/watch?v=orm4vlWS61c",
                         "thumbnail": "https://i.ytimg.com/vi/orm4vlWS61c/hqdefault_live.jpg"
                     },
