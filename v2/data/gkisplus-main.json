@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3653,
-        "last-update": 1749240614,
-        "last-updated-item": "yt",
+        "update-count": 3654,
+        "last-update": 1749264951,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4072,6 +4072,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan nari",
+                "time": "08:30",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Giok",
+                "status": "y",
+                "note": "Tlg lampu di nyalakan\ud83d\ude4f"
+            },
+            {
+                "name": "Rapat Retreat KD ",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "KTB",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-06-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Sekolah Alkitab Liburan ",
                 "time": "10:00",
                 "time-to": "13:00",
@@ -4268,6 +4310,48 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini ",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Wardjini ",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Wardjini ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 10",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4282,46 +4366,18 @@
                 "note": "\n-"
             },
             {
-                "name": "Latihan nari",
-                "time": "08:30",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2025-06-06",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Giok",
-                "status": "y",
-                "note": "Tlg lampu di nyalakan\ud83d\ude4f"
-            },
-            {
-                "name": "Rapat Retreat KD ",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-06-06",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Nathalia A",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "KTB",
+                "name": "PA Wilayah 7",
                 "time": "17:00",
-                "time-to": "18:30",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-06-06",
-                "weekday": "fri",
+                "date": "2025-07-22",
+                "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Asputri Kaat",
+                "representative": "Wilayah",
+                "pic": "Wardjini ",
                 "status": "w",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA WIlayah 5",
