@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3655,
-        "last-update": 1749265638,
+        "update-count": 3656,
+        "last-update": 1749281868,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1610,6 +1610,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 8 Juni 2025",
+                    "date": "2025-06-07",
+                    "link": "https://drive.google.com/file/d/1LojjIyABivjN5DDRGhIMuJKVFnM_Qg51/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-8-juni-2025/",
+                    "thumbnail": "",
+                    "id": "1LojjIyABivjN5DDRGhIMuJKVFnM_Qg51",
+                    "size": "1.90 MB"
+                },
+                {
                     "title": "Warta Jemaat 1 Juni 2025",
                     "date": "2025-05-31",
                     "link": "https://drive.google.com/file/d/1mCarbNChc8byBOV6nPpBc4RJDqQdvYLj/view",
@@ -1998,6 +2007,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 8 Juni 2025",
+                    "date": "2025-06-07",
+                    "link": "https://drive.google.com/file/d/1lHcuVZIZSWOmrku82AhbDkKCmwA0yLoC/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-1-juni-2025/",
+                    "thumbnail": "",
+                    "id": "1lHcuVZIZSWOmrku82AhbDkKCmwA0yLoC",
+                    "size": "0.51 MB"
+                },
                 {
                     "title": "Tata Ibadah 1 Juni 2025",
                     "date": "2025-05-31",
