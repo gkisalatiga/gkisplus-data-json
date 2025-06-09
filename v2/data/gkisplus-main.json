@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3668,
-        "last-update": 1749438497,
-        "last-updated-item": "agenda",
+        "update-count": 3669,
+        "last-update": 1749445920,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Jun 2025 | Karya Roh Kudus Bagi Orang Percaya",
+                        "date": "2025-06-09",
+                        "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
+                        "link": "https://www.youtube.com/watch?v=lxj0goLSO_E",
+                        "thumbnail": "https://i1.ytimg.com/vi/lxj0goLSO_E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Jun 2025 | Lebih Baik Bersama sama di Dalam Tuhan",
                         "date": "2025-06-08",
