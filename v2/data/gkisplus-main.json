@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3675,
-        "last-update": 1749493924,
-        "last-updated-item": "ykb",
+        "update-count": 3676,
+        "last-update": 1749499775,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Juni 2025 | Mengumpulkan Harta Di Sorga",
+                        "date": "2025-06-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=s7AB8Y0gKLg",
+                        "thumbnail": "https://i4.ytimg.com/vi/s7AB8Y0gKLg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Jun 2025 | Karya Roh Kudus Bagi Orang Percaya",
                         "date": "2025-06-09",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
                         "link": "https://www.youtube.com/watch?v=puPYbZBqUHc",
                         "thumbnail": "https://i1.ytimg.com/vi/puPYbZBqUHc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Juni 2025 | Mengumpulkan Harta Di Sorga",
-                        "date": "2025-06-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=s7AB8Y0gKLg",
-                        "thumbnail": "https://i4.ytimg.com/vi/s7AB8Y0gKLg/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Juni 2025 | Nilai Pancasila Sejalan dengan Iman Kristen",
