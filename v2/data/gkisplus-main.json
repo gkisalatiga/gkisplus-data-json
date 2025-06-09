@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3671,
-        "last-update": 1749451887,
+        "update-count": 3672,
+        "last-update": 1749465933,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4152,6 +4152,20 @@
                 "pic": "Cinta ",
                 "status": "w",
                 "note": "Minta tolong dibuatkan teh "
+            },
+            {
+                "name": "Latihan Pemusik Pernikahan 14 Juni di GKJ Temanggung",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
