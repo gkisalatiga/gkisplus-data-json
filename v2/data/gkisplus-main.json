@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3670,
-        "last-update": 1749450227,
+        "update-count": 3671,
+        "last-update": 1749451887,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4138,6 +4138,20 @@
                 "pic": "Atiek Widyati ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat BCR ",
+                "time": "16:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta ",
+                "status": "w",
+                "note": "Minta tolong dibuatkan teh "
             },
             {
                 "name": "PA WIlayah 5",
