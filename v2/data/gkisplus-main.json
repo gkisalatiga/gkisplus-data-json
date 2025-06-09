@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3672,
-        "last-update": 1749465933,
+        "update-count": 3673,
+        "last-update": 1749469058,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4160,6 +4160,20 @@
                 "timezone": "WIB",
                 "date": "2025-06-11",
                 "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Musik untuk ibadah Pernikahan 14 Juni di GKJ Temanggung",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-12",
+                "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
