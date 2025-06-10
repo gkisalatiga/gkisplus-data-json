@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3677,
-        "last-update": 1749524671,
+        "update-count": 3678,
+        "last-update": 1749528027,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4160,6 +4160,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 15 Juni 2025",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-06-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta ",
                 "status": "w",
                 "note": ""
             },
