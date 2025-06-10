@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3678,
-        "last-update": 1749528027,
+        "update-count": 3679,
+        "last-update": 1749534139,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4174,6 +4174,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Retreat KD",
+                "time": "19:15",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
                 "status": "w",
                 "note": ""
             },
