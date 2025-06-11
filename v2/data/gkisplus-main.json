@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3684,
-        "last-update": 1749614395,
+        "update-count": 3685,
+        "last-update": 1749622948,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4203,6 +4203,48 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Catur Winarno",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 15 Juni 2025",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-06-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH BCR",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH BCR",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
                 "note": ""
             },
             {
