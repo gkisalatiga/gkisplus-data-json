@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3682,
-        "last-update": 1749586210,
-        "last-updated-item": "yt",
+        "update-count": 3683,
+        "last-update": 1749610953,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4190,6 +4190,20 @@
                 "pic": "Wardjini ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-06-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
