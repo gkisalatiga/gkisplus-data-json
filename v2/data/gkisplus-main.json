@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3687,
-        "last-update": 1749666890,
-        "last-updated-item": "ykb",
+        "update-count": 3688,
+        "last-update": 1749677816,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Jun 2025 | Muliakanlah Allah dengan Tubuhmu",
+                        "date": "2025-06-11",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=zhh62odE7eM",
+                        "thumbnail": "https://i3.ytimg.com/vi/zhh62odE7eM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Jun 2025 | Antara Cinta, Ditinggalkan, dan Bersukacita",
+                        "date": "2025-06-11",
+                        "desc": "Dibawakan oleh Sdri. Merry Asalaka",
+                        "link": "https://www.youtube.com/watch?v=BliDJ4BdsaE",
+                        "thumbnail": "https://i3.ytimg.com/vi/BliDJ4BdsaE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Jun 2025 | Karya Roh Kudus Bagi Orang Percaya",
                         "date": "2025-06-10",
