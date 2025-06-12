@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3688,
-        "last-update": 1749677816,
-        "last-updated-item": "yt",
+        "update-count": 3689,
+        "last-update": 1749690811,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4034,7 +4034,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "c",
                 "note": ""
             },
             {
