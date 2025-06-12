@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3691,
-        "last-update": 1749700196,
+        "update-count": 3692,
+        "last-update": 1749711018,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3898,6 +3898,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan pemusik minggu, 15 Juni 2025",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-06-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ. Bid.3 dan Sarpras",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yuliani N",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PERSEKUTUAN KOMISI DEWASA",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -3950,6 +3978,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Ibu Ester Wurdianto",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik Minggu, 15 Juni 2025",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
                 "status": "y",
                 "note": ""
             },
@@ -4120,34 +4162,6 @@
                 "pic": "Wardjini ",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan pemusik minggu, 15 Juni 2025",
-                "time": "14:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-06-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik Minggu, 15 Juni 2025",
-                "time": "19:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-06-13",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
