@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3690,
-        "last-update": 1749697174,
+        "update-count": 3691,
+        "last-update": 1749700196,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4120,6 +4120,34 @@
                 "pic": "Wardjini ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan pemusik minggu, 15 Juni 2025",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-06-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik Minggu, 15 Juni 2025",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
