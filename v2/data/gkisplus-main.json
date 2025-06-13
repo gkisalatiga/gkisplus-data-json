@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3694,
-        "last-update": 1749753126,
-        "last-updated-item": "ykb",
+        "update-count": 3695,
+        "last-update": 1749793318,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4162,6 +4162,20 @@
                 "pic": "Wardjini ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Technical Meeting BCR 2025",
+                "time": "21:15",
+                "time-to": "23:30",
+                "timezone": "WIB",
+                "date": "2025-06-15",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
