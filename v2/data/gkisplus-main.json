@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3696,
-        "last-update": 1749839575,
-        "last-updated-item": "ykb",
+        "update-count": 3697,
+        "last-update": 1749845379,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 14 Jun 2025 | Muliakanlah Allah dengan Tubuhmu",
+                        "date": "2025-06-13",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=zhh62odE7eM",
+                        "thumbnail": "https://i3.ytimg.com/vi/zhh62odE7eM/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 13 Jun 2025",
                         "date": "2025-06-12",
                         "desc": "Dibawakan oleh Sdri. Ester Juliawati",
                         "link": "https://www.youtube.com/watch?v=ztFl1W59PVA",
                         "thumbnail": "https://i3.ytimg.com/vi/ztFl1W59PVA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Jun 2025 | Muliakanlah Allah dengan Tubuhmu",
-                        "date": "2025-06-11",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=zhh62odE7eM",
-                        "thumbnail": "https://i3.ytimg.com/vi/zhh62odE7eM/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 12 Jun 2025 | Antara Cinta, Ditinggalkan, dan Bersukacita",
