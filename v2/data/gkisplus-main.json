@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3699,
-        "last-update": 1749870359,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3700,
+        "last-update": 1749899031,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -1624,6 +1624,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 15 Juni 2025",
+                    "date": "2025-06-14",
+                    "link": "https://drive.google.com/file/d/1cg029tx1eVVn93PgbhF2JzLAUOkL4BmT/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-15-juni-2025/",
+                    "thumbnail": "",
+                    "id": "1cg029tx1eVVn93PgbhF2JzLAUOkL4BmT",
+                    "size": "1.50 MB"
+                },
+                {
                     "title": "Warta Jemaat 8 Juni 2025",
                     "date": "2025-06-07",
                     "link": "https://drive.google.com/file/d/1LojjIyABivjN5DDRGhIMuJKVFnM_Qg51/view",
@@ -2022,10 +2031,19 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah 8 Juni 2025",
+                    "title": "Tata Ibadah Minggu Trinitas 15 Juni 2025",
+                    "date": "2025-06-07",
+                    "link": "https://drive.google.com/file/d/1Xsk3RcTIS5WktgSI4ITQncqrh5W_qBBw/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-trinitas-15-juni-2025/",
+                    "thumbnail": "",
+                    "id": "1Xsk3RcTIS5WktgSI4ITQncqrh5W_qBBw",
+                    "size": "0.27 MB"
+                },
+                {
+                    "title": "Tata Ibadah Pentakosta 8 Juni 2025",
                     "date": "2025-06-07",
                     "link": "https://drive.google.com/file/d/1lHcuVZIZSWOmrku82AhbDkKCmwA0yLoC/view",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-1-juni-2025/",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-pentakosta-8-juni-2025/",
                     "thumbnail": "",
                     "id": "1lHcuVZIZSWOmrku82AhbDkKCmwA0yLoC",
                     "size": "0.51 MB"
