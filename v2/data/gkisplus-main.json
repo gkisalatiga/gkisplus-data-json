@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3705,
-        "last-update": 1749957458,
+        "update-count": 3706,
+        "last-update": 1749985652,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Jun 2025 | Tidak Mencari Keuntungan Diri Sendiri",
+                        "date": "2025-06-15",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=PGY2sniXK3w",
+                        "thumbnail": "https://i1.ytimg.com/vi/PGY2sniXK3w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Jun 2025 | Muliakanlah Allah dengan Tubuhmu",
                         "date": "2025-06-13",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=Z_38jleNP3c",
                         "thumbnail": "https://i3.ytimg.com/vi/Z_38jleNP3c/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Jun 2025 | Mengembangkan Sikap Saling Tenggang Rasa dan Tepa Selira",
-                        "date": "2025-06-03",
-                        "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
-                        "link": "https://www.youtube.com/watch?v=puPYbZBqUHc",
-                        "thumbnail": "https://i1.ytimg.com/vi/puPYbZBqUHc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
