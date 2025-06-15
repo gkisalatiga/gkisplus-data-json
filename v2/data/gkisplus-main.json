@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3703,
-        "last-update": 1749925760,
-        "last-updated-item": "ykb",
+        "update-count": 3704,
+        "last-update": 1749950523,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4033,6 +4033,20 @@
                 "note": ""
             },
             {
+                "name": "Technical Meeting BCR 2025",
+                "time": "21:15",
+                "time-to": "23:30",
+                "timezone": "WIB",
+                "date": "2025-06-15",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4201,17 +4215,17 @@
                 "note": "-"
             },
             {
-                "name": "Technical Meeting BCR 2025",
-                "time": "21:15",
-                "time-to": "23:30",
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "19:30",
                 "timezone": "WIB",
-                "date": "2025-06-15",
-                "weekday": "sun",
+                "date": "2025-07-22",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Remaja",
-                "pic": "Cinta",
-                "status": "w",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Pnt. Catur",
+                "status": "y",
                 "note": ""
             },
             {
