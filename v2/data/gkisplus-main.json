@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3713,
-        "last-update": 1750098796,
-        "last-updated-item": "ykb",
+        "update-count": 3714,
+        "last-update": 1750111708,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Jun 2025 | Perjalanan",
+                        "date": "2025-06-16",
+                        "desc": "Dibawakan oleh Ibu Selvie Bernard",
+                        "link": "https://www.youtube.com/watch?v=l3eEuEqbCYI",
+                        "thumbnail": "https://i1.ytimg.com/vi/l3eEuEqbCYI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 17 Jun 2025 | Tikus Itu Memang Rakus",
+                        "date": "2025-06-16",
+                        "desc": "Dibawakan oleh Pnt. Ervien Dian W",
+                        "link": "https://www.youtube.com/watch?v=5MXGn5jQMe4",
+                        "thumbnail": "https://i2.ytimg.com/vi/5MXGn5jQMe4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Jun 2025 | Tidak Mencari Keuntungan Diri Sendiri",
                         "date": "2025-06-15",
@@ -68,20 +82,6 @@
                         "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
                         "link": "https://www.youtube.com/watch?v=IusFjzul_W8",
                         "thumbnail": "https://i2.ytimg.com/vi/IusFjzul_W8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Jun 2025 | Percayakan Langkahmu Pada Roh Kudus",
-                        "date": "2025-06-06",
-                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
-                        "link": "https://www.youtube.com/watch?v=_bfJarP2mWM",
-                        "thumbnail": "https://i4.ytimg.com/vi/_bfJarP2mWM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Jun 2025 | Roh Kudus Ujud Curahan Kasih Allah",
-                        "date": "2025-06-05",
-                        "desc": "Dibawakan oleh Pnt. Priyo Hari Adi",
-                        "link": "https://www.youtube.com/watch?v=ZJVHgfJkQJ0",
-                        "thumbnail": "https://i3.ytimg.com/vi/ZJVHgfJkQJ0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
