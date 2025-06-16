@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3710,
-        "last-update": 1750036602,
+        "update-count": 3711,
+        "last-update": 1750043270,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4213,6 +4213,48 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia K",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "MPLS",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Novita Sari",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rakor sekolah",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2025-06-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
+            },
+            {
+                "name": "Ibadah akhir tahun ",
+                "time": "07:00",
+                "time-to": "08:30",
+                "timezone": "WIB",
+                "date": "2025-06-18",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Natalia Setiawati Br Tarigan ",
                 "status": "w",
                 "note": ""
             },
