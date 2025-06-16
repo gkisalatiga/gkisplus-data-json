@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3709,
-        "last-update": 1750012219,
-        "last-updated-item": "ykb",
+        "update-count": 3710,
+        "last-update": 1750036602,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4199,6 +4199,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Kepala sekolah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Komisi Dewasa",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-06-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
                 "status": "w",
                 "note": ""
             },
