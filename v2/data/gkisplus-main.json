@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3718,
-        "last-update": 1750163527,
+        "update-count": 3719,
+        "last-update": 1750168241,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4306,6 +4306,48 @@
                 "pic": "Vini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Juni ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-06-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Juni ",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-06-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Juni ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-06-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
