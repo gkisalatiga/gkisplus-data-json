@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3720,
-        "last-update": 1750185197,
-        "last-updated-item": "ykb",
+        "update-count": 3721,
+        "last-update": 1750190984,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -22,7 +22,7 @@
                 "content": [
                     {
                         "title": "SaRen Pagi | 18 Jun 2025 | Perjalanan",
-                        "date": "2025-06-16",
+                        "date": "2025-06-17",
                         "desc": "Dibawakan oleh Ibu Selvie Bernard",
                         "link": "https://www.youtube.com/watch?v=l3eEuEqbCYI",
                         "thumbnail": "https://i1.ytimg.com/vi/l3eEuEqbCYI/hqdefault.jpg"
