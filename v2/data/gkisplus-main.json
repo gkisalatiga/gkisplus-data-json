@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3714,
-        "last-update": 1750111708,
-        "last-updated-item": "yt",
+        "update-count": 3715,
+        "last-update": 1750143043,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4248,7 +4248,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Natalia Setiawati Br Tarigan ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
