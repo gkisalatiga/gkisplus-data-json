@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3717,
-        "last-update": 1750148474,
+        "update-count": 3718,
+        "last-update": 1750163527,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4290,6 +4290,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Lukas",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan untuk talent show bcr",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Vini",
                 "status": "w",
                 "note": "-"
             },
