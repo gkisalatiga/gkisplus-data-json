@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3723,
-        "last-update": 1750219192,
+        "update-count": 3724,
+        "last-update": 1750221272,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4148,7 +4148,7 @@
                 "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
+                "representative": "Wilayah",
                 "pic": "Bp. Ivanuska",
                 "status": "y",
                 "note": ""
