@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3728,
-        "last-update": 1750255815,
-        "last-updated-item": "yt",
+        "update-count": 3729,
+        "last-update": 1750261366,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4425,6 +4425,20 @@
                 "pic": "Renzo",
                 "status": "w",
                 "note": "Minta tolong untuk pesan Teh"
+            },
+            {
+                "name": "Latihan Performance Kelompok 8 (Daniel) - BCR 2025",
+                "time": "12:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-06-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Evan Shallom Sangkakala (Iyom) - PIC KELOMPOK 8 - BCR 2025",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
