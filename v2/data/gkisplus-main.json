@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3721,
-        "last-update": 1750190984,
-        "last-updated-item": "yt",
+        "update-count": 3722,
+        "last-update": 1750215625,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4084,6 +4084,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan untuk talent show bcr",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-06-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Vini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Juni ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-06-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Ibadah akhir tahun ",
                 "time": "07:00",
                 "time-to": "08:30",
@@ -4109,6 +4137,34 @@
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Atiek Widyati ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Juni ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-06-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Juni ",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-06-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4238,6 +4294,20 @@
                 "note": "-"
             },
             {
+                "name": "Ibadah Pembukaan Tahun Pelajaran 2025/2026",
+                "time": "07:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-07-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Novita Sari",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 10",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4292,62 +4362,6 @@
                 "pic": "Lukas",
                 "status": "w",
                 "note": "-"
-            },
-            {
-                "name": "Latihan untuk talent show bcr",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-06-17",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Vini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan ibadah Minggu 22 Juni ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-06-19",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Erin",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan ibadah Minggu 22 Juni ",
-                "time": "14:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-06-20",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Erin",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan ibadah Minggu 22 Juni ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-06-17",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Erin",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA WIlayah 5",
