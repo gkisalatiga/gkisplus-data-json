@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3730,
-        "last-update": 1750271626,
-        "last-updated-item": "ykb",
+        "update-count": 3731,
+        "last-update": 1750277451,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 19 Jun 2025 | Perbuatan Besar Allah",
+                        "date": "2025-06-18",
+                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
+                        "link": "https://www.youtube.com/watch?v=1KJUXAT6m6A",
+                        "thumbnail": "https://i2.ytimg.com/vi/1KJUXAT6m6A/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 18 Jun 2025 | Perjalanan",
                         "date": "2025-06-17",
                         "desc": "Dibawakan oleh Ibu Selvie Bernard",
                         "link": "https://www.youtube.com/watch?v=l3eEuEqbCYI",
                         "thumbnail": "https://i1.ytimg.com/vi/l3eEuEqbCYI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Jun 2025 | Perbuatan Besar Allah",
-                        "date": "2025-06-16",
-                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
-                        "link": "https://www.youtube.com/watch?v=1KJUXAT6m6A",
-                        "thumbnail": "https://i2.ytimg.com/vi/1KJUXAT6m6A/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 17 Jun 2025 | Tikus Itu Memang Rakus",
