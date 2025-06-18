@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3726,
-        "last-update": 1750230950,
+        "update-count": 3727,
+        "last-update": 1750234848,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4404,6 +4404,20 @@
                 "pic": "Novita Sari",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan Bibble camp remaja",
+                "time": "17:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-06-18",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Renzo",
+                "status": "w",
+                "note": "Minta tolong untuk pesan Teh"
             },
             {
                 "name": "PA WIlayah 5",
