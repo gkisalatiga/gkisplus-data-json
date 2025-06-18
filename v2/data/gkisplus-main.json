@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3725,
-        "last-update": 1750229436,
+        "update-count": 3726,
+        "last-update": 1750230950,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4374,6 +4374,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "MPLS",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-06-15",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Novita Sari",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "MPLS",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-06-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Novita Sari",
                 "status": "w",
                 "note": ""
             },
