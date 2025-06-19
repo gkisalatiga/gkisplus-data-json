@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3732,
-        "last-update": 1750295680,
+        "update-count": 3733,
+        "last-update": 1750302158,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4479,6 +4479,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Lainnya",
                 "pic": "Salsa Iona Dara Christine Gollu Wola ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Tempat kumpul panitia dan peserta retreat sebelum menuju ke tempat retreat",
+                "time": "23:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-06-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan Florist",
+                "time": "16:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-06-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
                 "status": "w",
                 "note": ""
             },
