@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3736,
-        "last-update": 1750321244,
-        "last-updated-item": "agenda",
+        "update-count": 3737,
+        "last-update": 1750342178,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Juni 2025 | Mampu Diubahkan",
+                        "date": "2025-06-19",
+                        "desc": "Dibawakan oleh Pnt. Hananto Seno",
+                        "link": "https://www.youtube.com/watch?v=JY32oPSO5dU",
+                        "thumbnail": "https://i3.ytimg.com/vi/JY32oPSO5dU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Jun 2025 | Berkarya Dengan Roh Kudus",
+                        "date": "2025-06-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=nY5-Ex6gp0k",
+                        "thumbnail": "https://i3.ytimg.com/vi/nY5-Ex6gp0k/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Jun 2025 | Perbuatan Besar Allah",
                         "date": "2025-06-18",
