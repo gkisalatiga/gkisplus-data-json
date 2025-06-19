@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3735,
-        "last-update": 1750318715,
+        "update-count": 3736,
+        "last-update": 1750321244,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4466,6 +4466,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sie Acara Retreat ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
                 "note": ""
             }
         ],
