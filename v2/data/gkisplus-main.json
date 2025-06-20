@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3740,
-        "last-update": 1750372782,
-        "last-updated-item": "yt",
+        "update-count": 3741,
+        "last-update": 1750400548,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4493,6 +4493,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Technical Meeting Retreat KD",
+                "time": "08:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-06-22",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Yedida Christa",
                 "status": "w",
                 "note": ""
             }
