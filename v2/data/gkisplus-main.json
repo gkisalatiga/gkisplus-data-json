@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3744,
-        "last-update": 1750474500,
+        "update-count": 3745,
+        "last-update": 1750479544,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3867,6 +3867,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Rapat Sie Acara Retreat ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dengan mhs PPL III",
                 "time": "08:00",
                 "time-to": "10:00",
@@ -3878,6 +3892,34 @@
                 "representative": "Lainnya",
                 "pic": "Bp. Lukas Sukan",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Retreat KD",
+                "time": "17:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-06-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Technical Meeting Retreat KD",
+                "time": "08:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-06-22",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Yedida Christa",
+                "status": "w",
                 "note": ""
             },
             {
@@ -3921,6 +3963,20 @@
                 "pic": "Lukas Sukan",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pleno KUL",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-06-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Kristiani",
+                "status": "w",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "Latihan PS. Efrata",
@@ -4340,48 +4396,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Sie Acara Retreat ",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-06-19",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Nathalia A",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Technical Meeting Retreat KD",
-                "time": "08:30",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-06-22",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Yedida Christa",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Retreat KD",
-                "time": "17:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-06-21",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "w",
                 "note": ""
             }
         ],
