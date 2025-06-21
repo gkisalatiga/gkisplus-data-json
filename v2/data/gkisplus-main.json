@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3747,
-        "last-update": 1750493898,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3748,
+        "last-update": 1750503635,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -2040,7 +2040,7 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah Minggu Trinitas 15 Juni 2025",
+                    "title": "Tata Ibadah 22 Juni 2025",
                     "date": "2025-06-21",
                     "link": "https://drive.google.com/file/d/1DgmXv5-JOEFJHHH5ejMR70E2X7mqiZ03/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-22-juni-2025/",
