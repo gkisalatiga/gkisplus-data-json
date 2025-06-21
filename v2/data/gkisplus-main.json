@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3746,
-        "last-update": 1750482868,
+        "update-count": 3747,
+        "last-update": 1750493898,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4396,6 +4396,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Adhi kristianto",
+                "status": "w",
                 "note": ""
             }
         ],
