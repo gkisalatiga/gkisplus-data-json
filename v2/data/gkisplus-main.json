@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3745,
-        "last-update": 1750479544,
+        "update-count": 3746,
+        "last-update": 1750482868,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3902,10 +3902,10 @@
                 "date": "2025-06-21",
                 "weekday": "sat",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Konsistori",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia K",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3919,7 +3919,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Dewasa",
                 "pic": "Yedida Christa",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3975,7 +3975,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Kristiani",
-                "status": "w",
+                "status": "y",
                 "note": "Minta disiapkan teh"
             },
             {
