@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3751,
-        "last-update": 1750567749,
-        "last-updated-item": "agenda",
+        "update-count": 3752,
+        "last-update": 1750601289,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Jun 2025 | Bejana Iman Seorang Janda",
+                        "date": "2025-06-22",
+                        "desc": "Dibawakan oleh Ibu Claudia Andita Lazarusli",
+                        "link": "https://www.youtube.com/watch?v=UCW49kWoM9c",
+                        "thumbnail": "https://i2.ytimg.com/vi/UCW49kWoM9c/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Juni 2025 | Mampu Diubahkan",
                         "date": "2025-06-20",
@@ -111,7 +118,7 @@
                         "date": "2025-06-21",
                         "desc": "IBADAH MINGGU GKI Salatiga; 22 Juni 2025; Pukul 07:00 WIB\n\nTema: Siapa Yang Lebih Berharga?\n\nBacaan I: Yesaya 65: 1-9\nTanggapan: Mazmur 22: 20-29\nBacaan II: Galatia 3: 23-29\nBacaan Injil: Lukas 8: 26-39\n\nNyanyian: KK 11; NKB 122; PKJ 212; KK 382; NKB 127\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Sri Yuniwati R.\nKredo dan Warta: Pnt. Nadia Sitaresmi\nSambut Tamu:  Pnt. Rodiana , Pnt. Paul A.W. Gulo\nPemandu Liturgi: Endang Suryani\nLektor 1: Diasti Ariati\nLektor 2: Asih Yuliastuti\n\nPemusik: Psalm\nPNK/PMZ: Evangs / Inggrid\nPaduan Suara: -\nTim Multimedia: Hermawan, Roni Sibarani, Sakti KR, Atma, Nuel\nUsher dan Kolektan: Surdi, Karno, Purwani (Wilayah VI)\nFlorist: Tim Melati\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=smmzQNLmrw0",
-                        "thumbnail": "https://i.ytimg.com/vi/smmzQNLmrw0/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/smmzQNLmrw0/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu Trinitas | 15 Juni 2025 Pukul 07.00 WIB | \"Allah Tritunggal Sumber Kebenaran\"",
