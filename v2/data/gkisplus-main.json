@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3750,
-        "last-update": 1750530556,
-        "last-updated-item": "ykb",
+        "update-count": 3751,
+        "last-update": 1750567749,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4420,7 +4420,21 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Adhi kristianto",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-11-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Diah Maruli",
+                "status": "y",
                 "note": ""
             }
         ],
