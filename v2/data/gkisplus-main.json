@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3753,
-        "last-update": 1750616979,
-        "last-updated-item": "ykb",
+        "update-count": 3754,
+        "last-update": 1750648333,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3983,6 +3983,34 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Adhi kristianto",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapaj gerejawi pernikahan",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Pleno KUL",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -4413,20 +4441,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 5",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-06-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Adhi kristianto",
                 "status": "y",
                 "note": ""
             },
