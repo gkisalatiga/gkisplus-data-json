@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3754,
-        "last-update": 1750648333,
-        "last-updated-item": "agenda",
+        "update-count": 3755,
+        "last-update": 1750648789,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Jun 2025 | Iman Sebesar Biji Sesawi",
+                        "date": "2025-06-23",
+                        "desc": "Dibawakan oleh Ibu Dorothea Dyah",
+                        "link": "https://www.youtube.com/watch?v=5TkD6ZTe7L8",
+                        "thumbnail": "https://i2.ytimg.com/vi/5TkD6ZTe7L8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Jun 2025 | Bejana Iman Seorang Janda",
                         "date": "2025-06-22",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
                         "link": "https://www.youtube.com/watch?v=lxj0goLSO_E",
                         "thumbnail": "https://i1.ytimg.com/vi/lxj0goLSO_E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Juni 2025 | Mengumpulkan Harta Di Sorga",
-                        "date": "2025-06-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=s7AB8Y0gKLg",
-                        "thumbnail": "https://i4.ytimg.com/vi/s7AB8Y0gKLg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
