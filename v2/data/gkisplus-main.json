@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3765,
-        "last-update": 1750753299,
+        "update-count": 3766,
+        "last-update": 1750760238,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4445,6 +4445,20 @@
                 "pic": "Pnt. Dessy ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan ibadah padang",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
