@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3766,
-        "last-update": 1750760238,
-        "last-updated-item": "agenda",
+        "update-count": 3767,
+        "last-update": 1750799296,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Jun 2025 | Hikmat Yang Benar",
+                        "date": "2025-06-24",
+                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=MfK-78R3QHw",
+                        "thumbnail": "https://i2.ytimg.com/vi/MfK-78R3QHw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Jun 2025 | Iman Sebesar Biji Sesawi",
                         "date": "2025-06-23",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Merry Asalaka",
                         "link": "https://www.youtube.com/watch?v=BliDJ4BdsaE",
                         "thumbnail": "https://i3.ytimg.com/vi/BliDJ4BdsaE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Jun 2025 | Karya Roh Kudus Bagi Orang Percaya",
-                        "date": "2025-06-10",
-                        "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
-                        "link": "https://www.youtube.com/watch?v=lxj0goLSO_E",
-                        "thumbnail": "https://i1.ytimg.com/vi/lxj0goLSO_E/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
