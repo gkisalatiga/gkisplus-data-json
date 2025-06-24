@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3764,
-        "last-update": 1750750859,
+        "update-count": 3765,
+        "last-update": 1750753299,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4429,6 +4429,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Transit dan makeup, Manten Arfael dan Vera",
+                "time": "11:20",
+                "time-to": "12:15",
+                "timezone": "WIB",
+                "date": "2025-06-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy ",
                 "status": "y",
                 "note": ""
             }
