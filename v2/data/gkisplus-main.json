@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3760,
-        "last-update": 1750734314,
+        "update-count": 3761,
+        "last-update": 1750737715,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4389,6 +4389,20 @@
                 "pic": "Natalis",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan ibadah padang KP",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
