@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3762,
-        "last-update": 1750742252,
+        "update-count": 3763,
+        "last-update": 1750749387,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4415,6 +4415,20 @@
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Ayu",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Persiapan P.K. Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Lukas Sukan",
                 "status": "w",
                 "note": "-"
             }
