@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3761,
-        "last-update": 1750737715,
+        "update-count": 3762,
+        "last-update": 1750742252,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4403,6 +4403,20 @@
                 "pic": "Indry",
                 "status": "w",
                 "note": "Teh"
+            },
+            {
+                "name": "Rapat P2B soda",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
