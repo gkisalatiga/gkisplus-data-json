@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3767,
-        "last-update": 1750799296,
-        "last-updated-item": "yt",
+        "update-count": 3768,
+        "last-update": 1750820744,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3943,6 +3943,20 @@
                 "note": "Teh"
             },
             {
+                "name": "Latihan ibadah padang",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-06-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
+            },
+            {
                 "name": "Rapat Pleno KUL",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -3981,6 +3995,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Wardjini",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Transit dan makeup, Manten Arfael dan Vera",
+                "time": "11:20",
+                "time-to": "12:15",
+                "timezone": "WIB",
+                "date": "2025-06-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy ",
                 "status": "y",
                 "note": ""
             },
@@ -4433,32 +4461,18 @@
                 "note": ""
             },
             {
-                "name": "Transit dan makeup, Manten Arfael dan Vera",
-                "time": "11:20",
-                "time-to": "12:15",
+                "name": "Latihan PS",
+                "time": "18:00",
+                "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2025-06-28",
-                "weekday": "sat",
+                "date": "2025-06-26",
+                "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Dessy ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan ibadah padang",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-06-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Indry",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Eriyani Tenga Lunga",
                 "status": "w",
-                "note": "Teh"
+                "note": "Voice of SWCU yang akan pelayanan di GKI pd 29 Juni"
             }
         ],
         "backend": {
