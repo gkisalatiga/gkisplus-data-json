@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3768,
-        "last-update": 1750820744,
+        "update-count": 3769,
+        "last-update": 1750824168,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3999,6 +3999,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan PS",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-06-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Eriyani Tenga Lunga",
+                "status": "w",
+                "note": "Voice of SWCU yang akan pelayanan di GKI pd 29 Juni"
+            },
+            {
                 "name": "Transit dan makeup, Manten Arfael dan Vera",
                 "time": "11:20",
                 "time-to": "12:15",
@@ -4459,20 +4473,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan PS",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-06-26",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Eriyani Tenga Lunga",
-                "status": "w",
-                "note": "Voice of SWCU yang akan pelayanan di GKI pd 29 Juni"
             }
         ],
         "backend": {
