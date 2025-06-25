@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3769,
-        "last-update": 1750824168,
+        "update-count": 3770,
+        "last-update": 1750857753,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3723,6 +3723,22 @@
                 "type": "poster",
                 "date-created": "2025-05-31",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_pernikahan.webp",
+                "title": "Pemberkatan dan Peneguhan Pernikahan 28 Juni",
+                "type": "poster",
+                "date-created": "2025-06-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_pernikahan.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
+                "title": "Ibadah Minggu 29 Juni",
+                "type": "poster",
+                "date-created": "2025-06-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
