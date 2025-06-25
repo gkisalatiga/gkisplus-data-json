@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3771,
-        "last-update": 1750860630,
+        "update-count": 3772,
+        "last-update": 1750871411,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Jun 2025 | Berhenti Sejenak",
+                        "date": "2025-06-25",
+                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
+                        "link": "https://www.youtube.com/watch?v=yVMw6GSbY0o",
+                        "thumbnail": "https://i2.ytimg.com/vi/yVMw6GSbY0o/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Jun 2025 | Hikmat Yang Benar",
                         "date": "2025-06-24",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry Rungkat",
                         "link": "https://www.youtube.com/watch?v=zhh62odE7eM",
                         "thumbnail": "https://i3.ytimg.com/vi/zhh62odE7eM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Jun 2025",
-                        "date": "2025-06-12",
-                        "desc": "Dibawakan oleh Sdri. Ester Juliawati",
-                        "link": "https://www.youtube.com/watch?v=ztFl1W59PVA",
-                        "thumbnail": "https://i3.ytimg.com/vi/ztFl1W59PVA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
