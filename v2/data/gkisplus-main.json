@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3778,
-        "last-update": 1750936144,
+        "update-count": 3779,
+        "last-update": 1750946965,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Jun 2025 | Bersaksi dengan Aksi",
+                        "date": "2025-06-26",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=AK87q7jNN5E",
+                        "thumbnail": "https://i2.ytimg.com/vi/AK87q7jNN5E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Jun 2025 | Belajar Menjadi Bijaksana",
                         "date": "2025-06-26",
