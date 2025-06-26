@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3777,
-        "last-update": 1750927695,
-        "last-updated-item": "agenda",
+        "update-count": 3778,
+        "last-update": 1750936144,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Jun 2025 | Belajar Menjadi Bijaksana",
+                        "date": "2025-06-26",
+                        "desc": "Dibawakan oleh Bpk. Yosua Zega",
+                        "link": "https://www.youtube.com/watch?v=v7gsTCjxSvc",
+                        "thumbnail": "https://i3.ytimg.com/vi/v7gsTCjxSvc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Jun 2025 | Berhenti Sejenak",
                         "date": "2025-06-25",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=PGY2sniXK3w",
                         "thumbnail": "https://i1.ytimg.com/vi/PGY2sniXK3w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Jun 2025 | Muliakanlah Allah dengan Tubuhmu",
-                        "date": "2025-06-13",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=zhh62odE7eM",
-                        "thumbnail": "https://i3.ytimg.com/vi/zhh62odE7eM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
