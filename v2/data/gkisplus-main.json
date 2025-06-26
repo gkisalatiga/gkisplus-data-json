@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3775,
-        "last-update": 1750900470,
+        "update-count": 3776,
+        "last-update": 1750907006,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4524,6 +4524,20 @@
                 "pic": "Natalis",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan PS. KUL untuk temu raya klasis",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-08-02",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia",
+                "status": "w",
+                "note": "Rutin bulan Agustus s/d pertengah Oktober 2025"
             }
         ],
         "backend": {
