@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3774,
-        "last-update": 1750894591,
-        "last-updated-item": "yt",
+        "update-count": 3775,
+        "last-update": 1750900470,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4481,6 +4481,48 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan dan Gladi Retreat KD",
+                "time": "15:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-06-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-06-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "08:00",
+                "time-to": "09:15",
+                "timezone": "WIB",
+                "date": "2025-06-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
                 "note": ""
             }
         ],
