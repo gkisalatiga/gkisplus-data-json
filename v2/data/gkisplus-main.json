@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3781,
-        "last-update": 1750968575,
-        "last-updated-item": "yt",
+        "update-count": 3782,
+        "last-update": 1750986929,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4419,6 +4419,34 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pengarahan Peserta Retreat KD",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-06-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Selvi Umbas ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat evaluasi BCR 2025",
+                "time": "16:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "w",
+                "note": "Minta tolong dibuatkan teh "
             }
         ],
         "backend": {
