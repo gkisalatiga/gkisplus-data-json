@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3783,
-        "last-update": 1751049145,
-        "last-updated-item": "ykb",
+        "update-count": 3784,
+        "last-update": 1751054981,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 28 Jun 2025 | Bersaksi dengan Aksi",
+                        "date": "2025-06-27",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=AK87q7jNN5E",
+                        "thumbnail": "https://i2.ytimg.com/vi/AK87q7jNN5E/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 27 Jun 2025 | Belajar Menjadi Bijaksana",
                         "date": "2025-06-26",
                         "desc": "Dibawakan oleh Bpk. Yosua Zega",
                         "link": "https://www.youtube.com/watch?v=v7gsTCjxSvc",
                         "thumbnail": "https://i3.ytimg.com/vi/v7gsTCjxSvc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Jun 2025 | Bersaksi dengan Aksi",
-                        "date": "2025-06-26",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=AK87q7jNN5E",
-                        "thumbnail": "https://i2.ytimg.com/vi/AK87q7jNN5E/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 26 Jun 2025 | Berhenti Sejenak",
