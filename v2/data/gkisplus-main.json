@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3784,
-        "last-update": 1751054981,
+        "update-count": 3785,
+        "last-update": 1751080087,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Ervien Dian W",
                         "link": "https://www.youtube.com/watch?v=5MXGn5jQMe4",
                         "thumbnail": "https://i2.ytimg.com/vi/5MXGn5jQMe4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Jun 2025 | Tidak Mencari Keuntungan Diri Sendiri",
-                        "date": "2025-06-15",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=PGY2sniXK3w",
-                        "thumbnail": "https://i1.ytimg.com/vi/PGY2sniXK3w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
