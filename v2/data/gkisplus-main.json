@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3785,
-        "last-update": 1751080087,
+        "update-count": 3787,
+        "last-update": 1751109912,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1617,6 +1617,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 29 Juni 2025",
+                    "date": "2025-06-28",
+                    "link": "https://drive.google.com/file/d/14h7ODGwaB3v9Z8ZSGerELpHAUmuSe97O/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-29-juni-2025/",
+                    "thumbnail": "",
+                    "id": "/14h7ODGwaB3v9Z8ZSGerELpHAUmuSe97O",
+                    "size": "1.20 MB"
+                },
+                {
                     "title": "Warta Jemaat 22 Juni 2025",
                     "date": "2025-06-21",
                     "link": "https://drive.google.com/file/d/1luavIxEdLkknQ5IhoxxsGSk0MAbGUh7x/view",
@@ -2032,6 +2041,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 29 Juni 2025",
+                    "date": "2025-06-28",
+                    "link": "https://drive.google.com/file/d/1EeTO5eS0TwAgX8wFY2aFWAv7QmgR9USG/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-22-juni-2025/",
+                    "thumbnail": "",
+                    "id": "1EeTO5eS0TwAgX8wFY2aFWAv7QmgR9USG",
+                    "size": "0.34 MB"
+                },
                 {
                     "title": "Tata Ibadah 22 Juni 2025",
                     "date": "2025-06-21",
@@ -3702,30 +3720,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Ibadah Padang Komisi Pemuda",
-                "type": "poster",
-                "date-created": "2025-06-21",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd.webp",
-                "title": "Retreat Keluarga Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2025-05-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_pernikahan.webp",
-                "title": "Pemberkatan dan Peneguhan Pernikahan 28 Juni",
-                "type": "poster",
-                "date-created": "2025-06-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_pernikahan.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
                 "title": "Ibadah Minggu 29 Juni",
