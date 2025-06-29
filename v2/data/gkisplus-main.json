@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3794,
-        "last-update": 1751172931,
-        "last-updated-item": "agenda",
+        "update-count": 3795,
+        "last-update": 1751184710,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Jun 2025 | Beda Cara",
+                        "date": "2025-06-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=c7IGZFQTJyk",
+                        "thumbnail": "https://i4.ytimg.com/vi/c7IGZFQTJyk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Jun 2025 | Bersaksi dengan Aksi",
                         "date": "2025-06-27",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Selvie Bernard",
                         "link": "https://www.youtube.com/watch?v=l3eEuEqbCYI",
                         "thumbnail": "https://i1.ytimg.com/vi/l3eEuEqbCYI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Jun 2025 | Tikus Itu Memang Rakus",
-                        "date": "2025-06-16",
-                        "desc": "Dibawakan oleh Pnt. Ervien Dian W",
-                        "link": "https://www.youtube.com/watch?v=5MXGn5jQMe4",
-                        "thumbnail": "https://i2.ytimg.com/vi/5MXGn5jQMe4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
