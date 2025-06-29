@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3793,
-        "last-update": 1751171910,
-        "last-updated-item": "yt",
+        "update-count": 3794,
+        "last-update": 1751172931,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4466,6 +4466,20 @@
                 "pic": "Cinta",
                 "status": "w",
                 "note": "Minta tolong dibuatkan teh "
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-12",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Dwi Handari",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
