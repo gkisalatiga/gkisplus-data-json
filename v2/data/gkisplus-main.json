@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3802,
-        "last-update": 1751275131,
-        "last-updated-item": "agenda",
+        "update-count": 3803,
+        "last-update": 1751281740,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Jul 2025 |  Apa Prioritas Dalam Hidupmu",
+                        "date": "2025-06-30",
+                        "desc": "Dibawakan oleh Pdt. Stephanus Liem",
+                        "link": "https://www.youtube.com/watch?v=hHx0KNDWV_4",
+                        "thumbnail": "https://i1.ytimg.com/vi/hHx0KNDWV_4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Jul 2025 | Hati-hati Dalam Memilih Kawan",
+                        "date": "2025-06-30",
+                        "desc": "Dibawakan oleh Bpk. Agastya Rama Listya",
+                        "link": "https://www.youtube.com/watch?v=HF6bkxI5JK0",
+                        "thumbnail": "https://i1.ytimg.com/vi/HF6bkxI5JK0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Jun 2025 | Beda Cara",
                         "date": "2025-06-29",
@@ -82,20 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=nY5-Ex6gp0k",
                         "thumbnail": "https://i3.ytimg.com/vi/nY5-Ex6gp0k/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Jun 2025 | Perbuatan Besar Allah",
-                        "date": "2025-06-18",
-                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
-                        "link": "https://www.youtube.com/watch?v=1KJUXAT6m6A",
-                        "thumbnail": "https://i2.ytimg.com/vi/1KJUXAT6m6A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Jun 2025 | Perjalanan",
-                        "date": "2025-06-17",
-                        "desc": "Dibawakan oleh Ibu Selvie Bernard",
-                        "link": "https://www.youtube.com/watch?v=l3eEuEqbCYI",
-                        "thumbnail": "https://i1.ytimg.com/vi/l3eEuEqbCYI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
