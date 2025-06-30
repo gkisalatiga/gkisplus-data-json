@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3801,
-        "last-update": 1751267835,
+        "update-count": 3802,
+        "last-update": 1751275131,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4554,6 +4554,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Komisi Remaja",
                 "pic": "Samuel Esa",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "pertemuan mhs PPL dengan Pengurus Warung  Tiberias",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
                 "status": "w",
                 "note": ""
             }
