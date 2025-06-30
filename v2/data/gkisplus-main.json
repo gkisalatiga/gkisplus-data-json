@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3800,
-        "last-update": 1751253027,
+        "update-count": 3801,
+        "last-update": 1751267835,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4540,6 +4540,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat KR",
+                "time": "16:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-06-30",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa",
                 "status": "w",
                 "note": ""
             }
