@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3809,
-        "last-update": 1751354213,
+        "update-count": 3810,
+        "last-update": 1751355704,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4299,10 +4299,10 @@
                 "date": "2025-08-12",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Ibu Ester J. ",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
