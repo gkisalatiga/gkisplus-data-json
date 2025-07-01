@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3805,
-        "last-update": 1751339756,
+        "update-count": 3806,
+        "last-update": 1751345672,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4390,6 +4390,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah X",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-12",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Ester J. ",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4446,6 +4460,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah X",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Netty",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4472,6 +4500,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah X",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Selvi",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -4570,48 +4612,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "PA Wilayah X",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-08-12",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Ibu Ester J. ",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah X",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Ibu Netty",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah X",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-23",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Ibu Selvi",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
