@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3810,
-        "last-update": 1751355704,
+        "update-count": 3811,
+        "last-update": 1751380933,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4513,6 +4513,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pengurus Komisi Dewasa ",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-07-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "w",
                 "note": ""
             }
         ],
