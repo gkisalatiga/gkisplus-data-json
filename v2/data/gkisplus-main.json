@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3806,
-        "last-update": 1751345672,
+        "update-count": 3807,
+        "last-update": 1751351027,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4110,6 +4110,20 @@
                 "note": ""
             },
             {
+                "name": "TM 1 untuk kegiatan P2B KP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-04",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4178,6 +4192,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "TM 2 kegiatan P2B KP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indry",
+                "status": "w",
+                "note": "Teh"
             },
             {
                 "name": "MPLS",
@@ -4612,6 +4640,20 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persiapan PK Wilayah 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Maria",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
