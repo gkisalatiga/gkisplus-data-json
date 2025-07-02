@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3814,
-        "last-update": 1751437412,
-        "last-updated-item": "agenda",
+        "update-count": 3815,
+        "last-update": 1751444054,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Jul 2025 | Ujian atau Sanjungan",
+                        "date": "2025-07-02",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=heB6z5B7Xps",
+                        "thumbnail": "https://i1.ytimg.com/vi/heB6z5B7Xps/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Jul 2025 |  Apa Prioritas Dalam Hidupmu",
                         "date": "2025-07-01",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Hananto Seno",
                         "link": "https://www.youtube.com/watch?v=JY32oPSO5dU",
                         "thumbnail": "https://i3.ytimg.com/vi/JY32oPSO5dU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Jun 2025 | Berkarya Dengan Roh Kudus",
-                        "date": "2025-06-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=nY5-Ex6gp0k",
-                        "thumbnail": "https://i3.ytimg.com/vi/nY5-Ex6gp0k/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
