@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3817,
-        "last-update": 1751511975,
+        "update-count": 3818,
+        "last-update": 1751515455,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4040,6 +4040,20 @@
                 "note": "-"
             },
             {
+                "name": "Workshop Panduan Pendidik dan Tenaga Kependidikan ",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-07-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "TM 1 untuk kegiatan P2B KP",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4612,20 +4626,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Workshop Panduan Pendidik dan Tenaga Kependidikan ",
-                "time": "09:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-07-03",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
