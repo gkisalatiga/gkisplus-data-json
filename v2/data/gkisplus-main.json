@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3818,
-        "last-update": 1751515455,
+        "update-count": 3819,
+        "last-update": 1751518397,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4625,6 +4625,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Awal Tahun Pelajaran",
+                "time": "07:00",
+                "time-to": "08:00",
+                "timezone": "WIB",
+                "date": "2025-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti, M.Pd",
+                "status": "w",
                 "note": ""
             }
         ],
