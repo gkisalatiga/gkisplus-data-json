@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3823,
-        "last-update": 1751526960,
-        "last-updated-item": "agenda",
+        "update-count": 3824,
+        "last-update": 1751540928,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Jul 2025 | Gembiraloka",
+                        "date": "2025-07-03",
+                        "desc": "Dibawakan oleh Ibu Prijani",
+                        "link": "https://www.youtube.com/watch?v=-hcn-6CFlgc",
+                        "thumbnail": "https://i2.ytimg.com/vi/-hcn-6CFlgc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Jul 2025 | Ujian atau Sanjungan",
                         "date": "2025-07-02",
