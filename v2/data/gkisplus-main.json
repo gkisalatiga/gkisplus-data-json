@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3816,
-        "last-update": 1751481206,
-        "last-updated-item": "ykb",
+        "update-count": 3817,
+        "last-update": 1751511975,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3942,6 +3942,34 @@
                 "note": "Minta tolong dibuatkan teh "
             },
             {
+                "name": "Rapat Pengurus Komisi Dewasa ",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-07-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik KU - Psalms",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-07-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Amici",
                 "time": "10:00",
                 "time-to": "11:30",
@@ -3970,6 +3998,48 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Pemusik KU - Psalms",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-07-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan ",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Percakapan Atestasi masuk",
+                "time": "16:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-07-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "TM 1 untuk kegiatan P2B KP",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -3982,6 +4052,34 @@
                 "pic": "Indry",
                 "status": "y",
                 "note": "Teh"
+            },
+            {
+                "name": "Latihan Pemusik KU - Psalm",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-04",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik KU - Psalms",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-07-05",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 7",
@@ -4516,74 +4614,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat Pengurus Komisi Dewasa ",
-                "time": "19:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-07-02",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia K",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik KU - Psalms",
-                "time": "16:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-07-02",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik KU - Psalms",
-                "time": "18:00",
-                "time-to": "21:00",
+                "name": "Workshop Panduan Pendidik dan Tenaga Kependidikan ",
+                "time": "09:00",
+                "time-to": "13:00",
                 "timezone": "WIB",
                 "date": "2025-07-03",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
                 "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik KU - Psalm",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-07-04",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik KU - Psalms",
-                "time": "14:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-07-05",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
+                "note": "Terima kasih "
             }
         ],
         "backend": {
