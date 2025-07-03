@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3820,
-        "last-update": 1751519971,
+        "update-count": 3821,
+        "last-update": 1751523808,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4348,7 +4348,7 @@
                 "note": "-"
             },
             {
-                "name": "Yuliyanti",
+                "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
