@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3831,
-        "last-update": 1751627334,
+        "update-count": 3832,
+        "last-update": 1751648911,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Jul 2025 | Apa Yang Anda Ucapkan?",
+                        "date": "2025-07-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=NUNXY9-LkjU",
+                        "thumbnail": "https://i3.ytimg.com/vi/NUNXY9-LkjU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Jul 2025 | Tetap Sehat Adalah Sebuah Perjuangan Spiritual",
+                        "date": "2025-07-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=WOJP9hZjJ0w",
+                        "thumbnail": "https://i4.ytimg.com/vi/WOJP9hZjJ0w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Jul 2025 | Gembiraloka",
                         "date": "2025-07-03",
@@ -82,20 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
                         "link": "https://www.youtube.com/watch?v=MfK-78R3QHw",
                         "thumbnail": "https://i2.ytimg.com/vi/MfK-78R3QHw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Jun 2025 | Iman Sebesar Biji Sesawi",
-                        "date": "2025-06-23",
-                        "desc": "Dibawakan oleh Ibu Dorothea Dyah",
-                        "link": "https://www.youtube.com/watch?v=5TkD6ZTe7L8",
-                        "thumbnail": "https://i2.ytimg.com/vi/5TkD6ZTe7L8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Jun 2025 | Bejana Iman Seorang Janda",
-                        "date": "2025-06-22",
-                        "desc": "Dibawakan oleh Ibu Claudia Andita Lazarusli",
-                        "link": "https://www.youtube.com/watch?v=UCW49kWoM9c",
-                        "thumbnail": "https://i2.ytimg.com/vi/UCW49kWoM9c/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
