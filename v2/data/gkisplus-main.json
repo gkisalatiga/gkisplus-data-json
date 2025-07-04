@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3833,
-        "last-update": 1751653910,
-        "last-updated-item": "ykb",
+        "update-count": 3834,
+        "last-update": 1751659763,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 10 Jul 2025 | Apa Yang Anda Ucapkan?",
-                        "date": "2025-07-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=NUNXY9-LkjU",
-                        "thumbnail": "https://i3.ytimg.com/vi/NUNXY9-LkjU/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 5 Jul 2025 | Tetap Sehat Adalah Sebuah Perjuangan Spiritual",
                         "date": "2025-07-04",
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=WOJP9hZjJ0w",
                         "thumbnail": "https://i4.ytimg.com/vi/WOJP9hZjJ0w/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Jul 2025 | Apa Yang Anda Ucapkan?",
+                        "date": "2025-07-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=NUNXY9-LkjU",
+                        "thumbnail": "https://i3.ytimg.com/vi/NUNXY9-LkjU/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 4 Jul 2025 | Gembiraloka",
