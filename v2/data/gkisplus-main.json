@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3828,
-        "last-update": 1751610189,
+        "update-count": 3829,
+        "last-update": 1751611905,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4061,6 +4061,20 @@
                 "note": ""
             },
             {
+                "name": "Pembukaan MPLS 2025",
+                "time": "08:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "MPLS",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4478,20 +4492,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pembukaan MPLS 2025",
-                "time": "08:30",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-07-14",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Yohana Puji Astuti",
-                "status": "w",
                 "note": ""
             }
         ],
