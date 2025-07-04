@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3827,
-        "last-update": 1751607896,
+        "update-count": 3828,
+        "last-update": 1751610189,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4478,6 +4478,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembukaan MPLS 2025",
+                "time": "08:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "w",
                 "note": ""
             }
         ],
