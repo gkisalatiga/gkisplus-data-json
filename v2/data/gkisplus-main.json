@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3836,
-        "last-update": 1751701043,
+        "update-count": 3837,
+        "last-update": 1751710057,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3750,7 +3750,7 @@
                 "title": "Kebaktian Minggu 6 Juli (Perjamuan Kudus)",
                 "type": "poster",
                 "date-created": "2025-07-04",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
