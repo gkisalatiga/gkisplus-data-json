@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3837,
-        "last-update": 1751710057,
-        "last-updated-item": "yt",
+        "update-count": 3838,
+        "last-update": 1751718482,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4059,34 +4059,6 @@
                 "note": "-"
             },
             {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-08",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "c",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-08",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "c",
-                "note": ""
-            },
-            {
                 "name": "TM 2 kegiatan P2B KP",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4267,20 +4239,6 @@
                 "pic": "Pnt. Catur",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "PA Wil.2/8",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-22",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Lukas",
-                "status": "n",
-                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
