@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3834,
-        "last-update": 1751659763,
+        "update-count": 3835,
+        "last-update": 1751692014,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1624,6 +1624,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 6 Juli 2025",
+                    "date": "2025-07-05",
+                    "link": "https://drive.google.com/file/d/1xtVyOx1oBtOQmSmzYmGgdJDZei8EuKZ-/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-6-juli-2025/",
+                    "thumbnail": "",
+                    "id": "/1xtVyOx1oBtOQmSmzYmGgdJDZei8EuKZ",
+                    "size": "1.30 MB"
+                },
+                {
                     "title": "Warta Jemaat 29 Juni 2025",
                     "date": "2025-06-28",
                     "link": "https://drive.google.com/file/d/14h7ODGwaB3v9Z8ZSGerELpHAUmuSe97O/view",
@@ -2048,6 +2057,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 6 Juli 2025",
+                    "date": "2025-07-05",
+                    "link": "https://drive.google.com/file/d/1kPXmtX7q3tr3DiipmXUsoM94M6_bxZMr/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-6-juli-2025/",
+                    "thumbnail": "",
+                    "id": "1kPXmtX7q3tr3DiipmXUsoM94M6_bxZMr",
+                    "size": "0.97 MB"
+                },
                 {
                     "title": "Tata Ibadah 29 Juni 2025",
                     "date": "2025-06-28",
