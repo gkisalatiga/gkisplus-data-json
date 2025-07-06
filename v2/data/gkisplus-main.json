@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3839,
-        "last-update": 1751740178,
-        "last-updated-item": "ykb",
+        "update-count": 3840,
+        "last-update": 1751771537,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4533,6 +4533,20 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah V",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-08-19",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "DP - wilayah V",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
