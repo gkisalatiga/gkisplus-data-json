@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3843,
-        "last-update": 1751826638,
-        "last-updated-item": "ykb",
+        "update-count": 3844,
+        "last-update": 1751832534,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Jul 2025 | Satu Dalam Kristus",
+                        "date": "2025-07-06",
+                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=3kivSmrNp-k",
+                        "thumbnail": "https://i4.ytimg.com/vi/3kivSmrNp-k/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Jul 2025 | Diam Itu Juga Aksi",
+                        "date": "2025-07-06",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
+                        "link": "https://www.youtube.com/watch?v=LeyTvKYMTFE",
+                        "thumbnail": "https://i1.ytimg.com/vi/LeyTvKYMTFE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Jul 2025 | Tetap Sehat Adalah Sebuah Perjuangan Spiritual",
                         "date": "2025-07-04",
@@ -82,20 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Yosua Zega",
                         "link": "https://www.youtube.com/watch?v=v7gsTCjxSvc",
                         "thumbnail": "https://i3.ytimg.com/vi/v7gsTCjxSvc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Jun 2025 | Berhenti Sejenak",
-                        "date": "2025-06-25",
-                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
-                        "link": "https://www.youtube.com/watch?v=yVMw6GSbY0o",
-                        "thumbnail": "https://i2.ytimg.com/vi/yVMw6GSbY0o/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Jun 2025 | Hikmat Yang Benar",
-                        "date": "2025-06-24",
-                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=MfK-78R3QHw",
-                        "thumbnail": "https://i2.ytimg.com/vi/MfK-78R3QHw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
