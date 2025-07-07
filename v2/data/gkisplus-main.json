@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3844,
-        "last-update": 1751832534,
-        "last-updated-item": "yt",
+        "update-count": 3845,
+        "last-update": 1751851173,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4547,6 +4547,20 @@
                 "pic": "DP - wilayah V",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Pertemuan Karyawan YPE",
+                "time": "11:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-07-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
