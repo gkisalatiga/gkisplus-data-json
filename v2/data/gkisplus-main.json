@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3848,
-        "last-update": 1751913198,
-        "last-updated-item": "ykb",
+        "update-count": 3849,
+        "last-update": 1751918993,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 8 Jul 2025 | Diam Itu Juga Aksi",
+                        "date": "2025-07-07",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
+                        "link": "https://www.youtube.com/watch?v=LeyTvKYMTFE",
+                        "thumbnail": "https://i1.ytimg.com/vi/LeyTvKYMTFE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 7 Jul 2025 | Satu Dalam Kristus",
                         "date": "2025-07-06",
                         "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
                         "link": "https://www.youtube.com/watch?v=3kivSmrNp-k",
                         "thumbnail": "https://i4.ytimg.com/vi/3kivSmrNp-k/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Jul 2025 | Diam Itu Juga Aksi",
-                        "date": "2025-07-06",
-                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
-                        "link": "https://www.youtube.com/watch?v=LeyTvKYMTFE",
-                        "thumbnail": "https://i1.ytimg.com/vi/LeyTvKYMTFE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 5 Jul 2025 | Tetap Sehat Adalah Sebuah Perjuangan Spiritual",
