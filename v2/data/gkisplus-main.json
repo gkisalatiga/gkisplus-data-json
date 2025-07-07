@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3846,
-        "last-update": 1751857833,
+        "update-count": 3847,
+        "last-update": 1751872658,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4353,6 +4353,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wil 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-05",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Yohanes Yuwono",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4449,6 +4463,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Ady Indria Wil 9",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
