@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3850,
-        "last-update": 1751955789,
+        "update-count": 3851,
+        "last-update": 1751958978,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4115,6 +4115,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan pemusik Minggu, 13 Juni 2025",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-07-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan Karyawan YPE",
                 "time": "11:00",
                 "time-to": "15:00",
@@ -4363,7 +4377,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Yohanes Yuwono",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4644,20 +4658,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik Minggu, 13 Juni 2025",
-                "time": "10:00",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2025-07-09",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta ",
-                "status": "w",
                 "note": ""
             }
         ],
