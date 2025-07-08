@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3852,
-        "last-update": 1751960435,
-        "last-updated-item": "agenda",
+        "update-count": 3853,
+        "last-update": 1751972958,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Juli 2025 | Semakin Kuat Berjalan Bersama",
+                        "date": "2025-07-08",
+                        "desc": "Dibawakan oleh Sdri. Daniella Christy",
+                        "link": "https://www.youtube.com/watch?v=3TdfaqxqLsE",
+                        "thumbnail": "https://i4.ytimg.com/vi/3TdfaqxqLsE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Juli 2025 | Hidup Dalam Damai dan Pengampunan",
+                        "date": "2025-07-08",
+                        "desc": "Dibawakan oleh Sdri. Chrisandy",
+                        "link": "https://www.youtube.com/watch?v=befpzsGtfYg",
+                        "thumbnail": "https://i3.ytimg.com/vi/befpzsGtfYg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Jul 2025 | Diam Itu Juga Aksi",
                         "date": "2025-07-07",
@@ -82,20 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=c7IGZFQTJyk",
                         "thumbnail": "https://i4.ytimg.com/vi/c7IGZFQTJyk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Jun 2025 | Bersaksi dengan Aksi",
-                        "date": "2025-06-27",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=AK87q7jNN5E",
-                        "thumbnail": "https://i2.ytimg.com/vi/AK87q7jNN5E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Jun 2025 | Belajar Menjadi Bijaksana",
-                        "date": "2025-06-26",
-                        "desc": "Dibawakan oleh Bpk. Yosua Zega",
-                        "link": "https://www.youtube.com/watch?v=v7gsTCjxSvc",
-                        "thumbnail": "https://i3.ytimg.com/vi/v7gsTCjxSvc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
