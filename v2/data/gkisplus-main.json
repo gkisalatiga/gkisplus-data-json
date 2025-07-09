@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3860,
-        "last-update": 1752064328,
+        "update-count": 3861,
+        "last-update": 1752067825,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4567,6 +4567,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Elibert",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 13 Juli 2025",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
                 "status": "w",
                 "note": ""
             }
