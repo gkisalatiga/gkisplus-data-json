@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3858,
-        "last-update": 1752042949,
-        "last-updated-item": "ykb",
+        "update-count": 3859,
+        "last-update": 1752049278,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4011,6 +4011,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ Bidang 1",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "MPLS",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4526,6 +4540,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat tim sarpras ype",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-07-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "YPE",
+                "status": "w",
                 "note": ""
             }
         ],
