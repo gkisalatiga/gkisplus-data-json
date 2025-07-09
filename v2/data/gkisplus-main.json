@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3859,
-        "last-update": 1752049278,
+        "update-count": 3860,
+        "last-update": 1752064328,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4553,6 +4553,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "YPE",
                 "pic": "YPE",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Elibert",
                 "status": "w",
                 "note": ""
             }
