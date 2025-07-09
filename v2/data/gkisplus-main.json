@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3856,
-        "last-update": 1752030478,
+        "update-count": 3857,
+        "last-update": 1752033933,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4233,6 +4233,20 @@
                 "pic": "Yohanes Yuwono",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA WIlayah 5",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-08-05",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bp. Hari Budi Cahyono",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
