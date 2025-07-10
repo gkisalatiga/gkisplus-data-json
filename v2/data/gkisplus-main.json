@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3869,
-        "last-update": 1752172409,
-        "last-updated-item": "ykb",
+        "update-count": 3870,
+        "last-update": 1752178185,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 11 Juli 2025 | Semakin Kuat Berjalan Bersama",
+                        "date": "2025-07-10",
+                        "desc": "Dibawakan oleh Sdri. Daniella Christy",
+                        "link": "https://www.youtube.com/watch?v=3TdfaqxqLsE",
+                        "thumbnail": "https://i4.ytimg.com/vi/3TdfaqxqLsE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 10 Jul 2025 | Apa Yang Anda Ucapkan?",
                         "date": "2025-07-09",
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Sdri. Chrisandy",
                         "link": "https://www.youtube.com/watch?v=befpzsGtfYg",
                         "thumbnail": "https://i3.ytimg.com/vi/befpzsGtfYg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Juli 2025 | Semakin Kuat Berjalan Bersama",
-                        "date": "2025-07-08",
-                        "desc": "Dibawakan oleh Sdri. Daniella Christy",
-                        "link": "https://www.youtube.com/watch?v=3TdfaqxqLsE",
-                        "thumbnail": "https://i4.ytimg.com/vi/3TdfaqxqLsE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 8 Jul 2025 | Diam Itu Juga Aksi",
