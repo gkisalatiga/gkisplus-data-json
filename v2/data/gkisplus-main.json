@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3863,
-        "last-update": 1752091771,
-        "last-updated-item": "yt",
+        "update-count": 3864,
+        "last-update": 1752120293,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4025,6 +4025,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat tim sarpras ype",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-07-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "YPE",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 13 Juli 2025",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "MPLS",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4106,6 +4134,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4540,48 +4582,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat tim sarpras ype",
-                "time": "09:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-07-10",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "YPE",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-15",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik minggu, 13 Juli 2025",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-07-11",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "w",
                 "note": ""
             }
         ],
