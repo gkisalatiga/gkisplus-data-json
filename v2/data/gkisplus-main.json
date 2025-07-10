@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3866,
-        "last-update": 1752131806,
+        "update-count": 3867,
+        "last-update": 1752133245,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4068,7 +4068,7 @@
             },
             {
                 "name": "Latihan pemusik minggu, 13 Juli 2025",
-                "time": "17:00",
+                "time": "18:30",
                 "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2025-07-11",
@@ -4077,7 +4077,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Cinta",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
