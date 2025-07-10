@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3864,
-        "last-update": 1752120293,
+        "update-count": 3865,
+        "last-update": 1752130333,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4582,6 +4582,34 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik minggu, 13 Juli 2025",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik English Service",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
