@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3867,
-        "last-update": 1752133245,
+        "update-count": 3868,
+        "last-update": 1752154276,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4610,6 +4610,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Kegiatan P2B KP (Pembukaan)",
+                "time": "08:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-07-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indryy",
+                "status": "w",
                 "note": ""
             }
         ],
