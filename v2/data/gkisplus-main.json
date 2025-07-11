@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3874,
-        "last-update": 1752258788,
-        "last-updated-item": "ykb",
+        "update-count": 3875,
+        "last-update": 1752264602,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 15 Juli 2025 | Sentuhan Midas",
-                        "date": "2025-07-11",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=sbxCLGIxhdc",
-                        "thumbnail": "https://i4.ytimg.com/vi/sbxCLGIxhdc/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 12 Juli 2025 | Kerendahan Hati",
                         "date": "2025-07-11",
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=2yBwVhcDa8E",
                         "thumbnail": "https://i3.ytimg.com/vi/2yBwVhcDa8E/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Juli 2025 | Sentuhan Midas",
+                        "date": "2025-07-11",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=sbxCLGIxhdc",
+                        "thumbnail": "https://i4.ytimg.com/vi/sbxCLGIxhdc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 14 Juli 2025 | Ucapan Syukur Membuka Pintu Berkat",
