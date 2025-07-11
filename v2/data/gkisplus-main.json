@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3871,
-        "last-update": 1752226020,
-        "last-updated-item": "ykb",
+        "update-count": 3872,
+        "last-update": 1752243039,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,27 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Juli 2025 | Sentuhan Midas",
+                        "date": "2025-07-11",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=sbxCLGIxhdc",
+                        "thumbnail": "https://i4.ytimg.com/vi/sbxCLGIxhdc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Juli 2025 | Kerendahan Hati",
+                        "date": "2025-07-11",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=2yBwVhcDa8E",
+                        "thumbnail": "https://i3.ytimg.com/vi/2yBwVhcDa8E/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Juli 2025 | Ucapan Syukur Membuka Pintu Berkat",
+                        "date": "2025-07-11",
+                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=OCim-C3hsY4",
+                        "thumbnail": "https://i4.ytimg.com/vi/OCim-C3hsY4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Juli 2025 | Semakin Kuat Berjalan Bersama",
                         "date": "2025-07-10",
@@ -89,13 +110,6 @@
                         "desc": "Dibawakan oleh Bpk. Agastya Rama Listya",
                         "link": "https://www.youtube.com/watch?v=HF6bkxI5JK0",
                         "thumbnail": "https://i1.ytimg.com/vi/HF6bkxI5JK0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Jun 2025 | Beda Cara",
-                        "date": "2025-06-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=c7IGZFQTJyk",
-                        "thumbnail": "https://i4.ytimg.com/vi/c7IGZFQTJyk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
