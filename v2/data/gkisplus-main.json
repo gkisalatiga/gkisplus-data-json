@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3872,
-        "last-update": 1752243039,
-        "last-updated-item": "yt",
+        "update-count": 3873,
+        "last-update": 1752245025,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4637,6 +4637,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Indryy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk hari minggu, 13 Juli 2025",
+                "time": "14:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-07-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
                 "status": "w",
                 "note": ""
             }
