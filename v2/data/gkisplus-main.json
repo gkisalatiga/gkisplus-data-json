@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3876,
-        "last-update": 1752265069,
+        "update-count": 3877,
+        "last-update": 1752307738,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1638,6 +1638,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 13 Juli 2025",
+                    "date": "2025-07-12",
+                    "link": "https://drive.google.com/file/d/14Zyx691ZbuWMDYpX6TD-SFdC8_91kGuJ/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-13-juli-2025/",
+                    "thumbnail": "",
+                    "id": "/14Zyx691ZbuWMDYpX6TD-SFdC8_91kGuJ",
+                    "size": "1.80 MB"
+                },
+                {
                     "title": "Warta Jemaat 6 Juli 2025",
                     "date": "2025-07-05",
                     "link": "https://drive.google.com/file/d/1xtVyOx1oBtOQmSmzYmGgdJDZei8EuKZ-/view",
@@ -2071,6 +2080,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 13 Juli 2025",
+                    "date": "2025-07-12",
+                    "link": "https://drive.google.com/file/d/1j3HcpgAT9Ho1-tmWK87ZzSVA3ZsIBfwT/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-13-juli-2025/",
+                    "thumbnail": "",
+                    "id": "1j3HcpgAT9Ho1-tmWK87ZzSVA3ZsIBfwT",
+                    "size": "0.71 MB"
+                },
                 {
                     "title": "Tata Ibadah 6 Juli 2025",
                     "date": "2025-07-05",
