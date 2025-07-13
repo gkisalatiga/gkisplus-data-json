@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3882,
-        "last-update": 1752415698,
-        "last-updated-item": "yt",
+        "update-count": 3883,
+        "last-update": 1752417638,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4648,6 +4648,20 @@
                 "pic": "Cinta",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pembangunan ",
+                "time": "11:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
