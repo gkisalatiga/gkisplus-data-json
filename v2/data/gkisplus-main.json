@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3887,
-        "last-update": 1752463031,
+        "update-count": 3888,
+        "last-update": 1752467084,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4244,6 +4244,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pengurus Wil.2/8",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-07-16",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Pnt. Sri Yuniwati",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Ibadah Pembukaan Tahun Pelajaran 2025/2026",
                 "time": "07:00",
                 "time-to": "09:30",
@@ -4661,20 +4675,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Pengurus Wil.2/8",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-07-16",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Pnt. Sri Yuniwati",
-                "status": "w",
                 "note": ""
             }
         ],
