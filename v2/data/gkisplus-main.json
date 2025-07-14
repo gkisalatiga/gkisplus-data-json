@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3889,
-        "last-update": 1752478969,
+        "update-count": 3890,
+        "last-update": 1752491664,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4676,6 +4676,20 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat panitia pembekalan pengurus baru",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa ",
+                "status": "w",
+                "note": "tambah teh dan gelas"
             }
         ],
         "backend": {
