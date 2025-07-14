@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3886,
-        "last-update": 1752437338,
-        "last-updated-item": "yt",
+        "update-count": 3887,
+        "last-update": 1752463031,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4090,6 +4090,34 @@
                 "note": ""
             },
             {
+                "name": "Kegiatan P2B KP (Pembukaan)",
+                "time": "08:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-07-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Indryy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk hari minggu, 13 Juli 2025",
+                "time": "14:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-07-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "MPLS",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4130,6 +4158,20 @@
                 "pic": "Yohana Puji Astuti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pembangunan ",
+                "time": "11:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
             },
             {
                 "name": "MPLS",
@@ -4622,46 +4664,18 @@
                 "note": ""
             },
             {
-                "name": "Kegiatan P2B KP (Pembukaan)",
-                "time": "08:00",
-                "time-to": "12:00",
+                "name": "Rapat Pengurus Wil.2/8",
+                "time": "17:00",
+                "time-to": "18:00",
                 "timezone": "WIB",
-                "date": "2025-07-11",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Indryy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik untuk hari minggu, 13 Juli 2025",
-                "time": "14:00",
-                "time-to": "17:00",
-                "timezone": "WIB",
-                "date": "2025-07-12",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Pembangunan ",
-                "time": "11:00",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2025-07-14",
-                "weekday": "mon",
+                "date": "2025-07-16",
+                "weekday": "wed",
                 "type": "proposal",
                 "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
+                "representative": "Wilayah",
+                "pic": "Pnt. Sri Yuniwati",
                 "status": "w",
-                "note": "Terima kasih "
+                "note": ""
             }
         ],
         "backend": {
