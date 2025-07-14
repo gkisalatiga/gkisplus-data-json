@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3888,
-        "last-update": 1752467084,
+        "update-count": 3889,
+        "last-update": 1752478969,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4254,7 +4254,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Pnt. Sri Yuniwati",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
