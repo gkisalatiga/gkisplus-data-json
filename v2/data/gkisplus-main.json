@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3891,
-        "last-update": 1752518187,
-        "last-updated-item": "ykb",
+        "update-count": 3892,
+        "last-update": 1752523818,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 15 Juli 2025 | Sentuhan Midas",
+                        "date": "2025-07-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=sbxCLGIxhdc",
+                        "thumbnail": "https://i4.ytimg.com/vi/sbxCLGIxhdc/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 14 Juli 2025 | Ucapan Syukur Membuka Pintu Berkat",
                         "date": "2025-07-13",
                         "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=2yBwVhcDa8E",
                         "thumbnail": "https://i3.ytimg.com/vi/2yBwVhcDa8E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Juli 2025 | Sentuhan Midas",
-                        "date": "2025-07-11",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=sbxCLGIxhdc",
-                        "thumbnail": "https://i4.ytimg.com/vi/sbxCLGIxhdc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 11 Juli 2025 | Semakin Kuat Berjalan Bersama",
