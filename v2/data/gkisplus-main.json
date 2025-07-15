@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3895,
-        "last-update": 1752562402,
+        "update-count": 3896,
+        "last-update": 1752563920,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4708,6 +4708,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "YPE",
                 "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan tim musik Chronicles",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
                 "status": "w",
                 "note": ""
             }
