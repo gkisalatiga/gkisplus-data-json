@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3894,
-        "last-update": 1752549317,
+        "update-count": 3895,
+        "last-update": 1752562402,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4694,6 +4694,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "rapat kerja bersama pengurus, dirlak, kepala sekolah dan wakil kepala sekolah",
+                "time": "08:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-07-19",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
                 "status": "w",
                 "note": ""
             }
