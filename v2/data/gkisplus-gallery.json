@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 35,
-        "last-update": 1752391373,
+        "update-count": 36,
+        "last-update": 1752544393,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -19416,10 +19416,10 @@
                 },
                 {
                     "folder_id": "1DyN29775OO-eU_gmHA1oHy8YZDLIIIVD",
-                    "last_update": "2025-07-13",
+                    "last_update": "2025-07-15",
                     "featured_photo_id": "1bB39vqt8YILK7A_ImCkHTxoNoqhGqXn1",
-                    "story": "Foto-foto dokumentasi Ibadah Padang Komisi Pemuda yang dilaksanakan pada 27 Juni 2025.",
-                    "title": "Ibadah Padang Komisi Pemuda",
+                    "story": "Foto-foto dokumentasi Ibadah Padang Komisi Pemuda, 27 Juni yang dilaksanakan pada 27 Juni 2025.",
+                    "title": "Ibadah Padang Komisi Pemuda, 27 Juni",
                     "event_date": "2025.06.27",
                     "photos": [
                         {
@@ -19556,10 +19556,10 @@
                 },
                 {
                     "folder_id": "13bOPAlaoZtnya5_BytcirW6FQAE9JEc2",
-                    "last_update": "2025-07-13",
+                    "last_update": "2025-07-15",
                     "featured_photo_id": "1rFgyUxGitPc27A3K42KkVkiC7tD2e3Qg",
-                    "story": "Foto-foto dokumentasi Retret Komisi Dewasa yang dilaksanakan pada 28 Juni 2025.",
-                    "title": "Retret Komisi Dewasa",
+                    "story": "Foto-foto dokumentasi Retret Komisi Dewasa, 28 Juni yang dilaksanakan pada 28 Juni 2025.",
+                    "title": "Retret Komisi Dewasa, 28 Juni",
                     "event_date": "2025.06.28",
                     "photos": [
                         {
@@ -19981,6 +19981,66 @@
                             "id": "1oX8sbULSLn6y5pBvxGElYpc1MOHyv4Wz",
                             "name": "GKI PERJAMUAN KUDUS (6 Juli 2025) (Derryl) (64).JPG",
                             "date": "2025-07-13"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1t_2-JQE_NcH0l_hSVHx_CcIVZx15-Uyx",
+                    "last_update": "2025-07-15",
+                    "featured_photo_id": "1AZc5kkMDYVvpRPhe2T5GB5s8suDqIf39",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 13 Juli yang dilaksanakan pada 13 Juli 2025.",
+                    "title": "Ibadah Minggu, 13 Juli",
+                    "event_date": "2025.07.13",
+                    "photos": [
+                        {
+                            "id": "1IAU12KryCuC-wO7dVZqdOwTfZT9p6U22",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (2).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "1K8X5C3xcdOu23dk05OqsJhs586TG5xmj",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (4).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "17rmaCUaR0fi8-trihcsRpCfSwC2SM28c",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (14).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "1dA8LnmHF2qep9P7dUI-MqNJnCHcLNNGq",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (12).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "1PwmnzRlQDtur80vwarUdC1QtUen20xzb",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (8).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "10-c2QbBdmz1Q2FPrqDjIFK8TvIb_cnMo",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (1).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "10-0NnCX5VFS_55EO-LHul6d1cPubncAH",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (5).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "1BpISzfhUGR78Bm8jNtpuXPHBoXSZKmX9",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (16).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "1w2BWsNs0z6W1HwfbiX35SQEzDJabvcu9",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (6).JPG",
+                            "date": "2025-07-15"
+                        },
+                        {
+                            "id": "19VcRIqXYWw0lv2FCVux6pUmsrzz3NwL7",
+                            "name": "GKI Salatiga 13 Juli 2025 (Derryl) (11).JPG",
+                            "date": "2025-07-15"
                         }
                     ]
                 }
