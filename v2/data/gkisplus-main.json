@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3896,
-        "last-update": 1752563920,
+        "update-count": 3897,
+        "last-update": 1752567707,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4222,6 +4222,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat panitia pembekalan pengurus baru",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa ",
+                "status": "w",
+                "note": "tambah teh dan gelas"
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:45",
+                "time-to": "10:45",
+                "timezone": "WIB",
+                "date": "2025-07-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "MPLS",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4261,6 +4289,34 @@
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Novita Sari",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan tim musik Chronicles",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "rapat kerja bersama pengurus, dirlak, kepala sekolah dan wakil kepala sekolah",
+                "time": "08:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-07-19",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4667,62 +4723,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat panitia pembekalan pengurus baru",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-07-15",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel Esa ",
-                "status": "w",
-                "note": "tambah teh dan gelas"
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "09:45",
-                "time-to": "10:45",
-                "timezone": "WIB",
-                "date": "2025-07-15",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "rapat kerja bersama pengurus, dirlak, kepala sekolah dan wakil kepala sekolah",
-                "time": "08:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2025-07-19",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan tim musik Chronicles",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-07-17",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
                 "note": ""
             }
         ],
