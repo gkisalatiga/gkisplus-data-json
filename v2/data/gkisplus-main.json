@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3899,
-        "last-update": 1752579525,
-        "last-updated-item": "agenda",
+        "update-count": 3900,
+        "last-update": 1752599391,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
                         "link": "https://www.youtube.com/watch?v=heB6z5B7Xps",
                         "thumbnail": "https://i1.ytimg.com/vi/heB6z5B7Xps/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Jul 2025 |  Apa Prioritas Dalam Hidupmu",
-                        "date": "2025-07-01",
-                        "desc": "Dibawakan oleh Pdt. Stephanus Liem",
-                        "link": "https://www.youtube.com/watch?v=hHx0KNDWV_4",
-                        "thumbnail": "https://i1.ytimg.com/vi/hHx0KNDWV_4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -503,6 +496,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN Komisi Usia Lanjut | 17 Juli 2025 | \u201cMASA TUA YANG PENUH KEBIJAKSANAAN\u201d",
+                        "date": "2025-07-15",
+                        "desc": "PERSEKUTUAN KOMISI USIA LANJUT\nKamis, 17 Juli 2025 | Pukul 16.00 WIB\n\nTema : \u201cMASA TUA YANG PENUH KEBIJAKSANAAN\u201d\nPelayan Firman : ibu Liana Poedjihastuti\n\nMJP : Pnt. Juliani\nMusik : Ibu Retty\nPnk : Ibu Hana\nPaduan Suara : PS. Efrata\nMultimedia : Joshua, Risti, Iwandi, Bayu\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=x_RtmZ4NZzU",
+                        "thumbnail": "https://i.ytimg.com/vi/x_RtmZ4NZzU/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "PERSEKUTUAN Komisi Usia Lanjut | 19 Juni 2025 | Tangan yang Tetap Siap Melayani",
                         "date": "2025-06-16",
                         "desc": "PERSEKUTUAN KOMISI USIA LANJUT\nKamis, 19 Juni 2025 | Pukul 16.00 WIB\n\nTema : \u201cTangan yang Tetap Siap Melayani\"\nPelayan Firman : Sdr. Hosea Mahanaim\n\nMJP : Pnt. Juliani\nMusik : Ibu Retty\nPnk : Ibu Hana\nPaduan Suara : PS. Efrata\nMultimedia : Joshua, Risti, Iwandi, Bayu\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -704,13 +704,6 @@
                         "desc": "Persekutuan Bulanan Usia Lanjut GKI Salatiga :  Berkarya Bagi Tuhan\nKamis, 19 Januari 2023\npukul 16.00 WIB \n\nPdt. Em. Iman Santoso\n\nOrganis : Angeline \u2502 Voice : Margriet + Vica \u2502 PPT : I Made Satya Arnawa | OBS : Tunggul Laras\u2502 Sound : Tonny Harnoto",
                         "link": "https://www.youtube.com/watch?v=dm1CsBEvZ60",
                         "thumbnail": "https://i.ytimg.com/vi/dm1CsBEvZ60/hqdefault.jpg"
-                    },
-                    {
-                        "title": "IBADAH NATAL USIA LANJUT GKI SALATIGA | Kemuliaan Manusia Natal",
-                        "date": "2022-12-28",
-                        "desc": "Ibadah Natal Usia Lanjut GKI Salatiga :  Kemuliaan Manusia Natal\nRabu, 28 Desember 2022 \npukul 16.00 WIB \n\nPF : Pdt Helen Ruth Manurung\nMJ : Pnt. Nadia Sitaresmi\nOrganis : Natalis, Reina \u2502Voice : Vica \u2502 Sound :  Tony H \u2502 PPT : Evelina P \u2502\nOBS : Ryan Bagas\u2502 Kamerawan: Iwandi",
-                        "link": "https://www.youtube.com/watch?v=O3Sk_0j-GIk",
-                        "thumbnail": "https://i.ytimg.com/vi/O3Sk_0j-GIk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
