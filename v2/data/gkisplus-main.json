@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3908,
-        "last-update": 1752664149,
+        "update-count": 3909,
+        "last-update": 1752685950,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Jul 2025 | Kasih yang Tulus dan Pelayanan yang Maksimal",
+                        "date": "2025-07-16",
+                        "desc": "Dibawakan oleh Sdri. Jena Ariantje Taopan",
+                        "link": "https://www.youtube.com/watch?v=UDe75ANi3B0",
+                        "thumbnail": "https://i2.ytimg.com/vi/UDe75ANi3B0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |16 Jul 2025 | Anugerah Ketidaksempurnaan",
                         "date": "2025-07-15",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=WOJP9hZjJ0w",
                         "thumbnail": "https://i4.ytimg.com/vi/WOJP9hZjJ0w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Jul 2025 | Gembiraloka",
-                        "date": "2025-07-03",
-                        "desc": "Dibawakan oleh Ibu Prijani",
-                        "link": "https://www.youtube.com/watch?v=-hcn-6CFlgc",
-                        "thumbnail": "https://i2.ytimg.com/vi/-hcn-6CFlgc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
