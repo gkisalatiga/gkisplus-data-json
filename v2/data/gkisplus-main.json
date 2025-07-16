@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3906,
-        "last-update": 1752641797,
+        "update-count": 3907,
+        "last-update": 1752651733,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4555,6 +4555,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Momen Sukacita ",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
                 "note": ""
             }
         ],
