@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3904,
-        "last-update": 1752628709,
+        "update-count": 3905,
+        "last-update": 1752635601,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4404,6 +4404,20 @@
                 "note": "-"
             },
             {
+                "name": "PA WIl. 2/8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Bp. Lukas",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4502,6 +4516,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-12",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4530,6 +4558,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-19",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4542,6 +4584,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-26",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -4569,6 +4625,20 @@
                 "representative": "Wilayah",
                 "pic": "Bu Ady Indria Wil 9",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
                 "note": "-"
             },
             {
@@ -4600,6 +4670,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4612,6 +4696,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -4639,6 +4737,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Selvi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
                 "note": "-"
             },
             {
@@ -4740,72 +4852,16 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 7",
+                "name": "Rapat BPH",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-08-12",
-                "weekday": "tue",
+                "date": "2025-07-16",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-08-19",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-08-26",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-09-02",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-09-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Susetyo Rini",
                 "status": "w",
                 "note": ""
             }
