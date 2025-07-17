@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3910,
-        "last-update": 1752690910,
-        "last-updated-item": "ykb",
+        "update-count": 3911,
+        "last-update": 1752738100,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4568,6 +4568,20 @@
                 "name": "Rapat Tim Momen Sukacita ",
                 "time": "18:00",
                 "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Momen Special ",
+                "time": "18:00",
+                "time-to": "19:15",
                 "timezone": "WIB",
                 "date": "2025-07-17",
                 "weekday": "thu",
