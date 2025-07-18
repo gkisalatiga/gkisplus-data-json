@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3917,
-        "last-update": 1752826904,
+        "update-count": 3918,
+        "last-update": 1752830399,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4493,6 +4493,20 @@
                 "pic": "Dwi Handari",
                 "status": "y",
                 "note": "Ruang Betlehem untuk tempat konsumsi, minta disiapkan teh  sekitar 45-50 gelas"
+            },
+            {
+                "name": "Rapat Tim Sinar",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-07-19",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
