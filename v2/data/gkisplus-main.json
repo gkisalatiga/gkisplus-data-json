@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3918,
-        "last-update": 1752830399,
-        "last-updated-item": "agenda",
+        "update-count": 3919,
+        "last-update": 1752847872,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Jul 2025 | Membangun Keluarga Bahagia",
+                        "date": "2025-07-18",
+                        "desc": "Dibawakan oleh Sdr. Alessandro S",
+                        "link": "https://www.youtube.com/watch?v=KfERSivRj7s",
+                        "thumbnail": "https://i4.ytimg.com/vi/KfERSivRj7s/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Jul 2025 | God is Good All the Time, All the Time God is Good",
                         "date": "2025-07-17",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
                         "link": "https://www.youtube.com/watch?v=LeyTvKYMTFE",
                         "thumbnail": "https://i1.ytimg.com/vi/LeyTvKYMTFE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Jul 2025 | Satu Dalam Kristus",
-                        "date": "2025-07-06",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=3kivSmrNp-k",
-                        "thumbnail": "https://i4.ytimg.com/vi/3kivSmrNp-k/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
