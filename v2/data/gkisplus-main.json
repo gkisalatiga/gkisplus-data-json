@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3916,
-        "last-update": 1752811921,
+        "update-count": 3917,
+        "last-update": 1752826904,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4479,6 +4479,20 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Tata Cara Pemulasaran Jenasah",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Dwi Handari",
+                "status": "y",
+                "note": "Ruang Betlehem untuk tempat konsumsi, minta disiapkan teh  sekitar 45-50 gelas"
             }
         ],
         "backend": {
