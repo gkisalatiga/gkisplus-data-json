@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3915,
-        "last-update": 1752808485,
+        "update-count": 3916,
+        "last-update": 1752811921,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3949,86 +3949,16 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "MPLS",
-                "time": "07:00",
+                "name": "Latihan Amici",
+                "time": "09:45",
                 "time-to": "11:00",
                 "timezone": "WIB",
-                "date": "2025-07-16",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Novita Sari",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Pengurus Wil.2/8",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-07-16",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Pnt. Sri Yuniwati",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan BenKA untuk ibadah HAN",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-07-16",
-                "weekday": "wed",
+                "date": "2025-07-18",
+                "weekday": "fri",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat BPH",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-16",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Susetyo Rini",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Ibadah Pembukaan Tahun Pelajaran 2025/2026",
-                "time": "07:00",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2025-07-17",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Novita Sari",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan tim musik Chronicles",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-07-17",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "status": "y",
                 "note": ""
             },
@@ -4085,7 +4015,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Pnt. Catur",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4103,7 +4033,7 @@
                 "note": ""
             },
             {
-                "name": "PA Wil.2/8",
+                "name": "PA WIl. 2/8",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -4112,22 +4042,8 @@
                 "type": "proposal",
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
-                "pic": "Lukas",
-                "status": "n",
-                "note": "-"
-            },
-            {
-                "name": "PA WIl. 2/8",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-22",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Wilayah",
                 "pic": "Bp. Lukas",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4562,48 +4478,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Momen Sukacita ",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-07-17",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Nathalia A",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Momen Special ",
-                "time": "18:00",
-                "time-to": "19:15",
-                "timezone": "WIB",
-                "date": "2025-07-17",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Nathalia A",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "09:45",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-07-18",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
                 "note": ""
             }
         ],
