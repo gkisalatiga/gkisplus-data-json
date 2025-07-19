@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3923,
-        "last-update": 1752900657,
+        "update-count": 3924,
+        "last-update": 1752907816,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4513,6 +4513,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan BenKA untuk Ibadah HAN",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
                 "note": ""
             }
         ],
