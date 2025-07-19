@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3922,
-        "last-update": 1752897876,
+        "update-count": 3923,
+        "last-update": 1752900657,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3970,6 +3970,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Sinar",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-07-19",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Technical Meeting Retret KML 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-20",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Cinta",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 10",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4038,6 +4066,20 @@
                 "pic": "Bp. Lukas",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Tata Cara Pemulasaran Jenasah",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Dwi Handari",
+                "status": "y",
+                "note": "Ruang Betlehem untuk tempat konsumsi, minta disiapkan teh  sekitar 45-50 gelas"
             },
             {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
@@ -4472,48 +4514,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Tata Cara Pemulasaran Jenasah",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-07-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum, Ruang Betlehem",
-                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
-                "pic": "Dwi Handari",
-                "status": "y",
-                "note": "Ruang Betlehem untuk tempat konsumsi, minta disiapkan teh  sekitar 45-50 gelas"
-            },
-            {
-                "name": "Rapat Tim Sinar",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-07-19",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Dewasa",
-                "pic": "Nathalia A",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Technical Meeting Retret KML 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-07-20",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Cinta",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
