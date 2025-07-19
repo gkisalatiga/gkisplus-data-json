@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3924,
-        "last-update": 1752907816,
+        "update-count": 3925,
+        "last-update": 1752909270,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4522,6 +4522,20 @@
                 "timezone": "WIB",
                 "date": "2025-07-22",
                 "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan BenKA",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-24",
+                "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
