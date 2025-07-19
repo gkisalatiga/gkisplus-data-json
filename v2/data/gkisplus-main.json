@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3926,
-        "last-update": 1752910807,
+        "update-count": 3927,
+        "last-update": 1752922031,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3769,19 +3769,11 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "title": "Persekutuan KUL",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
+                "title": "Ibadah Minggu 20 Juli",
                 "type": "poster",
-                "date-created": "2025-07-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-07-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
@@ -3809,6 +3801,22 @@
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_yankes.webp",
+                "title": "Pelayanan Kesehatan (YANKES)",
+                "type": "poster",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_yankes.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_kml.webp",
+                "title": "USDA KML",
+                "type": "poster",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_kml.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kppk.webp",
                 "title": "Program Pemulasaran Jenazah",
                 "type": "poster",
@@ -3817,19 +3825,35 @@
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kml.webp",
-                "title": "Retret KML",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "title": "KTB Komisi Remaja",
                 "type": "poster",
-                "date-created": "2025-07-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kml.webp",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Informasi Persekutuan SoDa",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
+                "title": "Informasi Sekolah Minggu",
                 "type": "poster",
-                "date-created": "2025-07-04",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
+                "title": "Informasi Ibadah Remaja",
+                "type": "poster",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppi.webp",
+                "title": "PA Gabungan Intergenerasional",
+                "type": "poster",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppi.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
@@ -3838,6 +3862,22 @@
                 "type": "poster",
                 "date-created": "2025-07-05",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_baptis_dewasa_sidi.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
+                "title": "Lomba Menulis Puisi",
+                "type": "poster",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "title": "Informasi Persekutuan SoDa",
+                "type": "poster",
+                "date-created": "2025-07-19",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
