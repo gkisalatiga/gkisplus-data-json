@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3925,
-        "last-update": 1752909270,
+        "update-count": 3926,
+        "last-update": 1752910807,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1631,6 +1631,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 20 Juli 2025",
+                    "date": "2025-07-19",
+                    "link": "https://drive.google.com/file/d/177e2oCr4kOPJmys0Cweke4dmnVglj1kM/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-20-juli-2025/",
+                    "thumbnail": "",
+                    "id": "177e2oCr4kOPJmys0Cweke4dmnVglj1kM",
+                    "size": "1.80 MB"
+                },
+                {
                     "title": "Warta Jemaat 13 Juli 2025",
                     "date": "2025-07-12",
                     "link": "https://drive.google.com/file/d/14Zyx691ZbuWMDYpX6TD-SFdC8_91kGuJ/view",
@@ -2074,12 +2083,21 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 20 Juli 2025",
+                    "date": "2025-07-19",
+                    "link": "https://drive.google.com/file/d/1omitDPZDm2VJKWp8Xx4b2YhzDd4MwAkW/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-20-juli-2025/",
+                    "thumbnail": "",
+                    "id": "1omitDPZDm2VJKWp8Xx4b2YhzDd4MwAkW",
+                    "size": "0.61 MB"
+                },
+                {
                     "title": "Tata Ibadah 13 Juli 2025",
-                    "date": "2025-07-12",
-                    "link": "https://drive.google.com/file/d/1j3HcpgAT9Ho1-tmWK87ZzSVA3ZsIBfwT/view",
+                    "date": "2025-07-19",
+                    "link": "https://drive.google.com/file/d/1wg6uOGNsa6gcolNVS6deCyoIGJW9QCH2/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-13-juli-2025/",
                     "thumbnail": "",
-                    "id": "1j3HcpgAT9Ho1-tmWK87ZzSVA3ZsIBfwT",
+                    "id": "1wg6uOGNsa6gcolNVS6deCyoIGJW9QCH2",
                     "size": "0.71 MB"
                 },
                 {
