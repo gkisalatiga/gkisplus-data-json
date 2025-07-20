@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3930,
-        "last-update": 1753036375,
-        "last-updated-item": "ykb",
+        "update-count": 3931,
+        "last-update": 1753042161,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Jul 2025 | Yesus Cinta Anak",
+                        "date": "2025-07-20",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=weih6vfeS0o",
+                        "thumbnail": "https://i4.ytimg.com/vi/weih6vfeS0o/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Jul 2025 | Membangun Keluarga Bahagia",
                         "date": "2025-07-18",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=NUNXY9-LkjU",
                         "thumbnail": "https://i3.ytimg.com/vi/NUNXY9-LkjU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Juli 2025 | Hidup Dalam Damai dan Pengampunan",
-                        "date": "2025-07-08",
-                        "desc": "Dibawakan oleh Sdri. Chrisandy",
-                        "link": "https://www.youtube.com/watch?v=befpzsGtfYg",
-                        "thumbnail": "https://i3.ytimg.com/vi/befpzsGtfYg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
