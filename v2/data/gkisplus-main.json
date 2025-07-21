@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3933,
-        "last-update": 1753076207,
-        "last-updated-item": "agenda",
+        "update-count": 3934,
+        "last-update": 1753117951,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Jul 2025 | Mendidik Anak di Zaman Bengkok",
+                        "date": "2025-07-21",
+                        "desc": "Dibawakan oleh Pnt. Paul Arototonafo Gul\u00f6",
+                        "link": "https://www.youtube.com/watch?v=17h1NrLAmcU",
+                        "thumbnail": "https://i2.ytimg.com/vi/17h1NrLAmcU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Jul 2025 | Yesus Cinta Anak",
                         "date": "2025-07-20",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Sdri. Daniella Christy",
                         "link": "https://www.youtube.com/watch?v=3TdfaqxqLsE",
                         "thumbnail": "https://i4.ytimg.com/vi/3TdfaqxqLsE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Jul 2025 | Apa Yang Anda Ucapkan?",
-                        "date": "2025-07-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=NUNXY9-LkjU",
-                        "thumbnail": "https://i3.ytimg.com/vi/NUNXY9-LkjU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
