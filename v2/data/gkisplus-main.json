@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3931,
-        "last-update": 1753042161,
-        "last-updated-item": "yt",
+        "update-count": 3932,
+        "last-update": 1753068026,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4600,6 +4600,20 @@
                 "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Tampilan pembelajaran SBD",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-07-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
