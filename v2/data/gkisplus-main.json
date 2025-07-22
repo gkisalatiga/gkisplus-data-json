@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3939,
-        "last-update": 1753157498,
+        "update-count": 3940,
+        "last-update": 1753160206,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4127,6 +4127,34 @@
                 "note": "Ruang Betlehem untuk tempat konsumsi, minta disiapkan teh  sekitar 45-50 gelas"
             },
             {
+                "name": "Rapat",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rakor dirlak dg.Kep.Sek",
+                "time": "11:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "Latihan BenKA",
                 "time": "19:00",
                 "time-to": "22:00",
@@ -4137,6 +4165,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pembentukan Panitia Bulan Keluarga 2025",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yuliani Nugroho",
                 "status": "y",
                 "note": ""
             },
@@ -4572,48 +4614,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-07-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rakor dirlak dg.Kep.Sek",
-                "time": "11:30",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-07-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "y",
-                "note": "Terima kasih "
-            },
-            {
-                "name": "Rapat Pembentukan Panitia Bulan Keluarga 2025",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-07-25",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yuliani Nugroho",
-                "status": "w",
                 "note": ""
             }
         ],
