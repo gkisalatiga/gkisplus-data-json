@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3941,
-        "last-update": 1753161849,
+        "update-count": 3942,
+        "last-update": 1753167245,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4155,6 +4155,20 @@
                 "note": "Terima kasih "
             },
             {
+                "name": "Latihan Vocal Group Untuk hari anak gereja sore hari minggu",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Michael renzo",
+                "status": "y",
+                "note": "Minta tolong disediakan Teh, Trimakasih"
+            },
+            {
                 "name": "Latihan BenKA",
                 "time": "19:00",
                 "time-to": "22:00",
@@ -4617,18 +4631,18 @@
                 "note": ""
             },
             {
-                "name": "Latihan Vocal Group Untuk hari anak gereja sore hari minggu",
+                "name": "Rapat Koordinasi dengan Bapel",
                 "time": "18:00",
-                "time-to": "20:30",
+                "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2025-07-23",
-                "weekday": "wed",
+                "date": "2025-08-14",
+                "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Remaja",
-                "pic": "Michael renzo",
-                "status": "w",
-                "note": "Minta tolong disediakan Teh, Trimakasih"
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paskah Ika Nugroho",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
