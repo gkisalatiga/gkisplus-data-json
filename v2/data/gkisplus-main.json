@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3942,
-        "last-update": 1753167245,
-        "last-updated-item": "agenda",
+        "update-count": 3943,
+        "last-update": 1753215045,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 23 Jul 2025 | Level Up With Love",
+                        "date": "2025-07-22",
+                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
+                        "link": "https://www.youtube.com/watch?v=dfp0In1bpbA",
+                        "thumbnail": "https://i1.ytimg.com/vi/dfp0In1bpbA/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 26 Jul 2025 | Anak-anak adalah Pemberian Tuhan Bagi Keluarga",
                         "date": "2025-07-22",
                         "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Ibu Monika Manuela",
                         "link": "https://www.youtube.com/watch?v=rXJJrA_GcOo",
                         "thumbnail": "https://i3.ytimg.com/vi/rXJJrA_GcOo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Jul 2025 | Level Up With Love",
-                        "date": "2025-07-22",
-                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
-                        "link": "https://www.youtube.com/watch?v=dfp0In1bpbA",
-                        "thumbnail": "https://i1.ytimg.com/vi/dfp0In1bpbA/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 22 Jul 2025 | Mendidik Anak di Zaman Bengkok",
