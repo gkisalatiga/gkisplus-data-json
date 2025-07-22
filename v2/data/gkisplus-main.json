@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3937,
-        "last-update": 1753154049,
-        "last-updated-item": "agenda",
+        "update-count": 3938,
+        "last-update": 1753154551,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,27 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Jul 2025 | Anak-anak adalah Pemberian Tuhan Bagi Keluarga",
+                        "date": "2025-07-22",
+                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
+                        "link": "https://www.youtube.com/watch?v=Obmk6ojmd7Y",
+                        "thumbnail": "https://i4.ytimg.com/vi/Obmk6ojmd7Y/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Jul 2025 | Tuhan Menyambut Kita",
+                        "date": "2025-07-22",
+                        "desc": "Dibawakan oleh Ibu Monika Manuela",
+                        "link": "https://www.youtube.com/watch?v=rXJJrA_GcOo",
+                        "thumbnail": "https://i3.ytimg.com/vi/rXJJrA_GcOo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Jul 2025 | Level Up With Love",
+                        "date": "2025-07-22",
+                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
+                        "link": "https://www.youtube.com/watch?v=dfp0In1bpbA",
+                        "thumbnail": "https://i1.ytimg.com/vi/dfp0In1bpbA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Jul 2025 | Mendidik Anak di Zaman Bengkok",
                         "date": "2025-07-21",
@@ -75,20 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
                         "link": "https://www.youtube.com/watch?v=OCim-C3hsY4",
                         "thumbnail": "https://i4.ytimg.com/vi/OCim-C3hsY4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Juli 2025 | Kerendahan Hati",
-                        "date": "2025-07-11",
-                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
-                        "link": "https://www.youtube.com/watch?v=2yBwVhcDa8E",
-                        "thumbnail": "https://i3.ytimg.com/vi/2yBwVhcDa8E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Juli 2025 | Semakin Kuat Berjalan Bersama",
-                        "date": "2025-07-10",
-                        "desc": "Dibawakan oleh Sdri. Daniella Christy",
-                        "link": "https://www.youtube.com/watch?v=3TdfaqxqLsE",
-                        "thumbnail": "https://i4.ytimg.com/vi/3TdfaqxqLsE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
