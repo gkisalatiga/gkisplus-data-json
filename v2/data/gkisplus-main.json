@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3940,
-        "last-update": 1753160206,
+        "update-count": 3941,
+        "last-update": 1753161849,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4615,6 +4615,20 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Vocal Group Untuk hari anak gereja sore hari minggu",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Michael renzo",
+                "status": "w",
+                "note": "Minta tolong disediakan Teh, Trimakasih"
             }
         ],
         "backend": {
