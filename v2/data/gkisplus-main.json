@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3936,
-        "last-update": 1753147147,
+        "update-count": 3937,
+        "last-update": 1753154049,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4580,6 +4580,20 @@
                 "pic": "Pnt. Desemy Ch. N. Ballo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rakor dirlak dg.Kep.Sek",
+                "time": "11:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-07-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
