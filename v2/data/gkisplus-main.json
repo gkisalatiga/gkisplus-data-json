@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3935,
-        "last-update": 1753122982,
-        "last-updated-item": "ykb",
+        "update-count": 3936,
+        "last-update": 1753147147,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4078,6 +4078,34 @@
                 "note": "-"
             },
             {
+                "name": "Latihan BenKA untuk Ibadah HAN",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Tampilan pembelajaran SBD",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-07-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Tata Cara Pemulasaran Jenasah",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4090,6 +4118,20 @@
                 "pic": "Dwi Handari",
                 "status": "y",
                 "note": "Ruang Betlehem untuk tempat konsumsi, minta disiapkan teh  sekitar 45-50 gelas"
+            },
+            {
+                "name": "Latihan BenKA",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
@@ -4526,46 +4568,18 @@
                 "note": ""
             },
             {
-                "name": "Latihan BenKA untuk Ibadah HAN",
-                "time": "19:00",
-                "time-to": "22:00",
+                "name": "Rapat",
+                "time": "18:00",
+                "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2025-07-22",
-                "weekday": "tue",
+                "date": "2025-07-23",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan BenKA",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-07-24",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Tampilan pembelajaran SBD",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-07-22",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
