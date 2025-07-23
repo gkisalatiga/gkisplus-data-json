@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3944,
-        "last-update": 1753236199,
-        "last-updated-item": "ykb",
+        "update-count": 3945,
+        "last-update": 1753274050,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4643,6 +4643,20 @@
                 "pic": "Pnt. Paskah Ika Nugroho",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Briefing calon staff IT ",
+                "time": "08:00",
+                "time-to": "08:30",
+                "timezone": "WIB",
+                "date": "2025-07-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
