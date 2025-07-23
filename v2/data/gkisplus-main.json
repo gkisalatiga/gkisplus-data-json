@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3945,
-        "last-update": 1753274050,
+        "update-count": 3946,
+        "last-update": 1753280272,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4657,6 +4657,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "w",
                 "note": "Terima kasih "
+            },
+            {
+                "name": "Latihan musik untuk retreat KML",
+                "time": "19:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
