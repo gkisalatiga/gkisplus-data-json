@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3948,
-        "last-update": 1753301405,
+        "update-count": 3949,
+        "last-update": 1753312143,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Jul 2025 | Allah Yang Setia Untuk KIta dan Anak-anak Kita",
+                        "date": "2025-07-23",
+                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=Oex3G9nNMGs",
+                        "thumbnail": "https://i4.ytimg.com/vi/Oex3G9nNMGs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Jul 2025 | Tuhan Menyambut Kita",
                         "date": "2025-07-23",
