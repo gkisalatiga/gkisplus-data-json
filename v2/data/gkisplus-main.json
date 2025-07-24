@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3949,
-        "last-update": 1753312143,
-        "last-updated-item": "yt",
+        "update-count": 3950,
+        "last-update": 1753333019,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4678,6 +4678,20 @@
                 "pic": "Jenny",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Briefing calon staff IT ",
+                "time": "08:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2025-07-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
