@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3952,
-        "last-update": 1753345350,
+        "update-count": 3953,
+        "last-update": 1753348835,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4705,6 +4705,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sie Sukacita",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia A",
+                "status": "w",
                 "note": ""
             }
         ],
