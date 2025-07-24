@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3950,
-        "last-update": 1753333019,
+        "update-count": 3951,
+        "last-update": 1753342965,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4190,6 +4190,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik untuk retreat KML",
+                "time": "19:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Konven Penatua",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-24",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
+            },
+            {
                 "name": "Rapat Pembentukan Panitia Bulan Keluarga 2025",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4202,6 +4230,20 @@
                 "pic": "Pnt. Yuliani Nugroho",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Briefing calon staff IT ",
+                "time": "08:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2025-07-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
             },
             {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
@@ -4314,6 +4356,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Koordinasi dengan Bapel",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-14",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paskah Ika Nugroho",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -4636,62 +4692,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat Koordinasi dengan Bapel",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-08-14",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Paskah Ika Nugroho",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Briefing calon staff IT ",
-                "time": "08:00",
-                "time-to": "08:30",
-                "timezone": "WIB",
-                "date": "2025-07-25",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
-            },
-            {
-                "name": "Latihan musik untuk retreat KML",
-                "time": "19:30",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-07-24",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Briefing calon staff IT ",
-                "time": "08:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2025-07-25",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
