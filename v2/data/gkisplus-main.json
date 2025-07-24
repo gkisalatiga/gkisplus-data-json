@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3953,
-        "last-update": 1753348835,
+        "update-count": 3954,
+        "last-update": 1753350771,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3782,14 +3782,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kppk.webp",
-                "title": "Program Pemulasaran Jenazah",
-                "type": "poster",
-                "date-created": "2025-07-05",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppk.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "KTB Komisi Remaja",
