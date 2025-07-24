@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3951,
-        "last-update": 1753342965,
+        "update-count": 3952,
+        "last-update": 1753345350,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4244,6 +4244,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": "Terima kasih "
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "13:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-07-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis Sidanta",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
