@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3959,
-        "last-update": 1753468549,
-        "last-updated-item": "ykb",
+        "update-count": 3960,
+        "last-update": 1753474181,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Jul 2025 | Anak-anak adalah Pemberian Tuhan Bagi Keluarga",
+                        "date": "2025-07-25",
+                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
+                        "link": "https://www.youtube.com/watch?v=Obmk6ojmd7Y",
+                        "thumbnail": "https://i4.ytimg.com/vi/Obmk6ojmd7Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Jul 2025 | Allah Yang Setia Untuk KIta dan Anak-anak Kita",
                         "date": "2025-07-24",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Ibu Evelina Purnama",
                         "link": "https://www.youtube.com/watch?v=dfp0In1bpbA",
                         "thumbnail": "https://i1.ytimg.com/vi/dfp0In1bpbA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Jul 2025 | Anak-anak adalah Pemberian Tuhan Bagi Keluarga",
-                        "date": "2025-07-22",
-                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                        "link": "https://www.youtube.com/watch?v=Obmk6ojmd7Y",
-                        "thumbnail": "https://i4.ytimg.com/vi/Obmk6ojmd7Y/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 22 Jul 2025 | Mendidik Anak di Zaman Bengkok",
