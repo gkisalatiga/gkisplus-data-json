@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3963,
-        "last-update": 1753510945,
+        "update-count": 3964,
+        "last-update": 1753514120,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4431,6 +4431,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Lepas Sambut Penyeleggara Kristen pada Kementrian Agama",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Pengurus KKG-PAK Kota Salatiga",
                 "status": "y",
                 "note": ""
             }
