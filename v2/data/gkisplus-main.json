@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3962,
-        "last-update": 1753499350,
+        "update-count": 3963,
+        "last-update": 1753510945,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3973,6 +3973,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Panitia 17an GKI Salatiga",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-27",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia Malaikosa",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4418,20 +4432,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia 17an GKI Salatiga",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-07-27",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Pemuda",
-                "pic": "Dian Aprilia Malaikosa",
-                "status": "w",
                 "note": ""
             }
         ],
