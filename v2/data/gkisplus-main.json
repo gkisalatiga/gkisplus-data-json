@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 3965,
-        "last-update": 1753517982,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 3966,
+        "last-update": 1753522999,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -1638,6 +1638,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 27 Juli 2025",
+                    "date": "2025-07-26",
+                    "link": "https://drive.google.com/file/d/1SKe0G-ZadZnwi6daHkz5PXVRvx70gh1X/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-27-juli-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/07/cover-warta-jemaat-27-juli-2025.png",
+                    "id": "1SKe0G-ZadZnwi6daHkz5PXVRvx70gh1X",
+                    "size": "1.80 MB"
+                },
+                {
                     "title": "Warta Jemaat 20 Juli 2025",
                     "date": "2025-07-19",
                     "link": "https://drive.google.com/file/d/177e2oCr4kOPJmys0Cweke4dmnVglj1kM/view",
@@ -2089,6 +2098,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Hari Anak Nasional 27 Juli 2025",
+                    "date": "2025-07-26",
+                    "link": "https://drive.google.com/file/d/1rm9p0okKVV9s1Za78rg0um57nR9YTntZ/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-hari-anak-nasional-27-juli-2025/",
+                    "thumbnail": "",
+                    "id": "1rm9p0okKVV9s1Za78rg0um57nR9YTntZ",
+                    "size": "0.44 MB"
+                },
                 {
                     "title": "Tata Ibadah 20 Juli 2025",
                     "date": "2025-07-19",
