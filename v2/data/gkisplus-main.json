@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3968,
-        "last-update": 1753548626,
+        "update-count": 3969,
+        "last-update": 1753550271,
         "last-updated-item": "pdf",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
@@ -3903,6 +3903,14 @@
                 "type": "poster",
                 "date-created": "2025-07-26",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_dondar.webp",
+                "title": "Ayo Donor Darah!",
+                "type": "poster",
+                "date-created": "2025-07-27",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_dondar.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
