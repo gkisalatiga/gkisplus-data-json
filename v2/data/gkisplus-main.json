@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3971,
-        "last-update": 1753587583,
-        "last-updated-item": "yt",
+        "update-count": 3972,
+        "last-update": 1753622853,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4519,6 +4519,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat panitia bulan keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Elibert ",
+                "status": "w",
                 "note": ""
             }
         ],
