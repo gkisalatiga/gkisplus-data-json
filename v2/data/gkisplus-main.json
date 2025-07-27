@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3973,
-        "last-update": 1753625310,
+        "update-count": 3974,
+        "last-update": 1753636087,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Jul 2025 | Tetap Percaya Kepada-Nya",
+                        "date": "2025-07-27",
+                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
+                        "link": "https://www.youtube.com/watch?v=kZZW71_SxpA",
+                        "thumbnail": "https://i4.ytimg.com/vi/kZZW71_SxpA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Jul 2025 | Anak-anak adalah Pemberian Tuhan Bagi Keluarga",
                         "date": "2025-07-25",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Sdri. Jena Ariantje Taopan",
                         "link": "https://www.youtube.com/watch?v=UDe75ANi3B0",
                         "thumbnail": "https://i2.ytimg.com/vi/UDe75ANi3B0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |16 Jul 2025 | Anugerah Ketidaksempurnaan",
-                        "date": "2025-07-15",
-                        "desc": "Dibawakan oleh Bpk. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=qMgSkibKL7I",
-                        "thumbnail": "https://i2.ytimg.com/vi/qMgSkibKL7I/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
