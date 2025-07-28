@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3976,
-        "last-update": 1753646969,
-        "last-updated-item": "yt",
+        "update-count": 3977,
+        "last-update": 1753676954,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4060,6 +4060,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat panitia bulan keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Elibert ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4522,16 +4536,16 @@
                 "note": ""
             },
             {
-                "name": "Rapat panitia bulan keluarga",
-                "time": "18:00",
-                "time-to": "20:00",
+                "name": "Rapat Seksi Pelita ",
+                "time": "19:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
-                "date": "2025-08-01",
-                "weekday": "fri",
+                "date": "2025-07-28",
+                "weekday": "mon",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Elibert ",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina ",
                 "status": "w",
                 "note": ""
             }
