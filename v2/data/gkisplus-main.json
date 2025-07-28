@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3977,
-        "last-update": 1753676954,
+        "update-count": 3978,
+        "last-update": 1753679011,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4546,6 +4546,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "16:00",
+                "time-to": "17:45",
+                "timezone": "WIB",
+                "date": "2025-07-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat pengurus Amici",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-07-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "status": "w",
                 "note": ""
             }
