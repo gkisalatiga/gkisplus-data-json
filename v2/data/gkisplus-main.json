@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3980,
-        "last-update": 1753691072,
-        "last-updated-item": "agenda",
+        "update-count": 3981,
+        "last-update": 1753712015,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Jul 2025",
+                        "date": "2025-07-28",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=dqK-qxWuvWo",
+                        "thumbnail": "https://i1.ytimg.com/vi/dqK-qxWuvWo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Jul 2025 | Tetap Percaya Kepada-Nya",
                         "date": "2025-07-27",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Nadia Sita",
                         "link": "https://www.youtube.com/watch?v=Y9LdHnIwMFo",
                         "thumbnail": "https://i2.ytimg.com/vi/Y9LdHnIwMFo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Jul 2025 | Kasih yang Tulus dan Pelayanan yang Maksimal",
-                        "date": "2025-07-16",
-                        "desc": "Dibawakan oleh Sdri. Jena Ariantje Taopan",
-                        "link": "https://www.youtube.com/watch?v=UDe75ANi3B0",
-                        "thumbnail": "https://i2.ytimg.com/vi/UDe75ANi3B0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
