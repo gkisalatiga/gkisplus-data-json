@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3978,
-        "last-update": 1753679011,
+        "update-count": 3979,
+        "last-update": 1753687545,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4046,6 +4046,48 @@
                 "note": ""
             },
             {
+                "name": "Rapat Seksi Pelita ",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-07-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "16:00",
+                "time-to": "17:45",
+                "timezone": "WIB",
+                "date": "2025-07-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat pengurus Amici",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-07-28",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lepas Sambut Penyeleggara Kristen pada Kementrian Agama",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -4533,48 +4575,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Seksi Pelita ",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-07-28",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "16:00",
-                "time-to": "17:45",
-                "timezone": "WIB",
-                "date": "2025-07-28",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat pengurus Amici",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-07-28",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
                 "note": ""
             }
         ],
