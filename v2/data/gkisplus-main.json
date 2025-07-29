@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3985,
-        "last-update": 1753782421,
-        "last-updated-item": "agenda",
+        "update-count": 3986,
+        "last-update": 1753798486,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 31 Jul 2025 | Menghalau Rasa Takut Terhadap Perubahan",
+                        "date": "2025-07-29",
+                        "desc": "Dibawakan oleh Ibu Tyas Utami",
+                        "link": "https://www.youtube.com/watch?v=UdHD_VPpAH8",
+                        "thumbnail": "https://i2.ytimg.com/vi/UdHD_VPpAH8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Jul 2025",
                         "date": "2025-07-28",
