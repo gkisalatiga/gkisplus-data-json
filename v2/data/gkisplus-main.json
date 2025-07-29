@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3986,
-        "last-update": 1753798486,
+        "update-count": 3987,
+        "last-update": 1753809236,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Jul 2025 | Hiu Kecil Dalam Kehidupan Kita",
+                        "date": "2025-07-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=h7AWjQlNxlc",
+                        "thumbnail": "https://i1.ytimg.com/vi/h7AWjQlNxlc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 31 Jul 2025 | Menghalau Rasa Takut Terhadap Perubahan",
                         "date": "2025-07-29",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdr. Alessandro S",
                         "link": "https://www.youtube.com/watch?v=KfERSivRj7s",
                         "thumbnail": "https://i4.ytimg.com/vi/KfERSivRj7s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Jul 2025 | God is Good All the Time, All the Time God is Good",
-                        "date": "2025-07-17",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=Y9LdHnIwMFo",
-                        "thumbnail": "https://i2.ytimg.com/vi/Y9LdHnIwMFo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
