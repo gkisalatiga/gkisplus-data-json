@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3983,
-        "last-update": 1753775049,
+        "update-count": 3984,
+        "last-update": 1753779104,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4588,7 +4588,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
