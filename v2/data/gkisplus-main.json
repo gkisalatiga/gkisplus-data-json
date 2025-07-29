@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3982,
-        "last-update": 1753727828,
-        "last-updated-item": "ykb",
+        "update-count": 3983,
+        "last-update": 1753775049,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4590,6 +4590,20 @@
                 "pic": "Widia Prayogo",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia 17an GKI Salatiga",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Mario Pattisina",
+                "status": "w",
+                "note": "Persedian Teh"
             }
         ],
         "backend": {
