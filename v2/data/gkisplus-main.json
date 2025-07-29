@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3984,
-        "last-update": 1753779104,
+        "update-count": 3985,
+        "last-update": 1753782421,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4604,6 +4604,20 @@
                 "pic": "Mario Pattisina",
                 "status": "w",
                 "note": "Persedian Teh"
+            },
+            {
+                "name": "Rapat sie acara 17an GKI Salatiga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
