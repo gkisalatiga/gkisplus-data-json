@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3989,
-        "last-update": 1753845455,
-        "last-updated-item": "ykb",
+        "update-count": 3990,
+        "last-update": 1753845542,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4039,6 +4039,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat sie acara 17an GKI Salatiga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Ayu",
+                "status": "y",
+                "note": "Teh"
+            },
+            {
+                "name": "Percakapan gerejawi dan persiapan pernikahan",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-07-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta Setiawan K",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lepas Sambut Penyeleggara Kristen pada Kementrian Agama",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -4049,6 +4077,48 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Majelis Jemaat",
                 "pic": "Pengurus KKG-PAK Kota Salatiga",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KUL, Bulan Keluarga",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia 17an GKI Salatiga",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Mario Pattisina",
+                "status": "y",
+                "note": "Persedian Teh"
+            },
+            {
+                "name": "Persiapan Pemandu PA, Majelis",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta Setiawan Krisgunadi",
                 "status": "y",
                 "note": ""
             },
@@ -4065,6 +4135,20 @@
                 "pic": "Elibert ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia Konven Penatua",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
             },
             {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
@@ -4527,48 +4611,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat KUL, Bulan Keluarga",
-                "time": "15:00",
-                "time-to": "17:00",
-                "timezone": "WIB",
-                "date": "2025-07-31",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia 17an GKI Salatiga",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-07-31",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Mario Pattisina",
-                "status": "w",
-                "note": "Persedian Teh"
-            },
-            {
-                "name": "Rapat sie acara 17an GKI Salatiga",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-07-30",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Panitia",
-                "pic": "Ayu",
-                "status": "w",
-                "note": "Teh"
             }
         ],
         "backend": {
