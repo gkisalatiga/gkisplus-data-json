@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3992,
-        "last-update": 1753900579,
-        "last-updated-item": "ykb",
+        "update-count": 3993,
+        "last-update": 1753906133,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 31 Jul 2025 | Menghalau Rasa Takut Terhadap Perubahan",
+                        "date": "2025-07-30",
+                        "desc": "Dibawakan oleh Ibu Tyas Utami",
+                        "link": "https://www.youtube.com/watch?v=UdHD_VPpAH8",
+                        "thumbnail": "https://i2.ytimg.com/vi/UdHD_VPpAH8/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 30 Jul 2025 | Hiu Kecil Dalam Kehidupan Kita",
                         "date": "2025-07-29",
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=h7AWjQlNxlc",
                         "thumbnail": "https://i1.ytimg.com/vi/h7AWjQlNxlc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Jul 2025 | Menghalau Rasa Takut Terhadap Perubahan",
-                        "date": "2025-07-29",
-                        "desc": "Dibawakan oleh Ibu Tyas Utami",
-                        "link": "https://www.youtube.com/watch?v=UdHD_VPpAH8",
-                        "thumbnail": "https://i2.ytimg.com/vi/UdHD_VPpAH8/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 29 Jul 2025",
