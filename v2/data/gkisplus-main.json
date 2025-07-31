@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3999,
-        "last-update": 1753960160,
-        "last-updated-item": "yt",
+        "update-count": 4000,
+        "last-update": 1753968915,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4597,6 +4597,20 @@
                 "pic": "Natalis",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Wawancara calon staff IT ",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-08-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
