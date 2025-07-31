@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3995,
-        "last-update": 1753932352,
-        "last-updated-item": "yt",
+        "update-count": 3996,
+        "last-update": 1753935926,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4123,6 +4123,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik English Service",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sie. Pelayanan Kerohanian",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia Arviandri",
+                "status": "y",
+                "note": "Minta disiapkan teh"
+            },
+            {
                 "name": "Rapat panitia bulan keluarga",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4203,6 +4231,34 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bp. Hari Budi Cahyono",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan KPPI, MJ bid. 3 dan Pengurus Wilayah",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-08-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "KTB KR",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-08-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri",
                 "status": "y",
                 "note": ""
             },
@@ -4611,34 +4667,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan Pemusik English Service",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-07-31",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Sie. Pelayanan Kerohanian",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-07-31",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Nathalia Arviandri",
-                "status": "w",
-                "note": "Minta disiapkan teh"
             }
         ],
         "backend": {
