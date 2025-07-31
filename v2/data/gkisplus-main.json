@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3994,
-        "last-update": 1753931865,
-        "last-updated-item": "agenda",
+        "update-count": 3995,
+        "last-update": 1753932352,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1418,6 +1418,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN ANDRE & LUCY | 2 AGUSTUS 2025",
+                        "date": "2025-07-31",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Andre Adi Saputra & Sdri. Lucy Indah Permata Sari\n\nSabtu, 2 Agustus 2025 pukul 11.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Benny A. Kailola & Pnt. Hananto Seno\nPemusik :  Lamentation\nPNK : Pnt. Natalis Sidanta\nMultimedia : I Made Satya, Joshua A. Gracia, Risti,  Iwandi, Bobby",
+                        "link": "https://www.youtube.com/watch?v=uic_YeZ0phY",
+                        "thumbnail": "https://i.ytimg.com/vi/uic_YeZ0phY/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN ARFAEL & VERA | 28 JUNI 2025",
                         "date": "2025-06-23",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Arfael Sanda Bunga & Sdri. Vera Manondang Damaianty Butarbutar\n\nSabtu, 28 Juni 2025 pukul 09.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Raharjo Widhipangreksa\nMJ : Pnt. Desemy Ch. N. Ballo & Pnt. Paskah Ika N\nPemusik :  Lamentation + Ecclesiastes\nPNK : Adhara\nMultimedia : I Made Satya, Samarthya, Neria, Iwandi, Bobby",
@@ -1619,13 +1626,6 @@
                         "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 25 Juni  2022 pukul 10.00 WIB\n\nSdr. Yosua Zega dan Sdri. Ristiani Gani Mendrofa\n PF : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Desemy Ch.N. Ballo \u2502Pnt. July Silooy\nPemusik : Vidra \u2502PNK : Jeffrey Nugroho \u2502Voice Over : Ones\u2502OBS : Ryan Bagas\u2502\nTata Suara : I Made Satya Arnawa \u2502PPT : Budi Santoso\u2502Kameramen : Iwandi ; Tora\nFotografer : Erio, Joshua",
                         "link": "https://www.youtube.com/watch?v=dPwXeuwfV4s",
                         "thumbnail": "https://i.ytimg.com/vi/dPwXeuwfV4s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Andika & Rahwati | Sabtu, 14 Mei 2022",
-                        "date": "2022-05-10",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Sabtu, 14 Mei 2022 pukul 11.00 WIB\n\nSdr. Andika Wicaksono dan Sdri. Rahwati\nDilayani oleh : : Pdt. Helen Ruth Manurung\nMJ : Pnt. Gita Hastuti, Pnt. Sriono Sudarso\nPemusik ; Vidra, Angeline\u2502\nPNK : Evangs\nVoice Over : Bayu Oktariyanto\nTata Suara : Joanda R.\nMultimedia : Tunggul Laras, I Made Satya Arnawa, Iwandi, Bobby",
-                        "link": "https://www.youtube.com/watch?v=P5y0gcPdtrQ",
-                        "thumbnail": "https://i.ytimg.com/vi/P5y0gcPdtrQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
