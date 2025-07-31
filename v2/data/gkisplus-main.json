@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3997,
-        "last-update": 1753937951,
+        "update-count": 3998,
+        "last-update": 1753943111,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4568,6 +4568,34 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici ",
+                "time": "00:15",
+                "time-to": "13:45",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Natalis ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Lave",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Natalis",
+                "status": "w",
                 "note": ""
             }
         ],
