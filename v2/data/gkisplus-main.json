@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4000,
-        "last-update": 1753968915,
-        "last-updated-item": "agenda",
+        "update-count": 4001,
+        "last-update": 1753981974,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Agu 2025 | Menyalahgunakan Kemerdekaan",
+                        "date": "2025-07-31",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=G_vdlRlK_ns",
+                        "thumbnail": "https://i4.ytimg.com/vi/G_vdlRlK_ns/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 31 Jul 2025 | Menghalau Rasa Takut Terhadap Perubahan",
                         "date": "2025-07-30",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=weih6vfeS0o",
                         "thumbnail": "https://i4.ytimg.com/vi/weih6vfeS0o/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Jul 2025 | Membangun Keluarga Bahagia",
-                        "date": "2025-07-18",
-                        "desc": "Dibawakan oleh Sdr. Alessandro S",
-                        "link": "https://www.youtube.com/watch?v=KfERSivRj7s",
-                        "thumbnail": "https://i4.ytimg.com/vi/KfERSivRj7s/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
