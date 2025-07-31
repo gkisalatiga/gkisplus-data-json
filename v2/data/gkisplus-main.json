@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 3993,
-        "last-update": 1753906133,
-        "last-updated-item": "yt",
+        "update-count": 3994,
+        "last-update": 1753931865,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4623,8 +4623,22 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Sie. Pelayanan Kerohanian",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-07-31",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Nathalia Arviandri",
+                "status": "w",
+                "note": "Minta disiapkan teh"
             }
         ],
         "backend": {
