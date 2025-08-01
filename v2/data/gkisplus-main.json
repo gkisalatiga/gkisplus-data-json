@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4005,
-        "last-update": 1754046861,
-        "last-updated-item": "agenda",
+        "update-count": 4006,
+        "last-update": 1754057601,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Agu 2025 | Membangun Persatuan Melalui Kesabaran dan Pengampunan",
+                        "date": "2025-08-01",
+                        "desc": "Dibawakan oleh Sdr. Yapi",
+                        "link": "https://www.youtube.com/watch?v=OaIRVq8LI5A",
+                        "thumbnail": "https://i4.ytimg.com/vi/OaIRVq8LI5A/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Agu 2025 | Menyalahgunakan Kemerdekaan",
                         "date": "2025-07-31",
