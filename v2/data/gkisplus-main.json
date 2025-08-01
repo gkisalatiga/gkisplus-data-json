@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4003,
-        "last-update": 1754019128,
+        "update-count": 4004,
+        "last-update": 1754023824,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4203,6 +4203,34 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Asputri",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 1",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N,. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu PA",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-08-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
