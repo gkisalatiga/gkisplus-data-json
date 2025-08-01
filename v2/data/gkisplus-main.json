@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4002,
-        "last-update": 1753986991,
-        "last-updated-item": "ykb",
+        "update-count": 4003,
+        "last-update": 1754019128,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4081,6 +4081,34 @@
                 "note": "Minta disiapkan LCD"
             },
             {
+                "name": "Latihan Amici ",
+                "time": "12:15",
+                "time-to": "13:45",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Natalis ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Lave",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-01",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. KUL untuk temu raya klasis",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4135,6 +4163,20 @@
                 "pic": "Bp. Hari Budi Cahyono",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Wawancara calon staff IT ",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-08-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
             },
             {
                 "name": "Pertemuan KPPI, MJ bid. 3 dan Pengurus Wilayah",
@@ -4569,48 +4611,6 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan Amici ",
-                "time": "00:15",
-                "time-to": "13:45",
-                "timezone": "WIB",
-                "date": "2025-08-01",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Natalis ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Lave",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-08-01",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Lainnya",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Wawancara calon staff IT ",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-08-06",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
