@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4004,
-        "last-update": 1754023824,
+        "update-count": 4005,
+        "last-update": 1754046861,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4638,6 +4638,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik English Service",
+                "time": "10:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-08-02",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
