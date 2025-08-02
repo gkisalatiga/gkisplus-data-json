@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4011,
-        "last-update": 1754165335,
+        "update-count": 4012,
+        "last-update": 1754174478,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Paul Arototonafo Gul\u00f6",
                         "link": "https://www.youtube.com/watch?v=17h1NrLAmcU",
                         "thumbnail": "https://i2.ytimg.com/vi/17h1NrLAmcU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Jul 2025 | Yesus Cinta Anak",
-                        "date": "2025-07-20",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=weih6vfeS0o",
-                        "thumbnail": "https://i4.ytimg.com/vi/weih6vfeS0o/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -332,6 +325,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "GKI Salatiga | English Service | Sunday, August 3rd, 2025 | 10 a.m. Jakarta Time",
+                        "date": "2025-08-02",
+                        "desc": "GKI Salatiga | English Service | Sunday, August 3rd, 2025 | 10 a.m. Jakarta Time\n\nState of Grace\nRomans 3 : 21-31\n\nLed by\nRev. Irene Ludji\n\nPL: Gita H.\nPrayer: Amanda & Rangga\nReader: Angel\nOffertory: Irma\nPrayer of Intercession: Aldo\nMultimedia: Bamz, James, Lyka\nPemusik: The Band\nSL: Alin & Rambu\n\n***\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/details?id=org.gkisalatiga.plus\nhttps://apps.apple.com/id/app/gki-salatiga-plus/id6741834007\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
+                        "link": "https://www.youtube.com/watch?v=XCPd4w_8BRw",
+                        "thumbnail": "https://i.ytimg.com/vi/XCPd4w_8BRw/hqdefault_live.jpg"
+                    },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, July 13th, 2025 | 10 a.m. Jakarta Time",
                         "date": "2025-07-04",
