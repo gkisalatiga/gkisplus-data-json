@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4007,
-        "last-update": 1754073418,
+        "update-count": 4008,
+        "last-update": 1754116298,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1645,6 +1645,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 3 Agustus 2025",
+                    "date": "2025-08-02",
+                    "link": "https://drive.google.com/file/d/1Ft6l72Bj6nImLV27iqG1X2D5QGOjW5y5/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-3-agustus-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/08/warta-3-agustus-25.png",
+                    "id": "1Ft6l72Bj6nImLV27iqG1X2D5QGOjW5y5",
+                    "size": "1.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 27 Juli 2025",
                     "date": "2025-07-26",
                     "link": "https://drive.google.com/file/d/1SKe0G-ZadZnwi6daHkz5PXVRvx70gh1X/view",
@@ -2105,6 +2114,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 3 Agustus 2025",
+                    "date": "2025-08-02",
+                    "link": "https://drive.google.com/file/d/1leDuMXgiWH9uZQXYo-yYoIdhGa7s-8Qj/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-3-agustus-2025/",
+                    "thumbnail": "",
+                    "id": "1leDuMXgiWH9uZQXYo-yYoIdhGa7s-8Qj",
+                    "size": "0.57 MB"
+                },
                 {
                     "title": "Tata Ibadah Hari Anak Nasional 27 Juli 2025",
                     "date": "2025-07-26",
@@ -3800,14 +3818,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-07-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_magni.webp",
                 "title": "Open Recruitment",
