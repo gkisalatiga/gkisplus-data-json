@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4012,
-        "last-update": 1754174478,
-        "last-updated-item": "yt",
+        "update-count": 4013,
+        "last-update": 1754191710,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -2738,34 +2738,14 @@
                     "note": ""
                 },
                 {
-                    "name": "Latihan PSW Pesparawi",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Eriyani",
-                    "note": "Sampai Juni 2025"
-                },
-                {
-                    "name": "Latihan PSP Pesparawi",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Betlehem/Ruang Kana",
-                    "representative": "Eriyani",
-                    "note": "Sampai Juni 2025"
-                },
-                {
-                    "name": "Latihan PSDC Pesparawi",
+                    "name": "Latihan PS. KUL untuk temu raya klasis",
                     "time": "18:30",
                     "time-to": "20:00",
                     "timezone": "WIB",
                     "type": "rutin",
                     "place": "Gedung Gereja",
-                    "representative": "Eriyani",
-                    "note": "Sampai Juni 2025"
+                    "representative": "Komisi Usia Lanjut",
+                    "note": "Sampai Oktober 2025"
                 }
             ],
             "mon": [
@@ -4196,6 +4176,20 @@
                 "note": "Rutin bulan Agustus s/d pertengah Oktober 2025"
             },
             {
+                "name": "Gladi Resik English Service",
+                "time": "10:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-08-02",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4714,16 +4708,30 @@
                 "note": ""
             },
             {
-                "name": "Gladi Resik English Service",
-                "time": "10:00",
-                "time-to": "13:30",
+                "name": "Percakapan Atestasi Masuk",
+                "time": "17:30",
+                "time-to": "18:30",
                 "timezone": "WIB",
-                "date": "2025-08-02",
-                "weekday": "sat",
+                "date": "2025-08-06",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Ervien",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Kambium",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Komisi Dewasa",
                 "status": "w",
                 "note": ""
             }
