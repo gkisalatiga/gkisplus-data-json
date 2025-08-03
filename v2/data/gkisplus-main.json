@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4020,
-        "last-update": 1754246054,
-        "last-updated-item": "ykb",
+        "update-count": 4021,
+        "last-update": 1754258911,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Agu 2025 | Kemerdekaan Sejati Orang Percaya",
+                        "date": "2025-08-03",
+                        "desc": "Dibawakan oleh Bpk. Petrus Sutomo",
+                        "link": "https://www.youtube.com/watch?v=cvmJOD0GZ0Y",
+                        "thumbnail": "https://i4.ytimg.com/vi/cvmJOD0GZ0Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Agu 2025 | Membangun Persatuan Melalui Kesabaran dan Pengampunan",
                         "date": "2025-08-01",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Monika Manuela",
                         "link": "https://www.youtube.com/watch?v=rXJJrA_GcOo",
                         "thumbnail": "https://i3.ytimg.com/vi/rXJJrA_GcOo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Jul 2025 | Level Up With Love",
-                        "date": "2025-07-22",
-                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
-                        "link": "https://www.youtube.com/watch?v=dfp0In1bpbA",
-                        "thumbnail": "https://i1.ytimg.com/vi/dfp0In1bpbA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
