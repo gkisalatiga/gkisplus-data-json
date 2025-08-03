@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4016,
-        "last-update": 1754226782,
+        "update-count": 4017,
+        "last-update": 1754227765,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4510,6 +4510,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-08-04",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
                 "note": ""
             }
         ],
