@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4022,
-        "last-update": 1754292308,
-        "last-updated-item": "agenda",
+        "update-count": 4023,
+        "last-update": 1754305836,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Agu 2025 | Merdeka Bukan Cuma Setahun Sekali",
+                        "date": "2025-08-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=2TT1P6e9XH4",
+                        "thumbnail": "https://i3.ytimg.com/vi/2TT1P6e9XH4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Agu 2025 | Kemerdekaan Sejati Orang Percaya",
                         "date": "2025-08-03",
@@ -75,20 +82,6 @@
                         "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
                         "link": "https://www.youtube.com/watch?v=Obmk6ojmd7Y",
                         "thumbnail": "https://i4.ytimg.com/vi/Obmk6ojmd7Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Jul 2025 | Allah Yang Setia Untuk KIta dan Anak-anak Kita",
-                        "date": "2025-07-24",
-                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=Oex3G9nNMGs",
-                        "thumbnail": "https://i4.ytimg.com/vi/Oex3G9nNMGs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Jul 2025 | Tuhan Menyambut Kita",
-                        "date": "2025-07-23",
-                        "desc": "Dibawakan oleh Ibu Monika Manuela",
-                        "link": "https://www.youtube.com/watch?v=rXJJrA_GcOo",
-                        "thumbnail": "https://i3.ytimg.com/vi/rXJJrA_GcOo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -99,6 +92,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu | 10 Agustus 2025 | \"Melampaui Apa Yang Kelihatan\"",
+                        "date": "2025-08-04",
+                        "desc": "KEBAKTIAN MINGGU GKI Salatiga; 10 Agustus 2025; Pukul 07:00 WIB\n\nTema: Melampaui Apa Yang Kelihatan\n\nBacaan I: Kejadian 15:1-6\nTanggapan: Mazmur 33:12-22\nBacaan II: Ibrani 11:1-3, 8-6\nBacaan Injil: Lukas 12:32-40\n\nNyanyian: KJ 17:1,2,4; Hidup Ini Adalah Kesempatan; NKB 12:1,3; KJ 454:1,3; NKB 134; NKB 126\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Catur Winarno\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Sri Yuniwati R, Pnt. Benny A. Kailola\nPemandu Liturgi: Abrilomi Puspitasari\nLektor 1: Vironica Herry P.\nLektor 2: Novita Kumalasari\n\nPemusik: Lamentation\nPNK/PMZ: Cinta / Lintang\nTim Multimedia: Hermawan, Enrico, Samarthya, Benaya, Okta, Erio, Jeffrey, Derryl\nUsher dan Kolektan: SD Kristen 03\nFlorist: Tim Mimosa\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=aKWGJxSfKLU",
+                        "thumbnail": "https://i.ytimg.com/vi/aKWGJxSfKLU/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu | 3 Agustus 2025 | \"Menjaring Angin\" (PENEGUHAN PENATUA)",
                         "date": "2025-08-03",
@@ -301,13 +301,6 @@
                         "desc": "*KEBAKTIAN MINGGU PRAPASKAH III GKI Salatiga 23 Maret 2025; Pukul 07:00 WIB\n\nTema: Mengalami Anugerah Allah Dalam Pertobatan\n\nBacaan I : Yesaya 55:1-9\nTanggapan: Mazmur 63:1-8\nBacaan II: 1 Korintus 10:1-13\nBacaan Injil: Lukas 13:1-9\n\nNyanyian: KJ 161:1,5; PKJ 212; NKB 22:1,3; KJ 302; NKB 176:1,3\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana\nKredo dan Warta: Pnt. Hananto Seno\nSambut Tamu: Pnt. July Silooy, Pnt. Santoso Adi P.\nPemandu Liturgi: Henri Kristanto\nLektor 1: Nathalia Arviandri\nLektor 2: Ristiani Gani Mendrofa\n\nPemusik: Chronicles + Rea\nPNK/PMZ: Jeffrey / Firsteva\nTim Multimedia: N. Jeffrey, Hermawan, Evan Budiarso, Atma, Nuel, Erio\n\nUsher dan Kolektan: Komisi Dewasa\n\nFlorist : Tim Anggrek\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=amdQvdGpfyU",
                         "thumbnail": "https://i.ytimg.com/vi/amdQvdGpfyU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu Prapaskah II | 16 Maret 2025 | Merengkuh Salib Sang Kristus",
-                        "date": "2025-03-16",
-                        "desc": "*KEBAKTIAN MINGGU PRAPASKAH II GKI Salatiga 16 Maret 2025; Pukul 09:30 WIB\n(\ud835\ude17\ud835\ude26\ud835\ude2f\ud835\ude26\ud835\ude28\ud835\ude36\ud835\ude29\ud835\ude22\ud835\ude2f \ud835\ude25\ud835\ude22\ud835\ude2f \ud835\ude17\ud835\ude36\ud835\ude33\ud835\ude2f\ud835\ude22 \ud835\ude1b\ud835\ude36\ud835\ude28\ud835\ude22\ud835\ude34 \ud835\ude17\ud835\ude26\ud835\ude2f\ud835\ude22\ud835\ude35\ud835\ude36\ud835\ude22)\n\nTema: Merengkuh Salib Sang Kristus\n\nBacaan I : Kejadian 15:1-12, 17-18\nTanggapan: Mazmur 27\nBacaan II: Filipi 3:17-4:1\nBacaan Injil: Lukas 13:31-35\n\nNyanyian: PKJ 212; PKJ 270; KJ 29; KJ 362:1-3; PKJ 146; NKB 154\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yosua Candana H.K.\nKredo dan Warta: Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Catur Winarno, Pnt. Shielly Gunawan\nPemandu Liturgi: Dwika Trisna C.\nLektor 1: Lilis Supriyanti\nLektor 2: Fifi Anitasari\n\nPemusik: Ecclesiastes\nPNK/PMZ: Yambres Leunupun / Alexa\nTim Multimedia: Sakti, Judica, Emilia, Yapi/Okta, Erio, Jeffrey\n\nUsher dan Kolektan: Silvi A., Melia Novita, Elisabeth Widi A. (TK Kristen 3)\n\nFlorist : Tim Kenanga\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=Yk-dSDsxneg",
-                        "thumbnail": "https://i.ytimg.com/vi/Yk-dSDsxneg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
