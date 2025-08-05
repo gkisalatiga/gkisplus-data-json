@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4025,
-        "last-update": 1754338238,
-        "last-updated-item": "yt",
+        "update-count": 4026,
+        "last-update": 1754364124,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3960,6 +3960,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Latihan Amici",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-08-04",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4224,6 +4238,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Ibadah rayon 2 dan Stemi",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-08-19",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Roosye Irene Supit",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -4503,34 +4531,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "16:00",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2025-08-04",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Ibadah rayon 2 dan Stemi",
-                "time": "00:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2025-08-19",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Roosye Irene Supit",
-                "status": "w",
                 "note": ""
             }
         ],
