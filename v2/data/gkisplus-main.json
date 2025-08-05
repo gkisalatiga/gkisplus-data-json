@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4027,
-        "last-update": 1754371521,
-        "last-updated-item": "agenda",
+        "update-count": 4028,
+        "last-update": 1754413834,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Agu 2025 | Kejumawaan Orang Kristen",
+                        "date": "2025-08-05",
+                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                        "link": "https://www.youtube.com/watch?v=7lj2m-jfjgE",
+                        "thumbnail": "https://i4.ytimg.com/vi/7lj2m-jfjgE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Agu 2025 | Merdeka Bukan Cuma Setahun Sekali",
                         "date": "2025-08-04",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Sdri. Asputri Kaat",
                         "link": "https://www.youtube.com/watch?v=kZZW71_SxpA",
                         "thumbnail": "https://i4.ytimg.com/vi/kZZW71_SxpA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Jul 2025 | Anak-anak adalah Pemberian Tuhan Bagi Keluarga",
-                        "date": "2025-07-25",
-                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                        "link": "https://www.youtube.com/watch?v=Obmk6ojmd7Y",
-                        "thumbnail": "https://i4.ytimg.com/vi/Obmk6ojmd7Y/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
