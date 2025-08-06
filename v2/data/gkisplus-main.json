@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4033,
-        "last-update": 1754487540,
-        "last-updated-item": "agenda",
+        "update-count": 4034,
+        "last-update": 1754500463,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Agu 2025 | Masih Terjajahkah?",
+                        "date": "2025-08-06",
+                        "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
+                        "link": "https://www.youtube.com/watch?v=rdcRXTWSvtI",
+                        "thumbnail": "https://i3.ytimg.com/vi/rdcRXTWSvtI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Agu 2025 | Kejumawaan Orang Kristen",
                         "date": "2025-08-05",
