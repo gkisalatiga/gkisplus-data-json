@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4030,
-        "last-update": 1754443255,
+        "update-count": 4031,
+        "last-update": 1754456606,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4058,6 +4058,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik untuk ibadah minggu",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-08-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Rapat MJ Bidang 3",
                 "time": "18:30",
                 "time-to": "21:00",
@@ -4086,6 +4100,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik untuk ibadah minggu ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-08-07",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan KPPI, MJ bid. 3 dan Pengurus Wilayah",
                 "time": "17:00",
                 "time-to": "18:30",
@@ -4111,6 +4139,20 @@
                 "representative": "Komisi Remaja",
                 "pic": "Asputri",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk ibadah minggu ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-08-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4559,48 +4601,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik untuk ibadah minggu",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-08-06",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta ",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan musik untuk ibadah minggu ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-08-07",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik untuk ibadah minggu ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-08-08",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta",
-                "status": "w",
                 "note": ""
             }
         ],
