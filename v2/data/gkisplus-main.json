@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4036,
-        "last-update": 1754591952,
-        "last-updated-item": "ykb",
+        "update-count": 4037,
+        "last-update": 1754604546,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Agu 2025 | Terang Itu Kan Bercahaya",
+                        "date": "2025-08-07",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
+                        "link": "https://www.youtube.com/watch?v=em8w7MxBBp4",
+                        "thumbnail": "https://i2.ytimg.com/vi/em8w7MxBBp4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Agu 2025 | Masih Terjajahkah?",
                         "date": "2025-08-06",
