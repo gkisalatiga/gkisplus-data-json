@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4037,
-        "last-update": 1754604546,
+        "update-count": 4038,
+        "last-update": 1754609970,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Agu 2025 | Kemerdekaan Sejati dalam Pelayanan Kasih",
+                        "date": "2025-08-07",
+                        "desc": "Dibawakam oleh Sdri. Irma Picauly",
+                        "link": "https://www.youtube.com/watch?v=exRVRcFfPkg",
+                        "thumbnail": "https://i2.ytimg.com/vi/exRVRcFfPkg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Agu 2025 | Terang Itu Kan Bercahaya",
                         "date": "2025-08-07",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Krisulastri",
                         "link": "https://www.youtube.com/watch?v=dqK-qxWuvWo",
                         "thumbnail": "https://i1.ytimg.com/vi/dqK-qxWuvWo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Jul 2025 | Tetap Percaya Kepada-Nya",
-                        "date": "2025-07-27",
-                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
-                        "link": "https://www.youtube.com/watch?v=kZZW71_SxpA",
-                        "thumbnail": "https://i4.ytimg.com/vi/kZZW71_SxpA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
