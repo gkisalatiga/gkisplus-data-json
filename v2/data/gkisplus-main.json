@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4042,
-        "last-update": 1754702092,
+        "update-count": 4043,
+        "last-update": 1754708650,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4642,7 +4642,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4656,7 +4656,21 @@
                 "place": "Ruang Kapernaum",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembekalan Pengurus KD",
+                "time": "11:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-08-10",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
+                "status": "y",
                 "note": ""
             }
         ],
