@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4041,
-        "last-update": 1754683795,
-        "last-updated-item": "yt",
+        "update-count": 4042,
+        "last-update": 1754702092,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4630,6 +4630,34 @@
                 "pic": "Mario Pattisina",
                 "status": "y",
                 "note": "Meminta untuk disediakan Teh"
+            },
+            {
+                "name": "Rapat besar KR",
+                "time": "16:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:00",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-08-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
