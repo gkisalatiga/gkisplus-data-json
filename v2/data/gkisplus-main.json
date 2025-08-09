@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4043,
-        "last-update": 1754708650,
+        "update-count": 4044,
+        "last-update": 1754712116,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4672,6 +4672,20 @@
                 "pic": "Reny Handayani",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Komsarpras",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-10",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Made Satya Arnawa",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             }
         ],
         "backend": {
