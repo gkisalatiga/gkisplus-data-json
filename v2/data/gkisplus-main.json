@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4049,
-        "last-update": 1754834936,
-        "last-updated-item": "yt",
+        "update-count": 4050,
+        "last-update": 1754838905,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4721,6 +4721,48 @@
                 "pic": "Made Satya Arnawa",
                 "status": "y",
                 "note": "Minta disiapkan teh"
+            },
+            {
+                "name": "Latihan persiapan prosesi ibadah 17 agustus",
+                "time": "14:30",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-08-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan persiapan untuk ibadah tgl 17 agustus",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-08-14",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan persiapan untuk ibadah tgl 17 agustus",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-08-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
