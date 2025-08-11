@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4055,
-        "last-update": 1754904104,
+        "update-count": 4056,
+        "last-update": 1754905622,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4763,6 +4763,20 @@
                 "pic": "Ibu Diah Maruli",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia 17an",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Mario Pattisina",
+                "status": "w",
+                "note": "Minta disediakan teh"
             }
         ],
         "backend": {
