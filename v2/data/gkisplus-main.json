@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4056,
-        "last-update": 1754905622,
-        "last-updated-item": "agenda",
+        "update-count": 4057,
+        "last-update": 1754932344,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -26,6 +26,13 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=hAPKbYZlUU8",
                         "thumbnail": "https://i1.ytimg.com/vi/hAPKbYZlUU8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Agu 2025 | Bersyukur Berdoa dan Bertindak Bagi Tuhan dan Indonesia",
+                        "date": "2025-08-10",
+                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
+                        "link": "https://www.youtube.com/watch?v=bHUEIb1PFkw",
+                        "thumbnail": "https://i3.ytimg.com/vi/bHUEIb1PFkw/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 9 Agu 2025 | Kemerdekaan Sejati dalam Pelayanan Kasih",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
                         "link": "https://www.youtube.com/watch?v=G_vdlRlK_ns",
                         "thumbnail": "https://i4.ytimg.com/vi/G_vdlRlK_ns/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Jul 2025 | Menghalau Rasa Takut Terhadap Perubahan",
-                        "date": "2025-07-30",
-                        "desc": "Dibawakan oleh Ibu Tyas Utami",
-                        "link": "https://www.youtube.com/watch?v=UdHD_VPpAH8",
-                        "thumbnail": "https://i2.ytimg.com/vi/UdHD_VPpAH8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
