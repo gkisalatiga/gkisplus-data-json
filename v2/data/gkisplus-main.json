@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4058,
-        "last-update": 1754937475,
-        "last-updated-item": "ykb",
+        "update-count": 4059,
+        "last-update": 1754943010,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 12 Agu 2025 | Bersyukur Berdoa dan Bertindak Bagi Tuhan dan Indonesia",
+                        "date": "2025-08-11",
+                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
+                        "link": "https://www.youtube.com/watch?v=bHUEIb1PFkw",
+                        "thumbnail": "https://i3.ytimg.com/vi/bHUEIb1PFkw/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 11 Agu 2025 | Menyampaikan Suara Kebenaran",
                         "date": "2025-08-10",
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=hAPKbYZlUU8",
                         "thumbnail": "https://i1.ytimg.com/vi/hAPKbYZlUU8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Agu 2025 | Bersyukur Berdoa dan Bertindak Bagi Tuhan dan Indonesia",
-                        "date": "2025-08-10",
-                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
-                        "link": "https://www.youtube.com/watch?v=bHUEIb1PFkw",
-                        "thumbnail": "https://i3.ytimg.com/vi/bHUEIb1PFkw/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 9 Agu 2025 | Kemerdekaan Sejati dalam Pelayanan Kasih",
