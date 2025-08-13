@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4071,
-        "last-update": 1755110026,
-        "last-updated-item": "ykb",
+        "update-count": 4072,
+        "last-update": 1755115752,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 15 Agu 2025 | Kelekatan",
-                        "date": "2025-08-13",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=Dgkaav8_8qo",
-                        "thumbnail": "https://i1.ytimg.com/vi/Dgkaav8_8qo/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 14 Agu 2025 | Usaha dan Pengorbanan Yang Tidak Sia sia",
                         "date": "2025-08-13",
                         "desc": "Dibawakan oleh Pnt. Catur Winarno",
                         "link": "https://www.youtube.com/watch?v=6Ft_NqslRb8",
                         "thumbnail": "https://i3.ytimg.com/vi/6Ft_NqslRb8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Agu 2025 | Kelekatan",
+                        "date": "2025-08-13",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=Dgkaav8_8qo",
+                        "thumbnail": "https://i1.ytimg.com/vi/Dgkaav8_8qo/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 13 Agu 2025 | Memaknai Kata Merdeka",
