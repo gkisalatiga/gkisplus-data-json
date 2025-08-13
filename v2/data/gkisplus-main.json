@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4066,
-        "last-update": 1755057748,
+        "update-count": 4067,
+        "last-update": 1755060615,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -2861,36 +2861,6 @@
                     "place": "Gedung Gereja",
                     "representative": "Komisi Pengajaran dan Pekabaran Injil",
                     "note": ""
-                },
-                {
-                    "name": "PA Wilayah",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Wilayah",
-                    "note": "Opsional"
-                },
-                {
-                    "name": "PA Wilayah",
-                    "time": "18:00",
-                    "time-to": "19:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Betlehem",
-                    "representative": "Wilayah",
-                    "note": "Opsional"
-                },
-                {
-                    "name": "PA Wilayah",
-                    "time": "18:00",
-                    "time-to": "19:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Konsistori",
-                    "representative": "Wilayah",
-                    "note": "Opsional"
                 }
             ],
             "wed": [
@@ -4433,6 +4403,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Elibert",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 10",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Bp. Pono",
                 "status": "y",
                 "note": ""
             }
