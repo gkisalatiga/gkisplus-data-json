@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4069,
-        "last-update": 1755080249,
-        "last-updated-item": "agenda",
+        "update-count": 4070,
+        "last-update": 1755104877,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Agu 2025 | Kelekatan",
+                        "date": "2025-08-13",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=Dgkaav8_8qo",
+                        "thumbnail": "https://i1.ytimg.com/vi/Dgkaav8_8qo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Agu 2025 | Usaha dan Pengorbanan Yang Tidak Sia sia",
+                        "date": "2025-08-13",
+                        "desc": "Dibawakan oleh Pnt. Catur Winarno",
+                        "link": "https://www.youtube.com/watch?v=6Ft_NqslRb8",
+                        "thumbnail": "https://i3.ytimg.com/vi/6Ft_NqslRb8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Agu 2025 | Memaknai Kata Merdeka",
                         "date": "2025-08-12",
@@ -82,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Petrus Sutomo",
                         "link": "https://www.youtube.com/watch?v=cvmJOD0GZ0Y",
                         "thumbnail": "https://i4.ytimg.com/vi/cvmJOD0GZ0Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Agu 2025 | Membangun Persatuan Melalui Kesabaran dan Pengampunan",
-                        "date": "2025-08-01",
-                        "desc": "Dibawakan oleh Sdr. Yapi",
-                        "link": "https://www.youtube.com/watch?v=OaIRVq8LI5A",
-                        "thumbnail": "https://i4.ytimg.com/vi/OaIRVq8LI5A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
