@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4065,
-        "last-update": 1755054326,
+        "update-count": 4066,
+        "last-update": 1755057748,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4111,7 +4111,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -4222,7 +4222,7 @@
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
-                "pic": "Ibu Netty",
+                "pic": "Ibu Lanny S",
                 "status": "y",
                 "note": "-"
             },
