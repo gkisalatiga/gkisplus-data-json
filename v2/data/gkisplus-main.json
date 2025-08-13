@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4068,
-        "last-update": 1755066262,
+        "update-count": 4069,
+        "last-update": 1755080249,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4433,6 +4433,20 @@
                 "pic": "Bu Wiwin",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan PS. Hosana",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-08-14",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Renny Yiwa",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
