@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4078,
-        "last-update": 1755166650,
+        "update-count": 4079,
+        "last-update": 1755174819,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4468,6 +4468,20 @@
                 "pic": "Ayu",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Eben Haezer Fellowship ",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-08-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
