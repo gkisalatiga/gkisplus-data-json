@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4073,
-        "last-update": 1755140772,
+        "update-count": 4074,
+        "last-update": 1755147021,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4496,6 +4496,20 @@
                 "pic": "Natalis",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Online meeting. ",
+                "time": "15:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-08-14",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Erio Fanggidae ",
+                "status": "w",
+                "note": "Tidak ada. "
             }
         ],
         "backend": {
