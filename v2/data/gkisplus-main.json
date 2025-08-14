@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4075,
-        "last-update": 1755152665,
+        "update-count": 4076,
+        "last-update": 1755154371,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4015,10 +4015,10 @@
                 "date": "2025-08-15",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4046,7 +4046,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4438,7 +4438,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Bu Wiwin",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             }
         ],
