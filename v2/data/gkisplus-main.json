@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4076,
-        "last-update": 1755154371,
+        "update-count": 4077,
+        "last-update": 1755157200,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4440,6 +4440,20 @@
                 "pic": "Bu Wiwin",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "KTB Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-27",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Pdt. Elisabeth Parinsi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
