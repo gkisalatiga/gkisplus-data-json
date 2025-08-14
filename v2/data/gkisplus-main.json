@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4077,
-        "last-update": 1755157200,
+        "update-count": 4078,
+        "last-update": 1755166650,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4454,6 +4454,20 @@
                 "pic": "Pdt. Elisabeth Parinsi",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Membuat perlengkapan games 17an dan menyimpan hadiah dan perlengkapan",
+                "time": "17:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-08-14",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Ayu",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
