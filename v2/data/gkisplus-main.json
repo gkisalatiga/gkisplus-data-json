@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4084,
-        "last-update": 1755282931,
-        "last-updated-item": "ykb",
+        "update-count": 4085,
+        "last-update": 1755288561,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Agu 2025 | Tetaplah Hadir Sebagai Saksi Iman di Indonesia",
+                        "date": "2025-08-15",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=P7pM2BgLIlg",
+                        "thumbnail": "https://i1.ytimg.com/vi/P7pM2BgLIlg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Agu 2025 | Kelekatan",
                         "date": "2025-08-14",
