@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4081,
-        "last-update": 1755202224,
-        "last-updated-item": "yt",
+        "update-count": 4082,
+        "last-update": 1755227242,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -3994,6 +3994,20 @@
                 "note": "Tidak ada. "
             },
             {
+                "name": "Membuat perlengkapan games 17an dan menyimpan hadiah dan perlengkapan",
+                "time": "17:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-08-14",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Ayu",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Latihan persiapan untuk ibadah tgl 17 agustus",
                 "time": "12:00",
                 "time-to": "15:00",
@@ -4032,8 +4046,36 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Eben Haezer Fellowship ",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-08-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
+                "name": "Rapat KD dengan KDT",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "Latihan Amici utk pelayanan  Pepenkris",
@@ -4132,6 +4174,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "KTB Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-27",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Pdt. Elisabeth Parinsi",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -4440,48 +4496,6 @@
                 "pic": "Bu Wiwin",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "KTB Komisi Dewasa",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-08-27",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Pdt. Elisabeth Parinsi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Membuat perlengkapan games 17an dan menyimpan hadiah dan perlengkapan",
-                "time": "17:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-08-14",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Ayu",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Eben Haezer Fellowship ",
-                "time": "12:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2025-08-15",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
