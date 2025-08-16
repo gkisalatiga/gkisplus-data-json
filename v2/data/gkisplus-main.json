@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4086,
-        "last-update": 1755332352,
+        "update-count": 4087,
+        "last-update": 1755334995,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1652,6 +1652,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 17 Agustus 2025",
+                    "date": "2025-08-16",
+                    "link": "https://drive.google.com/file/d/1456rLxW_otpeRCGhKkn_yfW2jACvZRAu/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-17-agustus-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/08/warta-17-ags-25.png",
+                    "id": "1456rLxW_otpeRCGhKkn_yfW2jACvZRAu",
+                    "size": "1.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 10 Agustus 2025",
                     "date": "2025-08-09",
                     "link": "https://drive.google.com/file/d/12xD8Xabs8S5aFYFL0iH8NRnzoZny4B6W/view",
@@ -2130,6 +2139,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 17 Agustus 2025",
+                    "date": "2025-08-16",
+                    "link": "https://drive.google.com/file/d/1rj9Y3_o3tvet4Dx6s6El0_JSD-xFuMuH/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-17-agustus-2025/",
+                    "thumbnail": "",
+                    "id": "1rj9Y3_o3tvet4Dx6s6El0_JSD-xFuMuH",
+                    "size": "0.94 MB"
+                },
                 {
                     "title": "Tata Ibadah 10 Agustus 2025",
                     "date": "2025-08-09",
