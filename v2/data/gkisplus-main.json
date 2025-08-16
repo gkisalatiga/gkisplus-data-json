@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4085,
-        "last-update": 1755288561,
-        "last-updated-item": "yt",
+        "update-count": 4086,
+        "last-update": 1755332352,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4502,6 +4502,20 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wiwin",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Kegiatan LAI",
+                "time": "09:11",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-08-30",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Bu Desy",
+                "status": "w",
                 "note": "-"
             }
         ],
