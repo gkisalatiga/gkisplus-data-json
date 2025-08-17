@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4091,
-        "last-update": 1755455523,
-        "last-updated-item": "ykb",
+        "update-count": 4092,
+        "last-update": 1755468472,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Agu 2025 | Mengisi Kemerdekaan dengan Hidup Dalam Kristus",
+                        "date": "2025-08-17",
+                        "desc": "Dibawakan oleh Pnt. Adita Sutresna",
+                        "link": "https://www.youtube.com/watch?v=H5tWTL1oV1g",
+                        "thumbnail": "https://i1.ytimg.com/vi/H5tWTL1oV1g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Agu 2025 | Tetaplah Hadir Sebagai Saksi Iman di Indonesia",
                         "date": "2025-08-15",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=2TT1P6e9XH4",
                         "thumbnail": "https://i3.ytimg.com/vi/2TT1P6e9XH4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Agu 2025 | Kemerdekaan Sejati Orang Percaya",
-                        "date": "2025-08-03",
-                        "desc": "Dibawakan oleh Bpk. Petrus Sutomo",
-                        "link": "https://www.youtube.com/watch?v=cvmJOD0GZ0Y",
-                        "thumbnail": "https://i4.ytimg.com/vi/cvmJOD0GZ0Y/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
