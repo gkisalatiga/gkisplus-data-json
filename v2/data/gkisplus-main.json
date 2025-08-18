@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4094,
-        "last-update": 1755503936,
-        "last-updated-item": "agenda",
+        "update-count": 4095,
+        "last-update": 1755537056,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Agu 2025 | Syukur Yang Menyatakan Keprihatinan",
+                        "date": "2025-08-18",
+                        "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
+                        "link": "https://www.youtube.com/watch?v=qUazIOOdK_s",
+                        "thumbnail": "https://i2.ytimg.com/vi/qUazIOOdK_s/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Agu 2025 | Mengisi Kemerdekaan dengan Hidup Dalam Kristus",
                         "date": "2025-08-17",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Samuel Martono",
                         "link": "https://www.youtube.com/watch?v=7lj2m-jfjgE",
                         "thumbnail": "https://i4.ytimg.com/vi/7lj2m-jfjgE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Agu 2025 | Merdeka Bukan Cuma Setahun Sekali",
-                        "date": "2025-08-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=2TT1P6e9XH4",
-                        "thumbnail": "https://i3.ytimg.com/vi/2TT1P6e9XH4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
