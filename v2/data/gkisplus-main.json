@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4092,
-        "last-update": 1755468472,
-        "last-updated-item": "yt",
+        "update-count": 4093,
+        "last-update": 1755502908,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4591,6 +4591,34 @@
                 "pic": "Bu Desy",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan musik untuk ibadah",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-20",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk ibadah ",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-08-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
