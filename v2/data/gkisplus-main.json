@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4097,
-        "last-update": 1755572012,
-        "last-updated-item": "agenda",
+        "update-count": 4098,
+        "last-update": 1755580218,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
                         "link": "https://www.youtube.com/watch?v=rdcRXTWSvtI",
                         "thumbnail": "https://i3.ytimg.com/vi/rdcRXTWSvtI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Agu 2025 | Kejumawaan Orang Kristen",
-                        "date": "2025-08-05",
-                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
-                        "link": "https://www.youtube.com/watch?v=7lj2m-jfjgE",
-                        "thumbnail": "https://i4.ytimg.com/vi/7lj2m-jfjgE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -524,6 +517,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN Komisi Usia Lanjut | 21 Agustus 2025 | \u201cTETAP SETIA DALAM PELAYANAN\u201d",
+                        "date": "2025-08-19",
+                        "desc": "PERSEKUTUAN KOMISI USIA LANJUT\nKamis, 21 Agustus 2025 | Pukul 16.00 WIB\n\nTema : \u201cTETAP SETIA DALAM PELAYANAN\u201d\nPelayan Firman : Pdt. Helen Ruth Manurung\n\nMJP : -\nMusik : Ibu Retty\nPnk : Ibu Hana\nPaduan Suara : -\nMultimedia : Roni Sibarani, Joaquim, Ristiani G.M. , Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=pAjvNYlP-nw",
+                        "thumbnail": "https://i.ytimg.com/vi/pAjvNYlP-nw/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "PERSEKUTUAN Komisi Usia Lanjut | 17 Juli 2025 | \u201cMASA TUA YANG PENUH KEBIJAKSANAAN\u201d",
                         "date": "2025-07-15",
                         "desc": "PERSEKUTUAN KOMISI USIA LANJUT\nKamis, 17 Juli 2025 | Pukul 16.00 WIB\n\nTema : \u201cMASA TUA YANG PENUH KEBIJAKSANAAN\u201d\nPelayan Firman : ibu Liana Poedjihastuti\n\nMJP : Pnt. Juliani\nMusik : Ibu Retty\nPnk : Ibu Hana\nPaduan Suara : PS. Efrata\nMultimedia : Joshua, Risti, Iwandi, Bayu\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -725,13 +725,6 @@
                         "desc": "Persekutuan Bulanan Usia Lanjut GKI Salatiga :  Kasih Membawa Perubahan\nKamis, 16 Februari 2023\npukul 16.00 WIB \n\nDilayani oleh Pdt. Adi Setyo Kristianto (dari GKJ Randuares)\nMJ : Pnt. July Silooy\nPemusik : Yonaldi/Adriel \u2502PNK: Gita Hastuti \nSound : Tonny Harnoto \u2502OBS: Tunggul L .\u2502 PPT : I Made Satya Arnawa",
                         "link": "https://www.youtube.com/watch?v=2MCb1TrtWx0",
                         "thumbnail": "https://i.ytimg.com/vi/2MCb1TrtWx0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "PERSEKUTUAN USIA LANJUT GKI SALATIGA | Berkarya Bagi Tuhan",
-                        "date": "2023-01-19",
-                        "desc": "Persekutuan Bulanan Usia Lanjut GKI Salatiga :  Berkarya Bagi Tuhan\nKamis, 19 Januari 2023\npukul 16.00 WIB \n\nPdt. Em. Iman Santoso\n\nOrganis : Angeline \u2502 Voice : Margriet + Vica \u2502 PPT : I Made Satya Arnawa | OBS : Tunggul Laras\u2502 Sound : Tonny Harnoto",
-                        "link": "https://www.youtube.com/watch?v=dm1CsBEvZ60",
-                        "thumbnail": "https://i.ytimg.com/vi/dm1CsBEvZ60/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
