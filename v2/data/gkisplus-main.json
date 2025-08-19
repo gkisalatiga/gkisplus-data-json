@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4100,
-        "last-update": 1755621694,
-        "last-updated-item": "backend",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 4101,
+        "last-update": 1755623334,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
     "data": {
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Agu 2025 | Bersatu Berdaulat, Rakyat Sejahtera Indonesia Maju",
+                        "date": "2025-08-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=ujVWygnIuKQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/ujVWygnIuKQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Agu 2025 | Syukur Yang Menyatakan Keprihatinan",
                         "date": "2025-08-18",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
                         "link": "https://www.youtube.com/watch?v=em8w7MxBBp4",
                         "thumbnail": "https://i2.ytimg.com/vi/em8w7MxBBp4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Agu 2025 | Masih Terjajahkah?",
-                        "date": "2025-08-06",
-                        "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
-                        "link": "https://www.youtube.com/watch?v=rdcRXTWSvtI",
-                        "thumbnail": "https://i3.ytimg.com/vi/rdcRXTWSvtI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
