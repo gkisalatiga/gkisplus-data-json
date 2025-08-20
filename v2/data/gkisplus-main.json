@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4103,
-        "last-update": 1755652229,
+        "update-count": 4104,
+        "last-update": 1755658290,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4584,7 +4584,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4598,7 +4598,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4612,7 +4612,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4626,8 +4626,8 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Alia",
-                "status": "w",
-                "note": ""
+                "status": "y",
+                "note": "Minta disiapkan teh"
             }
         ],
         "backend": {
