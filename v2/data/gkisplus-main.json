@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4107,
-        "last-update": 1755714851,
-        "last-updated-item": "ykb",
+        "update-count": 4108,
+        "last-update": 1755720558,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Agu 2025 | Kasih Yang Memerdekakan",
+                        "date": "2025-08-20",
+                        "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
+                        "link": "https://www.youtube.com/watch?v=jpIZUiF7R58",
+                        "thumbnail": "https://i3.ytimg.com/vi/jpIZUiF7R58/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Agu 2025 | Bersatu Berdaulat, Rakyat Sejahtera Indonesia Maju",
                         "date": "2025-08-19",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakam oleh Sdri. Irma Picauly",
                         "link": "https://www.youtube.com/watch?v=exRVRcFfPkg",
                         "thumbnail": "https://i2.ytimg.com/vi/exRVRcFfPkg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Agu 2025 | Terang Itu Kan Bercahaya",
-                        "date": "2025-08-07",
-                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
-                        "link": "https://www.youtube.com/watch?v=em8w7MxBBp4",
-                        "thumbnail": "https://i2.ytimg.com/vi/em8w7MxBBp4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
