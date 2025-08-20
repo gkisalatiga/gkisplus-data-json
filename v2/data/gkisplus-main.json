@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4102,
-        "last-update": 1755628275,
-        "last-updated-item": "ykb",
+        "update-count": 4103,
+        "last-update": 1755652229,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4612,6 +4612,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan drama konven penatua",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-20",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia",
                 "status": "w",
                 "note": ""
             }
