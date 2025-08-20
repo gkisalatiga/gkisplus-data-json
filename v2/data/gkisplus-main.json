@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4105,
-        "last-update": 1755661075,
+        "update-count": 4106,
+        "last-update": 1755666936,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4418,6 +4418,48 @@
                 "pic": "Bu Wiwin",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan PS. KUL",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-24",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "w",
+                "note": "Dibagi 2 kelompok, di gedung greja dan di ruang Kapernaum"
+            },
+            {
+                "name": "Lathan PS.KUL",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "w",
+                "note": "Dibagi 2 kelompok, di gedung greja dan di ruang Kapernaum"
+            },
+            {
+                "name": "Sambut Natal KUL, dan ramah tamah",
+                "time": "16:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
