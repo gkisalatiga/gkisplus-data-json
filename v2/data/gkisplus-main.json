@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4111,
-        "last-update": 1755749891,
+        "update-count": 4112,
+        "last-update": 1755751398,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4015,6 +4015,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Amici",
+                "time": "11:15",
+                "time-to": "00:45",
+                "timezone": "WIB",
+                "date": "2025-08-21",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan musik untuk ibadah ",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -4488,20 +4502,6 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "11:15",
-                "time-to": "00:45",
-                "timezone": "WIB",
-                "date": "2025-08-21",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
                 "note": ""
             }
         ],
