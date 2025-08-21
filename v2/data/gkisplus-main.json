@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4109,
-        "last-update": 1755738584,
+        "update-count": 4110,
+        "last-update": 1755744663,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4461,6 +4461,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat panitia konven penatua",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
+                "note": "Minta disiapkan LCD"
             }
         ],
         "backend": {
