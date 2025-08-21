@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4108,
-        "last-update": 1755720558,
-        "last-updated-item": "yt",
+        "update-count": 4109,
+        "last-update": 1755738584,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4043,6 +4043,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan PS. KUL",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-24",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Dibagi 2 kelompok, di gedung greja dan di ruang Kapernaum"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4097,6 +4111,20 @@
                 "pic": "Bu Desy",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Lathan PS.KUL",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-08-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Dibagi 2 kelompok, di gedung greja dan di ruang Kapernaum"
             },
             {
                 "name": "PA wilayah 11",
@@ -4421,34 +4449,6 @@
                 "note": "-"
             },
             {
-                "name": "Latihan PS. KUL",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-08-24",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "w",
-                "note": "Dibagi 2 kelompok, di gedung greja dan di ruang Kapernaum"
-            },
-            {
-                "name": "Lathan PS.KUL",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-08-31",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "w",
-                "note": "Dibagi 2 kelompok, di gedung greja dan di ruang Kapernaum"
-            },
-            {
                 "name": "Sambut Natal KUL, dan ramah tamah",
                 "time": "16:00",
                 "time-to": "19:00",
@@ -4459,7 +4459,7 @@
                 "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
