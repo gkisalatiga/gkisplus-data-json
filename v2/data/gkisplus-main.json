@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4112,
-        "last-update": 1755751398,
-        "last-updated-item": "agenda",
+        "update-count": 4113,
+        "last-update": 1755796429,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Agu 2025 | Merdeka Melalui Perbuatan",
+                        "date": "2025-08-21",
+                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
+                        "link": "https://www.youtube.com/watch?v=7jNRGzkkLwc",
+                        "thumbnail": "https://i4.ytimg.com/vi/7jNRGzkkLwc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Agu 2025 | Kasih Yang Memerdekakan",
                         "date": "2025-08-20",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=hAPKbYZlUU8",
                         "thumbnail": "https://i1.ytimg.com/vi/hAPKbYZlUU8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Agu 2025 | Kemerdekaan Sejati dalam Pelayanan Kasih",
-                        "date": "2025-08-08",
-                        "desc": "Dibawakam oleh Sdri. Irma Picauly",
-                        "link": "https://www.youtube.com/watch?v=exRVRcFfPkg",
-                        "thumbnail": "https://i2.ytimg.com/vi/exRVRcFfPkg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
