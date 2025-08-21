@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4110,
-        "last-update": 1755744663,
+        "update-count": 4111,
+        "last-update": 1755749891,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4043,6 +4043,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat panitia konven penatua",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
+            },
+            {
                 "name": "Latihan PS. KUL",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -4095,6 +4109,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Pdt. Elisabeth Parinsi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 2 dengan Badan Pelayanan",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-08-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Adita Sutresno",
                 "status": "y",
                 "note": ""
             },
@@ -4463,18 +4491,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat panitia konven penatua",
-                "time": "17:00",
-                "time-to": "19:00",
+                "name": "Latihan Amici",
+                "time": "11:15",
+                "time-to": "00:45",
                 "timezone": "WIB",
-                "date": "2025-08-22",
-                "weekday": "fri",
+                "date": "2025-08-21",
+                "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "status": "w",
-                "note": "Minta disiapkan LCD"
+                "note": ""
             }
         ],
         "backend": {
