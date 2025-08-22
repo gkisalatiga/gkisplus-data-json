@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4119,
-        "last-update": 1755850808,
+        "update-count": 4120,
+        "last-update": 1755852302,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4519,20 +4519,6 @@
                 "note": "-"
             },
             {
-                "name": "Sambut Natal KUL, dan ramah tamah",
-                "time": "16:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4558,6 +4544,20 @@
                 "representative": "Wilayah",
                 "pic": "Elibert",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sambut Natal KUL, dan ramah tamah",
+                "time": "16:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
                 "note": ""
             }
         ],
