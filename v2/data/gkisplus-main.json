@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4118,
-        "last-update": 1755841223,
+        "update-count": 4119,
+        "last-update": 1755850808,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4530,6 +4530,34 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
                 "note": ""
             }
         ],
