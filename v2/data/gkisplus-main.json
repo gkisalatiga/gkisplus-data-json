@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4117,
-        "last-update": 1755836246,
+        "update-count": 4118,
+        "last-update": 1755841223,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4145,8 +4145,8 @@
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-08-28",
-                "weekday": "thu",
+                "date": "2025-08-29",
+                "weekday": "fri",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
@@ -4351,6 +4351,20 @@
                 "note": "-"
             },
             {
+                "name": "pa wilayah x ( PK )",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "danang",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4516,20 +4530,6 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "pa wilayah x ( PK )",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-09-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "danang",
-                "status": "w",
                 "note": ""
             }
         ],
