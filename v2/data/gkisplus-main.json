@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4116,
-        "last-update": 1755831073,
+        "update-count": 4117,
+        "last-update": 1755836246,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4071,6 +4071,20 @@
                 "note": "Minta disiapkan LCD"
             },
             {
+                "name": "Latihan Drama Konven Penatua",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-08-23",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Minta disiapkan teh"
+            },
+            {
                 "name": "Latihan PS. KUL",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -4505,18 +4519,18 @@
                 "note": ""
             },
             {
-                "name": "Latihan Drama Konven Penatua",
-                "time": "10:00",
-                "time-to": "13:00",
+                "name": "pa wilayah x ( PK )",
+                "time": "18:00",
+                "time-to": "19:30",
                 "timezone": "WIB",
-                "date": "2025-08-23",
-                "weekday": "sat",
+                "date": "2025-09-30",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": "Minta disiapkan teh"
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "danang",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
