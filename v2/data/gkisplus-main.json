@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4120,
-        "last-update": 1755852302,
-        "last-updated-item": "agenda",
+        "update-count": 4121,
+        "last-update": 1755882528,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Agu 2025 | Yang Tak Pernah Hilang",
+                        "date": "2025-08-22",
+                        "desc": "Dibawakan oleh Ibu Wahyu Pujiati",
+                        "link": "https://www.youtube.com/watch?v=NSYsTdjDmbU",
+                        "thumbnail": "https://i3.ytimg.com/vi/NSYsTdjDmbU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Agu 2025 | Merdeka Melalui Perbuatan",
                         "date": "2025-08-21",
