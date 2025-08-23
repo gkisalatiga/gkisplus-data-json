@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4124,
-        "last-update": 1755911277,
+        "update-count": 4125,
+        "last-update": 1755917146,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4576,6 +4576,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Komisi Pemuda",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-23",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Malaikosa",
                 "status": "w",
                 "note": ""
             }
