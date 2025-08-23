@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4128,
-        "last-update": 1755930017,
+        "update-count": 4129,
+        "last-update": 1755937066,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4132,7 +4132,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Pemuda",
                 "pic": "Dian Malaikosa",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
