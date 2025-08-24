@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4133,
-        "last-update": 1755991979,
-        "last-updated-item": "yt",
+        "update-count": 4134,
+        "last-update": 1755998287,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4663,6 +4663,20 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-09-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "w",
                 "note": ""
             }
         ],
