@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4134,
-        "last-update": 1755998287,
+        "update-count": 4135,
+        "last-update": 1756004583,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4414,6 +4414,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-09-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4456,6 +4470,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-09-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "pa wilayah x ( PK )",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4466,6 +4494,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "danang",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-10-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
                 "status": "y",
                 "note": ""
             },
@@ -4540,6 +4582,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-10-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4610,6 +4666,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-11-09",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA WIl. 9",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4663,20 +4733,6 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan LAVE",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-09-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Lainnya",
-                "pic": "Pnt. Natalis Sidanta",
-                "status": "w",
                 "note": ""
             }
         ],
