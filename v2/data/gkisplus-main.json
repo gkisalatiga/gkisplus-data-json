@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4136,
-        "last-update": 1756005132,
+        "update-count": 4137,
+        "last-update": 1756044454,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Agu 2025 | Kemerdekaan Dalam Kristus",
+                        "date": "2025-08-24",
+                        "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
+                        "link": "https://www.youtube.com/watch?v=aR-r4P0VQh0",
+                        "thumbnail": "https://i2.ytimg.com/vi/aR-r4P0VQh0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Agu 2025 | Yang Tidak Boleh Hilang",
                         "date": "2025-08-22",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Dewi Retnowati",
                         "link": "https://www.youtube.com/watch?v=bHUEIb1PFkw",
                         "thumbnail": "https://i3.ytimg.com/vi/bHUEIb1PFkw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Agu 2025 | Menyampaikan Suara Kebenaran",
-                        "date": "2025-08-10",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=hAPKbYZlUU8",
-                        "thumbnail": "https://i1.ytimg.com/vi/hAPKbYZlUU8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
