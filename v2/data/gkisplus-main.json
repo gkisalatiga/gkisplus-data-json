@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4142,
-        "last-update": 1756133006,
+        "update-count": 4143,
+        "last-update": 1756144219,
         "last-updated-item": "forms",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
@@ -3822,30 +3822,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
-                "title": "Kebaktian Minggu HUT GKI Ke-37",
-                "type": "poster",
-                "date-created": "2025-08-24",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
-                "title": "Kebaktian Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2025-08-17",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
-                "title": "Kebaktian Remaja",
-                "type": "poster",
-                "date-created": "2025-08-17",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd.webp",
                 "title": "KTB Komisi Dewasa",
