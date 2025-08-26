@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4150,
-        "last-update": 1756217662,
-        "last-updated-item": "agenda",
+        "update-count": 4151,
+        "last-update": 1756228114,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Agu 2025 | Kemerdekaan Sejati Bagi Orang Percaya",
+                        "date": "2025-08-26",
+                        "desc": "Dibawakan oleh Bpk. Henry Kristanto",
+                        "link": "https://www.youtube.com/watch?v=2UvMcLrDQtU",
+                        "thumbnail": "https://i3.ytimg.com/vi/2UvMcLrDQtU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 AGu 2025 | Memaknai Kebhinnekaan",
                         "date": "2025-08-26",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Catur Winarno",
                         "link": "https://www.youtube.com/watch?v=6Ft_NqslRb8",
                         "thumbnail": "https://i3.ytimg.com/vi/6Ft_NqslRb8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Agu 2025 | Memaknai Kata Merdeka",
-                        "date": "2025-08-12",
-                        "desc": "Dibawakan oleh Sdr. Joe Elliot Magang",
-                        "link": "https://www.youtube.com/watch?v=-XYpmSfMTWw",
-                        "thumbnail": "https://i2.ytimg.com/vi/-XYpmSfMTWw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
