@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4145,
-        "last-update": 1756170703,
-        "last-updated-item": "agenda",
+        "update-count": 4146,
+        "last-update": 1756177378,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 AGu 2025 | Memaknai Kebhinnekaan",
+                        "date": "2025-08-26",
+                        "desc": "Dibawakan oleh Ibu Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=gyKRYT1BK0g",
+                        "thumbnail": "https://i4.ytimg.com/vi/gyKRYT1BK0g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Agu 2025 | Kemerdekaan Dalam Kristus",
                         "date": "2025-08-24",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdr. Joe Elliot Magang",
                         "link": "https://www.youtube.com/watch?v=-XYpmSfMTWw",
                         "thumbnail": "https://i2.ytimg.com/vi/-XYpmSfMTWw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Agu 2025 | Bersyukur Berdoa dan Bertindak Bagi Tuhan dan Indonesia",
-                        "date": "2025-08-11",
-                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
-                        "link": "https://www.youtube.com/watch?v=bHUEIb1PFkw",
-                        "thumbnail": "https://i3.ytimg.com/vi/bHUEIb1PFkw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
