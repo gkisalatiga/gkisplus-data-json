@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4146,
-        "last-update": 1756177378,
-        "last-updated-item": "yt",
+        "update-count": 4147,
+        "last-update": 1756179517,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4798,6 +4798,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Erin",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Minggu ",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-08-29",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
