@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4149,
-        "last-update": 1756191038,
+        "update-count": 4150,
+        "last-update": 1756217662,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4814,6 +4814,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Tim Yonatan SODA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
             }
         ],
         "backend": {
