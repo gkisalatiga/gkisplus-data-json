@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4153,
-        "last-update": 1756265515,
+        "update-count": 4154,
+        "last-update": 1756271661,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4842,6 +4842,20 @@
                 "pic": "Desty Kainama ",
                 "status": "w",
                 "note": "Tidak ada"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Minggu 31 Agustus 2025",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-29",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Erin",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
