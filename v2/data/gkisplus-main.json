@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4155,
-        "last-update": 1756282790,
+        "update-count": 4156,
+        "last-update": 1756284277,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4270,6 +4270,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Drama Konven Penatua",
+                "time": "18:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-08-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat MJ Bidang 2 dengan Badan Pelayanan",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4309,6 +4323,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Erin",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Drama Konven Penatua",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-08-29",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4354,6 +4382,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Drama",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-08-30",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2), Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lathan PS.KUL",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -4378,8 +4420,22 @@
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": "Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
+            },
+            {
+                "name": "Latihan drama konven penatua",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-08-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -4434,7 +4490,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Desty Kainama ",
-                "status": "w",
+                "status": "y",
                 "note": "Tidak ada"
             },
             {
