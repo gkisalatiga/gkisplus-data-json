@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4152,
-        "last-update": 1756233083,
-        "last-updated-item": "ykb",
+        "update-count": 4153,
+        "last-update": 1756265515,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4828,6 +4828,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": "Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Desty Kainama ",
+                "status": "w",
+                "note": "Tidak ada"
             }
         ],
         "backend": {
