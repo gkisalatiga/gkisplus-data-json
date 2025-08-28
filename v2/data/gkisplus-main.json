@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4158,
-        "last-update": 1756319474,
-        "last-updated-item": "ykb",
+        "update-count": 4159,
+        "last-update": 1756349157,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4911,6 +4911,20 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Audisi pelatihan musik",
+                "time": "11:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-09-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
                 "note": ""
             }
         ],
