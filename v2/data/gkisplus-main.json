@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4162,
-        "last-update": 1756362145,
+        "update-count": 4163,
+        "last-update": 1756363712,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4052,20 +4052,6 @@
                 "note": ""
             },
             {
-                "name": "Latihan Pemusik Ibadah Minggu 31 Agustus 2025",
-                "time": "18:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-08-29",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Erin",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "Latihan Drama Konven Penatua",
                 "time": "18:30",
                 "time-to": "21:30",
@@ -4090,7 +4076,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah rahayu",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4290,7 +4276,7 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah X",
+                "name": "Sambut Natal KUL, dan ramah tamah",
                 "time": "18:00",
                 "time-to": "20:00",
                 "timezone": "WIB",
