@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4166,
-        "last-update": 1756411763,
-        "last-updated-item": "yt",
+        "update-count": 4167,
+        "last-update": 1756429723,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4087,7 +4087,7 @@
                 "date": "2025-08-30",
                 "weekday": "sat",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
+                "place": "0",
                 "representative": "Lainnya",
                 "pic": "Bu Desy",
                 "status": "y",
@@ -4174,6 +4174,34 @@
                 "place": "Gedung Gereja",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Konven Penatua",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-01",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
+            },
+            {
+                "name": "Persiapan Pemandu PA",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-09-01",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Bp. Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
@@ -4486,6 +4514,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wil 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4512,6 +4554,20 @@
                 "pic": "Elibert",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA WIL 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "Latihan LAVE",
@@ -4542,6 +4598,20 @@
                 "note": ""
             },
             {
+                "name": "PA WIL 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wil 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4568,6 +4638,20 @@
                 "pic": "Renny Yiwa",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA WIL 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
@@ -4664,34 +4748,6 @@
                 "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia Konven Penatua",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-01",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "y",
-                "note": "Minta disiapkan LCD"
-            },
-            {
-                "name": "Persiapan Pemandu PA",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-09-01",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pengajaran dan Pekabaran Injil",
-                "pic": "Bp. Lukas Sukan",
                 "status": "y",
                 "note": ""
             }
