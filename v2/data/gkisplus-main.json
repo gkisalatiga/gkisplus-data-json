@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4171,
-        "last-update": 1756452986,
+        "update-count": 4172,
+        "last-update": 1756458948,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4062,7 +4062,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4087,7 +4087,7 @@
                 "date": "2025-08-30",
                 "weekday": "sat",
                 "type": "proposal",
-                "place": "0",
+                "place": "Ruang Kana (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Bu Desy",
                 "status": "y",
@@ -4148,6 +4148,20 @@
                 "pic": "Samarthya",
                 "status": "y",
                 "note": "Minta disiapkan LCD, Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
+            },
+            {
+                "name": "Rapat KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-08-30",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Chandra",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Lathan PS.KUL",
