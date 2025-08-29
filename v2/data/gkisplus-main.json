@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4170,
-        "last-update": 1756441089,
+        "update-count": 4171,
+        "last-update": 1756452986,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4136,6 +4136,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Yonatan SODA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-30",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Minta disiapkan LCD, Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
+            },
+            {
                 "name": "Lathan PS.KUL",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -4176,6 +4190,20 @@
                 "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Komisi Pemuda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "w",
+                "note": "Tambahkan Teh"
             },
             {
                 "name": "Rapat Panitia Konven Penatua",
@@ -4734,7 +4762,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4764,34 +4792,6 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat Tim Yonatan SODA",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-08-30",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Pemuda",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": "Minta disiapkan LCD, Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
-            },
-            {
-                "name": "Rapat Komisi Pemuda",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-08-31",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Susan",
-                "status": "w",
-                "note": "Tambahkan Teh"
             }
         ],
         "backend": {
