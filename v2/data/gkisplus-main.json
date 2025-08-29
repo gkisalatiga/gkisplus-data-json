@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4173,
-        "last-update": 1756492146,
-        "last-updated-item": "ykb",
+        "update-count": 4174,
+        "last-update": 1756501637,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Agu 2025 | Semoga Benar=Benar Merdeka",
+                        "date": "2025-08-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=x0w_C47SHP0",
+                        "thumbnail": "https://i1.ytimg.com/vi/x0w_C47SHP0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Agu 2025 | Beriman, Bertobat, dan Dimerdekakan",
                         "date": "2025-08-28",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Adita Sutresna",
                         "link": "https://www.youtube.com/watch?v=H5tWTL1oV1g",
                         "thumbnail": "https://i1.ytimg.com/vi/H5tWTL1oV1g/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Agu 2025 | Tetaplah Hadir Sebagai Saksi Iman di Indonesia",
-                        "date": "2025-08-15",
-                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
-                        "link": "https://www.youtube.com/watch?v=P7pM2BgLIlg",
-                        "thumbnail": "https://i1.ytimg.com/vi/P7pM2BgLIlg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
