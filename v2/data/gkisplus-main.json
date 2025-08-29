@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4169,
-        "last-update": 1756438304,
+        "update-count": 4170,
+        "last-update": 1756441089,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4258,7 +4258,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Yosua Candana",
-                "status": "w",
+                "status": "y",
                 "note": "Siapkan LDC"
             },
             {
@@ -4773,11 +4773,25 @@
                 "date": "2025-08-30",
                 "weekday": "sat",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Konsistori",
                 "representative": "Komisi Pemuda",
                 "pic": "Samarthya",
+                "status": "y",
+                "note": "Minta disiapkan LCD, Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
+            },
+            {
+                "name": "Rapat Komisi Pemuda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-08-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
                 "status": "w",
-                "note": "Rapat internal tim pubdok dan multimedia Komisi Pemuda GKI Salatiga"
+                "note": "Tambahkan Teh"
             }
         ],
         "backend": {
