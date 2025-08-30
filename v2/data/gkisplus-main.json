@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4176,
-        "last-update": 1756552010,
+        "update-count": 4177,
+        "last-update": 1756566532,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1652,6 +1652,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 31 Agustus 2025",
+                    "date": "2025-08-30",
+                    "link": "https://drive.google.com/file/d/1g9QEUjCbsnXycNkilknqNCn_TYU9stNT/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-31-agustus-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/08/warta-31-ags-25.png",
+                    "id": "1g9QEUjCbsnXycNkilknqNCn_TYU9stNT",
+                    "size": "1.80 MB"
+                },
+                {
                     "title": "Warta Jemaat 24 Agustus 2025",
                     "date": "2025-08-23",
                     "link": "https://drive.google.com/file/d/1A-zPf8Raisz4aQmOp7RfP_yRUY-qC570/view",
@@ -2148,6 +2157,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 31 Agustus 2025",
+                    "date": "2025-08-30",
+                    "link": "https://drive.google.com/file/d/1HMz6f8JhwtEXnpBRTutxri7Ry8_0DWcH/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-31-agustus-2025/",
+                    "thumbnail": "",
+                    "id": "1HMz6f8JhwtEXnpBRTutxri7Ry8_0DWcH",
+                    "size": "0.70 MB"
+                },
                 {
                     "title": "Tata Ibadah 24 Agustus 2025",
                     "date": "2025-08-23",
