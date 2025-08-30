@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 11,
-        "last-update": 1743744286,
+        "update-count": 12,
+        "last-update": 1756578848,
         "last-updated-item": "library",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
@@ -52,6 +52,19 @@
             }
         ],
         "library": [
+            {
+                "title": "Bulan Keluarga 2025: \u201cFormasi Spiritualitas Keluarga\u201d",
+                "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                "publisher": "LPP Sinode GKJ & GKI SW Jateng",
+                "publisher-loc": "Daerah Istimewa Yogyakarta, Indonesia",
+                "year": "2025",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1-4M1MWDHUNKFh32gBwMphyVmJMIFAIpM",
+                "download-url": "https://drive.google.com/uc?export=download&id=1-4M1MWDHUNKFh32gBwMphyVmJMIFAIpM",
+                "source": "https://lpps.or.id/wp/2025/07/02/bahan-bulan-keluarga-2025/",
+                "size": "3.96 MB",
+                "tags": ["bk-2025"],
+                "is_shown": 1
+            },
             {
                 "title": "Masa Pentakosta 2025: \u201cRoh Kudus Roh Pemersatu\u201d",
                 "author": "LPP Sinode GKJ dan GKI SW Jateng",
@@ -169,6 +182,14 @@
                     "year": "2024",
                     "author": "LPP Sinode GKJ dan GKI SW Jateng",
                     "link": "https://lpps.or.id/wp/2024/07/29/bulan-keluarga-2024"
+                },
+                {
+                    "title": "Bulan Keluarga 2025: \u201cFormasi Spiritualitas Keluarga\u201d",
+                    "license": "Non-Profit",
+                    "license-url": "https://lpps.or.id/wp/2025/07/02/bahan-bulan-keluarga-2025",
+                    "year": "2025",
+                    "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                    "link": "https://lpps.or.id/wp/2025/07/02/bahan-bulan-keluarga-2025"
                 },
                 {
                     "title": "Masa Adven Natal 2024: \u201cDia Tinggal Di Antara Kita\u201d",
