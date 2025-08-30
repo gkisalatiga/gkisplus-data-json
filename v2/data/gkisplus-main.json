@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4178,
-        "last-update": 1756566758,
+        "update-count": 4179,
+        "last-update": 1756569441,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -3841,11 +3841,11 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Persekutuan SoDa",
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/carousel_banner_pernyataan_sikap.webp",
+                "title": "Pernyataan Sikap GKI",
                 "type": "poster",
-                "date-created": "2025-08-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "date-created": "2025-08-30",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/carousel_warta_pernyataan_sikap.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
@@ -3870,6 +3870,14 @@
                 "type": "poster",
                 "date-created": "2025-08-23",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "title": "Persekutuan SoDa",
+                "type": "poster",
+                "date-created": "2025-08-30",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
