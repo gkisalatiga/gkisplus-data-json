@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4183,
-        "last-update": 1756578582,
-        "last-updated-item": "ykb",
+        "update-count": 4184,
+        "last-update": 1756638418,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Sep 2025 | Tuhan Hakimilah Bangsa Kami",
+                        "date": "2025-08-31",
+                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
+                        "link": "https://www.youtube.com/watch?v=qnDlSIT2coU",
+                        "thumbnail": "https://i2.ytimg.com/vi/qnDlSIT2coU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Agu 2025 | Semoga Benar-Benar Merdeka",
                         "date": "2025-08-29",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
                         "link": "https://www.youtube.com/watch?v=qUazIOOdK_s",
                         "thumbnail": "https://i2.ytimg.com/vi/qUazIOOdK_s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Agu 2025 | Mengisi Kemerdekaan dengan Hidup Dalam Kristus",
-                        "date": "2025-08-17",
-                        "desc": "Dibawakan oleh Pnt. Adita Sutresna",
-                        "link": "https://www.youtube.com/watch?v=H5tWTL1oV1g",
-                        "thumbnail": "https://i1.ytimg.com/vi/H5tWTL1oV1g/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
