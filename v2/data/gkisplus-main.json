@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4189,
-        "last-update": 1756712275,
+        "update-count": 4190,
+        "last-update": 1756714887,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4120,6 +4120,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Koordinasi panitia pepenkris",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-09-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Siska Indria",
+                "status": "y",
+                "note": "Terimakasih"
+            },
+            {
                 "name": "Rapat MJ Bidang 3",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -4270,6 +4284,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembentuka Team Pelayanan Kedukaan",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Priani",
                 "status": "y",
                 "note": ""
             },
@@ -4636,20 +4664,6 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat Koordinasi panitia pepenkris",
-                "time": "10:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-09-02",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Ibu Siska Indria",
-                "status": "w",
-                "note": "Terimakasih"
             }
         ],
         "backend": {
