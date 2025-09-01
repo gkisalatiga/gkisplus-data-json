@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4190,
-        "last-update": 1756714887,
+        "update-count": 4191,
+        "last-update": 1756719697,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4663,6 +4663,20 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik Ibadah minggi",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
                 "note": ""
             }
         ],
