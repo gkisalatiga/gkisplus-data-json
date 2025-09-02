@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4195,
-        "last-update": 1756794172,
+        "update-count": 4196,
+        "last-update": 1756801228,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4190,6 +4190,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik English Service",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Bulan Keluarga KUL",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-09-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia Bulan Keluarga ",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4705,20 +4733,6 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik English Service",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-09-04",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "w",
                 "note": ""
             }
         ],
