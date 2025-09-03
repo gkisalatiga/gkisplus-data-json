@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4198,
-        "last-update": 1756837771,
-        "last-updated-item": "ykb",
+        "update-count": 4199,
+        "last-update": 1756861533,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4732,6 +4732,20 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Kegiatan Pembelajaran mendalam bagi Kepala Sekolah Tahap 2",
+                "time": "07:00",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2025-09-15",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yahya Kristanto",
+                "status": "w",
                 "note": ""
             }
         ],
