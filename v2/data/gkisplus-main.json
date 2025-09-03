@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4199,
-        "last-update": 1756861533,
-        "last-updated-item": "agenda",
+        "update-count": 4200,
+        "last-update": 1756908592,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
+                        "date": "2025-09-03",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=CgIOqMRBF0A",
+                        "thumbnail": "https://i4.ytimg.com/vi/CgIOqMRBF0A/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Sep 2025 | Berhikmat Dalam Ketegangan",
+                        "date": "2025-09-03",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=WiCl4WnV-Lc",
+                        "thumbnail": "https://i4.ytimg.com/vi/WiCl4WnV-Lc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Sep 2025 | Tetaplah Setia Bersaksi",
                         "date": "2025-09-02",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Wahyu Pujiati",
                         "link": "https://www.youtube.com/watch?v=NSYsTdjDmbU",
                         "thumbnail": "https://i3.ytimg.com/vi/NSYsTdjDmbU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Agu 2025 | Merdeka Melalui Perbuatan",
-                        "date": "2025-08-21",
-                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
-                        "link": "https://www.youtube.com/watch?v=7jNRGzkkLwc",
-                        "thumbnail": "https://i4.ytimg.com/vi/7jNRGzkkLwc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Agu 2025 | Kasih Yang Memerdekakan",
-                        "date": "2025-08-20",
-                        "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
-                        "link": "https://www.youtube.com/watch?v=jpIZUiF7R58",
-                        "thumbnail": "https://i3.ytimg.com/vi/jpIZUiF7R58/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
