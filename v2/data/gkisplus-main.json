@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4201,
-        "last-update": 1756924237,
-        "last-updated-item": "ykb",
+        "update-count": 4202,
+        "last-update": 1756929685,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Sep 2025 | Kepenuhan Kristus adalah Tuhan Sendiri",
+                        "date": "2025-09-03",
+                        "desc": "Dibawakan oleh Ibu Retty Andrea",
+                        "link": "https://www.youtube.com/watch?v=JgSXtJHPz1U",
+                        "thumbnail": "https://i3.ytimg.com/vi/JgSXtJHPz1U/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
                         "date": "2025-09-03",
