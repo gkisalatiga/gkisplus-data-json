@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4203,
-        "last-update": 1756947929,
+        "update-count": 4204,
+        "last-update": 1756964275,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4794,6 +4794,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "latihan musik ibadah minggu",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
                 "status": "w",
                 "note": ""
             }
