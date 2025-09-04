@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4206,
-        "last-update": 1757010658,
-        "last-updated-item": "ykb",
+        "update-count": 4207,
+        "last-update": 1757016538,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 5 Sep 2025 | Berhikmat Dalam Ketegangan",
+                        "date": "2025-09-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=WiCl4WnV-Lc",
+                        "thumbnail": "https://i4.ytimg.com/vi/WiCl4WnV-Lc/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 4 Sep 2025 | Kepenuhan Kristus adalah Tuhan Sendiri",
                         "date": "2025-09-03",
                         "desc": "Dibawakan oleh Ibu Retty Andrea",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=CgIOqMRBF0A",
                         "thumbnail": "https://i4.ytimg.com/vi/CgIOqMRBF0A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Sep 2025 | Berhikmat Dalam Ketegangan",
-                        "date": "2025-09-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=WiCl4WnV-Lc",
-                        "thumbnail": "https://i4.ytimg.com/vi/WiCl4WnV-Lc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Sep 2025 | Tetaplah Setia Bersaksi",
