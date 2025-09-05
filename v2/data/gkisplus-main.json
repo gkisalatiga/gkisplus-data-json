@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4208,
-        "last-update": 1757070698,
-        "last-updated-item": "agenda",
+        "update-count": 4209,
+        "last-update": 1757081324,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Sep 2025 | The Golden Rule",
+                        "date": "2025-09-05",
+                        "desc": "Dibawakan oleh Pnt. Ervien Dian",
+                        "link": "https://www.youtube.com/watch?v=-2El2waxC04",
+                        "thumbnail": "https://i2.ytimg.com/vi/-2El2waxC04/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Sep 2025 | Berhikmat Dalam Ketegangan",
                         "date": "2025-09-04",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
                         "link": "https://www.youtube.com/watch?v=oQJehRMCQTY",
                         "thumbnail": "https://i4.ytimg.com/vi/oQJehRMCQTY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Agu 2025 | Yang Tidak Boleh Hilang",
-                        "date": "2025-08-22",
-                        "desc": "Dibawakan oleh Ibu Wahyu Pujiati",
-                        "link": "https://www.youtube.com/watch?v=NSYsTdjDmbU",
-                        "thumbnail": "https://i3.ytimg.com/vi/NSYsTdjDmbU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
