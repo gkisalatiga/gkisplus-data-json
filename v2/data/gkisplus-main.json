@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4212,
-        "last-update": 1757131934,
-        "last-updated-item": "pdf",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 4213,
+        "last-update": 1757133560,
+        "last-updated-item": "agenda",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
     "data": {
@@ -4252,7 +4252,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4266,7 +4266,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4294,7 +4294,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4308,7 +4308,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Natalis",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4392,7 +4392,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4420,7 +4420,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Yahya Kristanto",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
