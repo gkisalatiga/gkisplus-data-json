@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4224,
-        "last-update": 1757225957,
+        "update-count": 4225,
+        "last-update": 1757232998,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4900,7 +4900,7 @@
                 "place": "Betlehen",
                 "representative": "Panitia",
                 "pic": "Mario Pattisina",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4914,7 +4914,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Susan",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4943,6 +4943,20 @@
                 "representative": "Wilayah",
                 "pic": "Elibert",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat KD dengan KDT",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
+                "status": "y",
                 "note": ""
             },
             {
