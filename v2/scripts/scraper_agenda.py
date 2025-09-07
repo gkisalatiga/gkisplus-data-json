@@ -144,18 +144,18 @@ class ScraperAgenda(Scraper):
                 approval = 'w'  # --- defaults to "waiting for approval".
             
             j = {
-                "name": name,
-                "time": time,
-                "time-to": time_to,
+                "name": str(name),
+                "time": str(time),
+                "time-to": str(time_to),
                 "timezone": "WIB",
-                "date": date,
-                "weekday": weekday,
+                "date": str(date),
+                "weekday": str(weekday),
                 "type": "proposal",
-                "place": place,
-                "representative": representative,
-                "pic": pic,
-                "status": approval,
-                "note": notes
+                "place": str(place),
+                "representative": str(representative),
+                "pic": str(pic),
+                "status": str(approval),
+                "note": str(notes)
             }
             
             enumerated_items.append(j)
@@ -196,14 +196,14 @@ class ScraperAgenda(Scraper):
                 notes = ''
             
             j = {
-                "name": name,
-                "time": time,
-                "time-to": time_to,
+                "name": str(name),
+                "time": str(time),
+                "time-to": str(time_to),
                 "timezone": "WIB",
                 "type": "rutin",
-                "place": place,
-                "representative": representative,
-                "note": notes
+                "place": str(place),
+                "representative": str(representative),
+                "note": str(notes)
             }
             
             # Appending the data.

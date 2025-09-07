@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4221,
-        "last-update": 1757218615,
+        "update-count": 4222,
+        "last-update": 1757219706,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4927,7 +4927,7 @@
                 "type": "proposal",
                 "place": "Pastori",
                 "representative": "Wilayah",
-                "pic": NaN,
+                "pic": "nan",
                 "status": "w",
                 "note": ""
             }
