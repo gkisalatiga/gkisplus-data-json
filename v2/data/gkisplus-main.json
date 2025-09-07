@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4223,
-        "last-update": 1757223399,
+        "update-count": 4224,
+        "last-update": 1757225957,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4930,6 +4930,20 @@
                 "pic": "Elibert",
                 "status": "w",
                 "note": "Persiapan perjamuan kudus"
+            },
+            {
+                "name": "Persiapan perjamuan Kudus Wil 9",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 4",
