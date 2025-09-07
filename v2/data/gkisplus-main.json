@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4218,
-        "last-update": 1757183227,
-        "last-updated-item": "ykb",
+        "update-count": 4219,
+        "last-update": 1757213159,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4887,6 +4887,34 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembubaran Panitia 17an",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-09-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Betlehen",
+                "representative": "Panitia",
+                "pic": "Mario Pattisina",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 4",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Pastori",
+                "representative": "Wilayah",
+                "pic": NaN,
+                "status": "w",
                 "note": ""
             }
         ],
