@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4225,
-        "last-update": 1757232998,
-        "last-updated-item": "agenda",
+        "update-count": 4226,
+        "last-update": 1757254048,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Sep 2025 | Berkolaborasi dan Berbagi Talenta Untuk Memajukan Sekolah Kristen",
+                        "date": "2025-09-07",
+                        "desc": "Dibawakan oleh Ibu Yari Dwi Kurnaningsih",
+                        "link": "https://www.youtube.com/watch?v=PQP9g2FpKxg",
+                        "thumbnail": "https://i1.ytimg.com/vi/PQP9g2FpKxg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Sep 2025 | The Golden Rule",
                         "date": "2025-09-05",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Bpk. Henry Kristanto",
                         "link": "https://www.youtube.com/watch?v=2UvMcLrDQtU",
                         "thumbnail": "https://i3.ytimg.com/vi/2UvMcLrDQtU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 AGu 2025 | Memaknai Kebhinnekaan",
-                        "date": "2025-08-26",
-                        "desc": "Dibawakan oleh Ibu Gita Hastuti",
-                        "link": "https://www.youtube.com/watch?v=gyKRYT1BK0g",
-                        "thumbnail": "https://i4.ytimg.com/vi/gyKRYT1BK0g/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
