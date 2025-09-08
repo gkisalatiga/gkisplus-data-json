@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 41,
-        "last-update": 1755503652,
+        "update-count": 42,
+        "last-update": 1757302760,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20046,10 +20046,10 @@
                 },
                 {
                     "folder_id": "1djBDKUY1AoW1dsTZh0G9vSEIQtuZhfIa",
-                    "last_update": "2025-07-21",
+                    "last_update": "2025-09-08",
                     "featured_photo_id": "1MdxZbighB5ErUZRU_DjYDhVJTg0jGVH7",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu (Sekolah Minggu & Ibadah Remaja), 20 Juli yang dilaksanakan pada 20 Juli 2025.",
-                    "title": "Ibadah Minggu (Sekolah Minggu & Ibadah Remaja), 20 Juli",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 20 Juli (Sekolah Minggu & Ibadah Remaja), 20 Juli yang dilaksanakan pada 20 Juli 2025.",
+                    "title": "Ibadah Minggu, 20 Juli (Sekolah Minggu & Ibadah Remaja), 20 Juli",
                     "event_date": "2025.07.20",
                     "photos": [
                         {
@@ -20566,10 +20566,10 @@
                 },
                 {
                     "folder_id": "1cAFfE5OJ6KjNOL-QPrv7UEv7h5onlxDV",
-                    "last_update": "2025-08-05",
+                    "last_update": "2025-09-08",
                     "featured_photo_id": "19heHPmFr0PjRjR0SEFAehJ265bfOm2Ie",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu (Sekolah Minggu & English Service) yang dilaksanakan pada 3 Agustus 2025.",
-                    "title": "Ibadah Minggu (Sekolah Minggu & English Service)",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 3 Agustus (Sekolah Minggu & English Service) yang dilaksanakan pada 3 Agustus 2025.",
+                    "title": "Ibadah Minggu, 3 Agustus (Sekolah Minggu & English Service)",
                     "event_date": "2025.08.03",
                     "photos": [
                         {
@@ -20781,10 +20781,10 @@
                 },
                 {
                     "folder_id": "1u_WlJHleVOgj6ZAL9jh7h1ejXA5XJIou",
-                    "last_update": "2025-08-13",
+                    "last_update": "2025-09-08",
                     "featured_photo_id": "1PnArOXMnT7zRy-eXtuPlPE3fkxyU5_gM",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu (Pelantikan Pengurus & Donor Darah) yang dilaksanakan pada 10 Agustus 2025.",
-                    "title": "Ibadah Minggu (Pelantikan Pengurus & Donor Darah)",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 10 Agustus (Pelantikan Pengurus & Donor Darah) yang dilaksanakan pada 10 Agustus 2025.",
+                    "title": "Ibadah Minggu, 10 Agustus (Pelantikan Pengurus & Donor Darah)",
                     "event_date": "2025.08.10",
                     "photos": [
                         {
@@ -21641,6 +21641,456 @@
                             "id": "11o4ENJxbGmS0crVbxHPJtf2kY2pObfx6",
                             "name": "GKIS HUT RI 80 (jeff) (56).JPG",
                             "date": "2025-08-18"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1-HuqwStc51_aIat-xRsr0H9xh71X51WH",
+                    "last_update": "2025-09-08",
+                    "featured_photo_id": "1MVirr9RfDfLsiGylbuz4jVIsFfkSyDVm",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 31 Agustus yang dilaksanakan pada 31 Agustus 2025.",
+                    "title": "Ibadah Minggu, 31 Agustus",
+                    "event_date": "2025.08.31",
+                    "photos": [
+                        {
+                            "id": "1ngQqI_ZX8VRahT5SehpjNP2yRMHtEX0U",
+                            "name": "DSCF0300-Pano.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "18F_jWxbM11X3KqudcQMHeH2VTSjX3NIG",
+                            "name": "GKI Salatiga 310825-7-00001.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1sMwhQ_7dI9WhG2ZD-tBqnKYhBqKF7CFT",
+                            "name": "GKI Salatiga 310825-7-00005.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1Wd4wZwTwU-Il0oaaiHzvkjj6Egtlth5f",
+                            "name": "GKI Salatiga 310825-7-00019.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1nm6HPZEy93hKkR6lKFQHuzvHh34ePVzr",
+                            "name": "GKI Salatiga 310825-7-00017.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1-pKD1JZkqe62-sfYoVNgNazV5NBJCiNb",
+                            "name": "GKI Salatiga 310825-7-00025.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1c9mFPFTREkrAr73Gkq5bY5Y7UQG06gz0",
+                            "name": "GKI Salatiga 310825-7-00029.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1UCnTn86Ph0P45Z0wkLnwVWz-TRBhYz1r",
+                            "name": "GKI Salatiga 310825-7-00030.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1KtovxI8WNpemCvN8Aj043ElmIjPbShc1",
+                            "name": "GKI Salatiga 310825-7-00046.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1qMjbsGBCuInWEBXO4sBjScCXlUvlD-PC",
+                            "name": "GKI Salatiga 310825-7-00050.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1mBkDI7P-auyxa117zjhH9irAurq56gLn",
+                            "name": "GKI Salatiga 310825-7-00059.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1tOJ9DGZ5bYS95slN8qQWC-pNl6ko8llc",
+                            "name": "GKI Salatiga 310825-7-00081.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1gsGUCYJNbR684VRn0q_08rzcVFFOXVnO",
+                            "name": "GKI Salatiga 310825-7-00082.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "172AYeYRtAp_80Cok1thK2bnoXvOt3ASh",
+                            "name": "GKI Salatiga 310825-7-00065.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1m87h1jqE3gwWCwjb18Mb0OcVd2-CiMal",
+                            "name": "GKI Salatiga 310825-7-00075.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "16AnoSAsHKi-ZCxDiefuBqGwJIF4Q1pNC",
+                            "name": "GKI Salatiga 310825-7-00070.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1wmYw3VESJJBYbcNkJm1InKY3W6lOY0Sx",
+                            "name": "GKI Salatiga 310825-7-00095.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "14mdAc_ZQBZkbI9HngtTPOugpa-hmnENc",
+                            "name": "GKI Salatiga 310825-7-00080.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1dsvka-Hml5NriWTVR9GUbh8u-RM7iDr9",
+                            "name": "GKI Salatiga 310825-7-00092.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1NRzP-yFZX3DttpVTN6DZPEoT9gL9bKs8",
+                            "name": "DSCF0298.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1kVFmMSBzalReI4twITY0aqKUR_iRhhBA",
+                            "name": "DSCF0305.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1kHFST4JmUcQSLl2Xmmug3f6lJTE5keIZ",
+                            "name": "DSCF0291.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1wFIXFfewqUp1Y27jtqJ7a5lltlNUHMh8",
+                            "name": "DSCF0276.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1bkJLwcHITHzqd6Pm2aR9r8g_eXHoXcMC",
+                            "name": "DSCF0277.JPG",
+                            "date": "2025-09-08"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1EbvEE-zDvSi5jspRctd7SA0f_ph8C7F6",
+                    "last_update": "2025-09-08",
+                    "featured_photo_id": "1XBRFKnul_zILLTaYdj4MKarvfKekCGHQ",
+                    "story": "Foto-foto dokumentasi Funwalk Taman Sidomukti & Kali Odo, 5 September yang dilaksanakan pada 5 September 2025.",
+                    "title": "Funwalk Taman Sidomukti & Kali Odo, 5 September",
+                    "event_date": "2025.09.05",
+                    "photos": [
+                        {
+                            "id": "1g7UnGm5tNdvIZWsRO70TWUOnZ5ZAi6E5",
+                            "name": "KD Fun Walk 050925-500055.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1Za23SpE6HN80ZWq7kibGAxOXQEMC2JSZ",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (65).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1cN7L8FwLAbu5Qq9du0kX1wzJRr96D6wQ",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (60).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1rGzn7jh3O4l7or0B3SZlXlXMfh53Q8Kv",
+                            "name": "KD Fun Walk 050925-500025.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1b-Q6cvwz5w5N1cTSBP2wOYraxr15YoPU",
+                            "name": "KD Fun Walk 050925-500003.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1AbgW_kmGi_Fxhb0qMyrjLHGSwYFzcCTN",
+                            "name": "KD Fun Walk 050925-500014.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1r4uzSPjpV41WsPnG8unnsmgOuOw_-05R",
+                            "name": "KD Fun Walk 050925-500019.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1iOY6rD6LcjsZSuegzNyhn7zmeFulPDbI",
+                            "name": "KD Fun Walk 050925-500031.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1ye7R0aBSteqr9-BDYtBXVQXGKYTo5gCr",
+                            "name": "KD Fun Walk 050925-500096.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1FzY3NSbOblaLfTlCX5psoKbo4kZXFw4l",
+                            "name": "KD Fun Walk 050925-500100.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "13w1Es_K8Hs29H_J8tNznjzR1fTO9m0Pq",
+                            "name": "KD Fun Walk 050925-500132.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1UBpAOT6V0cBQTWtFfx5vkktcYMgMxCg5",
+                            "name": "KD Fun Walk 050925-500130.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1sRC7ZQYgnewq3apf0TF7z4oSAIHB_nfS",
+                            "name": "KD Fun Walk 050925-500114.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1f4c-weqyJstTYdWHoH_Rx6uD9xFCCnCA",
+                            "name": "KD Fun Walk 050925-500193.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "12-8XulaJaDtxussbMIEEd8T8wD1Zg4jc",
+                            "name": "KD Fun Walk 050925-500135.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1rKVG6zume67rL43jNC22RqDfd8NTGl0z",
+                            "name": "KD Fun Walk 050925-500209.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "16fVtBE7PVBHa13yhuH8ZJtJCPxzVc-1l",
+                            "name": "KD Fun Walk 050925-500146.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1-UkspkYM3e2Cu9I3F1kEno4API9L1TPw",
+                            "name": "KD Fun Walk 050925-500190.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1WUMuQuFxOfVblgPsb0UFzOt8c2Au4akQ",
+                            "name": "KD Fun Walk 050925-500215.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1KQrdh4MGHSHanISlWvWnbphM3qJwGNDz",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (421).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1haxdh_d1DU7OteQvYpcjbT18btYHgeLV",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (20).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1yikRhes4H0hFMwX7J-UB6fwlCO1Eo2h4",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (30).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1NMuFej4wQJUTVvQwGdbF3vs-ojcUmQpy",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (75).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1JIwDEZtkjtglNLd0czgaNXcu2idqofl_",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (94).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1OfShtTbybcZURQ1XE_cImFWGdL1ZiQPk",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (134).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1xfb6xcRt3ELhp7DAXf0-y6BSJCLHGtUH",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (145).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1-fwGyC3TyZN-YTvFjhmWKH67fn8A3M5I",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (180).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1PyMz5NtOM9BIp2lRi3SKrC96OyD__Sjp",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (212).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1MldK8RwaQjtRKu00B3mj5FMRgWViM1cq",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (259).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1HoKrY19BaJJXzSCmnHHdqtaW__7zziMs",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (295).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1WTl_ffVsSu-osSLQuGzcerDOQtGHfcNj",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (309).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1jE4Eg6Pp8ghDXfP3PJmJbcuc5R7WYXr1",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (320).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "19Mwu_4PISh_tP4hCZSXP1qapsM6N7GnO",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (334).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1S1Ko7rVLx4b1IqsEqaJ_Rpk5boGL8ALi",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (349).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1btogbJbZ4M40nkCWkr_U2Qq2-EMMipjX",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (356).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1b1k0-nM9wek9gake8hqM5zt6zh2FBN17",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (366).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1jbwstmKV4Xcy7FYCEfhbsigweHn2PVPo",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (364).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1YCbI3gpEGqnRfViyDF8N45FTm0TugCgl",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (391).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1utiT5Mmf4G-Hkq_tuQkqYhma0ZM8MD-V",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (446).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1b4wU1KHo5KevUEeTV2_vAbFEkU6ylZOd",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (394).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "14jrieK2NxeUjZw5tS1Z6zxAGeqw0X_Sk",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (386).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1gcS9UjDK6DYLzZGvKjN1g_TlBHvrR-bm",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (475).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1TdyQIE-FS8H8PQixzAdyKGOUEJgET03C",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (464).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1FFfGYEv0u9vxdDiZ-8pS7-gTL9oiHudB",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (480).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1jbWqCRr63KfRJWDNEkxLpeGWydxMyOeQ",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (449).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1kEN8UIybZHGXHXERUkNo5E5HhTDILbs0",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (483).JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1KzCoJ6gid1dCbFEXEiwdLhpAw-gisynC",
+                            "name": "20250905 - FUNWALK TAMAN SIDOMUKTI - KALI ODO (485).JPG",
+                            "date": "2025-09-08"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1CeazYtddh4Z2r20yK_dwYDcTnaE0rCoQ",
+                    "last_update": "2025-09-08",
+                    "featured_photo_id": "1PTBBlkGFGAUyyevaeYyhOkVuX2W7NDxq",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 7 September yang dilaksanakan pada 7 September 2025.",
+                    "title": "Ibadah Minggu, 7 September",
+                    "event_date": "2025.09.07",
+                    "photos": [
+                        {
+                            "id": "1mmzJrOq-Mjwq0iFsvwG00dnlk1SPaOLg",
+                            "name": "DSCF0175.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1hxoUhXugOTMBgNrqNd648Tq43mNTVvsL",
+                            "name": "DSCF0174.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1Ojp3mryLjEb3JB0nX8QZsEI9QsbOUPdD",
+                            "name": "DSCF0171.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1aLcbChrzDyeUFy4gHwzgMdCcio0K9PIz",
+                            "name": "DSCF0191.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1_vvdI0dt67-ACv0Ect5AJzKrRuoq7Ou-",
+                            "name": "DSCF0170.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1en5oXcAobX0zSjxFh0qrapjgEllB75O2",
+                            "name": "DSCF0165.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1Gxqn4IozwukcoI1otM0tORCsN1aDeEh0",
+                            "name": "DSCF0145.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1IDm5apRemx0AmETv2-lNvE0pPWucM0nM",
+                            "name": "DSCF0143.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1vR1TmA5KyT1wICVCHDkNA7XyNvcA_mYB",
+                            "name": "DSCF0155.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "19zvXJx0UnvWJdK9p29wa_N7R88ems1-5",
+                            "name": "DSCF0183-Enhanced-NR.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1KOhEsCI47zeveIUMWExoyx0-_fvhn4Sx",
+                            "name": "DSCF0192-Enhanced-NR.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "1YGCmCxrrq5Fk2JySjnaC8fjAruzmU04q",
+                            "name": "DSCF0166-Enhanced-NR.JPG",
+                            "date": "2025-09-08"
+                        },
+                        {
+                            "id": "105rbkz8nXVe_wuCLwOc6iLOwPH5xp722",
+                            "name": "DSCF0188-Enhanced-NR.JPG",
+                            "date": "2025-09-08"
                         }
                     ]
                 }
