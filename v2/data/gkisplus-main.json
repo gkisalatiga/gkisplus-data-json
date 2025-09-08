@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4231,
-        "last-update": 1757302937,
+        "update-count": 4232,
+        "last-update": 1757305136,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4310,6 +4310,48 @@
                 "note": ""
             },
             {
+                "name": "Pembubaran Panitia 17an",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-09-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Betlehen",
+                "representative": "Panitia",
+                "pic": "Mario Pattisina",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan persiapan HUT Soda ke-12",
+                "time": "19:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-09-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KD dengan KDT",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Ibadah Pembukaan Pepenkris",
                 "time": "07:00",
                 "time-to": "07:45",
@@ -4321,6 +4363,20 @@
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Siska Indria Yuniarti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "09:15",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-09-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4363,6 +4419,20 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "10:00",
+                "time-to": "11:45",
+                "timezone": "WIB",
+                "date": "2025-09-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis ",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4434,6 +4504,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 4",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Pastori",
+                "representative": "Wilayah",
+                "pic": "nan",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "Latihan LAVE",
@@ -4531,6 +4615,34 @@
                 "representative": "Wilayah",
                 "pic": "danang",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 9",
+                "time": "17:00",
+                "time-to": "18:45",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": "Persiapan perjamuan kudus"
+            },
+            {
+                "name": "Persiapan perjamuan Kudus Wil 9",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4643,6 +4755,34 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Menyiapkan Konsumsi untuk Acara Bulan Keluarga KUL ",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Widia Prayogo",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Acara Bulan Keluarga KUL",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Widia Prayogo ",
+                "status": "w",
                 "note": "-"
             },
             {
@@ -4842,116 +4982,18 @@
                 "note": ""
             },
             {
-                "name": "Pembubaran Panitia 17an",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-09-07",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Betlehen",
-                "representative": "Panitia",
-                "pic": "Mario Pattisina",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan persiapan HUT Soda ke-12",
-                "time": "19:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-09-07",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Susan",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 9",
-                "time": "17:00",
-                "time-to": "18:45",
-                "timezone": "WIB",
-                "date": "2025-09-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": "Persiapan perjamuan kudus"
-            },
-            {
-                "name": "Persiapan perjamuan Kudus Wil 9",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-09-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat KD dengan KDT",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-07",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Reny Handayani",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "09:15",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-09-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "10:00",
-                "time-to": "11:45",
-                "timezone": "WIB",
-                "date": "2025-09-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 4",
-                "time": "17:00",
+                "name": "Persiapan Konsumsi Sambut Natal KUL",
+                "time": "13:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2025-09-16",
-                "weekday": "tue",
+                "date": "2025-12-18",
+                "weekday": "thu",
                 "type": "proposal",
-                "place": "Pastori",
-                "representative": "Wilayah",
-                "pic": "nan",
-                "status": "w",
-                "note": ""
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Widia P",
+                "status": "c",
+                "note": "-"
             }
         ],
         "backend": {
