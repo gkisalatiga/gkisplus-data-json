@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4232,
-        "last-update": 1757305136,
+        "update-count": 4233,
+        "last-update": 1757306530,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4604,6 +4604,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Drama KUL",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-09-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "pa wilayah x ( PK )",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4660,6 +4674,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Drama KUL",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4713,6 +4741,20 @@
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Drama KUL",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Wardjini",
+                "status": "w",
                 "note": "-"
             },
             {
