@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4235,
-        "last-update": 1757315721,
-        "last-updated-item": "agenda",
+        "update-count": 4236,
+        "last-update": 1757329687,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Sep 2025 | Sekolah Kristen Untuk Siapa?",
+                        "date": "2025-09-08",
+                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
+                        "link": "https://www.youtube.com/watch?v=ulSJOiOC8IQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/ulSJOiOC8IQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Sep 2025 | Berkolaborasi dan Berbagi Talenta Untuk Memajukan Sekolah Kristen",
                         "date": "2025-09-07",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Yuliyanti",
                         "link": "https://www.youtube.com/watch?v=Do9FC-1l-rc",
                         "thumbnail": "https://i1.ytimg.com/vi/Do9FC-1l-rc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Agu 2025 | Kemerdekaan Sejati Bagi Orang Percaya",
-                        "date": "2025-08-26",
-                        "desc": "Dibawakan oleh Bpk. Henry Kristanto",
-                        "link": "https://www.youtube.com/watch?v=2UvMcLrDQtU",
-                        "thumbnail": "https://i3.ytimg.com/vi/2UvMcLrDQtU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
