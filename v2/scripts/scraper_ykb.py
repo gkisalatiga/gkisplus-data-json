@@ -122,7 +122,7 @@ class ScraperYKB(Scraper):
 
         # The scraped devotional scripture.
         _scripture = c.xpath('//p[@class="has-text-align-center"]//text()[normalize-space()]')
-        a['scripture'] = '' if len(_scripture) == 0 else _scripture
+        a['scripture'] = [] if len(_scripture) == 0 else _scripture
 
         # The scraped month.
         _m = [l.strip() for l in c.xpath('//div[@class="devotion-date-bulan"]/span/text()')][0]
