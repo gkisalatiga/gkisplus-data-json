@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4240,
-        "last-update": 1757388643,
+        "update-count": 4241,
+        "last-update": 1757391449,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4378,6 +4378,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Ngobrol Santai dengan Jemaat",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-09-28",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Samuel Martono",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "pa wilayah x ( PK )",
