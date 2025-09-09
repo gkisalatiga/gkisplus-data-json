@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4242,
-        "last-update": 1757404427,
+        "update-count": 4243,
+        "last-update": 1757406036,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4826,6 +4826,34 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
