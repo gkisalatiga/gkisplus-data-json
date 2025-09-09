@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4238,
-        "last-update": 1757356360,
-        "last-updated-item": "ykb",
+        "update-count": 4239,
+        "last-update": 1757385907,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4156,6 +4156,20 @@
                 "note": ""
             },
             {
+                "name": "Audisi Magnificat Choir",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pelatihan Musik KML",
                 "time": "10:00",
                 "time-to": "14:00",
@@ -4180,6 +4194,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Yahya Kristanto",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu PA",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-09-15",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
@@ -4307,6 +4335,20 @@
                 "representative": "Lainnya",
                 "pic": "Pnt. Natalis Sidanta",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persekutuan Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4590,6 +4632,20 @@
                 "note": "Plus latihan persiapan PS wilayah 9  di bulan keluarga "
             },
             {
+                "name": "PA Wilayah 10",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-10-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Bp. Andi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wil 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4742,20 +4798,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Audisi Magnificat Choir",
-                "time": "19:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-12",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
