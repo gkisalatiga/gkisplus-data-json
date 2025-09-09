@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4244,
-        "last-update": 1757442500,
-        "last-updated-item": "ykb",
+        "update-count": 4245,
+        "last-update": 1757448075,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
+                        "date": "2025-09-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=CgIOqMRBF0A",
+                        "thumbnail": "https://i4.ytimg.com/vi/CgIOqMRBF0A/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Sep 2025 | Sekolah Kristen Untuk Siapa?",
                         "date": "2025-09-08",
@@ -54,13 +61,6 @@
                         "desc": "Dibawakan oleh Ibu Retty Andrea",
                         "link": "https://www.youtube.com/watch?v=JgSXtJHPz1U",
                         "thumbnail": "https://i3.ytimg.com/vi/JgSXtJHPz1U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
-                        "date": "2025-09-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=CgIOqMRBF0A",
-                        "thumbnail": "https://i4.ytimg.com/vi/CgIOqMRBF0A/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Sep 2025 | Tetaplah Setia Bersaksi",
