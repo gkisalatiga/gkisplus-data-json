@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4239,
-        "last-update": 1757385907,
+        "update-count": 4240,
+        "last-update": 1757388643,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4240,17 +4240,17 @@
                 "note": "-"
             },
             {
-                "name": "PA Wilayah 4",
+                "name": "PA Wilayah 5",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
                 "date": "2025-09-16",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Pastori",
+                "place": "Ruang Konsistori",
                 "representative": "Wilayah",
-                "pic": "nan",
-                "status": "w",
+                "pic": "Pnt. Ervien",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4278,6 +4278,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
                 "pic": "Priani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan UMKM, Kerjasama KD dan KDT",
+                "time": "11:30",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-09-21",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
                 "status": "y",
                 "note": ""
             },
@@ -4331,7 +4345,7 @@
                 "date": "2025-09-26",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Gedung Gereja",
                 "representative": "Lainnya",
                 "pic": "Pnt. Natalis Sidanta",
                 "status": "y",
@@ -4348,7 +4362,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Reny Handayani",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
