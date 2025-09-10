@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4245,
-        "last-update": 1757448075,
-        "last-updated-item": "yt",
+        "update-count": 4246,
+        "last-update": 1757466374,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4156,6 +4156,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Audisi Magnificat Choir",
                 "time": "19:00",
                 "time-to": "20:00",
@@ -4167,6 +4181,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4826,34 +4854,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "18:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-09-12",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
