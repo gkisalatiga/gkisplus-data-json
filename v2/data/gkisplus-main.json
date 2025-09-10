@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4248,
-        "last-update": 1757475585,
+        "update-count": 4249,
+        "last-update": 1757477801,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4148,6 +4148,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat KD",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-09-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Live Streaming HUT SODA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-09-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Tim Musik Chronicles",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -4158,6 +4186,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan dan Persiapan HUT SODA",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilua",
                 "status": "w",
                 "note": ""
             },
@@ -4846,34 +4888,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Latihan dan Persiapan HUT SODA",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-09-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Dian Aprilua",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat KD",
-                "time": "19:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-09-10",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Atiek Widyati",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
