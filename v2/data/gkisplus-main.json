@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4255,
-        "last-update": 1757529053,
-        "last-updated-item": "ykb",
+        "update-count": 4256,
+        "last-update": 1757534482,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi |12 Sep 2025 | Membentuk Karakter Berlandaskan Kristus",
-                        "date": "2025-09-10",
-                        "desc": "Dibawakan oleh Ibu Ni Nyoman Dewi Ajeng",
-                        "link": "https://www.youtube.com/watch?v=QGXDW4lpCsE",
-                        "thumbnail": "https://i2.ytimg.com/vi/QGXDW4lpCsE/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi |11 Sep 2025",
                         "date": "2025-09-10",
                         "desc": "Dibawakan oleh Ibu Abrilomi Puspita Sari",
                         "link": "https://www.youtube.com/watch?v=LGz41LF8EtY",
                         "thumbnail": "https://i1.ytimg.com/vi/LGz41LF8EtY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |12 Sep 2025 | Membentuk Karakter Berlandaskan Kristus",
+                        "date": "2025-09-10",
+                        "desc": "Dibawakan oleh Ibu Ni Nyoman Dewi Ajeng",
+                        "link": "https://www.youtube.com/watch?v=QGXDW4lpCsE",
+                        "thumbnail": "https://i2.ytimg.com/vi/QGXDW4lpCsE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
