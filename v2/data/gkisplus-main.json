@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4251,
-        "last-update": 1757481230,
+        "update-count": 4252,
+        "last-update": 1757488456,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4228,6 +4228,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat panitia bulan keluarga ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Desty Kainama",
                 "status": "y",
                 "note": ""
             },
