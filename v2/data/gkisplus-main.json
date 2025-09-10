@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4252,
-        "last-update": 1757488456,
-        "last-updated-item": "agenda",
+        "update-count": 4253,
+        "last-update": 1757502460,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |11 Sep 2025",
+                        "date": "2025-09-10",
+                        "desc": "Dibawakan oleh Ibu Abrilomi Puspita Sari",
+                        "link": "https://www.youtube.com/watch?v=LGz41LF8EtY",
+                        "thumbnail": "https://i1.ytimg.com/vi/LGz41LF8EtY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
                         "date": "2025-09-09",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Henny Julyanti",
                         "link": "https://www.youtube.com/watch?v=0Zlks9USLwI",
                         "thumbnail": "https://i1.ytimg.com/vi/0Zlks9USLwI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Agu 2025",
-                        "date": "2025-08-27",
-                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
-                        "link": "https://www.youtube.com/watch?v=Do9FC-1l-rc",
-                        "thumbnail": "https://i1.ytimg.com/vi/Do9FC-1l-rc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
