@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4253,
-        "last-update": 1757502460,
+        "update-count": 4254,
+        "last-update": 1757513335,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |12 Sep 2025 | Membentuk Karakter Berlandaskan Kristus",
+                        "date": "2025-09-10",
+                        "desc": "Dibawakan oleh Ibu Ni Nyoman Dewi Ajeng",
+                        "link": "https://www.youtube.com/watch?v=QGXDW4lpCsE",
+                        "thumbnail": "https://i2.ytimg.com/vi/QGXDW4lpCsE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |11 Sep 2025",
                         "date": "2025-09-10",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=x0w_C47SHP0",
                         "thumbnail": "https://i1.ytimg.com/vi/x0w_C47SHP0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Agu 2025 | Beriman, Bertobat, dan Dimerdekakan",
-                        "date": "2025-08-28",
-                        "desc": "Dibawakan oleh Ibu Henny Julyanti",
-                        "link": "https://www.youtube.com/watch?v=0Zlks9USLwI",
-                        "thumbnail": "https://i1.ytimg.com/vi/0Zlks9USLwI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1131,6 +1131,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "TESTING LIVE STREAMING HUT SODA",
+                        "date": "2025-09-10",
+                        "desc": "TESTING",
+                        "link": "https://www.youtube.com/watch?v=6B0EDPuMXxo",
+                        "thumbnail": "https://i.ytimg.com/vi/6B0EDPuMXxo/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Persekutuan SODA GKI Salatiga | 31 Mei 2025 | \"Tubuhku Berharga di Mata Tuhan dan Sesama\"",
                         "date": "2025-05-31",
