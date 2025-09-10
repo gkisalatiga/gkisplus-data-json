@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4250,
-        "last-update": 1757479200,
+        "update-count": 4251,
+        "last-update": 1757481230,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4200,7 +4200,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Dian Aprilua",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4228,7 +4228,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
