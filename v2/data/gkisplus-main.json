@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4249,
-        "last-update": 1757477801,
+        "update-count": 4250,
+        "last-update": 1757479200,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4186,7 +4186,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4244,6 +4244,20 @@
                 "pic": "Jenny",
                 "status": "y",
                 "note": "Rutin setiap sabtu mulai tanggal 13 Sept sampai 15 Nov"
+            },
+            {
+                "name": "Sosialisasi Mitra Pukat Berkat",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-09-14",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Kegiatan Pembelajaran mendalam bagi Kepala Sekolah Tahap 2",
