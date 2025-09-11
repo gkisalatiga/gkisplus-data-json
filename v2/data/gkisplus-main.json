@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4259,
-        "last-update": 1757567656,
+        "update-count": 4260,
+        "last-update": 1757574876,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4979,6 +4979,20 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Workshop Pembelajaran Mendalam bagi Kepala Sekolah Sd dan SMP se Kota Salatiga",
+                "time": "07:00",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2025-09-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yahya Kristanto",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
