@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4256,
-        "last-update": 1757534482,
-        "last-updated-item": "yt",
+        "update-count": 4257,
+        "last-update": 1757558604,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4923,6 +4923,20 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
