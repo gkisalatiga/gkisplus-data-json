@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4258,
-        "last-update": 1757562537,
+        "update-count": 4259,
+        "last-update": 1757567656,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4211,6 +4211,48 @@
                 "note": ""
             },
             {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Amici",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 3 dengan Sarpras",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Audisi Magnificat Choir",
                 "time": "19:00",
                 "time-to": "20:00",
@@ -4249,6 +4291,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Desty Kainama",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pembentukan Panitia MRN 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
                 "status": "y",
                 "note": ""
             },
@@ -4923,34 +4979,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Rapat KPPI",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-09-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Pengajaran dan Pekabaran Injil",
-                "pic": "Lukas Sukan",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Amici",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-09-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
