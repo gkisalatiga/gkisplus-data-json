@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4264,
-        "last-update": 1757644691,
+        "update-count": 4265,
+        "last-update": 1757654011,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4997,6 +4997,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Hastuti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan guru sekolah minggu",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-09-13",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Wur",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Percakapan atestasi masuk Mr. David",
+                "time": "16:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-09-13",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Nadia Sitaresmi",
                 "status": "w",
                 "note": ""
             }
