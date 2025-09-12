@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4265,
-        "last-update": 1757654011,
-        "last-updated-item": "agenda",
+        "update-count": 4266,
+        "last-update": 1757686139,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Sep 2025 | Memiutangi Tuhan",
+                        "date": "2025-09-12",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=Q_DCeYX8vZg",
+                        "thumbnail": "https://i2.ytimg.com/vi/Q_DCeYX8vZg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Sep 2025 | Dampak Nyata",
+                        "date": "2025-09-12",
+                        "desc": "Dibawakan oleh Ibu Irene Supit",
+                        "link": "https://www.youtube.com/watch?v=byp6W1nAHtw",
+                        "thumbnail": "https://i3.ytimg.com/vi/byp6W1nAHtw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |12 Sep 2025 | Membentuk Karakter Berlandaskan Kristus",
                         "date": "2025-09-11",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
                         "link": "https://www.youtube.com/watch?v=r66rNVvfR8Q",
                         "thumbnail": "https://i3.ytimg.com/vi/r66rNVvfR8Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Sep 2025 | Tuhan Hakimilah Bangsa Kami",
-                        "date": "2025-08-31",
-                        "desc": "Dibawakan oleh Sdr. Hosea Mahanaim",
-                        "link": "https://www.youtube.com/watch?v=qnDlSIT2coU",
-                        "thumbnail": "https://i2.ytimg.com/vi/qnDlSIT2coU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Agu 2025 | Semoga Benar-Benar Merdeka",
-                        "date": "2025-08-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=x0w_C47SHP0",
-                        "thumbnail": "https://i1.ytimg.com/vi/x0w_C47SHP0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1131,6 +1131,20 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Persekutuan Pemuda GKI Salatiga | 13 September 2025 | One Family in Christ | HUT SODA Ke-12",
+                        "date": "2025-09-12",
+                        "desc": "Persekutuan Pemuda GKI Salatiga Spesial HUT SODA Ke-12\nSabtu, 13 September 2025 Pukul 17:00 WIB\nAula Kana GKI Salatiga\n\nTema: One Family in Christ\nBacaan: Efesus 2:19\nPF: Pdt. Iky Sumarthina\n\nNyanyian:\n- Hari Terbaik (HSM Worship) medley Magnificat (LOJ Worship)\n- Ajarku Berdiam (JPCC Worship)\n- Mengenal-Mu (GMS Live)\n- Sudahkah yang Terbaik Kuberikan (NKB 199) medley Berlimpah Sukacita di Hatiku (PKJ 216)\n- Bertumbuh Bersama (GMS Live)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n- WEB: https://www.gkisalatiga.org\n- FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n- INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\nANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\nIOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007\n\n#gkisalatiga #youth #churchlive #salatiga",
+                        "link": "https://www.youtube.com/watch?v=EXU_k4t_n7Q",
+                        "thumbnail": "https://i.ytimg.com/vi/EXU_k4t_n7Q/hqdefault_live.jpg"
+                    },
+                    {
+                        "title": "TESTING LIVE STREAMING HUT SODA #2",
+                        "date": "2025-09-12",
+                        "desc": "TESTING #2",
+                        "link": "https://www.youtube.com/watch?v=u86_F2Ce-hc",
+                        "thumbnail": "https://i.ytimg.com/vi/u86_F2Ce-hc/hqdefault_live.jpg"
+                    },
                     {
                         "title": "TESTING LIVE STREAMING HUT SODA",
                         "date": "2025-09-10",
