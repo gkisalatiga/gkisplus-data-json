@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4268,
-        "last-update": 1757707276,
+        "update-count": 4269,
+        "last-update": 1757712670,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1150,7 +1150,7 @@
                         "date": "2025-09-10",
                         "desc": "TESTING",
                         "link": "https://www.youtube.com/watch?v=6B0EDPuMXxo",
-                        "thumbnail": "https://i.ytimg.com/vi/6B0EDPuMXxo/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/6B0EDPuMXxo/hqdefault.jpg"
                     },
                     {
                         "title": "Persekutuan SODA GKI Salatiga | 31 Mei 2025 | \"Tubuhku Berharga di Mata Tuhan dan Sesama\"",
