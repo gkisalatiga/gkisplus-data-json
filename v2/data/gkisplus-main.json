@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4267,
-        "last-update": 1757701656,
-        "last-updated-item": "ykb",
+        "update-count": 4268,
+        "last-update": 1757707276,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 15 Sep 2025 | Memiutangi Tuhan",
-                        "date": "2025-09-12",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=Q_DCeYX8vZg",
-                        "thumbnail": "https://i2.ytimg.com/vi/Q_DCeYX8vZg/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 13 Sep 2025 | Dampak Nyata",
                         "date": "2025-09-12",
                         "desc": "Dibawakan oleh Ibu Irene Supit",
                         "link": "https://www.youtube.com/watch?v=byp6W1nAHtw",
                         "thumbnail": "https://i3.ytimg.com/vi/byp6W1nAHtw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Sep 2025 | Memiutangi Tuhan",
+                        "date": "2025-09-12",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=Q_DCeYX8vZg",
+                        "thumbnail": "https://i2.ytimg.com/vi/Q_DCeYX8vZg/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi |12 Sep 2025 | Membentuk Karakter Berlandaskan Kristus",
