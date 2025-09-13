@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4274,
-        "last-update": 1757751042,
+        "update-count": 4275,
+        "last-update": 1757754309,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1680,6 +1680,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 14 September 2025",
+                    "date": "2025-09-13",
+                    "link": "https://drive.google.com/file/d/1URvvf2mFwylqmNkRhVt6z1Zxg_qQg7ba/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-14-september-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/09/warta-14-sep-25.png",
+                    "id": "1URvvf2mFwylqmNkRhVt6z1Zxg_qQg7ba",
+                    "size": "2.40 MB"
+                },
+                {
                     "title": "Warta Jemaat 7 September 2025",
                     "date": "2025-09-06",
                     "link": "https://drive.google.com/file/d/1cQqoYbc7nR2kH8gX1-6ub9ulZHdneid0/view",
@@ -2194,6 +2203,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 14 September 2025 - Penutupan Pekan Pendidikan Kristen (Pepenkris)",
+                    "date": "2025-09-13",
+                    "link": "https://drive.google.com/file/d/1l86X8w--WTqxfBH3LN3j2o8aczu3tYt1/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-14-september-2025/",
+                    "thumbnail": "",
+                    "id": "1l86X8w--WTqxfBH3LN3j2o8aczu3tYt1",
+                    "size": "0.70 MB"
+                },
                 {
                     "title": "Tata Ibadah 7 September 2025 - Pembukaan Pekan Pendidikan Kristen (Pepenkris)",
                     "date": "2025-09-06",
