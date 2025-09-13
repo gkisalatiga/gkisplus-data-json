@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4277,
-        "last-update": 1757788006,
-        "last-updated-item": "ykb",
+        "update-count": 4278,
+        "last-update": 1757793663,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Lukas Sukan",
                         "link": "https://www.youtube.com/watch?v=0QSaUTWN6nU",
                         "thumbnail": "https://i1.ytimg.com/vi/0QSaUTWN6nU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Sep 2025 | Bertekun Dalam Pengharapan",
-                        "date": "2025-09-01",
-                        "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
-                        "link": "https://www.youtube.com/watch?v=r66rNVvfR8Q",
-                        "thumbnail": "https://i3.ytimg.com/vi/r66rNVvfR8Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
