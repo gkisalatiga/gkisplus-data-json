@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4270,
-        "last-update": 1757730677,
+        "update-count": 4271,
+        "last-update": 1757733443,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5067,6 +5067,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paul",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi Funwalk KD",
+                "time": "17:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-13",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Chandra",
                 "status": "y",
                 "note": ""
             }
