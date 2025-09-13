@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4271,
-        "last-update": 1757733443,
-        "last-updated-item": "agenda",
+        "update-count": 4272,
+        "last-update": 1757740114,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1143,7 +1143,7 @@
                         "date": "2025-09-12",
                         "desc": "TESTING #2",
                         "link": "https://www.youtube.com/watch?v=u86_F2Ce-hc",
-                        "thumbnail": "https://i.ytimg.com/vi/u86_F2Ce-hc/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/u86_F2Ce-hc/hqdefault.jpg"
                     },
                     {
                         "title": "TESTING LIVE STREAMING HUT SODA",
