@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4285,
-        "last-update": 1757961199,
-        "last-updated-item": "ykb",
+        "update-count": 4286,
+        "last-update": 1757975672,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Sep 2025 | Kemerdekaan Yang Bertanggung jawab",
+                        "date": "2025-09-15",
+                        "desc": "Dibawakan oleh Pdt. Christina Elizabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=rEAcLNCke3Y",
+                        "thumbnail": "https://i3.ytimg.com/vi/rEAcLNCke3Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Sep 2025 | Memiutangi Tuhan",
                         "date": "2025-09-14",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=WiCl4WnV-Lc",
                         "thumbnail": "https://i4.ytimg.com/vi/WiCl4WnV-Lc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Sep 2025 | Kepenuhan Kristus adalah Tuhan Sendiri",
-                        "date": "2025-09-03",
-                        "desc": "Dibawakan oleh Ibu Retty Andrea",
-                        "link": "https://www.youtube.com/watch?v=JgSXtJHPz1U",
-                        "thumbnail": "https://i3.ytimg.com/vi/JgSXtJHPz1U/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
