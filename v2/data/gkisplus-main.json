@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4283,
-        "last-update": 1757917414,
-        "last-updated-item": "agenda",
+        "update-count": 4284,
+        "last-update": 1757924022,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -89,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Retty Andrea",
                         "link": "https://www.youtube.com/watch?v=JgSXtJHPz1U",
                         "thumbnail": "https://i3.ytimg.com/vi/JgSXtJHPz1U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Sep 2025 | Tetaplah Setia Bersaksi",
-                        "date": "2025-09-02",
-                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
-                        "link": "https://www.youtube.com/watch?v=0QSaUTWN6nU",
-                        "thumbnail": "https://i1.ytimg.com/vi/0QSaUTWN6nU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -524,6 +517,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN Usia Lanjut | 18 September 2025 | \u201cTETAP BERBUAH DI MASA TUA\u201d",
+                        "date": "2025-09-15",
+                        "desc": "PERSEKUTUAN KOMISI USIA LANJUT\nKamis, 18 September 2025 | Pukul 16.00 WIB\n\nTema : \u201cTETAP BERBUAH DI MASA TUA\u201d\nPelayan Firman : Pdt. Adi Setyo Kristianto\nMusik : Ibu Retty A\nPnk : Ibu Hana L\nPaduan Suara : -\nPL : Ibu Endri Bagiyanti\nNats : Mazmur 92:15\nMultimedia : Joshua A.G, Ristiani G.M. , Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=XzGbqBw2GYw",
+                        "thumbnail": "https://i.ytimg.com/vi/XzGbqBw2GYw/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "PERSEKUTUAN Komisi Usia Lanjut | 21 Agustus 2025 | \u201cTETAP SETIA DALAM PELAYANAN\u201d",
                         "date": "2025-08-19",
                         "desc": "PERSEKUTUAN KOMISI USIA LANJUT\nKamis, 21 Agustus 2025 | Pukul 16.00 WIB\n\nTema : \u201cTETAP SETIA DALAM PELAYANAN\u201d\nPelayan Firman : Pdt. Helen Ruth Manurung\n\nMJP : -\nMusik : Ibu Retty\nPnk : Ibu Hana\nPaduan Suara : -\nMultimedia : Roni Sibarani, Joaquim, Ristiani G.M. , Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -725,13 +725,6 @@
                         "desc": "Persekutuan Bulanan Usia Lanjut GKI Salatiga :  Menjadi Domba dari Gembala Yang Baik\nKamis, 16 Maret 2023\npukul 16.00 WIB \n\nDilayani oleh Pdt. Helen Ruth Manurung\nMJ : Pnt. Ester Juliawati\nPemusik : Angeline \u2502PNK : Shelomita \u2502Tata Suara : Tonny Harnoto \u2502\nOBS : Joshua\u2502 PPT : I Made Satya Arnawa \u2502 Kamerawan : Iwandi",
                         "link": "https://www.youtube.com/watch?v=NyWAJtHS6wQ",
                         "thumbnail": "https://i.ytimg.com/vi/NyWAJtHS6wQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "PERSEKUTUAN USIA LANJUT GKI SALATIGA | Kasih Membawa Perubahan",
-                        "date": "2023-02-14",
-                        "desc": "Persekutuan Bulanan Usia Lanjut GKI Salatiga :  Kasih Membawa Perubahan\nKamis, 16 Februari 2023\npukul 16.00 WIB \n\nDilayani oleh Pdt. Adi Setyo Kristianto (dari GKJ Randuares)\nMJ : Pnt. July Silooy\nPemusik : Yonaldi/Adriel \u2502PNK: Gita Hastuti \nSound : Tonny Harnoto \u2502OBS: Tunggul L .\u2502 PPT : I Made Satya Arnawa",
-                        "link": "https://www.youtube.com/watch?v=2MCb1TrtWx0",
-                        "thumbnail": "https://i.ytimg.com/vi/2MCb1TrtWx0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
