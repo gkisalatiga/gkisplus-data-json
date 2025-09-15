@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4286,
-        "last-update": 1757975672,
+        "update-count": 4287,
+        "last-update": 1757979084,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Sep 2025 | Warisan Yang Baik",
+                        "date": "2025-09-15",
+                        "desc": "Dibawakan oleh Ibu Cely Murniningsih",
+                        "link": "https://www.youtube.com/watch?v=TlRY-9tdDOo",
+                        "thumbnail": "https://i1.ytimg.com/vi/TlRY-9tdDOo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Sep 2025 | Kemerdekaan Yang Bertanggung jawab",
                         "date": "2025-09-15",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Ervien Dian",
                         "link": "https://www.youtube.com/watch?v=-2El2waxC04",
                         "thumbnail": "https://i2.ytimg.com/vi/-2El2waxC04/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Sep 2025 | Berhikmat Dalam Ketegangan",
-                        "date": "2025-09-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=WiCl4WnV-Lc",
-                        "thumbnail": "https://i4.ytimg.com/vi/WiCl4WnV-Lc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
