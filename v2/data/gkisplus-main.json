@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4292,
-        "last-update": 1758006883,
+        "update-count": 4293,
+        "last-update": 1758008196,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4315,6 +4315,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan Pemandu PA",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-09-20",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pelatihan UMKM, Kerjasama KD dan KDT",
                 "time": "11:30",
                 "time-to": "16:00",
@@ -4339,7 +4353,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
