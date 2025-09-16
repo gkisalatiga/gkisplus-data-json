@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4291,
-        "last-update": 1758004427,
-        "last-updated-item": "ykb",
+        "update-count": 4292,
+        "last-update": 1758006883,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4784,10 +4784,10 @@
                 "date": "2025-11-04",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
