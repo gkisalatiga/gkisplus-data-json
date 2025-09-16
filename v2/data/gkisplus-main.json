@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4294,
-        "last-update": 1758047564,
-        "last-updated-item": "ykb",
+        "update-count": 4295,
+        "last-update": 1758052881,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -22,7 +22,7 @@
                 "content": [
                     {
                         "title": "SaRen Pagi | 17 Sep 2025 | Warisan Yang Baik",
-                        "date": "2025-09-15",
+                        "date": "2025-09-16",
                         "desc": "Dibawakan oleh Ibu Cely Murniningsih",
                         "link": "https://www.youtube.com/watch?v=TlRY-9tdDOo",
                         "thumbnail": "https://i1.ytimg.com/vi/TlRY-9tdDOo/hqdefault.jpg"
