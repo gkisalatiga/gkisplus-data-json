@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4295,
-        "last-update": 1758052881,
-        "last-updated-item": "yt",
+        "update-count": 4296,
+        "last-update": 1758076737,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4339,6 +4339,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Dewasa",
                 "pic": "Reny Handayani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan atestasi masuk",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-21",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Rodiana",
                 "status": "y",
                 "note": ""
             },
