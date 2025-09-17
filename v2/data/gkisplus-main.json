@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4299,
-        "last-update": 1758104079,
-        "last-updated-item": "agenda",
+        "update-count": 4300,
+        "last-update": 1758107258,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Sep 2025 | Kerendahan Hati dan Takut akan Tuhan",
+                        "date": "2025-09-17",
+                        "desc": "Dibawakan oleh Ibu Isabella Kambuno",
+                        "link": "https://www.youtube.com/watch?v=1TmMd0sg9JE",
+                        "thumbnail": "https://i2.ytimg.com/vi/1TmMd0sg9JE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Sep 2025 | Warisan Yang Baik",
                         "date": "2025-09-16",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Yari Dwi Kurnaningsih",
                         "link": "https://www.youtube.com/watch?v=PQP9g2FpKxg",
                         "thumbnail": "https://i1.ytimg.com/vi/PQP9g2FpKxg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Sep 2025 | The Golden Rule",
-                        "date": "2025-09-05",
-                        "desc": "Dibawakan oleh Pnt. Ervien Dian",
-                        "link": "https://www.youtube.com/watch?v=-2El2waxC04",
-                        "thumbnail": "https://i2.ytimg.com/vi/-2El2waxC04/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
