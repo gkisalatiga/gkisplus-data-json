@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4297,
-        "last-update": 1758080601,
+        "update-count": 4298,
+        "last-update": 1758093237,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4357,6 +4357,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan PS Wilayah 4",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-09-21",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Samuel Arif",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4985,20 +4999,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Latihan PS Wilayah 4",
-                "time": "11:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-09-21",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Samuel Arif",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
