@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4298,
-        "last-update": 1758093237,
+        "update-count": 4299,
+        "last-update": 1758104079,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4998,6 +4998,20 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Ibu Widia P",
                 "status": "c",
+                "note": "-"
+            },
+            {
+                "name": "Latihan musik untuk ibadah umum minggu ",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta",
+                "status": "w",
                 "note": "-"
             }
         ],
