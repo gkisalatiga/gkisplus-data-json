@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4303,
-        "last-update": 1758167187,
+        "update-count": 4304,
+        "last-update": 1758170451,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4280,6 +4280,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik untuk ibadah umum minggu ",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Workshop Pembelajaran Mendalam bagi Kepala Sekolah Sd dan SMP se Kota Salatiga",
                 "time": "07:00",
                 "time-to": "15:30",
@@ -5005,20 +5019,6 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Ibu Widia P",
                 "status": "c",
-                "note": "-"
-            },
-            {
-                "name": "Latihan musik untuk ibadah umum minggu ",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-09-17",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta",
-                "status": "y",
                 "note": "-"
             }
         ],
