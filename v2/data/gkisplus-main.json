@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4302,
-        "last-update": 1758133902,
-        "last-updated-item": "ykb",
+        "update-count": 4303,
+        "last-update": 1758167187,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4374,7 +4374,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Samuel Arif",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5018,7 +5018,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Lyta",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             }
         ],
