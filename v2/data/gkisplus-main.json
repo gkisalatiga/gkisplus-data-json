@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4307,
-        "last-update": 1758220373,
-        "last-updated-item": "ykb",
+        "update-count": 4308,
+        "last-update": 1758225688,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 19 Sep 2025 | Kerendahan Hati dan Takut akan Tuhan",
+                        "date": "2025-09-18",
+                        "desc": "Dibawakan oleh Ibu Isabella Kambuno",
+                        "link": "https://www.youtube.com/watch?v=1TmMd0sg9JE",
+                        "thumbnail": "https://i2.ytimg.com/vi/1TmMd0sg9JE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 18 Sep 2025 | Menakar Timbangan Dengan Benar",
                         "date": "2025-09-17",
                         "desc": "Dibawakan oleh Ibu Made Rai Shanti",
                         "link": "https://www.youtube.com/watch?v=U8_nylVhTSI",
                         "thumbnail": "https://i2.ytimg.com/vi/U8_nylVhTSI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Sep 2025 | Kerendahan Hati dan Takut akan Tuhan",
-                        "date": "2025-09-17",
-                        "desc": "Dibawakan oleh Ibu Isabella Kambuno",
-                        "link": "https://www.youtube.com/watch?v=1TmMd0sg9JE",
-                        "thumbnail": "https://i2.ytimg.com/vi/1TmMd0sg9JE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 17 Sep 2025 | Warisan Yang Baik",
