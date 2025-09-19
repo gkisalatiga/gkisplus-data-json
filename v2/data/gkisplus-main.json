@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4309,
-        "last-update": 1758234871,
-        "last-updated-item": "yt",
+        "update-count": 4310,
+        "last-update": 1758267332,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4112,6 +4112,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik untuk ibadah minggu ",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Latihan LAVE",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -4136,6 +4150,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
                 "pic": "Priani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Komisi Dewasa",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-09-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Reny Handayani",
                 "status": "y",
                 "note": ""
             },
@@ -4824,20 +4852,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Latihan musik untuk ibadah minggu ",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-09-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
