@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4312,
-        "last-update": 1758306669,
+        "update-count": 4313,
+        "last-update": 1758357449,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1673,6 +1673,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 21 September 2025",
+                    "date": "2025-09-20",
+                    "link": "https://drive.google.com/file/d/1fnllBctHHNq53tGwInaWO2OEWuiSNPSQ/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-21-september-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/09/warta-21-sep-25.jpg",
+                    "id": "1fnllBctHHNq53tGwInaWO2OEWuiSNPSQ",
+                    "size": "2.50 MB"
+                },
+                {
                     "title": "Warta Jemaat 14 September 2025",
                     "date": "2025-09-13",
                     "link": "https://drive.google.com/file/d/1URvvf2mFwylqmNkRhVt6z1Zxg_qQg7ba/view",
@@ -2196,6 +2205,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 21 September 2025 - Pembukaan Pekan Kepemimpinan",
+                    "date": "2025-09-20",
+                    "link": "https://drive.google.com/file/d/1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-21-september-2025/",
+                    "thumbnail": "",
+                    "id": "1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74",
+                    "size": "0.44 MB"
+                },
                 {
                     "title": "Tata Ibadah 14 September 2025 - Penutupan Pekan Pendidikan Kristen (Pepenkris)",
                     "date": "2025-09-13",
@@ -3912,22 +3930,6 @@
                 "type": "poster",
                 "date-created": "2025-09-16",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "title": "Persekutuan KUL",
-                "type": "poster",
-                "date-created": "2025-09-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-09-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
