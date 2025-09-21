@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4316,
-        "last-update": 1758408095,
-        "last-updated-item": "ykb",
+        "update-count": 4317,
+        "last-update": 1758463644,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Sep 2025 | Melihat Dari Sudut Pandang Allah",
+                        "date": "2025-09-21",
+                        "desc": "Dibawakan oleh Pnt. Desemy Ballo",
+                        "link": "https://www.youtube.com/watch?v=JSfx9KUpbek",
+                        "thumbnail": "https://i3.ytimg.com/vi/JSfx9KUpbek/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Sep 2025 | Stay Hungry, Stay Foolish",
                         "date": "2025-09-19",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=CgIOqMRBF0A",
                         "thumbnail": "https://i4.ytimg.com/vi/CgIOqMRBF0A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Sep 2025 | Sekolah Kristen Untuk Siapa?",
-                        "date": "2025-09-08",
-                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
-                        "link": "https://www.youtube.com/watch?v=ulSJOiOC8IQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/ulSJOiOC8IQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -111,7 +111,7 @@
                         "date": "2025-09-19",
                         "desc": "-KEBAKTIAN MINGGU GKI Salatiga; 21 September 2025; Pukul 07:00 WIB\n\nTema:  Makna Hidup yang Berintegritas\n\nBacaan Injil: Daniel 1: 1 \u2013 21\nBerita Anugrah: 1 Yohanes 1:9\nAyat Persembahan: Kisah Para Rasul 20:35\n\nNyanyian: KK 27; NKB 193:1,2,5; KK 541:1-2; KK 382; NKB 204:1,2,4\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yuliani Nugroho\nKredo dan Warta: Pnt. Samuel Martono\nSambut Tamu: Pnt. Santoso Adi P dan Pnt. Paskah Ika N.\nPemandu Liturgi: Lukas Sukan\n\nPemusik: Proverbs + Rea\nPNK/PMZ: Yambers/ Inggrid\nTim Multimedia: Daniel Eko, Ristiani G.M., David W., Bobby, Alvin, Erio, Jeffrey, Derryl\nUsher dan Kolektan: Wilayah 2 & 8\nFlorist: Tim Kadaka\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=xLJk2AnYX-0",
-                        "thumbnail": "https://i.ytimg.com/vi/xLJk2AnYX-0/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/xLJk2AnYX-0/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu | 14 September 2025 | Pdt. Helen Ruth Manurung",
