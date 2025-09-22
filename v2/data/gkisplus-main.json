@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4321,
-        "last-update": 1758514676,
-        "last-updated-item": "agenda",
+        "update-count": 4322,
+        "last-update": 1758550239,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Sep 2025  | Rencana Tuhan Selalu Yang Terbaik",
+                        "date": "2025-09-22",
+                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
+                        "link": "https://www.youtube.com/watch?v=toOQnQbWaEA",
+                        "thumbnail": "https://i1.ytimg.com/vi/toOQnQbWaEA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Sep 2025 | Melihat Dari Sudut Pandang Allah",
                         "date": "2025-09-21",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Abrilomi Puspita Sari",
                         "link": "https://www.youtube.com/watch?v=LGz41LF8EtY",
                         "thumbnail": "https://i1.ytimg.com/vi/LGz41LF8EtY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Sep 2025 | Pengetahuan Atau Hikmat",
-                        "date": "2025-09-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=CgIOqMRBF0A",
-                        "thumbnail": "https://i4.ytimg.com/vi/CgIOqMRBF0A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
