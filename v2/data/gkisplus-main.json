@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4320,
-        "last-update": 1758512159,
+        "update-count": 4321,
+        "last-update": 1758514676,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4768,6 +4768,20 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Rapat komisi dewasa",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-09-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
