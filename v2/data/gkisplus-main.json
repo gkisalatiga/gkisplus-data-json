@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4324,
-        "last-update": 1758595244,
-        "last-updated-item": "agenda",
+        "update-count": 4325,
+        "last-update": 1758625676,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -1422,6 +1422,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "SESI 1 | Jadi Wirausaha, Siapa Takut? | Pembekalan Mitra Pukat Berkat & Usaha Binaan KDT 2025",
+                        "date": "2025-09-23",
+                        "desc": "Pembekalan Mitra Pukat Berkat & Usaha Binaan KDT GKI Salatiga\n\nDiselenggarakan oleh Komisi Dewasa dan Komisi Diakonia The Koen Bik GKI Salatiga pada Minggu, 21 September 2025.\n\nPemateri:\n- SESI 1: Komala Inggarwati, S.E., M.M., M.Bus. (Mgt.), Ph.D.\n- SESI 2: Andika Putra Raharja, S.T., M.M.\n\nFile PPT dapat diunduh melalui tautan berikut:\nhttps://drive.google.com/drive/folders/1tDxbOdvfOtqhL9HlTpBF-D4oFpEm78p_\n\nVideo ini bersifat terbatas.",
+                        "link": "https://www.youtube.com/watch?v=TAsv1w8bvHY",
+                        "thumbnail": "https://i.ytimg.com/vi/TAsv1w8bvHY/hqdefault.jpg"
+                    },
                     {
                         "title": "Bincang Online \" Cara Jitu Mengelola Keuangan \" 25 Maret 2022",
                         "date": "2022-03-25",
