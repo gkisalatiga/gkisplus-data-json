@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4327,
-        "last-update": 1758636588,
+        "update-count": 4328,
+        "last-update": 1758647211,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Sep 2025  | Bersyukur dan Berpengharapan",
+                        "date": "2025-09-23",
+                        "desc": "Dibawakan oleh Bpk. Didik Wurdianto",
+                        "link": "https://www.youtube.com/watch?v=Qcq_Fz_B-wo",
+                        "thumbnail": "https://i2.ytimg.com/vi/Qcq_Fz_B-wo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Sep 2025  | Rencana Tuhan Selalu Yang Terbaik",
                         "date": "2025-09-22",
@@ -75,27 +82,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=Q_DCeYX8vZg",
                         "thumbnail": "https://i2.ytimg.com/vi/Q_DCeYX8vZg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Sep 2025 | Dampak Nyata",
-                        "date": "2025-09-12",
-                        "desc": "Dibawakan oleh Ibu Irene Supit",
-                        "link": "https://www.youtube.com/watch?v=byp6W1nAHtw",
-                        "thumbnail": "https://i3.ytimg.com/vi/byp6W1nAHtw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |12 Sep 2025 | Membentuk Karakter Berlandaskan Kristus",
-                        "date": "2025-09-11",
-                        "desc": "Dibawakan oleh Ibu Ni Nyoman Dewi Ajeng",
-                        "link": "https://www.youtube.com/watch?v=QGXDW4lpCsE",
-                        "thumbnail": "https://i2.ytimg.com/vi/QGXDW4lpCsE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |11 Sep 2025",
-                        "date": "2025-09-10",
-                        "desc": "Dibawakan oleh Ibu Abrilomi Puspita Sari",
-                        "link": "https://www.youtube.com/watch?v=LGz41LF8EtY",
-                        "thumbnail": "https://i1.ytimg.com/vi/LGz41LF8EtY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
