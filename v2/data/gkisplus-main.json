@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4330,
-        "last-update": 1758676023,
+        "update-count": 4331,
+        "last-update": 1758681748,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4837,6 +4837,62 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Ibu Widia P",
                 "status": "c",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Djini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Ibu Djini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Ekstra Persekutuan",
+                "time": "13:00",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2025-09-24",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Y",
+                "status": "w",
                 "note": "-"
             }
         ],
