@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4329,
-        "last-update": 1758652328,
-        "last-updated-item": "ykb",
+        "update-count": 4330,
+        "last-update": 1758676023,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4182,6 +4182,48 @@
                 "note": "-"
             },
             {
+                "name": "Latihan musik",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat komisi dewasa",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-09-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra ",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Latihan LAVE",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -4277,6 +4319,34 @@
                 "representative": "Wilayah",
                 "pic": "Elibert",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Perjamuan Kudus",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Dies Natalis YPE ke-77",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Novita Sari",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4768,76 +4838,6 @@
                 "pic": "Ibu Widia P",
                 "status": "c",
                 "note": "-"
-            },
-            {
-                "name": "Rapat komisi dewasa",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-09-25",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Atiek Widyati",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Ibadah Dies Natalis YPE ke-77",
-                "time": "10:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-10-01",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Novita Sari",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-23",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Paklik Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-09-25",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Paklik Vidra ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Persiapan Perjamuan Kudus",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-09-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
