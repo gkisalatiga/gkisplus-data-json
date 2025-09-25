@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4340,
-        "last-update": 1758777264,
+        "update-count": 4341,
+        "last-update": 1758778732,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4969,6 +4969,20 @@
                 "pic": "Pnt. Yosua Candana",
                 "status": "y",
                 "note": "Siapkan LCD, Tidak perlu siapkan teh"
+            },
+            {
+                "name": "PA wilayah 5",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-11-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ratnawati",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
