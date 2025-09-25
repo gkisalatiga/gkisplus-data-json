@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4343,
-        "last-update": 1758782914,
+        "update-count": 4344,
+        "last-update": 1758806740,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4983,6 +4983,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan nyanyi",
+                "time": "10:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-09-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Selvi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
