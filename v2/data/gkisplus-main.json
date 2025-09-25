@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4342,
-        "last-update": 1758781362,
+        "update-count": 4343,
+        "last-update": 1758782914,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4799,7 +4799,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ratnawati",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
