@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4339,
-        "last-update": 1758775314,
+        "update-count": 4340,
+        "last-update": 1758777264,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4955,6 +4955,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat MJ(Zoom)",
+                "time": "18:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": "Siapkan LCD, Tidak perlu siapkan teh"
             }
         ],
         "backend": {
