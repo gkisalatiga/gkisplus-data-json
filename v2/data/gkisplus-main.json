@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4344,
-        "last-update": 1758806740,
-        "last-updated-item": "agenda",
+        "update-count": 4345,
+        "last-update": 1758809403,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |  26 Sep 2025 | Bersyukur Dulu atau Bahagia Dulu?",
+                        "date": "2025-09-25",
+                        "desc": "Dibawakan oleh Bpk. Sriono Sudarso",
+                        "link": "https://www.youtube.com/watch?v=IDzarGC97QU",
+                        "thumbnail": "https://i2.ytimg.com/vi/IDzarGC97QU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |  25 Sep 2025",
                         "date": "2025-09-24",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Christina Elizabeth Parinsi",
                         "link": "https://www.youtube.com/watch?v=rEAcLNCke3Y",
                         "thumbnail": "https://i3.ytimg.com/vi/rEAcLNCke3Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Sep 2025 | Memiutangi Tuhan",
-                        "date": "2025-09-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=Q_DCeYX8vZg",
-                        "thumbnail": "https://i2.ytimg.com/vi/Q_DCeYX8vZg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
