@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4341,
-        "last-update": 1758778732,
+        "update-count": 4342,
+        "last-update": 1758781362,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4229,6 +4229,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ(Zoom)",
+                "time": "18:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-09-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": "Siapkan LCD, Tidak perlu siapkan teh"
+            },
+            {
                 "name": "Latihan LAVE",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -4775,6 +4789,20 @@
                 "note": "-"
             },
             {
+                "name": "PA wilayah 5",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-11-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ratnawati",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4955,34 +4983,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat MJ(Zoom)",
-                "time": "18:30",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-09-25",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yosua Candana",
-                "status": "y",
-                "note": "Siapkan LCD, Tidak perlu siapkan teh"
-            },
-            {
-                "name": "PA wilayah 5",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-11-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Ratnawati",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
