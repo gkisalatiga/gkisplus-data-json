@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4351,
-        "last-update": 1758911357,
-        "last-updated-item": "ykb",
+        "update-count": 4352,
+        "last-update": 1758926058,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -19,78 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi |  27 Sep 2025",
-                        "date": "2025-09-26",
-                        "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
-                        "link": "https://www.youtube.com/watch?v=h5bvcyi_8so",
-                        "thumbnail": "https://i1.ytimg.com/vi/h5bvcyi_8so/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |  26 Sep 2025 | Bersyukur Dulu atau Bahagia Dulu?",
-                        "date": "2025-09-25",
-                        "desc": "Dibawakan oleh Bpk. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=IDzarGC97QU",
-                        "thumbnail": "https://i2.ytimg.com/vi/IDzarGC97QU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |  25 Sep 2025",
-                        "date": "2025-09-24",
-                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=wYlk9u7_SKk",
-                        "thumbnail": "https://i4.ytimg.com/vi/wYlk9u7_SKk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Sep 2025  | Bersyukur dan Berpengharapan",
-                        "date": "2025-09-23",
-                        "desc": "Dibawakan oleh Bpk. Didik Wurdianto",
-                        "link": "https://www.youtube.com/watch?v=Qcq_Fz_B-wo",
-                        "thumbnail": "https://i2.ytimg.com/vi/Qcq_Fz_B-wo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Sep 2025  | Rencana Tuhan Selalu Yang Terbaik",
-                        "date": "2025-09-22",
-                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
-                        "link": "https://www.youtube.com/watch?v=toOQnQbWaEA",
-                        "thumbnail": "https://i1.ytimg.com/vi/toOQnQbWaEA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Sep 2025 | Melihat Dari Sudut Pandang Allah",
-                        "date": "2025-09-21",
-                        "desc": "Dibawakan oleh Pnt. Desemy Ballo",
-                        "link": "https://www.youtube.com/watch?v=JSfx9KUpbek",
-                        "thumbnail": "https://i3.ytimg.com/vi/JSfx9KUpbek/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Sep 2025 | Stay Hungry, Stay Foolish",
-                        "date": "2025-09-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=_4vXHtD011c",
-                        "thumbnail": "https://i4.ytimg.com/vi/_4vXHtD011c/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Sep 2025 | Kerendahan Hati dan Takut akan Tuhan",
-                        "date": "2025-09-18",
-                        "desc": "Dibawakan oleh Ibu Isabella Kambuno",
-                        "link": "https://www.youtube.com/watch?v=1TmMd0sg9JE",
-                        "thumbnail": "https://i2.ytimg.com/vi/1TmMd0sg9JE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Sep 2025 | Menakar Timbangan Dengan Benar",
-                        "date": "2025-09-17",
-                        "desc": "Dibawakan oleh Ibu Made Rai Shanti",
-                        "link": "https://www.youtube.com/watch?v=U8_nylVhTSI",
-                        "thumbnail": "https://i2.ytimg.com/vi/U8_nylVhTSI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Sep 2025 | Warisan Yang Baik",
-                        "date": "2025-09-16",
-                        "desc": "Dibawakan oleh Ibu Cely Murniningsih",
-                        "link": "https://www.youtube.com/watch?v=TlRY-9tdDOo",
-                        "thumbnail": "https://i1.ytimg.com/vi/TlRY-9tdDOo/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
