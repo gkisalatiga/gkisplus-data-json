@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4349,
-        "last-update": 1758863652,
-        "last-updated-item": "agenda",
+        "update-count": 4350,
+        "last-update": 1758895696,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |  27 Sep 2025",
+                        "date": "2025-09-26",
+                        "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
+                        "link": "https://www.youtube.com/watch?v=h5bvcyi_8so",
+                        "thumbnail": "https://i1.ytimg.com/vi/h5bvcyi_8so/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |  26 Sep 2025 | Bersyukur Dulu atau Bahagia Dulu?",
                         "date": "2025-09-25",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Cely Murniningsih",
                         "link": "https://www.youtube.com/watch?v=TlRY-9tdDOo",
                         "thumbnail": "https://i1.ytimg.com/vi/TlRY-9tdDOo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Sep 2025 | Kemerdekaan Yang Bertanggung jawab",
-                        "date": "2025-09-15",
-                        "desc": "Dibawakan oleh Pdt. Christina Elizabeth Parinsi",
-                        "link": "https://www.youtube.com/watch?v=rEAcLNCke3Y",
-                        "thumbnail": "https://i3.ytimg.com/vi/rEAcLNCke3Y/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
