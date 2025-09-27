@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4354,
-        "last-update": 1758943951,
-        "last-updated-item": "yt",
+        "update-count": 4355,
+        "last-update": 1758967989,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -5021,6 +5021,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan paduan suara",
+                "time": "11:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-09-28",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Budi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
