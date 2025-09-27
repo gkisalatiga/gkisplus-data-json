@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4353,
-        "last-update": 1758927680,
+        "update-count": 4354,
+        "last-update": 1758943951,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1680,6 +1680,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 28 September 2025",
+                    "date": "2025-09-27",
+                    "link": "https://drive.google.com/file/d/1qr7Yzcd_1xYaxaEDjvsUeGujG4gNahze/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-28-september-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/09/warta-28-sep-25.png",
+                    "id": "1qr7Yzcd_1xYaxaEDjvsUeGujG4gNahze",
+                    "size": "2.50 MB"
+                },
+                {
                     "title": "Warta Jemaat 21 September 2025",
                     "date": "2025-09-20",
                     "link": "https://drive.google.com/file/d/1fnllBctHHNq53tGwInaWO2OEWuiSNPSQ/view",
@@ -2213,12 +2222,21 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah 21 September 2025 - Pembukaan Pekan Kepemimpinan",
-                    "date": "2025-09-20",
+                    "title": "Tata Ibadah 28 September 2025 - Penutupan Pekan Kepemimpinan",
+                    "date": "2025-09-27",
                     "link": "https://drive.google.com/file/d/1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74/view",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-21-september-2025/",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-28-september-2025/",
                     "thumbnail": "",
                     "id": "1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74",
+                    "size": "0.77 MB"
+                },
+                {
+                    "title": "Tata Ibadah 21 September 2025 - Pembukaan Pekan Kepemimpinan",
+                    "date": "2025-09-20",
+                    "link": "https://drive.google.com/file/d/1uhYNyu6zEVNm0pRVghxY1nh5qVbdX5lk/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-21-september-2025/",
+                    "thumbnail": "",
+                    "id": "1uhYNyu6zEVNm0pRVghxY1nh5qVbdX5lk",
                     "size": "0.44 MB"
                 },
                 {
@@ -3947,14 +3965,6 @@
                 "type": "poster",
                 "date-created": "2025-09-16",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "title": "Persekutuan Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2025-09-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
