@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4356,
-        "last-update": 1758982044,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 4357,
+        "last-update": 1758982753,
+        "last-updated-item": "pdf/liturgi",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -2224,19 +2224,19 @@
                 {
                     "title": "Tata Ibadah 28 September 2025 - Penutupan Pekan Kepemimpinan",
                     "date": "2025-09-27",
-                    "link": "https://drive.google.com/file/d/1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74/view",
+                    "link": "https://drive.google.com/file/d/1uhYNyu6zEVNm0pRVghxY1nh5qVbdX5lk/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-28-september-2025/",
                     "thumbnail": "",
-                    "id": "1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74",
+                    "id": "1uhYNyu6zEVNm0pRVghxY1nh5qVbdX5lk",
                     "size": "0.77 MB"
                 },
                 {
                     "title": "Tata Ibadah 21 September 2025 - Pembukaan Pekan Kepemimpinan",
                     "date": "2025-09-20",
-                    "link": "https://drive.google.com/file/d/1uhYNyu6zEVNm0pRVghxY1nh5qVbdX5lk/view",
+                    "link": "https://drive.google.com/file/d/1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-21-september-2025/",
                     "thumbnail": "",
-                    "id": "1uhYNyu6zEVNm0pRVghxY1nh5qVbdX5lk",
+                    "id": "1oJC_51ruK7rMVq8xeYfdxAeLql0hZD74",
                     "size": "0.44 MB"
                 },
                 {
