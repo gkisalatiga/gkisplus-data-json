@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4361,
-        "last-update": 1759052308,
-        "last-updated-item": "ykb",
+        "update-count": 4362,
+        "last-update": 1759068419,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -82,13 +82,6 @@
                         "desc": "Dibawakan oleh Ibu Isabella Kambuno",
                         "link": "https://www.youtube.com/watch?v=1TmMd0sg9JE",
                         "thumbnail": "https://i2.ytimg.com/vi/1TmMd0sg9JE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Sep 2025 | Menakar Timbangan Dengan Benar",
-                        "date": "2025-09-17",
-                        "desc": "Dibawakan oleh Ibu Made Rai Shanti",
-                        "link": "https://www.youtube.com/watch?v=U8_nylVhTSI",
-                        "thumbnail": "https://i2.ytimg.com/vi/U8_nylVhTSI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1107,6 +1100,13 @@
                         "desc": "",
                         "link": "https://www.youtube.com/watch?v=IRkIqvPRYrg",
                         "thumbnail": "https://i.ytimg.com/vi/IRkIqvPRYrg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "I Want to be Like Jesus (Kumau Serupa Yesus) | PS Efrata GKI Salatiga | 28 September 2025",
+                        "date": "2025-09-28",
+                        "desc": "Penampilan Paduan Suara Efrata GKI Salatiga pada Ibadah Umum Minggu, 28 September 2025 Pukul 09:30 WIB.\n\n\"I Want to be Like Jesus\"\nLagu: Thomas O. Chisholm (1945)\nTerjemahan Indonesia: Lestari T. P.\nDipopulerkan oleh: Tom Fettke",
+                        "link": "https://www.youtube.com/watch?v=PLE-5UNEELs",
+                        "thumbnail": "https://i.ytimg.com/vi/PLE-5UNEELs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
