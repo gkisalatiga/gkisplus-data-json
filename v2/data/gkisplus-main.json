@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4365,
-        "last-update": 1759090081,
-        "last-updated-item": "yt",
+        "update-count": 4366,
+        "last-update": 1759116868,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -5075,6 +5075,48 @@
                 "pic": "Budi",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan padus mengisi di kegiatan diesnatalis YPE",
+                "time": "00:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-09-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Rapat sie momen spesial",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-09-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih diesnatalis ",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
