@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 43,
-        "last-update": 1757986101,
+        "update-count": 44,
+        "last-update": 1759115919,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -22336,6 +22336,291 @@
                             "id": "1KWcfVfTNXI70mjWdywy4K1X2iTdFGpks",
                             "name": "DSCF0393.JPG",
                             "date": "2025-09-16"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1h0a5-ZymCuNYXD8a-Qvx_OAUDFDxkKEf",
+                    "last_update": "2025-09-29",
+                    "featured_photo_id": "1pmWcenvFsXEFY14pIoh_3msyEJbUVaLr",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 14 September yang dilaksanakan pada 14 September 2025.",
+                    "title": "Ibadah Minggu, 14 September",
+                    "event_date": "2025.09.14",
+                    "photos": [
+                        {
+                            "id": "1ei0A9fyMUr0PDQSdaIHnMctHvVsjNBiJ",
+                            "name": "GKI Salatiga 140925-7-00090.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1aCyhtuAzQbDuz_MAVpiCxuW2sRKhj_VB",
+                            "name": "GKI Salatiga 140925-7-00018.NEF",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "13b_MkcZLdN9BfRUUyHWRNPaIBvE9_tP5",
+                            "name": "GKI Salatiga 140925-7-00025.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1p_CXcFNOgJ-YbdsqT5VejZMYt655gpvs",
+                            "name": "GKI Salatiga 140925-7-00024.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1rVlXoKq975xzQAJTubzMRV6CzJQMSDkr",
+                            "name": "GKI Salatiga 140925-7-00031.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1Wdb7CPgNiIM7BY9gHwfq2smuWDc9uMmZ",
+                            "name": "GKI Salatiga 140925-7-00063.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1pGlUFUAvN6XS6agxlQCqZ_hC8TYtqptU",
+                            "name": "GKI Salatiga 140925-7-00082.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1anm7H_LYe5h8nXwhOGMyRxnPif5WC786",
+                            "name": "GKI Salatiga 140925-7-00044.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1WHWM7H0axhXKr05wPW6KD8moB1xHEusE",
+                            "name": "GKI Salatiga 140925-7-00061.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "10tbrz3RX_BmUQHa23-Yb8DsSmo7Vn1WS",
+                            "name": "GKI Salatiga 140925-7-00069.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1R7DAcHxsKs7u3POEznABzaSTkWga98Y_",
+                            "name": "GKI Salatiga 140925-7-00099.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1skIlal9eyDWBjH3uDMyacTHZ8zdMoIWC",
+                            "name": "GKI Salatiga 140925-7-00059.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1962jovJVwFecQrRWDRDq8jNAobGywLZM",
+                            "name": "GKI Salatiga 140925-7-00070.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1cEBkuQ2AI5WoFrG769yjDXVtlfqqjMP_",
+                            "name": "GKI Salatiga 140925-7-00075.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1zGDb9sU6rsBvCiep4tfRlraHl8Z1whoa",
+                            "name": "GKI Salatiga 140925-7-00066.JPG",
+                            "date": "2025-09-29"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1e7UxpKOsTL8Rgu0BqWfybnF2fszo8T6a",
+                    "last_update": "2025-09-29",
+                    "featured_photo_id": "1hY7JPo7Nwx7-140qgjCHR3WJUz5ntYzA",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 21 September yang dilaksanakan pada 21 September 2025.",
+                    "title": "Ibadah Minggu, 21 September",
+                    "event_date": "2025.09.21",
+                    "photos": [
+                        {
+                            "id": "1bZRO_CD8K3oMt7RjBq1lMtdiHVQY05S8",
+                            "name": "GKI Salatiga 210925-7-00003.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1VLP8DJgueFRRt9-LzWx1ED4nPxvAQCyI",
+                            "name": "GKI Salatiga 210925-7-00008.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1NO8bVw8dIbX6gC9XQ26_YJhz7eqggHAj",
+                            "name": "GKI Salatiga 210925-7-00005.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1cGD0BrKQFyKC6Ufmnuec5kumxu19GJ9C",
+                            "name": "GKI Salatiga 210925-7-00007.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1mm-06-m4utgZ--YcJNFgtE3TcrdaYK8g",
+                            "name": "GKI Salatiga 210925-7-00002.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1V10fNb8819SdBs2G1ugTvwlalONz-n7K",
+                            "name": "GKI Salatiga 210925-7-00032.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1Dko7Yem3MRdoQOGU1C8HhaQchLMjdakQ",
+                            "name": "GKI Salatiga 210925-7-00009.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1oSoHz-cOkSIRUw9R6Hijpc6hOWGJPski",
+                            "name": "GKI Salatiga 210925-7-00022.NEF",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1F1DV9aBbJnnJxLkvLXIED-sMACEVT2Rk",
+                            "name": "GKI Salatiga 210925-7-00025.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1tfWY-e9iVaq1hQRRdIOYeXs1Yo6Zj_Eg",
+                            "name": "GKI Salatiga 210925-7-00017.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "18GyQ9hJOZWKQ1n_zOvAiHpLoTYVwC6pf",
+                            "name": "GKI Salatiga 210925-7-00030.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1w6BrQrCgMqby5d1Kj_PPvl7gmVQHxOX_",
+                            "name": "GKI Salatiga 210925-7-00035.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1A8cf_ZujsB9_OoDXmFDtd4aLtUCGUAtz",
+                            "name": "GKI Salatiga 210925-7-00034.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1JD7F7QAIFiR3riiSGg9X2OYXx_W3S_1D",
+                            "name": "GKI Salatiga 210925-7-00048.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1S0JyUbf-Gyy5_HSn4bA-AAmCAsXK0JUe",
+                            "name": "GKI Salatiga 210925-7-00027.JPG",
+                            "date": "2025-09-29"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1dqgQ2u2PIK51aPji3vNi1UBAbmiTsRyB",
+                    "last_update": "2025-09-29",
+                    "featured_photo_id": "1C4X-7mzhLjjI1JVfO-n2XVTuJaj42n6j",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 28 September yang dilaksanakan pada 28 September 2025.",
+                    "title": "Ibadah Minggu, 28 September",
+                    "event_date": "2025.09.28",
+                    "photos": [
+                        {
+                            "id": "1YFj21gfdHX59zahOSHz6OEDQ7Uhz0gG2",
+                            "name": "DSCF0460-Enhanced-NR.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1qSUFNeeFfUC2Rwhz_s4ulmF9Im4LvJhO",
+                            "name": "DSCF0453-Enhanced-NR.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1R_hH-LqXbogKEAto8SLKUiYPzSwBeRQv",
+                            "name": "DSCF0481-Enhanced-NR.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1-zGSolXlJ6SOOpVqaqCTLy6xlUtHAvxd",
+                            "name": "Paduan Suara (7).JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1i7O01HiKquE9Gg53xMzGz-fDVmoNf6bY",
+                            "name": "DSCF0439.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1O-qVEQ2HMUQQIq9sAwAC-8rfzpdHvg4D",
+                            "name": "GKI 280925-7-00028.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1S_uCNTtDJtCL78FUuI4X4fmsgnz0fBP0",
+                            "name": "GKI 280925-7-00010.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1NE5V3JPWPSMkpcCsU17CReAQBrxDGNWk",
+                            "name": "GKI 280925-7-00003.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "13U_XWUwFyvOCaDnjFwvAsc86ki9S4W_l",
+                            "name": "GKI 280925-7-00007.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1z0IvpVpdEW43sroFwvnTwPQvJi_bDWoo",
+                            "name": "GKI 280925-7-00005.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1oyAfpVUpwu2MZkuH4aMXMLtXQ7NhovZb",
+                            "name": "GKI 280925-7-00023.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1NzuEwV8knChCBOo1ZeNGpq8HpE8L8UQ2",
+                            "name": "GKI 280925-7-00040.NEF",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1Gu7UOCPLvhXnXC2L2nfrnFu3pIcyj5CU",
+                            "name": "GKI 280925-7-00020.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1Xd8-FvWdQClOr6CKF3nI4-zt3vkIOarU",
+                            "name": "GKI 280925-7-00027.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1OpiBWHs5HYCuxbZr-ye2TiOHmDGq6VfO",
+                            "name": "GKI 280925-7-00032.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1SCpBLVQCO2tzSOcsl3jF0yUVavI1jipX",
+                            "name": "GKI 280925-7-00053.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1MGn8oQVLEaAcvWLGFOemHbnHxesW_RUc",
+                            "name": "GKI 280925-7-00024.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "13MrAnxWM4cSdbepjOqgOpX50L3aAKcJX",
+                            "name": "DSCF0434-Enhanced-NR.JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1gOB4uY89SUdO2AnyZwBXUj6kLjUfnkEX",
+                            "name": "Paduan Suara (3).JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1kHXyXvNDYIwDFfPYcrwoXSBwe9ealDFs",
+                            "name": "Paduan Suara (4).JPG",
+                            "date": "2025-09-29"
+                        },
+                        {
+                            "id": "1GCLHqxELWTAyFCX9H9VsecdRO8iPiAGH",
+                            "name": "Paduan Suara (1).JPG",
+                            "date": "2025-09-29"
                         }
                     ]
                 }
