@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4366,
-        "last-update": 1759116868,
+        "update-count": 4367,
+        "last-update": 1759119500,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5117,6 +5117,62 @@
                 "pic": "Van Gouh Arimatea",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah (Psalms)",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-09-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah (Psalms)",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah (Psalms)",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-02",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah (Psalms)",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
