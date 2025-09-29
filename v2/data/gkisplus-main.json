@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4370,
-        "last-update": 1759142553,
-        "last-updated-item": "agenda",
+        "update-count": 4371,
+        "last-update": 1759155003,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -23,7 +23,7 @@
                     {
                         "title": "SaRen Pagi | 29 Sep 2025 | Ubah Diri Sendiri",
                         "date": "2025-09-28",
-                        "desc": "Dibawakan oleh Ibu July Silloy",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
                         "link": "https://www.youtube.com/watch?v=BFHuAt9y3cU",
                         "thumbnail": "https://i3.ytimg.com/vi/BFHuAt9y3cU/hqdefault.jpg"
                     },
@@ -75,13 +75,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=_4vXHtD011c",
                         "thumbnail": "https://i4.ytimg.com/vi/_4vXHtD011c/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Sep 2025 | Kerendahan Hati dan Takut akan Tuhan",
-                        "date": "2025-09-18",
-                        "desc": "Dibawakan oleh Ibu Isabella Kambuno",
-                        "link": "https://www.youtube.com/watch?v=1TmMd0sg9JE",
-                        "thumbnail": "https://i2.ytimg.com/vi/1TmMd0sg9JE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
