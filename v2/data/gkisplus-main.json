@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4368,
-        "last-update": 1759122913,
+        "update-count": 4369,
+        "last-update": 1759128606,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5187,6 +5187,20 @@
                 "pic": "Desty Kainama",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat tim renovasi atap gedung greja",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-02",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua",
+                "status": "w",
+                "note": "Minta disiapkan LCD"
             }
         ],
         "backend": {
