@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4371,
-        "last-update": 1759155003,
+        "update-count": 4372,
+        "last-update": 1759165743,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Sep 2025 | Ketika Terancam",
+                        "date": "2025-09-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=cdAogUYBMAQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/cdAogUYBMAQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Sep 2025 | Ubah Diri Sendiri",
                         "date": "2025-09-28",
