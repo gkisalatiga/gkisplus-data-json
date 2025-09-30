@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4373,
-        "last-update": 1759170718,
-        "last-updated-item": "ykb",
+        "update-count": 4374,
+        "last-update": 1759220435,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -5215,6 +5215,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Panitia MRN",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-02",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": "\n-"
             }
         ],
         "backend": {
