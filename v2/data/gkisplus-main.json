@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4374,
-        "last-update": 1759220435,
-        "last-updated-item": "agenda",
+        "update-count": 4375,
+        "last-update": 1759241413,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Okt 2025",
+                        "date": "2025-09-30",
+                        "desc": "Dibawakan oleh Ibu Arvie Sinjal",
+                        "link": "https://www.youtube.com/watch?v=ej1eHXnHK7Y",
+                        "thumbnail": "https://i2.ytimg.com/vi/ej1eHXnHK7Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Sep 2025 | Ketika Terancam",
                         "date": "2025-09-29",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pnt. Desemy Ballo",
                         "link": "https://www.youtube.com/watch?v=JSfx9KUpbek",
                         "thumbnail": "https://i3.ytimg.com/vi/JSfx9KUpbek/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Sep 2025 | Stay Hungry, Stay Foolish",
-                        "date": "2025-09-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=_4vXHtD011c",
-                        "thumbnail": "https://i4.ytimg.com/vi/_4vXHtD011c/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
