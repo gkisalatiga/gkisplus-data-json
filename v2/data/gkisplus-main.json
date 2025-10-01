@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4380,
-        "last-update": 1759313750,
-        "last-updated-item": "agenda",
+        "update-count": 4381,
+        "last-update": 1759327788,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Okt 2025",
+                        "date": "2025-10-01",
+                        "desc": "Dibawakan oleh Ibu Trevie Rumuat",
+                        "link": "https://www.youtube.com/watch?v=YEhpMZsUgYM",
+                        "thumbnail": "https://i2.ytimg.com/vi/YEhpMZsUgYM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Okt 2025",
                         "date": "2025-09-30",
