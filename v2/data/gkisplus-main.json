@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4378,
-        "last-update": 1759304231,
+        "update-count": 4379,
+        "last-update": 1759306836,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4583,7 +4583,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Panitia",
                 "pic": "Chrissandhy",
-                "status": "w",
+                "status": "y",
                 "note": "\n-"
             },
             {
@@ -4611,7 +4611,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4639,7 +4639,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Diakonia The Koen Bik",
                 "pic": "Pnt. Rodiana",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
