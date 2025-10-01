@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4377,
-        "last-update": 1759301259,
+        "update-count": 4378,
+        "last-update": 1759304231,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4527,7 +4527,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4555,7 +4555,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4569,7 +4569,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Yosua",
-                "status": "w",
+                "status": "y",
                 "note": "Minta disiapkan LCD"
             },
             {
