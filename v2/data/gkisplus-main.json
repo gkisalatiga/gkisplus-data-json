@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4379,
-        "last-update": 1759306836,
+        "update-count": 4380,
+        "last-update": 1759313750,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5229,6 +5229,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Reny Handayani",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
