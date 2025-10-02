@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4384,
-        "last-update": 1759372792,
+        "update-count": 4385,
+        "last-update": 1759382027,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4240,6 +4240,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Komsarpras",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
                 "status": "y",
                 "note": ""
             },
