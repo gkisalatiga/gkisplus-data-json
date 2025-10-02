@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4389,
-        "last-update": 1759393136,
-        "last-updated-item": "agenda",
+        "update-count": 4390,
+        "last-update": 1759424809,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Okt 2025",
+                        "date": "2025-10-02",
+                        "desc": "Dibawakan oleh Bpk Junianto",
+                        "link": "https://www.youtube.com/watch?v=-7G_4AdX9_k",
+                        "thumbnail": "https://i2.ytimg.com/vi/-7G_4AdX9_k/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Okt 2025",
                         "date": "2025-10-01",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
                         "link": "https://www.youtube.com/watch?v=toOQnQbWaEA",
                         "thumbnail": "https://i1.ytimg.com/vi/toOQnQbWaEA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Sep 2025 | Melihat Dari Sudut Pandang Allah",
-                        "date": "2025-09-21",
-                        "desc": "Dibawakan oleh Pnt. Desemy Ballo",
-                        "link": "https://www.youtube.com/watch?v=JSfx9KUpbek",
-                        "thumbnail": "https://i3.ytimg.com/vi/JSfx9KUpbek/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
