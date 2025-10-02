@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4385,
-        "last-update": 1759382027,
+        "update-count": 4386,
+        "last-update": 1759386117,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4255,6 +4255,20 @@
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "I Made Satya Arnawa",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Wawancara Penelitian ",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Yapi Tosi",
+                "status": "w",
                 "note": ""
             },
             {
