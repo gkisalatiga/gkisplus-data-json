@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4388,
-        "last-update": 1759389230,
+        "update-count": 4389,
+        "last-update": 1759393136,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4282,8 +4282,22 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Ibu Wardjini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Pertemuan dengan Mahasiswa PPL",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat KDT",
@@ -4914,6 +4928,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "RaKor KHI",
+                "time": "11:00",
+                "time-to": "12:15",
+                "timezone": "WIB",
+                "date": "2025-10-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Hastuti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
