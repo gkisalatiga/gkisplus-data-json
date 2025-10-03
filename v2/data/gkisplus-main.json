@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4396,
-        "last-update": 1759500554,
+        "update-count": 4397,
+        "last-update": 1759514846,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1687,6 +1687,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 5 Oktober 2025",
+                    "date": "2025-10-04",
+                    "link": "https://drive.google.com/file/d/1DUiog2GXI2xa9O4HpdkRcf7dAVX3kErF/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-5-oktober-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/10/warta-5-okt-25.jpg",
+                    "id": "1DUiog2GXI2xa9O4HpdkRcf7dAVX3kErF",
+                    "size": "2.70 MB"
+                },
+                {
                     "title": "Warta Jemaat 28 September 2025",
                     "date": "2025-09-27",
                     "link": "https://drive.google.com/file/d/1qr7Yzcd_1xYaxaEDjvsUeGujG4gNahze/view",
@@ -2228,6 +2237,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 5 Oktober 2025 - Pembukaan Bulan Keluarga",
+                    "date": "2025-10-04",
+                    "link": "https://drive.google.com/file/d/177EwT2twRTjmtvxPX47FCJTfvxQ66aI5/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-5-oktober-2025/",
+                    "thumbnail": "",
+                    "id": "177EwT2twRTjmtvxPX47FCJTfvxQ66aI5",
+                    "size": "0.78 MB"
+                },
                 {
                     "title": "Tata Ibadah 28 September 2025 - Penutupan Pekan Kepemimpinan",
                     "date": "2025-09-27",
@@ -3980,14 +3998,6 @@
                 "type": "poster",
                 "date-created": "2025-09-28",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_semkul.webp",
-                "title": "Kesehatan Reproduksi Lansia",
-                "type": "poster",
-                "date-created": "2025-09-21",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_semkul.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
