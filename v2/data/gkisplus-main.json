@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4394,
-        "last-update": 1759476975,
-        "last-updated-item": "agenda",
+        "update-count": 4395,
+        "last-update": 1759479144,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Okt 2025",
+                        "date": "2025-10-03",
+                        "desc": "Dibawakan oleh Sdri. Chrissandhy",
+                        "link": "https://www.youtube.com/watch?v=jN5sniD7QiA",
+                        "thumbnail": "https://i3.ytimg.com/vi/jN5sniD7QiA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Okt 2025",
                         "date": "2025-10-02",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Bpk. Didik Wurdianto",
                         "link": "https://www.youtube.com/watch?v=Qcq_Fz_B-wo",
                         "thumbnail": "https://i2.ytimg.com/vi/Qcq_Fz_B-wo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Sep 2025  | Rencana Tuhan Selalu Yang Terbaik",
-                        "date": "2025-09-22",
-                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
-                        "link": "https://www.youtube.com/watch?v=toOQnQbWaEA",
-                        "thumbnail": "https://i1.ytimg.com/vi/toOQnQbWaEA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
