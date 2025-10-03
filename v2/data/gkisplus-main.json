@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4393,
-        "last-update": 1759475633,
+        "update-count": 4394,
+        "last-update": 1759476975,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4964,6 +4964,20 @@
                 "timezone": "WIB",
                 "date": "2025-10-16",
                 "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
+                "time": "10:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-10",
+                "weekday": "fri",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
