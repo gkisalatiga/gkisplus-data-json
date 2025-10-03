@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4392,
-        "last-update": 1759459153,
+        "update-count": 4393,
+        "last-update": 1759475633,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4954,6 +4954,20 @@
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Johanna W (Bu Lobby)",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Penguatan Sekolah Siaga Pendudukan",
+                "time": "08:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-10-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
                 "status": "w",
                 "note": ""
             }
