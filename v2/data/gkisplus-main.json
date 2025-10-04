@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4399,
-        "last-update": 1759521870,
-        "last-updated-item": "ykb",
+        "update-count": 4400,
+        "last-update": 1759545237,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4350,6 +4350,34 @@
                 "note": ""
             },
             {
+                "name": "RaKor KHI",
+                "time": "11:00",
+                "time-to": "12:15",
+                "timezone": "WIB",
+                "date": "2025-10-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Hastuti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Dekorasi Panitia Masa Raya Natal",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-10-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Johanna W (Bu Lobby)",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KDT",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4402,7 +4430,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Bp. Pono",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4427,10 +4455,24 @@
                 "date": "2025-10-07",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
+                "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Reny Handayani",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
+                "time": "10:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4530,6 +4572,20 @@
                 "pic": "Ibu Widia Prayogo ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Penguatan Sekolah Siaga Pendudukan",
+                "time": "08:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-10-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "Latihan LAVE",
@@ -4978,62 +5034,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "RaKor KHI",
-                "time": "11:00",
-                "time-to": "12:15",
-                "timezone": "WIB",
-                "date": "2025-10-04",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Hastuti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Dekorasi Panitia Masa Raya Natal",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-10-04",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Johanna W (Bu Lobby)",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Penguatan Sekolah Siaga Pendudukan",
-                "time": "08:00",
-                "time-to": "00:00",
-                "timezone": "WIB",
-                "date": "2025-10-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
-                "time": "10:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-10-10",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
