@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4403,
-        "last-update": 1759602505,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 4404,
+        "last-update": 1759604679,
+        "last-updated-item": "flags/strings",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -5070,7 +5070,7 @@
                 "about_google_play_listing_url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
                 "about_source_code_url": "https://github.com/gkisalatiga/gkisalatiga-foss",
                 "greetings_top": "Syalom!",
-                "greetings_bottom": "Jemaat & simpatisan GKIS yang terkasih"
+                "greetings_bottom": "Selamat menghayati Bulan Keluarga 2025"
             }
         }
     }
