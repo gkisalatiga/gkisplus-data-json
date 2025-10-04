@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 12,
-        "last-update": 1756578848,
-        "last-updated-item": "library",
+        "update-count": 13,
+        "last-update": 1759581820,
+        "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
@@ -62,7 +62,7 @@
                 "download-url": "https://drive.google.com/uc?export=download&id=1-4M1MWDHUNKFh32gBwMphyVmJMIFAIpM",
                 "source": "https://lpps.or.id/wp/2025/07/02/bahan-bulan-keluarga-2025/",
                 "size": "3.96 MB",
-                "tags": ["bk-2025"],
+                "tags": ["bukel-2025"],
                 "is_shown": 1
             },
             {
@@ -234,26 +234,26 @@
             ]
         },
         "seasonal": {
-            "title": "Masa Raya Paskah 2025",
-            "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2025.webp",
-            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/banner_mrp_2025.webp",
+            "title": "Bulan Keluarga 2025",
+            "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025.webp",
+            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_banner.webp",
             "static-menu": {
                 "agenda": {
-                    "title": "Agenda MRP 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/agenda_mrp.webp",
-                    "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/agenda_mrp_isi.webp",
+                    "title": "Agenda BuKel 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_agenda.webp",
+                    "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_agenda_isi.webp",
                     "is_shown": 1
                 },
                 "books": {
-                    "title": "Buku Panduan MRP 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/buku_panduan_mrp.webp",
-                    "selection-tag": "mrp-2025",
+                    "title": "Buku Panduan BuKel 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_buku.webp",
+                    "selection-tag": "bukel-2025",
                     "is_shown": 1
                 },
                 "gallery": {
-                    "title": "Galeri Kegiatan dan Ibadah MRP 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/galeri_mrp_2.webp",
-                    "album-keyword": "[MRP 2025]",
+                    "title": "Galeri Kegiatan dan Ibadah BuKel 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_galeri.webp",
+                    "album-keyword": "[BUKEL 2025]",
                     "is_shown": 1
                 },
                 "twibbon": {
