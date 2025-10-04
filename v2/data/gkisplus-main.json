@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4401,
-        "last-update": 1759558783,
+        "update-count": 4402,
+        "last-update": 1759569189,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4462,6 +4462,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat POSG",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Y",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -5033,20 +5047,6 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat POSG",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-10-07",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Y",
-                "status": "w",
                 "note": "-"
             }
         ],
