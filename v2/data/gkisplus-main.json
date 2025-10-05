@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4407,
-        "last-update": 1759658986,
-        "last-updated-item": "agenda",
+        "update-count": 4408,
+        "last-update": 1759673240,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Okt 2025 | Tetap Berkarya Meski Terpaksa",
+                        "date": "2025-10-05",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=dSaVHumoVxM",
+                        "thumbnail": "https://i1.ytimg.com/vi/dSaVHumoVxM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Okt 2025",
                         "date": "2025-10-03",
