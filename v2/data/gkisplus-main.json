@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4404,
-        "last-update": 1759604679,
-        "last-updated-item": "flags/strings",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 4405,
+        "last-update": 1759626801,
+        "last-updated-item": "agenda",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
     "data": {
@@ -5048,6 +5048,34 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Gladi Bersih Ibadah Sambut Natal",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-15",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Ibu Evelina Purnama",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Sambut Natal",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Ibu Evelina Purnama",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
