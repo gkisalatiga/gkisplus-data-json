@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4410,
-        "last-update": 1759688873,
-        "last-updated-item": "ykb",
+        "update-count": 4411,
+        "last-update": 1759718673,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4455,6 +4455,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan PS. KUL",
+                "time": "11:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-10-12",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Setelah kebaktian ke-2"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4917,6 +4931,20 @@
                 "note": "-"
             },
             {
+                "name": "Gladi Bersih Ibadah Sambut Natal",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-15",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Ibu Evelina Purnama",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4943,6 +4971,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Ibadah Sambut Natal",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Ibu Evelina Purnama",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "Sambut Natal KUL, dan ramah tamah",
@@ -4999,34 +5041,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Gladi Bersih Ibadah Sambut Natal",
-                "time": "07:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-12-15",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Ibu Evelina Purnama",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Ibadah Sambut Natal",
-                "time": "07:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-12-16",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Ibu Evelina Purnama",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
