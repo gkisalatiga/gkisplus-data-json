@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4415,
-        "last-update": 1759760083,
+        "update-count": 4416,
+        "last-update": 1759761690,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5082,6 +5082,20 @@
                 "representative": "Wilayah",
                 "pic": "A. M. Widiatmoko",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pubdok MRN",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Candrarini Trista ",
+                "status": "w",
                 "note": ""
             }
         ],
