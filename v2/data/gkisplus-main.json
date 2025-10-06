@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4411,
-        "last-update": 1759718673,
+        "update-count": 4412,
+        "last-update": 1759733315,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5039,6 +5039,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Panitia MRN Sie Konsumsi",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-06",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Shinta",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat KD",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-06",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Bu Reny",
                 "status": "y",
                 "note": "-"
             }
