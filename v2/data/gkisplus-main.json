@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4413,
-        "last-update": 1759740285,
-        "last-updated-item": "agenda",
+        "update-count": 4414,
+        "last-update": 1759759794,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Okt 2025 | Semakin Kokoh Karena Berakar Dalam",
+                        "date": "2025-10-06",
+                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=3pHY4_l4cEI",
+                        "thumbnail": "https://i4.ytimg.com/vi/3pHY4_l4cEI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Okt 2025 | Tetap Berkarya Meski Terpaksa",
                         "date": "2025-10-05",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
                         "link": "https://www.youtube.com/watch?v=wYlk9u7_SKk",
                         "thumbnail": "https://i4.ytimg.com/vi/wYlk9u7_SKk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Sep 2025  | Bersyukur dan Berpengharapan",
-                        "date": "2025-09-23",
-                        "desc": "Dibawakan oleh Bpk. Didik Wurdianto",
-                        "link": "https://www.youtube.com/watch?v=Qcq_Fz_B-wo",
-                        "thumbnail": "https://i2.ytimg.com/vi/Qcq_Fz_B-wo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
