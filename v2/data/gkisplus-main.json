@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4419,
-        "last-update": 1759808832,
+        "update-count": 4420,
+        "last-update": 1759812036,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4901,6 +4901,34 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Bincang-Bincang KD",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Sintarini Utomo",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "KTB KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-10-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Ristiani Gani Mendrofa",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
