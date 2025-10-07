@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4424,
-        "last-update": 1759840268,
+        "update-count": 4425,
+        "last-update": 1759843540,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4280,20 +4280,6 @@
                 "note": ""
             },
             {
-                "name": "Rapat Pleno PAN MRN 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-10-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Chrissandhy",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Latihan VG Wilayah 2/8",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4308,6 +4294,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pleno PAN MRN 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "TM Kegiatan Kemah Kelas 7",
+                "time": "10:30",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -4318,6 +4332,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan VG. Wil. 1",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Wilayah",
+                "pic": "A. M. Widiatmoko",
                 "status": "y",
                 "note": ""
             },
@@ -4963,20 +4991,6 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "TM Kegiatan Kemah Kelas 7",
-                "time": "10:30",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2025-10-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
                 "note": "-"
             }
         ],
