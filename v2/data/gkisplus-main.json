@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4421,
-        "last-update": 1759814057,
+        "update-count": 4422,
+        "last-update": 1759821282,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4296,6 +4296,20 @@
                 "type": "proposal",
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan VG Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
                 "pic": "Chrissandhy",
                 "status": "y",
                 "note": ""
