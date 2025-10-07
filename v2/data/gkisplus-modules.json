@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 13,
-        "last-update": 1759581820,
-        "last-updated-item": "seasonal",
+        "update-count": 14,
+        "last-update": 1759846474,
+        "last-updated-item": "library",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
@@ -52,6 +52,19 @@
             }
         ],
         "library": [
+            {
+                "title": "Masa Adven Natal 2025: \u201cLawatan Allah Mengatasi Ketakutan\u201d",
+                "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                "publisher": "LPP Sinode GKJ & GKI SW Jateng",
+                "publisher-loc": "Daerah Istimewa Yogyakarta, Indonesia",
+                "year": "2025",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w600&id=1KmYNuC7GiEjPc8inaGnNjUh6sCKCi7lw",
+                "download-url": "https://drive.google.com/uc?export=download&id=1pHyB3uGWk_r3iUoDJr1259bKli2uxkNh",
+                "source": "https://lpps.or.id/wp/2025/09/06/bahan-man-2025/",
+                "size": "6.47 MB",
+                "tags": ["mrn-2025"],
+                "is_shown": 1
+            },
             {
                 "title": "Bulan Keluarga 2025: \u201cFormasi Spiritualitas Keluarga\u201d",
                 "author": "LPP Sinode GKJ dan GKI SW Jateng",
@@ -198,6 +211,14 @@
                     "year": "2024",
                     "author": "LPP Sinode GKJ dan GKI SW Jateng",
                     "link": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024"
+                },
+                {
+                    "title": "Masa Adven Natal 2025: \u201cLawatan Allah Mengatasi Ketakutan\u201d",
+                    "license": "Non-Profit",
+                    "license-url": "https://lpps.or.id/wp/2025/09/06/bahan-man-2025",
+                    "year": "2025",
+                    "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                    "link": "https://lpps.or.id/wp/2025/09/06/bahan-man-2025"
                 },
                 {
                     "title": "Masa Paskah 2024: \u201cBangkit Untuk Menata Kehidupan\u201d",
