@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4422,
-        "last-update": 1759821282,
-        "last-updated-item": "agenda",
+        "update-count": 4423,
+        "last-update": 1759835279,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Okt 2025 | Arahkan Kasih Pada Relasi",
+                        "date": "2025-10-07",
+                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
+                        "link": "https://www.youtube.com/watch?v=HGvJtz97TbE",
+                        "thumbnail": "https://i1.ytimg.com/vi/HGvJtz97TbE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Okt 2025 | Semakin Kokoh Karena Berakar Dalam",
                         "date": "2025-10-06",
@@ -82,20 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
                         "link": "https://www.youtube.com/watch?v=h5bvcyi_8so",
                         "thumbnail": "https://i1.ytimg.com/vi/h5bvcyi_8so/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |  26 Sep 2025 | Bersyukur Dulu atau Bahagia Dulu?",
-                        "date": "2025-09-25",
-                        "desc": "Dibawakan oleh Bpk. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=IDzarGC97QU",
-                        "thumbnail": "https://i2.ytimg.com/vi/IDzarGC97QU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |  25 Sep 2025",
-                        "date": "2025-09-24",
-                        "desc": "Dibawakan oleh Pdt. Ester Helena Tulung",
-                        "link": "https://www.youtube.com/watch?v=wYlk9u7_SKk",
-                        "thumbnail": "https://i4.ytimg.com/vi/wYlk9u7_SKk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
