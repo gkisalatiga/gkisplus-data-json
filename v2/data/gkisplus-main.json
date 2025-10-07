@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4425,
-        "last-update": 1759843540,
+        "update-count": 4426,
+        "last-update": 1759850179,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4992,6 +4992,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat pengurus wilayah 11 ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "SUSETYO RINI ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
