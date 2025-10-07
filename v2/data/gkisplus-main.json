@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4417,
-        "last-update": 1759775556,
-        "last-updated-item": "ykb",
+        "update-count": 4418,
+        "last-update": 1759804849,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4455,6 +4455,34 @@
                 "note": "-"
             },
             {
+                "name": "Latihan VG. Wil. 1",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Wilayah",
+                "pic": "A. M. Widiatmoko",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pubdok MRN",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Candrarini Trista ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -4462,10 +4490,10 @@
                 "date": "2025-10-10",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
+                "place": "Ruang Kapernaum",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4591,7 +4619,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5069,34 +5097,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan VG. Wil. 1",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-10-07",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Wilayah",
-                "pic": "A. M. Widiatmoko",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Pubdok MRN",
-                "time": "16:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-10-07",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Candrarini Trista ",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
