@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4420,
-        "last-update": 1759812036,
+        "update-count": 4421,
+        "last-update": 1759814057,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4287,6 +4287,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pleno PAN MRN 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -4381,6 +4395,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Samuel Martono",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat perdana panitia natal KP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi Yoritje Nesimnasi",
                 "status": "y",
                 "note": ""
             },
@@ -4497,6 +4525,20 @@
                 "note": ""
             },
             {
+                "name": "Bincang-Bincang KD",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Sintarini Utomo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wil 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4537,6 +4579,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "KTB KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-10-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Ristiani Gani Mendrofa",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
@@ -4801,7 +4857,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina Purnama",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4843,7 +4899,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina Purnama",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4901,34 +4957,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Bincang-Bincang KD",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-10-23",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Sintarini Utomo",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "KTB KD",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-10-29",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Ristiani Gani Mendrofa",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
