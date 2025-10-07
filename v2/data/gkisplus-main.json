@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4423,
-        "last-update": 1759835279,
-        "last-updated-item": "yt",
+        "update-count": 4424,
+        "last-update": 1759840268,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4963,6 +4963,20 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "TM Kegiatan Kemah Kelas 7",
+                "time": "10:30",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
                 "note": "-"
             }
         ],
