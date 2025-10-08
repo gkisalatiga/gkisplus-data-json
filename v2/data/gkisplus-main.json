@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4430,
-        "last-update": 1759904546,
+        "update-count": 4431,
+        "last-update": 1759907634,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4336,6 +4336,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Electone an Grace",
+                "time": "09:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu",
+                "status": "w",
+                "note": "Latihan murid Mr Tommy utk pelatihan electone"
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -4361,6 +4375,20 @@
                 "representative": "Wilayah",
                 "pic": "A. M. Widiatmoko",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-10-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4658,6 +4686,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-10-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -4701,8 +4743,8 @@
             },
             {
                 "name": "Latihan LAVE",
-                "time": "18:30",
-                "time-to": "20:30",
+                "time": "11:30",
+                "time-to": "13:00",
                 "timezone": "WIB",
                 "date": "2025-11-09",
                 "weekday": "sun",
@@ -5020,20 +5062,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Electone an Grace",
-                "time": "09:00",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2025-10-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu",
-                "status": "w",
-                "note": "Latihan murid Mr Tommy utk pelatihan electone"
             }
         ],
         "backend": {
