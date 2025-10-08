@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4428,
-        "last-update": 1759894030,
+        "update-count": 4429,
+        "last-update": 1759895187,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4290,7 +4290,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Chrissandhy",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4318,7 +4318,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4332,7 +4332,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "SUSETYO RINI ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4472,7 +4472,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
