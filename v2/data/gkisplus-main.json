@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4427,
-        "last-update": 1759861971,
-        "last-updated-item": "ykb",
+        "update-count": 4428,
+        "last-update": 1759894030,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4322,6 +4322,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat pengurus wilayah 11 ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "SUSETYO RINI ",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -4445,6 +4459,20 @@
                 "representative": "Komisi Pemuda",
                 "pic": "Femi Yoritje Nesimnasi",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ. Bidang 1 dengan KPPK",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4992,20 +5020,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat pengurus wilayah 11 ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-10-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "SUSETYO RINI ",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
