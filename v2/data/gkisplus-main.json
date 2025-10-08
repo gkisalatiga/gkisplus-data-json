@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4429,
-        "last-update": 1759895187,
+        "update-count": 4430,
+        "last-update": 1759904546,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5020,6 +5020,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Electone an Grace",
+                "time": "09:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu",
+                "status": "w",
+                "note": "Latihan murid Mr Tommy utk pelatihan electone"
             }
         ],
         "backend": {
