@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4432,
-        "last-update": 1759908992,
-        "last-updated-item": "agenda",
+        "update-count": 4433,
+        "last-update": 1759911255,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Okt 2025 | Model Spiritualitas Keluarga",
+                        "date": "2025-10-08",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=Ne1sM_X0xxo",
+                        "thumbnail": "https://i3.ytimg.com/vi/Ne1sM_X0xxo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Okt 2025 | Arahkan Kasih Pada Relasi",
                         "date": "2025-10-07",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu July Silooy",
                         "link": "https://www.youtube.com/watch?v=BFHuAt9y3cU",
                         "thumbnail": "https://i3.ytimg.com/vi/BFHuAt9y3cU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |  27 Sep 2025",
-                        "date": "2025-09-26",
-                        "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
-                        "link": "https://www.youtube.com/watch?v=h5bvcyi_8so",
-                        "thumbnail": "https://i1.ytimg.com/vi/h5bvcyi_8so/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
