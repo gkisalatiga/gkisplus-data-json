@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4440,
-        "last-update": 1759988359,
+        "update-count": 4441,
+        "last-update": 1759992542,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4378,6 +4378,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah Minggu",
+                "time": "19:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
                 "time": "10:30",
                 "time-to": "13:00",
@@ -5118,20 +5132,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan musik ibadah Minggu",
-                "time": "19:30",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-10-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
