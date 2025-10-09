@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4437,
-        "last-update": 1759972050,
+        "update-count": 4438,
+        "last-update": 1759977789,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4304,7 +4304,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4365,8 +4365,8 @@
             },
             {
                 "name": "Latihan Pemusik English Service",
-                "time": "19:00",
-                "time-to": "22:00",
+                "time": "18:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2025-10-09",
                 "weekday": "thu",
@@ -4374,7 +4374,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Kartika",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4446,6 +4446,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": "Setelah kebaktian ke-2"
+            },
+            {
+                "name": "Sosialisasi Program Sekolah",
+                "time": "08:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-10-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -5090,20 +5104,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Sosialisasi Program Sekolah",
-                "time": "08:00",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2025-10-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
