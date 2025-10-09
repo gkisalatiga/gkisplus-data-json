@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4438,
-        "last-update": 1759977789,
+        "update-count": 4439,
+        "last-update": 1759980570,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4654,6 +4654,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Kunjungan Komisi Musik Gerejawi GKS Payeti ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
                 "status": "y",
                 "note": ""
             },
