@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4436,
-        "last-update": 1759948393,
-        "last-updated-item": "ykb",
+        "update-count": 4437,
+        "last-update": 1759972050,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4294,6 +4294,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan ibadah minggu",
+                "time": "19:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Rapat Pleno PAN MRN 2025",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4348,6 +4362,20 @@
                 "pic": "Bayu",
                 "status": "y",
                 "note": "Latihan murid Mr Tommy utk pelatihan electone"
+            },
+            {
+                "name": "Latihan Pemusik English Service",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "Rapat Panitia dan Vendor Bazar Makanan YPE GKI",
@@ -5064,30 +5092,16 @@
                 "note": "-"
             },
             {
-                "name": "Latihan ibadah minggu",
-                "time": "19:30",
-                "time-to": "22:00",
+                "name": "Sosialisasi Program Sekolah",
+                "time": "08:00",
+                "time-to": "09:30",
                 "timezone": "WIB",
-                "date": "2025-10-08",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik English Service",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-10-09",
-                "weekday": "thu",
+                "date": "2025-10-13",
+                "weekday": "mon",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
                 "status": "w",
                 "note": ""
             }
