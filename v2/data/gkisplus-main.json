@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4446,
-        "last-update": 1760102680,
+        "update-count": 4447,
+        "last-update": 1760105680,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5186,6 +5186,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Kartika",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH PAN MRN 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
                 "status": "w",
                 "note": ""
             }
