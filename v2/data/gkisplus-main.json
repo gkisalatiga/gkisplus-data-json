@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4445,
-        "last-update": 1760094768,
+        "update-count": 4446,
+        "last-update": 1760102680,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5172,6 +5172,20 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi English Service",
+                "time": "10:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-10-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika",
                 "status": "w",
                 "note": ""
             }
