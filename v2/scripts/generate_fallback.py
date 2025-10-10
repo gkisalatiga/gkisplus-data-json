@@ -52,6 +52,8 @@ class FallbackGenerator():
                 j['data']['pdf']['wj'].pop(0)
             for i in range(len(j['data']['pdf']['liturgi']) - 1):
                 j['data']['pdf']['liturgi'].pop(0)
+            for i in range(len(j['data']['pdf']['es']) - 1):
+                j['data']['pdf']['es'].pop(0)
             # Shrinking agenda.
             for l in j['data']['agenda'].keys():
                 for i in range(len(j['data']['agenda'][l]) - 1):
@@ -78,14 +80,15 @@ class FallbackGenerator():
             # Messing around with the flags.
             j['data']['backend']['is_easter_egg_devmode_enabled'] = 0
             j['data']['backend']['is_feature_agenda_shown'] = 0
-            j['data']['backend']['is_feature_persembahan_shown'] = 0
-            j['data']['backend']['is_feature_ykb_shown'] = 0
+            j['data']['backend']['is_feature_bible_shown'] = 0
+            j['data']['backend']['is_feature_esliturgy_shown'] = 0
             j['data']['backend']['is_feature_formulir_shown'] = 0
             j['data']['backend']['is_feature_galeri_shown'] = 0
-            j['data']['backend']['is_feature_bible_shown'] = 0
-            j['data']['backend']['is_feature_library_shown'] = 0
             j['data']['backend']['is_feature_lapak_shown'] = 0
+            j['data']['backend']['is_feature_library_shown'] = 0
+            j['data']['backend']['is_feature_persembahan_shown'] = 0
             j['data']['backend']['is_feature_seasonal_shown'] = 0
+            j['data']['backend']['is_feature_ykb_shown'] = 0
         
         elif path.__contains__('modules'):
             for i in range(len(j['modules']['bible']) - 1):
