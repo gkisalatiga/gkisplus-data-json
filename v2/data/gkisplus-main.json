@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4449,
-        "last-update": 1760121084,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 4450,
+        "last-update": 1760123800,
+        "last-updated-item": "pdf/es",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.1"
     },
     "data": {
@@ -2879,6 +2879,80 @@
                     "post-page": "https://gkisalatiga.org/tata-ibadah-4-agustus-2024/",
                     "thumbnail": "",
                     "id": "1wyP5ZPSv6UkfetvXiPDtkhOIgKm_uY7M",
+                    "size": "0.30 MB"
+                }
+            ],
+            "es": [
+                {
+                    "title": "English Service Liturgy October 12, 2025",
+                    "date": "2025-10-12",
+                    "link": "https://drive.google.com/file/d/1j4JEKmstWmeMOkgsC0yQ4uMbJ6F_QL0-/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-october-12-2025/",
+                    "thumbnail": "",
+                    "id": "1j4JEKmstWmeMOkgsC0yQ4uMbJ6F_QL0-",
+                    "size": "0.19 MB"
+                },
+                {
+                    "title": "English Service Liturgy September 7, 2025",
+                    "date": "2025-09-07",
+                    "link": "https://drive.google.com/file/d/1u79TfZoEbKz4DRYsvKKlYtUVXZXD1ptn/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-september-7-2025/",
+                    "thumbnail": "",
+                    "id": "1u79TfZoEbKz4DRYsvKKlYtUVXZXD1ptn",
+                    "size": "0.39 MB"
+                },
+                {
+                    "title": "English Service Liturgy August 3, 2025",
+                    "date": "2025-08-03",
+                    "link": "https://drive.google.com/file/d/1MiL8b8ggsAv3mIw5Jl2BV5e9pb2ZzAvv/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-august-3-2025/",
+                    "thumbnail": "",
+                    "id": "1MiL8b8ggsAv3mIw5Jl2BV5e9pb2ZzAvv",
+                    "size": "0.43 MB"
+                },
+                {
+                    "title": "English Service Liturgy July 13, 2025",
+                    "date": "2025-07-13",
+                    "link": "https://drive.google.com/file/d/147EYQO8cwYWZcjXNdIA3HsGeF0emgL9L/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-july-13-2025/",
+                    "thumbnail": "",
+                    "id": "147EYQO8cwYWZcjXNdIA3HsGeF0emgL9L",
+                    "size": "0.36 MB"
+                },
+                {
+                    "title": "English Service Liturgy May 4, 2025",
+                    "date": "2025-05-04",
+                    "link": "https://drive.google.com/file/d/1h7cmw4eAXfAirTkzH3kylNaTP7q1tcNW/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-may-4-2025/",
+                    "thumbnail": "",
+                    "id": "1h7cmw4eAXfAirTkzH3kylNaTP7q1tcNW",
+                    "size": "0.34 MB"
+                },
+                {
+                    "title": "English Service Liturgy April 13, 2025",
+                    "date": "2025-04-13",
+                    "link": "https://drive.google.com/file/d/1yu24SCXGa5jTPioaewy5FR4yYu4pX4Go/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-april-13-2025/",
+                    "thumbnail": "",
+                    "id": "1yu24SCXGa5jTPioaewy5FR4yYu4pX4Go",
+                    "size": "0.33 MB"
+                },
+                {
+                    "title": "English Service Liturgy March 2, 2025",
+                    "date": "2025-03-02",
+                    "link": "https://drive.google.com/file/d/1GUfxIpgvZcJhR64nCGTvp6NEkTq6jAhp/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-march-2-2025/",
+                    "thumbnail": "",
+                    "id": "1GUfxIpgvZcJhR64nCGTvp6NEkTq6jAhp",
+                    "size": "0.38 MB"
+                },
+                {
+                    "title": "English Service Liturgy February 2, 2025",
+                    "date": "2025-02-02",
+                    "link": "https://drive.google.com/file/d/1bY3JxBs7Q-WgooK9q-973qGxMofDu0kQ/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-february-2-2025/",
+                    "thumbnail": "",
+                    "id": "1bY3JxBs7Q-WgooK9q-973qGxMofDu0kQ",
                     "size": "0.30 MB"
                 }
             ]
