@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4444,
-        "last-update": 1760068177,
+        "update-count": 4445,
+        "last-update": 1760094768,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -5158,6 +5158,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Selvi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik Ibadah Minggu",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-10-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
                 "status": "w",
                 "note": ""
             }
