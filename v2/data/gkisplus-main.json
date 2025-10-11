@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4453,
-        "last-update": 1760152974,
+        "update-count": 4454,
+        "last-update": 1760154704,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -1701,6 +1701,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 12 Oktober 2025",
+                    "date": "2025-10-11",
+                    "link": "https://drive.google.com/file/d/1_IZzcekV0Uw3Z4yQ48FLqW42cXDPbU68/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-12-oktober-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/10/COVER-WARTA-JEMAAT-12-Oktober-2025.jpg",
+                    "id": "1_IZzcekV0Uw3Z4yQ48FLqW42cXDPbU68",
+                    "size": "2.20 MB"
+                },
+                {
                     "title": "Warta Jemaat 5 Oktober 2025",
                     "date": "2025-10-04",
                     "link": "https://drive.google.com/file/d/1DUiog2GXI2xa9O4HpdkRcf7dAVX3kErF/view",
@@ -2251,6 +2260,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 12 Oktober 2025",
+                    "date": "2025-10-11",
+                    "link": "https://drive.google.com/file/d/1Dz4mrynC_UEgb0qoNSRM_hujWLFLq30h/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-12-oktober-2025/",
+                    "thumbnail": "",
+                    "id": "1Dz4mrynC_UEgb0qoNSRM_hujWLFLq30h",
+                    "size": "0.63 MB"
+                },
                 {
                     "title": "Tata Ibadah 5 Oktober 2025 - Pembukaan Bulan Keluarga",
                     "date": "2025-10-04",
@@ -4076,14 +4094,6 @@
                 "type": "poster",
                 "date-created": "2025-10-05",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-09-28",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
