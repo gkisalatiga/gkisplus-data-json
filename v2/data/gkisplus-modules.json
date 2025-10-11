@@ -1,10 +1,10 @@
 {
     "meta": {
-        "update-count": 14,
-        "last-update": 1759846474,
-        "last-updated-item": "library",
+        "update-count": 15,
+        "last-update": 1760193330,
+        "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
-        "schema-version": "2.1"
+        "schema-version": "2.2"
     },
     "modules": {
         "bible": [
@@ -275,6 +275,12 @@
                     "title": "Galeri Kegiatan dan Ibadah BuKel 2025",
                     "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_galeri.webp",
                     "album-keyword": "[BUKEL 2025]",
+                    "is_shown": 1
+                },
+                "playlist": {
+                    "title": "Daftar Putar BuKel 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_galeri.webp",
+                    "yt-playlist": "PLtAv1OZRTdvLXeft1NLikqNNZh3-_Evop",
                     "is_shown": 1
                 },
                 "twibbon": {

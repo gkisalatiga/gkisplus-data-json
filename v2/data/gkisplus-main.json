@@ -1,10 +1,10 @@
 {
     "meta": {
-        "update-count": 4459,
-        "last-update": 1760191625,
+        "update-count": 4460,
+        "last-update": 1760193330,
         "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
-        "schema-version": "2.1"
+        "last-actor": "MANUAL_INTERVENTION",
+        "schema-version": "2.2"
     },
     "data": {
         "url-profile": {
@@ -95,7 +95,8 @@
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
                 "type": "rss",
-                "pinned": 1
+                "pinned": 1,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -314,7 +315,8 @@
                 "playlist-id": "PLtAv1OZRTdvI1P3YIJ4_qOqapZjV1PtnI",
                 "title": "Kebaktian Umum",
                 "type": "regular",
-                "pinned": 1
+                "pinned": 1,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -519,7 +521,8 @@
                 "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
                 "title": "English Service",
                 "type": "regular",
-                "pinned": 1
+                "pinned": 1,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -738,7 +741,8 @@
                 "playlist-id": "PLtAv1OZRTdvIJphrWrtvYKFBizhsQhbWU",
                 "title": "Ibadah Komisi Usia Lanjut",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -943,7 +947,8 @@
                 "playlist-id": "PLtAv1OZRTdvKDHFERaMyf-sKjBUPrpCzP",
                 "title": "Ibadah Remaja",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -1127,7 +1132,8 @@
                 "playlist-id": "PLtAv1OZRTdvJ6cdCbSOxgNI1BOF5Mt0NZ",
                 "title": "Paduan Suara",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -1192,7 +1198,8 @@
                 "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -1411,7 +1418,8 @@
                 "playlist-id": "PLtAv1OZRTdvLj0ie7dW0LYcVBLm1VYGg0",
                 "title": "Komisi Anak",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -1455,7 +1463,8 @@
                 "playlist-id": "PLtAv1OZRTdvLrzSSjEFsAYfVRbm2ck2jR",
                 "title": "Komisi Dewasa",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
             },
             {
                 "content": [
@@ -1674,7 +1683,17 @@
                 "playlist-id": "PLtAv1OZRTdvKh7zRBAQfmh8TZz3WtDcWx",
                 "title": "Kebaktian Pernikahan",
                 "type": "regular",
-                "pinned": 0
+                "pinned": 0,
+                "is_shown": 1
+            },
+            {
+                "content": [],
+                "last-update": "-",
+                "playlist-id": "PLtAv1OZRTdvLXeft1NLikqNNZh3-_Evop",
+                "title": "Bulan Keluarga 2025",
+                "type": "regular",
+                "pinned": 0,
+                "is_shown": 0
             }
         ],
         "pdf": {

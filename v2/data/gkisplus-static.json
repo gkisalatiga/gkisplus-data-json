@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 67,
-        "last-update": 1742834645,
+        "update-count": 68,
+        "last-update": 1760193330,
         "last-actor": "MANUAL_INTERVENTION",
-        "schema-version": "2.1"
+        "schema-version": "2.2"
     },
     "static": [
         {
