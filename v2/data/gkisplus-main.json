@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4454,
-        "last-update": 1760154704,
+        "update-count": 4455,
+        "last-update": 1760157529,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4568,6 +4568,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. Imanuel (menggantikan latihan hari Jumat)",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Moris Natangku",
                 "status": "y",
                 "note": ""
             },
