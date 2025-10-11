@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4456,
-        "last-update": 1760159318,
-        "last-updated-item": "yt",
+        "update-count": 4457,
+        "last-update": 1760163580,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
@@ -4425,7 +4425,7 @@
                 "note": ""
             },
             {
-                "name": "Rapat MJ. Bidang 1 dengan KPPK",
+                "name": "Perlawatan BPMSW Kebutuhan Pendeta Baru",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -4435,6 +4435,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih Drama KUL",
+                "time": "15:00",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2025-10-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Wardjini",
                 "status": "y",
                 "note": ""
             },
@@ -4491,6 +4505,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembinaan Pranikah Susulan",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-10-20",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "dr. Sintarini Utomo",
                 "status": "y",
                 "note": ""
             },
