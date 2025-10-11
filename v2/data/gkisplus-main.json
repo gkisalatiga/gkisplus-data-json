@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4450,
-        "last-update": 1760123800,
-        "last-updated-item": "pdf/es",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 4451,
+        "last-update": 1760144700,
+        "last-updated-item": "agenda",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
     },
     "data": {
@@ -5271,6 +5271,20 @@
                 "type": "proposal",
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Lainnya",
                 "pic": "Chrissandhy",
                 "status": "w",
                 "note": ""
