@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4452,
-        "last-update": 1760150207,
+        "update-count": 4453,
+        "last-update": 1760152974,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.1"
@@ -4268,6 +4268,48 @@
                 "note": "-"
             },
             {
+                "name": "Latihan. Nyanyi",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Selvi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi English Service",
+                "time": "10:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-10-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Chrissandhy",
+                "status": "n",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. KUL",
                 "time": "11:00",
                 "time-to": "12:30",
@@ -4292,6 +4334,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH PAN MRN 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
                 "status": "y",
                 "note": ""
             },
@@ -4952,76 +5008,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan. Nyanyi",
-                "time": "23:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Selvi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik Ibadah Minggu",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-10-10",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi English Service",
-                "time": "10:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat BPH PAN MRN 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-10-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Chrissandhy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Lainnya",
-                "pic": "Chrissandhy",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
