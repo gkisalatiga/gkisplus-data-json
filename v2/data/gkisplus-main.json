@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4463,
-        "last-update": 1760237122,
+        "update-count": 4464,
+        "last-update": 1760251397,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5127,6 +5127,20 @@
                 "pic": "Ibu Yari",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Desty ",
+                "status": "w",
+                "note": "Tidak ada"
             }
         ],
         "backend": {
