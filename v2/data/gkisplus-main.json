@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4462,
-        "last-update": 1760207188,
-        "last-updated-item": "ykb",
+        "update-count": 4463,
+        "last-update": 1760237122,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5112,6 +5112,20 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Pengurus YPE",
+                "time": "17:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Ibu Yari",
+                "status": "w",
                 "note": "-"
             }
         ],
