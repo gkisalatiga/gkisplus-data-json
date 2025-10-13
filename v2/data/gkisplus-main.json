@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4468,
-        "last-update": 1760293681,
-        "last-updated-item": "ykb",
+        "update-count": 4469,
+        "last-update": 1760317938,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4404,6 +4404,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pengurus YPE",
+                "time": "17:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Ibu Yari",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -4556,6 +4570,20 @@
                 "pic": "Pnt. Natalis Sidanta",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Desty ",
+                "status": "y",
+                "note": "Tidak ada"
             },
             {
                 "name": "Pembinaan Pranikah Susulan",
@@ -5104,32 +5132,32 @@
                 "note": "-"
             },
             {
-                "name": "Rapat Pengurus YPE",
-                "time": "17:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-10-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "YPE",
-                "pic": "Ibu Yari",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Panitia Bulan Keluarga",
-                "time": "18:00",
-                "time-to": "20:00",
+                "name": "Rapat MJ bid. 1 dengan KPPK",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
                 "date": "2025-10-17",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Desty ",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone ",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
                 "status": "w",
-                "note": "Tidak ada"
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
