@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4469,
-        "last-update": 1760317938,
+        "update-count": 4470,
+        "last-update": 1760323925,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4306,76 +4306,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan Drama KUL",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Ibu Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan. Nyanyi",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Selvi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Gladi English Service",
-                "time": "10:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-10-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Lainnya",
-                "pic": "Chrissandhy",
-                "status": "n",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. KUL",
-                "time": "11:00",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2025-10-12",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "y",
-                "note": "Setelah kebaktian ke-2"
-            },
-            {
                 "name": "Sosialisasi Program Sekolah",
                 "time": "08:00",
                 "time-to": "09:30",
@@ -4414,7 +4344,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "YPE",
                 "pic": "Ibu Yari",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4472,6 +4402,20 @@
                 "pic": "Samuel Martono",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Electone ",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "Rapat perdana panitia natal KP",
@@ -4584,6 +4528,20 @@
                 "pic": "Desty ",
                 "status": "y",
                 "note": "Tidak ada"
+            },
+            {
+                "name": "Rapat MJ bid. 1 dengan KPPK",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-10-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pembinaan Pranikah Susulan",
@@ -4738,6 +4696,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-10-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Pnt. Sri Yuniwati R",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "KTB KD",
@@ -5130,34 +5102,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat MJ bid. 1 dengan KPPK",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-10-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone ",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-10-14",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
