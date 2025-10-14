@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4477,
-        "last-update": 1760429547,
-        "last-updated-item": "yt",
+        "update-count": 4478,
+        "last-update": 1760429946,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4484,7 +4484,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4498,7 +4498,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Dian Aprilia Malaikosa",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4509,10 +4509,10 @@
                 "date": "2025-10-15",
                 "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Samuel Esa ",
-                "status": "w",
+                "status": "y",
                 "note": "tambah teh"
             },
             {
@@ -4568,7 +4568,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4582,7 +4582,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Lainnya",
                 "pic": "Bayu / Mr.Tommy",
-                "status": "w",
+                "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
@@ -4638,7 +4638,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
