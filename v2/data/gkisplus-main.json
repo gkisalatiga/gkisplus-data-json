@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4479,
-        "last-update": 1760466749,
-        "last-updated-item": "ykb",
+        "update-count": 4480,
+        "last-update": 1760472069,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 15 Okt 2025 | Saling Menyesuaikan",
+                        "date": "2025-10-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihatuti",
+                        "link": "https://www.youtube.com/watch?v=pE9fP9Yn-8U",
+                        "thumbnail": "https://i1.ytimg.com/vi/pE9fP9Yn-8U/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 14 Okt 2025 | Ketika Kasih Tuhan Menyapa Dalam Keluarga Kita",
                         "date": "2025-10-13",
                         "desc": "Dibawakan oleh Ibu Alia Katharina",
                         "link": "https://www.youtube.com/watch?v=20LzAqgGXPU",
                         "thumbnail": "https://i3.ytimg.com/vi/20LzAqgGXPU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Okt 2025 | Saling Menyesuaikan",
-                        "date": "2025-10-13",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihatuti",
-                        "link": "https://www.youtube.com/watch?v=pE9fP9Yn-8U",
-                        "thumbnail": "https://i1.ytimg.com/vi/pE9fP9Yn-8U/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 13 Okt 2025",
