@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4474,
-        "last-update": 1760415480,
+        "update-count": 4475,
+        "last-update": 1760418868,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5193,6 +5193,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "w",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "rapat ibadah padang kr",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa ",
+                "status": "w",
+                "note": "tambah teh"
             }
         ],
         "backend": {
