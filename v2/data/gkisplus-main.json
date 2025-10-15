@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4481,
-        "last-update": 1760496462,
-        "last-updated-item": "agenda",
+        "update-count": 4482,
+        "last-update": 1760537430,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Okt 2025",
+                        "date": "2025-10-15",
+                        "desc": "Dibawakan oleh Pnt. Hananto Seno",
+                        "link": "https://www.youtube.com/watch?v=LdA_-LMJTtk",
+                        "thumbnail": "https://i1.ytimg.com/vi/LdA_-LMJTtk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Okt 2025 | Saling Menyesuaikan",
                         "date": "2025-10-14",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Sdri. Asputri Kaat",
                         "link": "https://www.youtube.com/watch?v=HGvJtz97TbE",
                         "thumbnail": "https://i1.ytimg.com/vi/HGvJtz97TbE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Okt 2025 | Semakin Kokoh Karena Berakar Dalam",
-                        "date": "2025-10-06",
-                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
-                        "link": "https://www.youtube.com/watch?v=3pHY4_l4cEI",
-                        "thumbnail": "https://i4.ytimg.com/vi/3pHY4_l4cEI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
