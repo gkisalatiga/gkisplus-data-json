@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4485,
-        "last-update": 1760598922,
-        "last-updated-item": "agenda",
+        "update-count": 4486,
+        "last-update": 1760623806,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Okt 2025",
+                        "date": "2025-10-16",
+                        "desc": "Dibawakan oleh Ibu Prijani",
+                        "link": "https://www.youtube.com/watch?v=xf956CPnegI",
+                        "thumbnail": "https://i1.ytimg.com/vi/xf956CPnegI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Okt 2025",
                         "date": "2025-10-15",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=Ne1sM_X0xxo",
                         "thumbnail": "https://i3.ytimg.com/vi/Ne1sM_X0xxo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Okt 2025 | Arahkan Kasih Pada Relasi",
-                        "date": "2025-10-07",
-                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
-                        "link": "https://www.youtube.com/watch?v=HGvJtz97TbE",
-                        "thumbnail": "https://i1.ytimg.com/vi/HGvJtz97TbE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
