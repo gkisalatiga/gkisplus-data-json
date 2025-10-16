@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4484,
-        "last-update": 1760582753,
+        "update-count": 4485,
+        "last-update": 1760598922,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5116,6 +5116,34 @@
                 "pic": "Novita Sari",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Persiapan paduan suara",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Paduan suara",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
