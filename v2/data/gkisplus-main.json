@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4483,
-        "last-update": 1760553192,
-        "last-updated-item": "ykb",
+        "update-count": 4484,
+        "last-update": 1760582753,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5088,6 +5088,34 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Lagu untuk VG Wilayah 2/8",
+                "time": "12:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Technical Meeting Lomba Menyanyi Bazar dan Pentas Seni YPE GKI Salatiga",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-10-20",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Novita Sari",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
