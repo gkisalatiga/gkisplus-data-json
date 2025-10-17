@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4489,
-        "last-update": 1760669079,
+        "update-count": 4490,
+        "last-update": 1760689235,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4484,7 +4484,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Pnt. Natalis Sidanta",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
