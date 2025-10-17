@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 15,
-        "last-update": 1760193330,
+        "update-count": 16,
+        "last-update": 1760734536,
         "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
@@ -279,7 +279,7 @@
                 },
                 "playlist": {
                     "title": "Daftar Putar BuKel 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_galeri.webp",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_playlist.webp",
                     "yt-playlist": "PLtAv1OZRTdvLXeft1NLikqNNZh3-_Evop",
                     "is_shown": 1
                 },
