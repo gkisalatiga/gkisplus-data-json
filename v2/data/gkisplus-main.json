@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4491,
-        "last-update": 1760708661,
-        "last-updated-item": "agenda",
+        "update-count": 4492,
+        "last-update": 1760710184,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Okt 2025",
+                        "date": "2025-10-17",
+                        "desc": "Dibawakan oleh Ibu Arthik Davianti",
+                        "link": "https://www.youtube.com/watch?v=2WoV-13rE3M",
+                        "thumbnail": "https://i3.ytimg.com/vi/2WoV-13rE3M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Okt 2025",
                         "date": "2025-10-16",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=nMOyl2Oe-qo",
                         "thumbnail": "https://i3.ytimg.com/vi/nMOyl2Oe-qo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Okt 2025 | Model Spiritualitas Keluarga",
-                        "date": "2025-10-08",
-                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
-                        "link": "https://www.youtube.com/watch?v=Ne1sM_X0xxo",
-                        "thumbnail": "https://i3.ytimg.com/vi/Ne1sM_X0xxo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
