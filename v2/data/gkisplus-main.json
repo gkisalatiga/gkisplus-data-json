@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4493,
-        "last-update": 1760725788,
-        "last-updated-item": "ykb",
+        "update-count": 4494,
+        "last-update": 1760764417,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4564,6 +4564,20 @@
                 "note": "-"
             },
             {
+                "name": "Percakapan gerejawi lanjutan",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-10-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paul",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pembinaan Pranikah Susulan",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -5136,6 +5150,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Penjadwalan Petugas Musik dan Mulmed",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samuel Arif B. Sulistyo",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
