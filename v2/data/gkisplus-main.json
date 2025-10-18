@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4495,
-        "last-update": 1760765886,
+        "update-count": 4496,
+        "last-update": 1760779515,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1735,6 +1735,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 19 Oktober 2025",
+                    "date": "2025-10-18",
+                    "link": "https://drive.google.com/file/d/1IS6SuGtazYADSrZWqJMPrXv8iT1W3wZL/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-19-oktober-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/10/warta-19-okt-25.png",
+                    "id": "1IS6SuGtazYADSrZWqJMPrXv8iT1W3wZL",
+                    "size": "2.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 12 Oktober 2025",
                     "date": "2025-10-11",
                     "link": "https://drive.google.com/file/d/1_IZzcekV0Uw3Z4yQ48FLqW42cXDPbU68/view",
@@ -2294,6 +2303,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 19 Oktober 2025",
+                    "date": "2025-10-18",
+                    "link": "https://drive.google.com/file/d/1KtloyaYPP_kQeK3X7HIsLUBvDmRY0Xjt/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-19-oktober-2025/",
+                    "thumbnail": "",
+                    "id": "1KtloyaYPP_kQeK3X7HIsLUBvDmRY0Xjt",
+                    "size": "0.54 MB"
+                },
                 {
                     "title": "Tata Ibadah 12 Oktober 2025",
                     "date": "2025-10-11",
