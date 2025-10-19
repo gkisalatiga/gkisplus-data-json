@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4502,
-        "last-update": 1760898540,
-        "last-updated-item": "ykb",
+        "update-count": 4503,
+        "last-update": 1760913348,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Okt 2025",
+                        "date": "2025-10-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=8LCcnD_T6Qc",
+                        "thumbnail": "https://i1.ytimg.com/vi/8LCcnD_T6Qc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Okt 2025 | Ada DIA di Antara Kita",
                         "date": "2025-10-19",
