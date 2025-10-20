@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4506,
-        "last-update": 1760935391,
+        "update-count": 4507,
+        "last-update": 1760937349,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4665,8 +4665,8 @@
                 "time": "10:00",
                 "time-to": "12:00",
                 "timezone": "WIB",
-                "date": "2025-10-29",
-                "weekday": "wed",
+                "date": "2025-10-30",
+                "weekday": "thu",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
@@ -4939,6 +4939,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wil. 2/8",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-12-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Gladi Bersih Ibadah Sambut Natal",
