@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4505,
-        "last-update": 1760929020,
+        "update-count": 4506,
+        "last-update": 1760935391,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4507,6 +4507,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat POSG",
+                "time": "10:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-10-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Kunjungan Komisi Musik Gerejawi GKS Payeti ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4535,6 +4549,20 @@
                 "note": ""
             },
             {
+                "name": "Kunjungan GKS Payeti",
+                "time": "08:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Bincang-Bincang KD",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -4547,6 +4575,20 @@
                 "pic": "Sintarini Utomo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-10-27",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "PA wil 11",
@@ -4617,6 +4659,20 @@
                 "pic": "Ristiani Gani Mendrofa",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat KUL ",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-10-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "Latihan LAVE",
@@ -4994,20 +5050,6 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat POSG",
-                "time": "10:00",
-                "time-to": "00:00",
-                "timezone": "WIB",
-                "date": "2025-10-21",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
-                "status": "w",
                 "note": "-"
             }
         ],
