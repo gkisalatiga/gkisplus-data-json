@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4508,
-        "last-update": 1760958514,
-        "last-updated-item": "yt",
+        "update-count": 4509,
+        "last-update": 1760963539,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5072,6 +5072,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Panitia Natal SoDa",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-26",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi Yoritje",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
