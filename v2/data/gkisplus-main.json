@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4507,
-        "last-update": 1760937349,
-        "last-updated-item": "agenda",
+        "update-count": 4508,
+        "last-update": 1760958514,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Okt 2025 | Kehidupan Keluarga Yang Bergantung Kepada Yesus Kristus",
+                        "date": "2025-10-20",
+                        "desc": "Dibawakan oleh Pnt. Adita Sutresna",
+                        "link": "https://www.youtube.com/watch?v=2TJUMwGPAXA",
+                        "thumbnail": "https://i3.ytimg.com/vi/2TJUMwGPAXA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Okt 2025",
                         "date": "2025-10-19",
