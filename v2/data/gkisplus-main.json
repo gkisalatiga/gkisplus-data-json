@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4514,
-        "last-update": 1761023698,
+        "update-count": 4515,
+        "last-update": 1761030935,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4374,90 +4374,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Gladi bersih Wilayah V",
-                "time": "20:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-10-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Wilayah",
-                "pic": "Renny Yiwa",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Paduan suara",
-                "time": "09:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-10-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Percakapan gerejawi lanjutan",
-                "time": "11:30",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2025-10-19",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Paul",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Penjadwalan Petugas Musik dan Mulmed",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-10-19",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samuel Arif B. Sulistyo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pembinaan Pranikah Susulan",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-10-20",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Lainnya",
-                "pic": "dr. Sintarini Utomo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Technical Meeting Lomba Menyanyi Bazar dan Pentas Seni YPE GKI Salatiga",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-10-20",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Novita Sari",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "PA wilayah",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4598,6 +4514,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan PSA Amici B",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel Arif",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Bincang-Bincang KD",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -4638,6 +4568,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.\nTommy"
+            },
+            {
+                "name": "latihan PSA Amici B",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel Arif",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "BenKA latihan musik untuk mengiringi ibadah Minggu 26 Oktober 2026",
@@ -5156,34 +5100,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan PSA Amici B",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-10-22",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Samuel Arif",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "latihan PSA Amici B",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-10-23",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Samuel Arif",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
