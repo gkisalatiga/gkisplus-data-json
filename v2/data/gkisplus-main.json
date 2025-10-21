@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4511,
-        "last-update": 1761009062,
+        "update-count": 4512,
+        "last-update": 1761017935,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1770,7 +1770,7 @@
                 "playlist-id": "PLtAv1OZRTdvLXeft1NLikqNNZh3-_Evop",
                 "title": "Bulan Keluarga 2025",
                 "type": "regular",
-                "pinned": 0,
+                "pinned": 1,
                 "is_shown": 0
             }
         ],
