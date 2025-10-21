@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4513,
-        "last-update": 1761021729,
+        "update-count": 4514,
+        "last-update": 1761023698,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5156,6 +5156,34 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan PSA Amici B",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel Arif",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "latihan PSA Amici B",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel Arif",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
