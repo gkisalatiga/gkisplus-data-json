@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4515,
-        "last-update": 1761030935,
-        "last-updated-item": "agenda",
+        "update-count": 4516,
+        "last-update": 1761055816,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Okt 2025 | Termometer atau Termostat",
+                        "date": "2025-10-21",
+                        "desc": "Dibawakan oleh Bpk. Prasetyandaru",
+                        "link": "https://www.youtube.com/watch?v=lnBtyGQaGDI",
+                        "thumbnail": "https://i1.ytimg.com/vi/lnBtyGQaGDI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Okt 2025 | Kehidupan Keluarga Yang Bergantung Kepada Yesus Kristus",
                         "date": "2025-10-20",
