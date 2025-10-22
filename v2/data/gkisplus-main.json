@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4518,
-        "last-update": 1761101573,
+        "update-count": 4519,
+        "last-update": 1761114204,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5119,6 +5119,34 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sambut Natal KA 2025",
+                "time": "15:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-12-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih Sambut Natal KA",
+                "time": "15:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
