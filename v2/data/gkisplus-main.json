@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4520,
-        "last-update": 1761158069,
-        "last-updated-item": "ykb",
+        "update-count": 4521,
+        "last-update": 1761163826,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Okt 2025 | Ada DIA di Antara Kita",
+                        "date": "2025-10-22",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=o4Itz9-33w4",
+                        "thumbnail": "https://i4.ytimg.com/vi/o4Itz9-33w4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Okt 2025 | Termometer atau Termostat",
                         "date": "2025-10-21",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=8LCcnD_T6Qc",
                         "thumbnail": "https://i1.ytimg.com/vi/8LCcnD_T6Qc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Okt 2025 | Ada DIA di Antara Kita",
-                        "date": "2025-10-19",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=o4Itz9-33w4",
-                        "thumbnail": "https://i4.ytimg.com/vi/o4Itz9-33w4/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 18 Okt 2025",
