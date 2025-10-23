@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4522,
-        "last-update": 1761187428,
-        "last-updated-item": "yt",
+        "update-count": 4523,
+        "last-update": 1761187605,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4537,6 +4537,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan paduan suara",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-10-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Bincang-Bincang KD",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -4957,6 +4971,34 @@
                 "note": "-"
             },
             {
+                "name": "Gladi bersih Sambut Natal KA",
+                "time": "15:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sambut Natal KA 2025",
+                "time": "15:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-12-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5109,48 +5151,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan paduan suara",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-10-22",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Sambut Natal KA 2025",
-                "time": "15:00",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2025-12-06",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi bersih Sambut Natal KA",
-                "time": "15:30",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-12-03",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
