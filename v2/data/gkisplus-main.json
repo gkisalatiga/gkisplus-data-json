@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4524,
-        "last-update": 1761196509,
+        "update-count": 4525,
+        "last-update": 1761235220,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4191,14 +4191,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "title": "Bincang-Bincang KD",
-                "type": "poster",
-                "date-created": "2025-10-11",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bazarpensi.webp",
                 "title": "Bazar dan Pentas Seni",
