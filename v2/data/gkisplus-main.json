@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4523,
-        "last-update": 1761187605,
+        "update-count": 4524,
+        "last-update": 1761196509,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4547,7 +4547,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4981,7 +4981,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
