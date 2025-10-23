@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4525,
-        "last-update": 1761235220,
-        "last-updated-item": "agenda",
+        "update-count": 4526,
+        "last-update": 1761239317,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Okt 2025 | Menegakkan Mezbah Keluarga",
+                        "date": "2025-10-23",
+                        "desc": "Dibawakan oleh Ibu Agnes Novita",
+                        "link": "https://www.youtube.com/watch?v=EbxvZDqfeKY",
+                        "thumbnail": "https://i2.ytimg.com/vi/EbxvZDqfeKY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Okt 2025 | Ada DIA di Antara Kita",
                         "date": "2025-10-22",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Alia Katharina",
                         "link": "https://www.youtube.com/watch?v=20LzAqgGXPU",
                         "thumbnail": "https://i3.ytimg.com/vi/20LzAqgGXPU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Okt 2025",
-                        "date": "2025-10-12",
-                        "desc": "Dibawakan oleh Bpk. AM.Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=Rd2g2dcQUhU",
-                        "thumbnail": "https://i3.ytimg.com/vi/Rd2g2dcQUhU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
