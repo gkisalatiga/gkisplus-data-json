@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4528,
-        "last-update": 1761291399,
-        "last-updated-item": "agenda",
+        "update-count": 4529,
+        "last-update": 1761325714,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Okt 2025 | Anak Sulung yang Hilang",
+                        "date": "2025-10-24",
+                        "desc": "Dibawakan oleh Pnt Paul Arototonafo Gulo",
+                        "link": "https://www.youtube.com/watch?v=bGaJ3TkaxcU",
+                        "thumbnail": "https://i3.ytimg.com/vi/bGaJ3TkaxcU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Okt 2025 | Menegakkan Mezbah Keluarga",
                         "date": "2025-10-23",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihatuti",
                         "link": "https://www.youtube.com/watch?v=pE9fP9Yn-8U",
                         "thumbnail": "https://i1.ytimg.com/vi/pE9fP9Yn-8U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Okt 2025 | Ketika Kasih Tuhan Menyapa Dalam Keluarga Kita",
-                        "date": "2025-10-13",
-                        "desc": "Dibawakan oleh Ibu Alia Katharina",
-                        "link": "https://www.youtube.com/watch?v=20LzAqgGXPU",
-                        "thumbnail": "https://i3.ytimg.com/vi/20LzAqgGXPU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
