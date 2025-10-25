@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4531,
-        "last-update": 1761379891,
+        "update-count": 4532,
+        "last-update": 1761398524,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1784,6 +1784,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 26 Oktober 2025",
+                    "date": "2025-10-25",
+                    "link": "https://drive.google.com/file/d/1LK6HMnfmyGiSuj-gBndaLPizmh9BRRtf/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-26-oktober-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/10/warta-26-okt-25.webp",
+                    "id": "1LK6HMnfmyGiSuj-gBndaLPizmh9BRRtf",
+                    "size": "1.80 MB"
+                },
+                {
                     "title": "Warta Jemaat 19 Oktober 2025",
                     "date": "2025-10-18",
                     "link": "https://drive.google.com/file/d/1IS6SuGtazYADSrZWqJMPrXv8iT1W3wZL/view",
@@ -2352,6 +2361,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 26 Oktober 2025",
+                    "date": "2025-10-25",
+                    "link": "https://drive.google.com/file/d/1IRXKRLyAt5wDXiwoLCnl3N86yDlSfgC9/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-26-oktober-2025/",
+                    "thumbnail": "",
+                    "id": "1IRXKRLyAt5wDXiwoLCnl3N86yDlSfgC9",
+                    "size": "0.61 MB"
+                },
                 {
                     "title": "Tata Ibadah 19 Oktober 2025",
                     "date": "2025-10-18",
@@ -4192,38 +4210,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bazarpensi.webp",
-                "title": "Bazar dan Pentas Seni",
-                "type": "poster",
-                "date-created": "2025-10-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bazarpensi_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-10-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_3.webp",
-                "title": "Family Fun Walk",
-                "type": "poster",
-                "date-created": "2025-10-20",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_3.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2025-10-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_1.webp",
                 "title": "Sekolah Minggu",
                 "type": "poster",
@@ -4237,6 +4223,14 @@
                 "type": "poster",
                 "date-created": "2025-10-19",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bazarpensi.webp",
+                "title": "Bazar dan Pentas Seni",
+                "type": "poster",
+                "date-created": "2025-10-25",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bazarpensi_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
