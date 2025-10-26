@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4534,
-        "last-update": 1761429150,
-        "last-updated-item": "ykb",
+        "update-count": 4535,
+        "last-update": 1761462794,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4463,7 +4463,7 @@
             {
                 "name": "Rapat Tim Informatika",
                 "time": "11:00",
-                "time-to": "13:00",
+                "time-to": "15:00",
                 "timezone": "WIB",
                 "date": "2025-10-26",
                 "weekday": "sun",
