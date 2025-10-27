@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4539,
-        "last-update": 1761540547,
-        "last-updated-item": "agenda",
+        "update-count": 4540,
+        "last-update": 1761574228,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Okt 2025 | Anak Muda, Keluarga Siapa?",
+                        "date": "2025-10-27",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=6-ahayfXLoc",
+                        "thumbnail": "https://i3.ytimg.com/vi/6-ahayfXLoc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Okt 2025 | Kasih Yang Tidak Mementingkan Diri Sendiri",
                         "date": "2025-10-26",
