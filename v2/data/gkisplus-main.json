@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4537,
-        "last-update": 1761503408,
-        "last-updated-item": "ykb",
+        "update-count": 4538,
+        "last-update": 1761534172,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4991,6 +4991,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Panitia Masa Raya Natal 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
