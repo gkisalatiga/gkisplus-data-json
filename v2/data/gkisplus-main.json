@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4544,
-        "last-update": 1761641225,
-        "last-updated-item": "agenda",
+        "update-count": 4545,
+        "last-update": 1761660614,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Okt 2025 | Beri Aku 10 Pemuda, Niscaya Akan Kuguncangkan\u00a0Dunia",
+                        "date": "2025-10-28",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
+                        "link": "https://www.youtube.com/watch?v=FedH6TpheXE",
+                        "thumbnail": "https://i3.ytimg.com/vi/FedH6TpheXE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Okt 2025 | Anak Muda, Keluarga Siapa?",
                         "date": "2025-10-27",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Arthik Davianti",
                         "link": "https://www.youtube.com/watch?v=2WoV-13rE3M",
                         "thumbnail": "https://i3.ytimg.com/vi/2WoV-13rE3M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Okt 2025",
-                        "date": "2025-10-16",
-                        "desc": "Dibawakan oleh Ibu Prijani",
-                        "link": "https://www.youtube.com/watch?v=xf956CPnegI",
-                        "thumbnail": "https://i1.ytimg.com/vi/xf956CPnegI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
