@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4541,
-        "last-update": 1761589984,
-        "last-updated-item": "ykb",
+        "update-count": 4542,
+        "last-update": 1761619785,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4972,6 +4972,20 @@
                 "pic": "Chrissandhy",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi dan Progres ",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "w",
+                "note": "Tambahan Teh"
             }
         ],
         "backend": {
