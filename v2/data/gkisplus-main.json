@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4542,
-        "last-update": 1761619785,
+        "update-count": 4543,
+        "last-update": 1761637061,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4526,6 +4526,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Evaluasi dan Progres ",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "y",
+                "note": "Tambahan Teh"
+            },
+            {
                 "name": "Rapat KUL ",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -4538,6 +4552,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": "Minta disiapkan teh"
+            },
+            {
+                "name": "Rapat Panitia Masa Raya Natal 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-10-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan LAVE",
@@ -4958,34 +4986,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Panitia Masa Raya Natal 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-10-30",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Chrissandhy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Evaluasi dan Progres ",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-10-29",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Susan",
-                "status": "w",
-                "note": "Tambahan Teh"
             }
         ],
         "backend": {
