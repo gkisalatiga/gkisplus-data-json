@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4554,
-        "last-update": 1761722112,
-        "last-updated-item": "agenda",
+        "update-count": 4555,
+        "last-update": 1761736144,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Okt 2025 | Keluarga Sebagai Support System Iman",
+                        "date": "2025-10-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=nPMz8sdLVW4",
+                        "thumbnail": "https://i3.ytimg.com/vi/nPMz8sdLVW4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Okt 2025 | Beri Aku 10 Pemuda, Niscaya Akan Kuguncangkan\u00a0Dunia",
                         "date": "2025-10-28",
