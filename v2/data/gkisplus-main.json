@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4546,
-        "last-update": 1761676508,
-        "last-updated-item": "ykb",
+        "update-count": 4547,
+        "last-update": 1761706633,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4568,6 +4568,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-10-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Rapat Bahan KUL Sinode Wilayah",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-10-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Lainnya",
+                "pic": "Pdt. Em. Iman Santoso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Kotor Pemusik English Service",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan LAVE",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -4578,6 +4620,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Pnt. Natalis Sidanta",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KUL dg PS. Efrata",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-10-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Titiek Budiatmi",
                 "status": "y",
                 "note": ""
             },
@@ -4986,20 +5042,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-10-30",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
