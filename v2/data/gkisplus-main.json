@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4552,
-        "last-update": 1761714645,
-        "last-updated-item": "yt",
+        "update-count": 4553,
+        "last-update": 1761714943,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4460,6 +4460,48 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi kotor Sambut Natal 2025",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-12-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih Sambut Natal",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-12-15",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sambut Natal SD Kristen 04 Salatiga",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Yohana Puji Astuti",
+                "status": "w",
                 "note": ""
             }
         ],
