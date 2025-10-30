@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4561,
-        "last-update": 1761815814,
-        "last-updated-item": "agenda",
+        "update-count": 4562,
+        "last-update": 1761819468,
+        "last-updated-item": "pdf/es",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -3055,6 +3055,15 @@
                 }
             ],
             "es": [
+                {
+                    "title": "English Service Liturgy November 2, 2025",
+                    "date": "2025-10-30",
+                    "link": "https://drive.google.com/file/d/1lcKLhJLd2roosoR2m_3MTW_SVE8z8lAr/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-november-2-2025/",
+                    "thumbnail": "",
+                    "id": "1lcKLhJLd2roosoR2m_3MTW_SVE8z8lAr",
+                    "size": "0.37 MB"
+                },
                 {
                     "title": "English Service Liturgy October 12, 2025",
                     "date": "2025-10-12",
