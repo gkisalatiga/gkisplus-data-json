@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4558,
-        "last-update": 1761805375,
-        "last-updated-item": "agenda",
+        "update-count": 4559,
+        "last-update": 1761812015,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 31 Okt 2025 | Salah Sangka",
+                        "date": "2025-10-30",
+                        "desc": "Dibawakan oleh Ibu Claudia A. Lazarusli",
+                        "link": "https://www.youtube.com/watch?v=69H1wLnulEk",
+                        "thumbnail": "https://i3.ytimg.com/vi/69H1wLnulEk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Okt 2025 | Keluarga Sebagai Support System Iman",
                         "date": "2025-10-29",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=8LCcnD_T6Qc",
                         "thumbnail": "https://i1.ytimg.com/vi/8LCcnD_T6Qc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Okt 2025",
-                        "date": "2025-10-17",
-                        "desc": "Dibawakan oleh Ibu Arthik Davianti",
-                        "link": "https://www.youtube.com/watch?v=2WoV-13rE3M",
-                        "thumbnail": "https://i3.ytimg.com/vi/2WoV-13rE3M/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
