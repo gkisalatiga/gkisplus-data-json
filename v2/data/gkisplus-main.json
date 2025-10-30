@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4560,
-        "last-update": 1761812414,
+        "update-count": 4561,
+        "last-update": 1761815814,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5182,6 +5182,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan pemusik ibadah umum",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
