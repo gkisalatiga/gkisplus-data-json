@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4556,
-        "last-update": 1761762834,
-        "last-updated-item": "ykb",
+        "update-count": 4557,
+        "last-update": 1761799313,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5154,6 +5154,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan pemusik ibadah umum",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-10-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "w",
+                "note": "Minta disediakan Teh ditempat kecil "
             }
         ],
         "backend": {
