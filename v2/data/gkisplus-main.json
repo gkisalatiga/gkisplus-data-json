@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4557,
-        "last-update": 1761799313,
+        "update-count": 4558,
+        "last-update": 1761805375,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5168,6 +5168,20 @@
                 "pic": "Yunita Tella ",
                 "status": "w",
                 "note": "Minta disediakan Teh ditempat kecil "
+            },
+            {
+                "name": "PA Wilayah 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bp. Andi",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
