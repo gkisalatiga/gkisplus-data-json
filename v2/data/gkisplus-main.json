@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4570,
-        "last-update": 1761908888,
+        "update-count": 4571,
+        "last-update": 1761919810,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 November 2025 | Tuhan Menolong di Tengah Pencobaan",
+                        "date": "2025-10-31",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=SoDwYIlS2bc",
+                        "thumbnail": "https://i4.ytimg.com/vi/SoDwYIlS2bc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 31 Okt 2025 | Salah Sangka",
                         "date": "2025-10-30",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Bpk. Prasetyandaru",
                         "link": "https://www.youtube.com/watch?v=lnBtyGQaGDI",
                         "thumbnail": "https://i1.ytimg.com/vi/lnBtyGQaGDI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Okt 2025 | Kehidupan Keluarga Yang Bergantung Kepada Yesus Kristus",
-                        "date": "2025-10-20",
-                        "desc": "Dibawakan oleh Pnt. Adita Sutresna",
-                        "link": "https://www.youtube.com/watch?v=2TJUMwGPAXA",
-                        "thumbnail": "https://i3.ytimg.com/vi/2TJUMwGPAXA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
