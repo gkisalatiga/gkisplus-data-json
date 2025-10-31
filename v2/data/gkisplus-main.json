@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4568,
-        "last-update": 1761884344,
+        "update-count": 4569,
+        "last-update": 1761885857,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4462,6 +4462,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Sie. Konsumsi Panitia Natal",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-10-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Lainnya",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
+            },
+            {
                 "name": "Gladi Resik English Service",
                 "time": "10:00",
                 "time-to": "13:00",
@@ -4472,6 +4486,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Penjelasan Administrasi Gereja",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-11-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
