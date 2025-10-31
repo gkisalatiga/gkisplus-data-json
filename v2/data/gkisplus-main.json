@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4564,
-        "last-update": 1761849203,
-        "last-updated-item": "ykb",
+        "update-count": 4565,
+        "last-update": 1761873080,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5210,6 +5210,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Yunita Tella ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik English Service",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-11-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
