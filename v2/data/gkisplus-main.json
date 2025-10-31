@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4569,
-        "last-update": 1761885857,
-        "last-updated-item": "agenda",
+        "update-count": 4570,
+        "last-update": 1761908888,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -89,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Adita Sutresna",
                         "link": "https://www.youtube.com/watch?v=2TJUMwGPAXA",
                         "thumbnail": "https://i3.ytimg.com/vi/2TJUMwGPAXA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Okt 2025",
-                        "date": "2025-10-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=8LCcnD_T6Qc",
-                        "thumbnail": "https://i1.ytimg.com/vi/8LCcnD_T6Qc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -327,6 +320,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "GKI Salatiga | English Service | Sunday, November 2nd, 2025 | 10 a.m. Jakarta Time",
+                        "date": "2025-10-31",
+                        "desc": "GKI Salatiga | English Service | Sunday, November 2nd, 2025 | 10 a.m. Jakarta Time\n\nAm I Worthy?\nLUKE 19:1-10\n\nLed by\nRev. Izak Y. M. Lattu\n\nCherished by Voice of Theology, SWCU\n\nPL: Irma\nReader: Amanda\nPrayer: James + Bunga\nOffertory: Lauren\nKolektan: Gita A + Gita H\nUsher: Gita A + Gita H\nKoordinator: Pnt. Gita H\nPPT: Elis\nMultimedia: Bamz, James\nSinger: Tika & Jeffrey\nPemusik: \n- Keyboard: Bram\n- Drum: Joan\n- Bass: Alfon\n-\u00a0Gitar:\u00a0Isai\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/details?id=org.gkisalatiga.plus\nhttps://apps.apple.com/id/app/gki-salatiga-plus/id6741834007\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
+                        "link": "https://www.youtube.com/watch?v=yIoOh2utlxI",
+                        "thumbnail": "https://i.ytimg.com/vi/yIoOh2utlxI/hqdefault_live.jpg"
+                    },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, October 12th, 2025 | 10 a.m. Jakarta Time",
                         "date": "2025-10-09",
