@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4572,
-        "last-update": 1761935590,
+        "update-count": 4573,
+        "last-update": 1761965644,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1826,6 +1826,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 2 November 2025",
+                    "date": "2025-11-01",
+                    "link": "https://drive.google.com/file/d/1rl_17A1XikE2yGma7mrC6Fh0hTYgl43z/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-2-november-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/11/warta-2-nov-25.avif",
+                    "id": "1rl_17A1XikE2yGma7mrC6Fh0hTYgl43z",
+                    "size": "1.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 26 Oktober 2025",
                     "date": "2025-10-25",
                     "link": "https://drive.google.com/file/d/1LK6HMnfmyGiSuj-gBndaLPizmh9BRRtf/view",
@@ -2403,6 +2412,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 2 November 2025",
+                    "date": "2025-11-01",
+                    "link": "https://drive.google.com/file/d/1dU8sgF7T5f28r-k7v-kF5xrmz6T0X8yz/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-2-november-2025/",
+                    "thumbnail": "",
+                    "id": "1dU8sgF7T5f28r-k7v-kF5xrmz6T0X8yz",
+                    "size": "0.69 MB"
+                },
                 {
                     "title": "Tata Ibadah 26 Oktober 2025 - Penutupan Bulan Keluarga",
                     "date": "2025-10-26",
