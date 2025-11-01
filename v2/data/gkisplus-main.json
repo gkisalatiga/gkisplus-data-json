@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4575,
-        "last-update": 1761995226,
-        "last-updated-item": "yt",
+        "update-count": 4576,
+        "last-update": 1761995456,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5010,6 +5010,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persiapan PK Wilayah",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-11-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "Mohon diinfokan apakah ruang Kana atau ruang Kapernaum yang bisa kami pinjam"
             }
         ],
         "backend": {
