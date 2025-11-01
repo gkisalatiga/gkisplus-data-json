@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4573,
-        "last-update": 1761965644,
-        "last-updated-item": "ykb",
+        "update-count": 4574,
+        "last-update": 1761975501,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4518,6 +4518,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembinaan Pranikah Susulan",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-11-02",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "dr. Sintarini Utomo",
                 "status": "y",
                 "note": ""
             },
