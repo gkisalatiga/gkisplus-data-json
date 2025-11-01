@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 51,
-        "last-update": 1761547068,
+        "update-count": 52,
+        "last-update": 1762015246,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -23676,6 +23676,101 @@
                             "id": "1tcQ1rlnPHMWBOCwO_C-j_oYkhG3CS_gA",
                             "name": "IMG_9874.JPG",
                             "date": "2025-10-27"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1TwMwQQqZsc30hcGtkbOWP368g4Rsqbws",
+                    "last_update": "2025-11-01",
+                    "featured_photo_id": "1hpFm7wS3iqYj8kskYhQ6HMhKnRaJaBJk",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Penutupan Bulan Keluarga [BUKEL 2025] yang dilaksanakan pada 26 Oktober 2025.",
+                    "title": "Ibadah Minggu Penutupan Bulan Keluarga [BUKEL 2025]",
+                    "event_date": "2025.10.26",
+                    "photos": [
+                        {
+                            "id": "1FuAhs7nG5xBonG4iGS2RTUL7yfHNZzy5",
+                            "name": "GKI SALATIGA - 102625 (13).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1VihhL-2vXqlO6eP7t0qCAeJuuvNZWGuq",
+                            "name": "GKI SALATIGA - 102625 (12).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1hVdexpr43E5KUjK8kAlgXsnBl0K7716r",
+                            "name": "GKI SALATIGA - 102625 (4).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1-mYz7fagl7ovaAIDhFQmQiBXcF11aCrD",
+                            "name": "GKI SALATIGA - 102625 (10).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1NZwZQV6nDtC_HJj-iqoOc4FudfSFfZVz",
+                            "name": "GKI SALATIGA - 102625 (6).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1oCA1Yn8AyPTh2_dlPVNdqW4r1EFRyM5u",
+                            "name": "GKI SALATIGA - 102625 (19).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "13RNtZeUTtSP5DMwUThz8rvs1EvXg5uY_",
+                            "name": "GKI SALATIGA - 102625 (22).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1e_Grz_aV_aBzJL_oNSS1836hXgr62nMk",
+                            "name": "GKI SALATIGA - 102625 (52).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1bgGeDGX0OXeKP54lnqgFVe0oZWt8eB4N",
+                            "name": "GKI SALATIGA - 102625 (40).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "10Q6-sc0yoEgCgbuvGwgA8hy-zS0C28Ur",
+                            "name": "GKI SALATIGA - 102625 (36).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1T61k6UjWDFo_K_rzGA3LzT-fxWBXXyW4",
+                            "name": "GKI SALATIGA - 102625 (65).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1guuoFKBEqMo558YnjagfjSw_r0peyTeD",
+                            "name": "GKI SALATIGA - 102625 (30).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1vnU6l1m5206YJvoLt4RpDurlUdItlavA",
+                            "name": "GKI SALATIGA - 102625 (29).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1qnCxezY4JIwm-r5e8FuzEy6gnp5Q1BxX",
+                            "name": "GKI SALATIGA - 102625 (45).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "1PicRLEEYPMqN0865-sNyPKWnF8dlqJie",
+                            "name": "GKI SALATIGA - 102625 (43).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "12XxtNi_xHI35lxuLaWZjZPJqUPIwj33Y",
+                            "name": "GKI SALATIGA - 102625 (37).JPG",
+                            "date": "2025-11-01"
+                        },
+                        {
+                            "id": "15mplbLnkUcWj2aSoQ91Kan2VJK1i2K0S",
+                            "name": "GKI SALATIGA - 102625 (58).JPG",
+                            "date": "2025-11-01"
                         }
                     ]
                 }
