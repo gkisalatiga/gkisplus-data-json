@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4578,
-        "last-update": 1762021720,
-        "last-updated-item": "ykb",
+        "update-count": 4579,
+        "last-update": 1762092457,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 November 2025 | Hidup Yang Menjadi Berkat",
+                        "date": "2025-11-02",
+                        "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
+                        "link": "https://www.youtube.com/watch?v=TkhqCjjkjd4",
+                        "thumbnail": "https://i1.ytimg.com/vi/TkhqCjjkjd4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 November 2025 | Tuhan Menolong di Tengah Pencobaan",
                         "date": "2025-10-31",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Ibu Agnes Novita",
                         "link": "https://www.youtube.com/watch?v=EbxvZDqfeKY",
                         "thumbnail": "https://i2.ytimg.com/vi/EbxvZDqfeKY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Okt 2025 | Ada DIA di Antara Kita",
-                        "date": "2025-10-22",
-                        "desc": "Dibawakan oleh Ibu Krisulastri",
-                        "link": "https://www.youtube.com/watch?v=o4Itz9-33w4",
-                        "thumbnail": "https://i4.ytimg.com/vi/o4Itz9-33w4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -98,7 +98,7 @@
                         "date": "2025-11-01",
                         "desc": "KEBAKTIAN MINGGU GKI Salatiga; 2 November 2025; Pukul 07:00 WIB\n\nTema: Apakah Aku Layak?\n\nNyanyian: KK 15; PKJ 264; Selidiki Aku; KK 382; NKB 213 \n\nBacaan 1: Yesaya 1:10-18\nTanggapan: Mazmur 32:1-7\nBacaan 2: 2 Tesalonika 1:1-4, 11-12 \nBacaan Injil: Lukas 19:1-10\nBerita Anugrah: Roma 3:23-25a\nPersembahan: Kolose 3:17\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yuliani Nugroho\nKredo dan Warta: Pnt. Santoso Adi P.\nSambut Tamu: Pnt. Desemy Ch. N. Ballo, Pnt. Paul A.W. Gulo\nPemandu Liturgi: Endri Bagiyanti\nLektor 1: Chrissandhy \nLektor 2: Evonny E. B. Msen\n\nPemusik: BandKP\nPNK/PMZ: Evangs / Benaya\nPaduan Suara: PS Immanuel; PSA GKI Salatiga\nTim Multimedia: Hermawan, Evan, Jeffrey, Bobby, Alvin\nFlorist: Tim Monstera\nUsher dan Kolektan: Titik Budiatmi, Dwi Handari\r\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=vzJFQjaJO8U",
-                        "thumbnail": "https://i.ytimg.com/vi/vzJFQjaJO8U/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/vzJFQjaJO8U/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga 26 Oktober 2025 | Pukul 07:00 WIB | Memelihara Iman Keluarga",
@@ -1812,7 +1812,7 @@
                         "date": "2025-11-01",
                         "desc": "KEBAKTIAN MINGGU GKI Salatiga; 2 November 2025; Pukul 07:00 WIB\n\nTema: Apakah Aku Layak?\n\nNyanyian: KK 15; PKJ 264; Selidiki Aku; KK 382; NKB 213 \n\nBacaan 1: Yesaya 1:10-18\nTanggapan: Mazmur 32:1-7\nBacaan 2: 2 Tesalonika 1:1-4, 11-12 \nBacaan Injil: Lukas 19:1-10\nBerita Anugrah: Roma 3:23-25a\nPersembahan: Kolose 3:17\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yuliani Nugroho\nKredo dan Warta: Pnt. Santoso Adi P.\nSambut Tamu: Pnt. Desemy Ch. N. Ballo, Pnt. Paul A.W. Gulo\nPemandu Liturgi: Endri Bagiyanti\nLektor 1: Chrissandhy \nLektor 2: Evonny E. B. Msen\n\nPemusik: BandKP\nPNK/PMZ: Evangs / Benaya\nPaduan Suara: PS Immanuel; PSA GKI Salatiga\nTim Multimedia: Hermawan, Evan, Jeffrey, Bobby, Alvin\nFlorist: Tim Monstera\nUsher dan Kolektan: Titik Budiatmi, Dwi Handari\r\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=vzJFQjaJO8U",
-                        "thumbnail": "https://i.ytimg.com/vi/vzJFQjaJO8U/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/vzJFQjaJO8U/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
