@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4583,
-        "last-update": 1762140509,
+        "update-count": 4584,
+        "last-update": 1762141873,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4576,6 +4576,20 @@
                 "note": ""
             },
             {
+                "name": "Pertemuan YPE dengan Kantin",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Henny Jullyanti",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Latihan LAVE",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -4630,6 +4644,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
+                "time": "08:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-11-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Wilayah 9 ",
@@ -4728,6 +4756,20 @@
                 "pic": "Ibu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persiapan PK Wilayah",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-11-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 11",
@@ -4994,48 +5036,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Persiapan PK Wilayah",
-                "time": "17:30",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-11-25",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum, Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": "Mohon diinfokan apakah ruang Kana atau ruang Kapernaum yang bisa kami pinjam"
-            },
-            {
-                "name": "Pertemuan YPE dengan Kantin",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-11-05",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "YPE",
-                "pic": "Henny Jullyanti",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
-                "time": "08:00",
-                "time-to": "00:00",
-                "timezone": "WIB",
-                "date": "2025-11-12",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
