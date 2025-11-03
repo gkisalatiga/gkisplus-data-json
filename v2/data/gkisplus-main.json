@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4581,
-        "last-update": 1762108097,
-        "last-updated-item": "ykb",
+        "update-count": 4582,
+        "last-update": 1762138722,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5056,6 +5056,34 @@
                 "pic": "Samuel Martono",
                 "status": "w",
                 "note": "Mohon diinfokan apakah ruang Kana atau ruang Kapernaum yang bisa kami pinjam"
+            },
+            {
+                "name": "Pertemuan YPE dengan Kantin",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-11-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Henny Jullyanti",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
+                "time": "08:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-11-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
