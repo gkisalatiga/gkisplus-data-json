@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4584,
-        "last-update": 1762141873,
+        "update-count": 4585,
+        "last-update": 1762158128,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5036,6 +5036,34 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "08:30",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-11-08",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono dan Pnt. Adita",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "16:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-11-08",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yuliani dan Pnt. Nadia",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
