@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4585,
-        "last-update": 1762158128,
-        "last-updated-item": "agenda",
+        "update-count": 4586,
+        "last-update": 1762179003,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 November 2025 | Allah Peduli",
+                        "date": "2025-11-03",
+                        "desc": "Dibawakan oleh Ibu Damara Laksmi",
+                        "link": "https://www.youtube.com/watch?v=VZ7qdk9qzVU",
+                        "thumbnail": "https://i3.ytimg.com/vi/VZ7qdk9qzVU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 November 2025 | Hidup Yang Menjadi Berkat",
                         "date": "2025-11-02",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pnt Paul Arototonafo Gulo",
                         "link": "https://www.youtube.com/watch?v=bGaJ3TkaxcU",
                         "thumbnail": "https://i3.ytimg.com/vi/bGaJ3TkaxcU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Okt 2025 | Menegakkan Mezbah Keluarga",
-                        "date": "2025-10-23",
-                        "desc": "Dibawakan oleh Ibu Agnes Novita",
-                        "link": "https://www.youtube.com/watch?v=EbxvZDqfeKY",
-                        "thumbnail": "https://i2.ytimg.com/vi/EbxvZDqfeKY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
