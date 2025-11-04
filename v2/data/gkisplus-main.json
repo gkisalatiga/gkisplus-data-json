@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4590,
-        "last-update": 1762239046,
-        "last-updated-item": "agenda",
+        "update-count": 4591,
+        "last-update": 1762254529,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 November 2025 | Ketika Berkat Tak Terlihat",
+                        "date": "2025-11-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=WqpCOk9Q8PQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/WqpCOk9Q8PQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 November 2025 | Allah Peduli",
                         "date": "2025-11-03",
