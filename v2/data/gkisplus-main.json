@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4594,
-        "last-update": 1762314114,
+        "update-count": 4595,
+        "last-update": 1762328276,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4518,6 +4518,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan Pemusik Ibadah Umum (Tim Apostles)",
