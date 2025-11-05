@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4595,
-        "last-update": 1762328276,
-        "last-updated-item": "agenda",
+        "update-count": 4596,
+        "last-update": 1762340925,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 November 2025 | Aku Mau Menyenangkan-Mu",
+                        "date": "2025-11-05",
+                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=vPgWONQYLA8",
+                        "thumbnail": "https://i3.ytimg.com/vi/vPgWONQYLA8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 November 2025 | Ketika Berkat Tak Terlihat",
                         "date": "2025-11-04",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=6-ahayfXLoc",
                         "thumbnail": "https://i3.ytimg.com/vi/6-ahayfXLoc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Okt 2025 | Kasih Yang Tidak Mementingkan Diri Sendiri",
-                        "date": "2025-10-26",
-                        "desc": "Dibawakan oleh Sdr. Alessandro",
-                        "link": "https://www.youtube.com/watch?v=lFFF_p44ELA",
-                        "thumbnail": "https://i1.ytimg.com/vi/lFFF_p44ELA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
