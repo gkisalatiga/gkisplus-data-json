@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4593,
-        "last-update": 1762311199,
+        "update-count": 4594,
+        "last-update": 1762314114,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4474,7 +4474,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Benny A. Kailola",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4490,6 +4490,48 @@
                 "pic": "Henny Jullyanti",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum (Tim Apostles)",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-11-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum (Tim Apostles)",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-11-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Percakapan Atestasi Masuk",
@@ -4588,6 +4630,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-11-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
@@ -4980,48 +5036,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-11-06",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum (Tim Apostles)",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-11-05",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum (Tim Apostles)",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-11-07",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
