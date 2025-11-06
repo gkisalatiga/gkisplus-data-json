@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4603,
-        "last-update": 1762405835,
-        "last-updated-item": "yt",
+        "update-count": 4604,
+        "last-update": 1762420645,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5078,6 +5078,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat evaluasi panitia Bulkel 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
