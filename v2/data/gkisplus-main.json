@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4601,
-        "last-update": 1762402892,
+        "update-count": 4602,
+        "last-update": 1762404365,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4690,7 +4690,7 @@
             {
                 "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
                 "time": "08:00",
-                "time-to": "00:00",
+                "time-to": "12:00",
                 "timezone": "WIB",
                 "date": "2025-11-12",
                 "weekday": "wed",
