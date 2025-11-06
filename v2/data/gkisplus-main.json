@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4600,
-        "last-update": 1762400708,
+        "update-count": 4601,
+        "last-update": 1762402892,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4530,8 +4530,8 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
+                "status": "c",
+                "note": "Dialihkan Rapat Online"
             },
             {
                 "name": "Rapat POSG SDKr. 03",
