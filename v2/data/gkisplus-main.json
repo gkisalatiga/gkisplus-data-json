@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4599,
-        "last-update": 1762391563,
+        "update-count": 4600,
+        "last-update": 1762400708,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4534,6 +4534,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat POSG SDKr. 03",
+                "time": "09:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-11-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Latihan Pemusik Ibadah Umum (Tim Apostles)",
                 "time": "19:00",
                 "time-to": "22:00",
@@ -4544,6 +4558,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan sambut Natal KA",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-11-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "y",
                 "note": ""
             },
@@ -5049,34 +5077,6 @@
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan sambut Natal KA",
-                "time": "16:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-11-07",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat POSG SDKr. 03",
-                "time": "09:30",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-11-06",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
-                "status": "w",
                 "note": "-"
             }
         ],
