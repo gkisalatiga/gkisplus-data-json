@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4607,
-        "last-update": 1762501042,
+        "update-count": 4608,
+        "last-update": 1762523290,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4278,14 +4278,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-10-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "title": "Persekutuan SoDa",
