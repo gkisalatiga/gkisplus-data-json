@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4608,
-        "last-update": 1762523290,
-        "last-updated-item": "agenda",
+        "update-count": 4609,
+        "last-update": 1762535331,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 November 2025 | Pengharapan Adalah Sauh Yang Kuat",
+                        "date": "2025-11-07",
+                        "desc": "Dibawakan oleh Sdri. Jena Ariantje T",
+                        "link": "https://www.youtube.com/watch?v=3wTNkO7hvcA",
+                        "thumbnail": "https://i4.ytimg.com/vi/3wTNkO7hvcA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 November 2025 | Mengisi Kitab Kehidupan",
                         "date": "2025-11-06",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=nPMz8sdLVW4",
                         "thumbnail": "https://i3.ytimg.com/vi/nPMz8sdLVW4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Okt 2025 | Beri Aku 10 Pemuda, Niscaya Akan Kuguncangkan\u00a0Dunia",
-                        "date": "2025-10-28",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=FedH6TpheXE",
-                        "thumbnail": "https://i3.ytimg.com/vi/FedH6TpheXE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
