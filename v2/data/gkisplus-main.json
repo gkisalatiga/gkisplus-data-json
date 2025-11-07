@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4606,
-        "last-update": 1762454077,
-        "last-updated-item": "ykb",
+        "update-count": 4607,
+        "last-update": 1762501042,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4576,6 +4576,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat bph dan koor natal kr 2025",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa",
+                "status": "y",
+                "note": "tambah teh"
+            },
+            {
                 "name": "Percakapan Atestasi Masuk",
                 "time": "08:30",
                 "time-to": "09:30",
@@ -4698,6 +4712,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat evaluasi panitia Bulkel 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Elibert",
                 "status": "y",
                 "note": ""
             },
@@ -5078,34 +5106,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat evaluasi panitia Bulkel 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-11-14",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat bph dan koor natal kr 2025",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-11-07",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel Esa",
-                "status": "w",
-                "note": "tambah teh"
             }
         ],
         "backend": {
