@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4612,
-        "last-update": 1762569864,
+        "update-count": 4613,
+        "last-update": 1762577463,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1826,6 +1826,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 9 November 2025",
+                    "date": "2025-11-08",
+                    "link": "https://drive.google.com/file/d/1r9gdevZ3WyJt_MTtXU1OawR9nc8Jg_rp/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-9-november-2025/",
+                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2025/11/warta-9-nov-25.avif",
+                    "id": "1r9gdevZ3WyJt_MTtXU1OawR9nc8Jg_rp",
+                    "size": "1.80 MB"
+                },
+                {
                     "title": "Warta Jemaat 2 November 2025",
                     "date": "2025-11-01",
                     "link": "https://drive.google.com/file/d/1rl_17A1XikE2yGma7mrC6Fh0hTYgl43z/view",
@@ -2412,6 +2421,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 9 November 2025",
+                    "date": "2025-11-08",
+                    "link": "https://drive.google.com/file/d/1ab0OfDXStM30_-STSHvj29-jyMZStvhv/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-9-november-2025/",
+                    "thumbnail": "",
+                    "id": "1ab0OfDXStM30_-STSHvj29-jyMZStvhv",
+                    "size": "0.59 MB"
+                },
                 {
                     "title": "Tata Ibadah 2 November 2025",
                     "date": "2025-11-01",
