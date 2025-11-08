@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4610,
-        "last-update": 1762540338,
-        "last-updated-item": "ykb",
+        "update-count": 4611,
+        "last-update": 1762564108,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5098,6 +5098,34 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Natal Sekolah SMP Kristen 2",
+                "time": "07:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2025-12-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima Christin",
+                "status": "w",
+                "note": "Waktu pemakaian mungkin berubah setengah-satu jam"
+            },
+            {
+                "name": "Gladi bersih Natal Sekolah SMP Kristen 2 ",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-12-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima Christin",
+                "status": "w",
+                "note": "Perubahan gladi mungkin bisa berubah setengah hingga satu jam sebelum atau sesudahnya"
             }
         ],
         "backend": {
