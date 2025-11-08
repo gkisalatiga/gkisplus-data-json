@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4613,
-        "last-update": 1762577463,
+        "update-count": 4614,
+        "last-update": 1762578863,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4990,6 +4990,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pertemuan Pengembangan TIK",
+                "time": "11:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-11-23",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
