@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4622,
-        "last-update": 1762727761,
+        "update-count": 4623,
+        "last-update": 1762731117,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
+                        "date": "2025-11-09",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=W7jVi2qXK8M",
+                        "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 November 2025 | Gendong Aku",
+                        "date": "2025-11-09",
+                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
+                        "link": "https://www.youtube.com/watch?v=Fp0I2FGJMdE",
+                        "thumbnail": "https://i3.ytimg.com/vi/Fp0I2FGJMdE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 November 2025 | Pergunakanlah Waktu Dengan Baik",
                         "date": "2025-11-09",
