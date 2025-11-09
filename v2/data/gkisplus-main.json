@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4620,
-        "last-update": 1762712943,
-        "last-updated-item": "ykb",
+        "update-count": 4621,
+        "last-update": 1762725680,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Okt 2025 | Pergunakanlah Waktu Dengan Baik",
+                        "date": "2025-11-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=C4y6-MNRO0g",
+                        "thumbnail": "https://i4.ytimg.com/vi/C4y6-MNRO0g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 November 2025 | Pengharapan Adalah Sauh Yang Kuat",
                         "date": "2025-11-07",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Ibu Claudia A. Lazarusli",
                         "link": "https://www.youtube.com/watch?v=69H1wLnulEk",
                         "thumbnail": "https://i3.ytimg.com/vi/69H1wLnulEk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Okt 2025 | Keluarga Sebagai Support System Iman",
-                        "date": "2025-10-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=nPMz8sdLVW4",
-                        "thumbnail": "https://i3.ytimg.com/vi/nPMz8sdLVW4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
