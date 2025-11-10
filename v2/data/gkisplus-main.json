@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4626,
-        "last-update": 1762747204,
+        "update-count": 4627,
+        "last-update": 1762755931,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4616,6 +4616,20 @@
                 "pic": "Femi Yoritje",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "RAPAT PENGURUS YPE",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "YARI DWIKURNANINGSIH",
+                "status": "w",
+                "note": "--"
             }
         ],
         "backend": {
