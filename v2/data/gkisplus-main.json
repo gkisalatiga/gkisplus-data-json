@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4625,
-        "last-update": 1762743623,
-        "last-updated-item": "yt",
+        "update-count": 4626,
+        "last-update": 1762747204,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4601,6 +4601,20 @@
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Yohana Puji Astuti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Natal KP",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi Yoritje",
+                "status": "w",
                 "note": ""
             }
         ],
