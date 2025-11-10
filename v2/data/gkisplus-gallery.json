@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 54,
-        "last-update": 1762738296,
+        "update-count": 55,
+        "last-update": 1762756009,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -23776,25 +23776,15 @@
                 },
                 {
                     "folder_id": "1RdQxqOge0htO-WDaGFflOj2W5TocGa5i",
-                    "last_update": "2025-11-03",
-                    "featured_photo_id": "1AbNcWHZmfrgkjFjgK7D7ojsyuHTfvoKG",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu, 2 November yang dilaksanakan pada 2 November 2025.",
-                    "title": "Ibadah Minggu, 2 November",
+                    "last_update": "2025-11-10",
+                    "featured_photo_id": "17X1QViCb4sGCyxX5-G3wJd5vFlc_6m3U",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 2 November (English Service) yang dilaksanakan pada 2 November 2025.",
+                    "title": "Ibadah Minggu, 2 November (English Service)",
                     "event_date": "2025.11.02",
                     "photos": [
                         {
-                            "id": "1_RtAKErupEY-giMpasz5xsot-LJF5bC5",
-                            "name": "GKI Salatiga 021125-7-00010.JPG",
-                            "date": "2025-11-10"
-                        },
-                        {
                             "id": "1le952Py5qhgcAYq7ZEAsF4Ow13cYBihL",
                             "name": "GKI Salatiga 021125-7-00007.NEF",
-                            "date": "2025-11-10"
-                        },
-                        {
-                            "id": "1LVrSOI6RThHyAXwI6IgNsBshxBoSx1dZ",
-                            "name": "GKI Salatiga 021125-7-00008.JPG",
                             "date": "2025-11-10"
                         },
                         {
