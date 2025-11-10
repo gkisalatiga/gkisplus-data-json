@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4630,
-        "last-update": 1762762942,
-        "last-updated-item": "agenda",
+        "update-count": 4631,
+        "last-update": 1762794576,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,6 +21,27 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 14 Nov 2025 | White Lies",
+                        "date": "2025-11-10",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=JOd9UclzTxQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/JOd9UclzTxQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Nov 2025 | Terima Kasih",
+                        "date": "2025-11-10",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=YsSYIzHwXDI",
+                        "thumbnail": "https://i2.ytimg.com/vi/YsSYIzHwXDI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 11 Nov 2025 | Kristen yg Proaktif dalam Bingkai Kepahlawanan",
+                        "date": "2025-11-10",
+                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                        "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
+                        "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
                         "date": "2025-11-09",
                         "desc": "Dibawakan oleh Pdt. Merry Rungkat",
@@ -28,14 +49,14 @@
                         "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
                     },
                     {
-                        "title": "SaRen Pagi | 12 November 2025 | Gendong Aku",
+                        "title": "SaRen Pagi | 12 Nov 2025 | Gendong Aku",
                         "date": "2025-11-09",
                         "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
                         "link": "https://www.youtube.com/watch?v=Fp0I2FGJMdE",
                         "thumbnail": "https://i3.ytimg.com/vi/Fp0I2FGJMdE/hqdefault.jpg"
                     },
                     {
-                        "title": "SaRen Pagi | 10 November 2025 | Pergunakanlah Waktu Dengan Baik",
+                        "title": "SaRen Pagi | 10 Nov 2025 | Pergunakanlah Waktu Dengan Baik",
                         "date": "2025-11-09",
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=C4y6-MNRO0g",
@@ -82,20 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
                         "link": "https://www.youtube.com/watch?v=TkhqCjjkjd4",
                         "thumbnail": "https://i1.ytimg.com/vi/TkhqCjjkjd4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 November 2025 | Tuhan Menolong di Tengah Pencobaan",
-                        "date": "2025-10-31",
-                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
-                        "link": "https://www.youtube.com/watch?v=SoDwYIlS2bc",
-                        "thumbnail": "https://i4.ytimg.com/vi/SoDwYIlS2bc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Okt 2025 | Salah Sangka",
-                        "date": "2025-10-30",
-                        "desc": "Dibawakan oleh Ibu Claudia A. Lazarusli",
-                        "link": "https://www.youtube.com/watch?v=69H1wLnulEk",
-                        "thumbnail": "https://i3.ytimg.com/vi/69H1wLnulEk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
