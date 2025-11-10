@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4632,
-        "last-update": 1762799629,
-        "last-updated-item": "ykb",
+        "update-count": 4633,
+        "last-update": 1762805418,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 11 Nov 2025 | Kristen yg Proaktif dalam Bingkai Kepahlawanan",
+                        "date": "2025-11-10",
+                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                        "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
+                        "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 14 Nov 2025 | White Lies",
                         "date": "2025-11-10",
                         "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=YsSYIzHwXDI",
                         "thumbnail": "https://i2.ytimg.com/vi/YsSYIzHwXDI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Nov 2025 | Kristen yg Proaktif dalam Bingkai Kepahlawanan",
-                        "date": "2025-11-10",
-                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
-                        "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
-                        "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
