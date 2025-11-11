@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4637,
-        "last-update": 1762842245,
+        "update-count": 4638,
+        "last-update": 1762845349,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4485,6 +4485,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Sosialisasi dan Persiapan TKA",
+                "time": "08:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-10-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Percakapan Atestasi Masuk",
                 "time": "08:30",
                 "time-to": "09:30",
@@ -4611,6 +4625,20 @@
                 "note": "--"
             },
             {
+                "name": "Latihan ibadah Minggu",
+                "time": "19:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-11-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
                 "time": "08:00",
                 "time-to": "12:00",
@@ -4637,6 +4665,20 @@
                 "pic": "Pnt. Gita dan Pnt. Adi",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia Natal YPE",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-11-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             },
             {
                 "name": "Rapat evaluasi panitia Bulkel 2025",
@@ -5125,20 +5167,6 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Sosialisasi dan Persiapan TKA",
-                "time": "08:00",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2025-10-14",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
                 "status": "w",
                 "note": ""
             }
