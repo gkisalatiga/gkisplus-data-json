@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4643,
-        "last-update": 1762885991,
-        "last-updated-item": "ykb",
+        "update-count": 4644,
+        "last-update": 1762891769,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Nov 2025 | Gendong Aku",
+                        "date": "2025-11-11",
+                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
+                        "link": "https://www.youtube.com/watch?v=Fp0I2FGJMdE",
+                        "thumbnail": "https://i3.ytimg.com/vi/Fp0I2FGJMdE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Nov 2025 | Kristen yg Proaktif dalam Bingkai Kepahlawanan",
                         "date": "2025-11-10",
@@ -47,13 +54,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry Rungkat",
                         "link": "https://www.youtube.com/watch?v=W7jVi2qXK8M",
                         "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Nov 2025 | Gendong Aku",
-                        "date": "2025-11-09",
-                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
-                        "link": "https://www.youtube.com/watch?v=Fp0I2FGJMdE",
-                        "thumbnail": "https://i3.ytimg.com/vi/Fp0I2FGJMdE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 10 Nov 2025 | Pergunakanlah Waktu Dengan Baik",
