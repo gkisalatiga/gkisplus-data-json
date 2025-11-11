@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4635,
-        "last-update": 1762838165,
+        "update-count": 4636,
+        "last-update": 1762839670,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4581,6 +4581,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-11-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "RAPAT PENGURUS YPE",
