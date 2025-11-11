@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4640,
-        "last-update": 1762849236,
+        "update-count": 4641,
+        "last-update": 1762859626,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5197,6 +5197,20 @@
                 "pic": "Elibert ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi Pendamping KR",
+                "time": "11:00",
+                "time-to": "11:59",
+                "timezone": "WIB",
+                "date": "2025-11-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "."
             }
         ],
         "backend": {
