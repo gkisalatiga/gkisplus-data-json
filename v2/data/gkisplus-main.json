@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4634,
-        "last-update": 1762829731,
+        "update-count": 4635,
+        "last-update": 1762838165,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4583,18 +4583,18 @@
                 "note": "-"
             },
             {
-                "name": "PA Wilayah 1",
-                "time": "17:00",
-                "time-to": "18:00",
+                "name": "RAPAT PENGURUS YPE",
+                "time": "18:30",
+                "time-to": "20:00",
                 "timezone": "WIB",
                 "date": "2025-11-11",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "A.M. Widiatmoko",
-                "status": "y",
-                "note": ""
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "YARI DWIKURNANINGSIH",
+                "status": "w",
+                "note": "--"
             },
             {
                 "name": "Desiminasi Praktik Baik Pembelajaran Mendalam Kepala Sekolah SMP Kota Salatiga",
@@ -4695,6 +4695,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Panitia Natal KP",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi Yoritje",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan Pengembangan TIK",
                 "time": "11:30",
                 "time-to": "14:00",
@@ -4705,7 +4719,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5057,34 +5071,6 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Panitia Natal KP",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-11-19",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Femi Yoritje",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "RAPAT PENGURUS YPE",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-11-11",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "YARI DWIKURNANINGSIH",
-                "status": "w",
-                "note": "--"
             },
             {
                 "name": "PA Wilayah 9",
