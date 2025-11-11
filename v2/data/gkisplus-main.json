@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4638,
-        "last-update": 1762845349,
+        "update-count": 4639,
+        "last-update": 1762846730,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4621,8 +4621,8 @@
                 "place": "Ruang Konsistori",
                 "representative": "YPE",
                 "pic": "YARI DWIKURNANINGSIH",
-                "status": "w",
-                "note": "--"
+                "status": "y",
+                "note": "Menunggu ruangan selesai dipakai PA"
             },
             {
                 "name": "Latihan ibadah Minggu",
@@ -4635,7 +4635,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4677,7 +4677,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "YPE",
                 "pic": "Iryatun Trikorini ",
-                "status": "w",
+                "status": "c",
                 "note": "Terima kasih "
             },
             {
@@ -4761,7 +4761,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Femi Yoritje",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5139,7 +5139,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5153,7 +5153,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5167,8 +5167,22 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert ",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Perayaan Natal",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "TK Kristen 03 Eben Haezer",
+                "pic": "Wahyu Agustina Rimbita",
+                "status": "w",
+                "note": "Mohon bantuan petugas multimedia. Terimakasih\n"
             }
         ],
         "backend": {
