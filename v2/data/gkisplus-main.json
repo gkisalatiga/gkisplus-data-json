@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4641,
-        "last-update": 1762859626,
+        "update-count": 4642,
+        "last-update": 1762864295,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5211,6 +5211,20 @@
                 "pic": "Samuel Martono",
                 "status": "w",
                 "note": "."
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-11-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
