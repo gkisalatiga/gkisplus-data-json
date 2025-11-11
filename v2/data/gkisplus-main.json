@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4639,
-        "last-update": 1762846730,
+        "update-count": 4640,
+        "last-update": 1762849236,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4649,7 +4649,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4678,6 +4678,20 @@
                 "representative": "YPE",
                 "pic": "Iryatun Trikorini ",
                 "status": "c",
+                "note": "Terima kasih "
+            },
+            {
+                "name": "Rakor Dirlak & Kep.Sek",
+                "time": "10:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-11-12",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
                 "note": "Terima kasih "
             },
             {
@@ -5101,6 +5115,20 @@
                 "note": "-"
             },
             {
+                "name": "Perayaan Natal",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "TK Kristen 03 Eben Haezer",
+                "pic": "Wahyu Agustina Rimbita",
+                "status": "y",
+                "note": "Mohon bantuan petugas multimedia. Terimakasih\n"
+            },
+            {
                 "name": "PA Wilayah 7\t",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5169,20 +5197,6 @@
                 "pic": "Elibert ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Perayaan Natal",
-                "time": "07:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "TK Kristen 03 Eben Haezer",
-                "pic": "Wahyu Agustina Rimbita",
-                "status": "w",
-                "note": "Mohon bantuan petugas multimedia. Terimakasih\n"
             }
         ],
         "backend": {
