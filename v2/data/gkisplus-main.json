@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4636,
-        "last-update": 1762839670,
+        "update-count": 4637,
+        "last-update": 1762842245,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5125,6 +5125,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sosialisasi dan Persiapan TKA",
+                "time": "08:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2025-10-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
                 "status": "w",
                 "note": ""
             }
