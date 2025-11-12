@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4647,
-        "last-update": 1762921166,
+        "update-count": 4648,
+        "last-update": 1762924602,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4765,6 +4765,20 @@
                 "note": ""
             },
             {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2025-11-16",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Gita Hastuti & Pnt. Catur",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5294,20 +5308,6 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapan Atestasi Masuk",
-                "time": "11:30",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2025-11-16",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Gita Hastuti & Pnt. Catur",
-                "status": "w",
                 "note": ""
             }
         ],
