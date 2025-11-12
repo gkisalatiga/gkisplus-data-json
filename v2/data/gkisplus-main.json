@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4649,
-        "last-update": 1762972315,
-        "last-updated-item": "ykb",
+        "update-count": 4650,
+        "last-update": 1762978194,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
+                        "date": "2025-11-12",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=W7jVi2qXK8M",
+                        "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Nov 2025 | Gendong Aku",
                         "date": "2025-11-11",
@@ -47,13 +54,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=YsSYIzHwXDI",
                         "thumbnail": "https://i2.ytimg.com/vi/YsSYIzHwXDI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
-                        "date": "2025-11-09",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=W7jVi2qXK8M",
-                        "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 10 Nov 2025 | Pergunakanlah Waktu Dengan Baik",
