@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4651,
-        "last-update": 1763002579,
+        "update-count": 4652,
+        "last-update": 1763016640,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5126,6 +5126,20 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "16:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-11-15",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur dan Pnt. Adita",
+                "status": "w",
                 "note": ""
             }
         ],
