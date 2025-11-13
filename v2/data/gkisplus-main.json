@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4654,
-        "last-update": 1763058793,
-        "last-updated-item": "ykb",
+        "update-count": 4655,
+        "last-update": 1763064612,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Nov 2025 | White Lies",
+                        "date": "2025-11-13",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=JOd9UclzTxQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/JOd9UclzTxQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
                         "date": "2025-11-12",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pnt. Samuel Martono",
                         "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
                         "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Nov 2025 | White Lies",
-                        "date": "2025-11-10",
-                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
-                        "link": "https://www.youtube.com/watch?v=JOd9UclzTxQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/JOd9UclzTxQ/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 15 Nov 2025 | Terima Kasih",
