@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4660,
-        "last-update": 1763145223,
-        "last-updated-item": "ykb",
+        "update-count": 4661,
+        "last-update": 1763151019,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Nov 2025 | Terima Kasih",
+                        "date": "2025-11-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=YsSYIzHwXDI",
+                        "thumbnail": "https://i2.ytimg.com/vi/YsSYIzHwXDI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Nov 2025 | White Lies",
                         "date": "2025-11-13",
@@ -47,13 +54,6 @@
                         "desc": "Dibawakan oleh Pnt. Samuel Martono",
                         "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
                         "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Nov 2025 | Terima Kasih",
-                        "date": "2025-11-10",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=YsSYIzHwXDI",
-                        "thumbnail": "https://i2.ytimg.com/vi/YsSYIzHwXDI/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 10 Nov 2025 | Pergunakanlah Waktu Dengan Baik",
