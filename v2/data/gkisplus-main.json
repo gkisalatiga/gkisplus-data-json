@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4656,
-        "last-update": 1763088907,
+        "update-count": 4657,
+        "last-update": 1763091774,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5153,6 +5153,34 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Dewasa",
                 "pic": "I Made Santi ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Meditatif  Variatif",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Iren Supit",
+                "status": "w",
+                "note": "Ibadah lesehan"
+            },
+            {
+                "name": "Latihan Ibadah Minggu",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-11-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
                 "status": "w",
                 "note": ""
             }
