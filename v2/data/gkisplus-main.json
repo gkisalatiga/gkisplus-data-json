@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4655,
-        "last-update": 1763064612,
-        "last-updated-item": "yt",
+        "update-count": 4656,
+        "last-update": 1763088907,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5140,6 +5140,20 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Natal Komisi Dewasa",
+                "time": "17:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-01-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "I Made Santi ",
+                "status": "w",
                 "note": ""
             }
         ],
