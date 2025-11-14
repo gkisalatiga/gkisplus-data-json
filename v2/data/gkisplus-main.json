@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4657,
-        "last-update": 1763091774,
+        "update-count": 4658,
+        "last-update": 1763103037,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4583,6 +4583,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Ibadah Minggu",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-11-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Percakapan Atestasi Masuk",
                 "time": "16:00",
                 "time-to": "17:00",
@@ -4593,7 +4607,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Catur dan Pnt. Adita",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4679,6 +4693,20 @@
                 "pic": "Femi Yoritje",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Ibadah Meditatif  Variatif",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Iren Supit",
+                "status": "y",
+                "note": "Ibadah lesehan"
             },
             {
                 "name": "Pertemuan Pengembangan TIK",
@@ -5101,6 +5129,20 @@
                 "note": "-"
             },
             {
+                "name": "Natal Komisi Dewasa",
+                "time": "17:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-01-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Made Santi ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 9",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5140,48 +5182,6 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Natal Komisi Dewasa",
-                "time": "17:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-01-03",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Dewasa",
-                "pic": "I Made Santi ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Ibadah Meditatif  Variatif",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-11-20",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Iren Supit",
-                "status": "w",
-                "note": "Ibadah lesehan"
-            },
-            {
-                "name": "Latihan Ibadah Minggu",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-11-14",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
                 "note": ""
             }
         ],
