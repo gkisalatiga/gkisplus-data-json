@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4658,
-        "last-update": 1763103037,
+        "update-count": 4659,
+        "last-update": 1763105860,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4593,7 +4593,7 @@
                 "place": "Ruang Studio",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4845,7 +4845,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina Purnama",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4859,7 +4859,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina Purnama",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4957,7 +4957,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina Purnama",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
