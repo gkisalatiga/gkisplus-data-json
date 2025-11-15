@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4663,
-        "last-update": 1763180258,
-        "last-updated-item": "agenda",
+        "update-count": 4664,
+        "last-update": 1763192458,
+        "last-updated-item": "pdf",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -1847,6 +1847,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 16 November 2025",
+                    "date": "2025-11-15",
+                    "link": "https://drive.google.com/file/d/1mNxyGCxh4C11KYCXZ796Of3En4nqRWIB/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-16-november-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1mNxyGCxh4C11KYCXZ796Of3En4nqRWIB",
+                    "id": "1mNxyGCxh4C11KYCXZ796Of3En4nqRWIB",
+                    "size": "1.93 MB"
+                },
+                {
                     "title": "Warta Jemaat 9 November 2025",
                     "date": "2025-11-08",
                     "link": "https://drive.google.com/file/d/1r9gdevZ3WyJt_MTtXU1OawR9nc8Jg_rp/view",
@@ -2442,6 +2451,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 16 November 2025",
+                    "date": "2025-11-15",
+                    "link": "https://drive.google.com/file/d/1wnVBRCOejVF_k2siQbvXmzrQLpLPaswk/view",
+                    "post-page": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1wnVBRCOejVF_k2siQbvXmzrQLpLPaswk",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1wnVBRCOejVF_k2siQbvXmzrQLpLPaswk",
+                    "id": "1wnVBRCOejVF_k2siQbvXmzrQLpLPaswk",
+                    "size": "0.62 MB"
+                },
                 {
                     "title": "Tata Ibadah 9 November 2025",
                     "date": "2025-11-08",
