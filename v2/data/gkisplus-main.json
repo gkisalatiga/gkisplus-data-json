@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4662,
-        "last-update": 1763167371,
-        "last-updated-item": "yt",
+        "update-count": 4663,
+        "last-update": 1763180258,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -3463,16 +3463,6 @@
                     "note": "Minggu ke-3"
                 },
                 {
-                    "name": "Latihan PS Hosana",
-                    "time": "17:00",
-                    "time-to": "18:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Komisi Musik dan Liturgi",
-                    "note": ""
-                },
-                {
                     "name": "Persidangan Majelis Jemaat (PMJ)",
                     "time": "18:30",
                     "time-to": "21:00",
@@ -3604,6 +3594,16 @@
                     "type": "rutin",
                     "place": "Ruang Betlehem & Teras",
                     "representative": "Tim Warung Tiberias",
+                    "note": ""
+                },
+                {
+                    "name": "Latihan PS Hosana",
+                    "time": "11:00",
+                    "time-to": "12:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kapernaum",
+                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
@@ -4357,7 +4357,7 @@
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp_3.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
-                        {
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk.webp",
                 "title": "Informasi GKIS+",
                 "type": "poster",
@@ -4613,6 +4613,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Gita Hastuti & Pnt. Catur",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat besar untuk persiapan natal KR",
+                "time": "08:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-11-16",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betania",
+                "representative": "Komisi Remaja",
+                "pic": "Sam",
                 "status": "y",
                 "note": ""
             },
