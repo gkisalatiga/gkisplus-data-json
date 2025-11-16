@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4667,
-        "last-update": 1763231373,
-        "last-updated-item": "ykb",
+        "update-count": 4668,
+        "last-update": 1763274098,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5278,6 +5278,20 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Sambut Natal KA",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
                 "note": ""
             }
         ],
