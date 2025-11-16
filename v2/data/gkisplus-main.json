@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4668,
-        "last-update": 1763274098,
-        "last-updated-item": "agenda",
+        "update-count": 4669,
+        "last-update": 1763302101,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |17 Nov 2025",
+                        "date": "2025-11-16",
+                        "desc": "Dibawakan oleh Bpk. Priyo Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=dszaH550Yko",
+                        "thumbnail": "https://i1.ytimg.com/vi/dszaH550Yko/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Nov 2025 | Terima Kasih",
                         "date": "2025-11-14",
