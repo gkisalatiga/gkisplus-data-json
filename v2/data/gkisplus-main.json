@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4673,
-        "last-update": 1763353314,
+        "update-count": 4674,
+        "last-update": 1763365101,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5260,6 +5260,20 @@
                 "timezone": "WIB",
                 "date": "2025-11-17",
                 "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Bidang 1",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
                 "type": "proposal",
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
