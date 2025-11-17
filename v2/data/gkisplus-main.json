@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4675,
-        "last-update": 1763369363,
-        "last-updated-item": "agenda",
+        "update-count": 4676,
+        "last-update": 1763377751,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Nov 2025",
+                        "date": "2025-11-17",
+                        "desc": "Dibawakan oleh Ibu Susetyo Rini",
+                        "link": "https://www.youtube.com/watch?v=qrqRdCtHWYk",
+                        "thumbnail": "https://i2.ytimg.com/vi/qrqRdCtHWYk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |17 Nov 2025",
                         "date": "2025-11-16",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Damara Laksmi",
                         "link": "https://www.youtube.com/watch?v=VZ7qdk9qzVU",
                         "thumbnail": "https://i3.ytimg.com/vi/VZ7qdk9qzVU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 November 2025 | Hidup Yang Menjadi Berkat",
-                        "date": "2025-11-02",
-                        "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
-                        "link": "https://www.youtube.com/watch?v=TkhqCjjkjd4",
-                        "thumbnail": "https://i1.ytimg.com/vi/TkhqCjjkjd4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
