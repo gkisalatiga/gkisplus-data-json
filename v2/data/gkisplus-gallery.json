@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 55,
-        "last-update": 1762756009,
+        "update-count": 56,
+        "last-update": 1763348191,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -23896,6 +23896,76 @@
                             "id": "1bLvjk_m-FP9vSdqqfvbA1SNlD5h8S1HV",
                             "name": "GKI SALATIGA - 20251102 (10).JPG",
                             "date": "2025-11-03"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1M6pMOKF6t__HQkoT3SjGk8LBVf-MOFsV",
+                    "last_update": "2025-11-17",
+                    "featured_photo_id": "14XoY6AhpDhsBuJaaTNsxU5TuT4msekfZ",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 16 November yang dilaksanakan pada 16 November 2025.",
+                    "title": "Ibadah Minggu, 16 November",
+                    "event_date": "2025.11.16",
+                    "photos": [
+                        {
+                            "id": "1gvYstLNz_N3Gk7HJwXUq5t37yXjTKSVA",
+                            "name": "DSCF5182.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1ROOqAXGh41paByZNJJDxIq9kqmzelV84",
+                            "name": "DSCF5227.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1r8rcUv3Prjp35Y-zftYLHlJvoxTkiDk5",
+                            "name": "DSCF5197.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1DsQQz4P6ZgnuvvPnLqCRSnTjnFY3pXQo",
+                            "name": "DSCF5193.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1SXwAlDatrehSbrdirkeWWPxnR7qz2uPL",
+                            "name": "DSCF5185.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1tApa-qGIrOE2cuHHTyPEVoedcOqu59_h",
+                            "name": "DSCF5214.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1NmkBGmrVjPnLvNhRgQxz7kjkZkr5_nrI",
+                            "name": "DSCF5203.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1Fn9YabxKXdEtD0WTPimzXj21nSFlVfob",
+                            "name": "DSCF5205.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1xtvqYb-KPMq8dHD96nNvkeUMB9e5RvY_",
+                            "name": "DSCF5218.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "11hebsPEcjwRKefPjK_rQoz56Kbx7c4sU",
+                            "name": "DSCF5209.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1xZuP3pcvEalKM_asz_yOx891DSt22WES",
+                            "name": "DSCF5220.JPG",
+                            "date": "2025-11-17"
+                        },
+                        {
+                            "id": "1sTdnAO3GrqNqJ4NsJxwslNHP2SkzAXhT",
+                            "name": "DSCF5229.JPG",
+                            "date": "2025-11-17"
                         }
                     ]
                 }
