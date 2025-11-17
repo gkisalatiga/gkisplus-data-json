@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4672,
-        "last-update": 1763347797,
-        "last-updated-item": "ykb",
+        "update-count": 4673,
+        "last-update": 1763353314,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5252,6 +5252,20 @@
                 "pic": "Vicha",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Percakapan",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-17",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
