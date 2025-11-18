@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4679,
-        "last-update": 1763444457,
+        "update-count": 4680,
+        "last-update": 1763447006,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5293,6 +5293,34 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-11-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-11-22",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "w",
                 "note": ""
             }
         ],
