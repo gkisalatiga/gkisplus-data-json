@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4680,
-        "last-update": 1763447006,
+        "update-count": 4681,
+        "last-update": 1763451512,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4750,6 +4750,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan LAVE",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-11-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Pnt. Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia Natal KP",
                 "time": "18:00",
                 "time-to": "21:00",
@@ -4818,6 +4832,20 @@
                 "pic": "Natalia Setiawati Br Tarigan ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pertemuan florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-11-22",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "c",
+                "note": ""
             },
             {
                 "name": "Pertemuan Pengembangan TIK",
@@ -5293,34 +5321,6 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan LAVE",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-11-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Pnt. Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan florist",
-                "time": "12:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-11-22",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Atiek Widyati",
-                "status": "w",
                 "note": ""
             }
         ],
