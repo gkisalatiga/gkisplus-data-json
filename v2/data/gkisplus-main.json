@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4678,
-        "last-update": 1763442954,
+        "update-count": 4679,
+        "last-update": 1763444457,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4690,7 +4690,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4788,7 +4788,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4802,7 +4802,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4816,7 +4816,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Natalia Setiawati Br Tarigan ",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
