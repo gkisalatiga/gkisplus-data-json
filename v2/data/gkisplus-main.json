@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4677,
-        "last-update": 1763404410,
-        "last-updated-item": "ykb",
+        "update-count": 4678,
+        "last-update": 1763442954,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4680,6 +4680,20 @@
                 "note": ""
             },
             {
+                "name": "Percakapan",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-17",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4762,6 +4776,48 @@
                 "pic": "Iren Supit",
                 "status": "y",
                 "note": "Ibadah lesehan"
+            },
+            {
+                "name": "Latihan Sambut Natal KA",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Bidang 1",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "OHOPROS Parents Celebration ",
+                "time": "00:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-11-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Natalia Setiawati Br Tarigan ",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "Pertemuan Pengembangan TIK",
@@ -5238,62 +5294,6 @@
                 "pic": "Elibert ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan Sambut Natal KA",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-11-20",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Percakapan",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-11-17",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Bidang 1",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-11-20",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "OHOPROS Parents Celebration ",
-                "time": "00:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-11-21",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Natalia Setiawati Br Tarigan ",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
