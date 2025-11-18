@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4681,
-        "last-update": 1763451512,
+        "update-count": 4682,
+        "last-update": 1763461117,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5322,6 +5322,20 @@
                 "pic": "Elibert ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
