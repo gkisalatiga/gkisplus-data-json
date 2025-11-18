@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4683,
-        "last-update": 1763490925,
-        "last-updated-item": "ykb",
+        "update-count": 4684,
+        "last-update": 1763496609,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |19 Nov 2025",
+                        "date": "2025-11-18",
+                        "desc": "Dibawakan oleh Ibu Tuty Hemawati",
+                        "link": "https://www.youtube.com/watch?v=bVxCIiff2nM",
+                        "thumbnail": "https://i3.ytimg.com/vi/bVxCIiff2nM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Nov 2025",
                         "date": "2025-11-17",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=WqpCOk9Q8PQ",
                         "thumbnail": "https://i4.ytimg.com/vi/WqpCOk9Q8PQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 November 2025 | Allah Peduli",
-                        "date": "2025-11-03",
-                        "desc": "Dibawakan oleh Ibu Damara Laksmi",
-                        "link": "https://www.youtube.com/watch?v=VZ7qdk9qzVU",
-                        "thumbnail": "https://i3.ytimg.com/vi/VZ7qdk9qzVU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
