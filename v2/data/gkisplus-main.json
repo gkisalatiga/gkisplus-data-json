@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4689,
-        "last-update": 1763552231,
-        "last-updated-item": "agenda",
+        "update-count": 4690,
+        "last-update": 1763561382,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Nov 2025 | Lihatlah Betapa Besar Perbuatan-Nya dan Setialah!",
+                        "date": "2025-11-19",
+                        "desc": "Dibawakan oleh Pdt Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=0FHsuqR1hzk",
+                        "thumbnail": "https://i1.ytimg.com/vi/0FHsuqR1hzk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |19 Nov 2025",
                         "date": "2025-11-18",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
                         "link": "https://www.youtube.com/watch?v=vPgWONQYLA8",
                         "thumbnail": "https://i3.ytimg.com/vi/vPgWONQYLA8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 November 2025 | Ketika Berkat Tak Terlihat",
-                        "date": "2025-11-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=WqpCOk9Q8PQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/WqpCOk9Q8PQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
