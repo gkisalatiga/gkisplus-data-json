@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4686,
-        "last-update": 1763536524,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 4687,
+        "last-update": 1763545350,
+        "last-updated-item": "yt",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
     "data": {
@@ -117,7 +117,8 @@
                 "title": "Sapaan dan Renungan Pagi",
                 "type": "rss",
                 "pinned": 1,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 0
             },
             {
                 "content": [
@@ -337,7 +338,8 @@
                 "title": "Kebaktian Umum",
                 "type": "regular",
                 "pinned": 1,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -550,7 +552,8 @@
                 "title": "English Service",
                 "type": "regular",
                 "pinned": 1,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -770,7 +773,8 @@
                 "title": "Ibadah Komisi Usia Lanjut",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -976,7 +980,8 @@
                 "title": "Ibadah Remaja",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1168,7 +1173,8 @@
                 "title": "Paduan Suara",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1234,7 +1240,8 @@
                 "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1454,7 +1461,8 @@
                 "title": "Komisi Anak",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1499,7 +1507,8 @@
                 "title": "Komisi Dewasa",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1719,7 +1728,8 @@
                 "title": "Kebaktian Pernikahan",
                 "type": "regular",
                 "pinned": 0,
-                "is_shown": 1
+                "is_shown": 1,
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1848,7 +1858,8 @@
                 "title": "Bulan Keluarga 2025",
                 "type": "regular",
                 "pinned": 1,
-                "is_shown": 0
+                "is_shown": 0,
+                "is_shown_ios": 1
             }
         ],
         "pdf": {
