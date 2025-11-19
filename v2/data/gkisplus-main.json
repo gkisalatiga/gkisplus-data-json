@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4685,
-        "last-update": 1763520839,
+        "update-count": 4686,
+        "last-update": 1763536524,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5350,6 +5350,62 @@
                 "pic": "Yari Dwikurnaningsih",
                 "status": "w",
                 "note": "---"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
