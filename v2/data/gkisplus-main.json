@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4684,
-        "last-update": 1763496609,
-        "last-updated-item": "yt",
+        "update-count": 4685,
+        "last-update": 1763520839,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5336,6 +5336,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "w",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Rapat Pengurus YPE",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "---"
             }
         ],
         "backend": {
