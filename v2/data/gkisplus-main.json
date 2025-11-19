@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4688,
-        "last-update": 1763550544,
-        "last-updated-item": "yt",
+        "update-count": 4689,
+        "last-update": 1763552231,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4789,6 +4789,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pengurus YPE",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "---"
+            },
+            {
                 "name": "Ibadah Meditatif  Variatif",
                 "time": "11:00",
                 "time-to": "13:00",
@@ -4829,6 +4843,20 @@
                 "pic": "Pnt. Desemy Ch. N. Ballo",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "OHOPROS Parents Celebration ",
@@ -5293,76 +5321,6 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-11-20",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
-            },
-            {
-                "name": "Rapat Pengurus YPE",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-11-19",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "w",
-                "note": "---"
-            },
-            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5375,6 +5333,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 7",
@@ -5391,6 +5363,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5403,6 +5389,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert ",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 7",
