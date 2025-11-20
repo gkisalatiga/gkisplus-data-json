@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4693,
-        "last-update": 1763619793,
+        "update-count": 4694,
+        "last-update": 1763622928,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4591,6 +4591,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Latihan Musik Ibadah Minggu",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-11-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adriel Pranawa Adi",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "OHOPROS Parents Celebration ",
