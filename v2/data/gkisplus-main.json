@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4696,
-        "last-update": 1763663669,
-        "last-updated-item": "ykb",
+        "update-count": 4697,
+        "last-update": 1763678142,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Nov 2025 | Mencukupkan Diri",
+                        "date": "2025-11-20",
+                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=I3XyNJbKvyc",
+                        "thumbnail": "https://i2.ytimg.com/vi/I3XyNJbKvyc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Nov 2025 | Lihatlah Betapa Besar Perbuatan-Nya dan Setialah!",
                         "date": "2025-11-19",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Dorothea Dyah Utami",
                         "link": "https://www.youtube.com/watch?v=ehKzUz0bj7w",
                         "thumbnail": "https://i2.ytimg.com/vi/ehKzUz0bj7w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 November 2025 | Aku Mau Menyenangkan-Mu",
-                        "date": "2025-11-05",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=vPgWONQYLA8",
-                        "thumbnail": "https://i3.ytimg.com/vi/vPgWONQYLA8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
