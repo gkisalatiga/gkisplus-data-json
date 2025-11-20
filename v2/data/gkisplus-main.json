@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4692,
-        "last-update": 1763607136,
+        "update-count": 4693,
+        "last-update": 1763619793,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4575,7 +4575,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
