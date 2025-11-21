@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4701,
-        "last-update": 1763723322,
+        "update-count": 4702,
+        "last-update": 1763749295,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -339,7 +339,7 @@
                 "type": "regular",
                 "pinned": 1,
                 "is_shown": 1,
-                "is_shown_ios": 1
+                "is_shown_ios": 0
             },
             {
                 "content": [
