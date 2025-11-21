@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4698,
-        "last-update": 1763693572,
+        "update-count": 4699,
+        "last-update": 1763707891,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5196,6 +5196,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Renny Yiwa",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik ibadah Minggu",
+                "time": "19:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-11-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adriel Pranawa Adi",
+                "status": "w",
                 "note": ""
             }
         ],
