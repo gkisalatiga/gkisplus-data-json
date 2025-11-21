@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4700,
-        "last-update": 1763709361,
-        "last-updated-item": "agenda",
+        "update-count": 4701,
+        "last-update": 1763723322,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Nov 2025 | Manusia Berdosa",
+                        "date": "2025-11-21",
+                        "desc": "Dibawakan oleh Sdri.Adoltina Muloko",
+                        "link": "https://www.youtube.com/watch?v=TEUWJ0wYQs4",
+                        "thumbnail": "https://i1.ytimg.com/vi/TEUWJ0wYQs4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Nov 2025 | Mencukupkan Diri",
                         "date": "2025-11-20",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Sdri. Jena Ariantje T",
                         "link": "https://www.youtube.com/watch?v=3wTNkO7hvcA",
                         "thumbnail": "https://i4.ytimg.com/vi/3wTNkO7hvcA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 November 2025 | Mengisi Kitab Kehidupan",
-                        "date": "2025-11-06",
-                        "desc": "Dibawakan oleh Ibu Dorothea Dyah Utami",
-                        "link": "https://www.youtube.com/watch?v=ehKzUz0bj7w",
-                        "thumbnail": "https://i2.ytimg.com/vi/ehKzUz0bj7w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
