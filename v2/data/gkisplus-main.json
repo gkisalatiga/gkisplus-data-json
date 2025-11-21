@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4699,
-        "last-update": 1763707891,
+        "update-count": 4700,
+        "last-update": 1763709361,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4611,6 +4611,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah Minggu",
+                "time": "19:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-11-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adriel Pranawa Adi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan florist",
                 "time": "12:00",
                 "time-to": "14:00",
@@ -4635,6 +4649,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Bp. Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. Hosana",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-11-22",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Renny Yiwa",
                 "status": "y",
                 "note": ""
             },
@@ -5183,34 +5211,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan PS. Hosana",
-                "time": "11:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-11-22",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Renny Yiwa",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik ibadah Minggu",
-                "time": "19:00",
-                "time-to": "21:30",
-                "timezone": "WIB",
-                "date": "2025-11-21",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adriel Pranawa Adi",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
