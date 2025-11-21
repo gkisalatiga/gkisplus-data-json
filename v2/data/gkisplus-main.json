@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4697,
-        "last-update": 1763678142,
-        "last-updated-item": "yt",
+        "update-count": 4698,
+        "last-update": 1763693572,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5183,6 +5183,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan PS. Hosana",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-11-22",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Renny Yiwa",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
