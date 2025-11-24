@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4714,
-        "last-update": 1763961434,
-        "last-updated-item": "agenda",
+        "update-count": 4715,
+        "last-update": 1764004175,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Nov 2025 | Allah Menghibur dan Menguatkan Kita",
+                        "date": "2025-11-24",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=1dsijxVm1Z8",
+                        "thumbnail": "https://i2.ytimg.com/vi/1dsijxVm1Z8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Nov 2025",
                         "date": "2025-11-23",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pnt. Samuel Martono",
                         "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
                         "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Nov 2025 | Pergunakanlah Waktu Dengan Baik",
-                        "date": "2025-11-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=C4y6-MNRO0g",
-                        "thumbnail": "https://i4.ytimg.com/vi/C4y6-MNRO0g/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
