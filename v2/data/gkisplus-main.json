@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4713,
-        "last-update": 1763954559,
-        "last-updated-item": "ykb",
+        "update-count": 4714,
+        "last-update": 1763961434,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5249,6 +5249,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Lomba pra Natal SD Kr 03 ",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-12-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Ibu Evelina",
                 "status": "w",
                 "note": ""
             }
