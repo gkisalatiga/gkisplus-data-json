@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4718,
-        "last-update": 1764051917,
+        "update-count": 4719,
+        "last-update": 1764053563,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4787,7 +4787,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Paklik Vidta",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4801,7 +4801,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4815,7 +4815,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
