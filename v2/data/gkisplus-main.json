@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4722,
-        "last-update": 1764060532,
-        "last-updated-item": "agenda",
+        "update-count": 4723,
+        "last-update": 1764090678,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Nov 2025 | Hidup yang Bermakna",
+                        "date": "2025-11-25",
+                        "desc": "Dibawakan oleh Sdri. Asputri R. Kaat",
+                        "link": "https://www.youtube.com/watch?v=xhz1HFiptRE",
+                        "thumbnail": "https://i1.ytimg.com/vi/xhz1HFiptRE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Nov 2025 | Allah Menghibur dan Menguatkan Kita",
                         "date": "2025-11-24",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
                         "link": "https://www.youtube.com/watch?v=Fp0I2FGJMdE",
                         "thumbnail": "https://i3.ytimg.com/vi/Fp0I2FGJMdE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Nov 2025 | Kristen yg Proaktif dalam Bingkai Kepahlawanan",
-                        "date": "2025-11-10",
-                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
-                        "link": "https://www.youtube.com/watch?v=KLGEPjFzg7A",
-                        "thumbnail": "https://i4.ytimg.com/vi/KLGEPjFzg7A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
