@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4719,
-        "last-update": 1764053563,
+        "update-count": 4720,
+        "last-update": 1764054981,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5293,6 +5293,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-11-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
