@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4727,
-        "last-update": 1764152327,
-        "last-updated-item": "agenda",
+        "update-count": 4728,
+        "last-update": 1764155339,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Nov 2025",
+                        "date": "2025-11-26",
+                        "desc": "Dibawakan oleh Ibu Melia Aditya",
+                        "link": "https://www.youtube.com/watch?v=dbquSDSFS2s",
+                        "thumbnail": "https://i1.ytimg.com/vi/dbquSDSFS2s/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Nov 2025 | Hidup yang Bermakna",
                         "date": "2025-11-25",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry Rungkat",
                         "link": "https://www.youtube.com/watch?v=W7jVi2qXK8M",
                         "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Nov 2025 | Gendong Aku",
-                        "date": "2025-11-11",
-                        "desc": "Dibawakan oleh Ibu Woro Tjiptaningsih",
-                        "link": "https://www.youtube.com/watch?v=Fp0I2FGJMdE",
-                        "thumbnail": "https://i3.ytimg.com/vi/Fp0I2FGJMdE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
