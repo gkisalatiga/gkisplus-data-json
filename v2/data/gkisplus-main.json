@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4726,
-        "last-update": 1764135684,
+        "update-count": 4727,
+        "last-update": 1764152327,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4819,6 +4819,20 @@
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
+                "name": "Rapat pan sambut Natal Wil 11",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan musik",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -4831,6 +4845,20 @@
                 "pic": "Uncle Vidra",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pertemuan tim florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-11-29",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": "Minta tolong pakai meja besar "
             },
             {
                 "name": "PA Wilayah 11",
@@ -4997,7 +5025,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5307,34 +5335,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat pan sambut Natal Wil 11",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-11-27",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan tim florist",
-                "time": "12:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-11-29",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Atiek Widyati",
-                "status": "w",
-                "note": "Minta tolong pakai meja besar "
             }
         ],
         "backend": {
