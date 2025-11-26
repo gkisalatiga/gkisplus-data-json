@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4725,
-        "last-update": 1764119592,
+        "update-count": 4726,
+        "last-update": 1764135684,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5321,6 +5321,20 @@
                 "pic": "Yuliyanti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Pertemuan tim florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-11-29",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": "Minta tolong pakai meja besar "
             }
         ],
         "backend": {
