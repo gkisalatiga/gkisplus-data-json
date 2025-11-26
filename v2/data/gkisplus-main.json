@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4724,
-        "last-update": 1764095761,
-        "last-updated-item": "ykb",
+        "update-count": 4725,
+        "last-update": 1764119592,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5307,6 +5307,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat pan sambut Natal Wil 11",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-11-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
