@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4732,
-        "last-update": 1764224716,
+        "update-count": 4733,
+        "last-update": 1764229163,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4700,7 +4700,7 @@
                 "date": "2025-12-05",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
+                "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Atik Widyati",
                 "status": "y",
