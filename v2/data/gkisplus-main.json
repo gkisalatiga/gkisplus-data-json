@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4730,
-        "last-update": 1764212019,
-        "last-updated-item": "agenda",
+        "update-count": 4731,
+        "last-update": 1764212665,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Nov 2025 | Persatuan Dalam Keluarga Tuhan",
+                        "date": "2025-11-27",
+                        "desc": "Dibawakan oleh Bpk. Nathanael Hardjono",
+                        "link": "https://www.youtube.com/watch?v=ZSLnBHxy_QI",
+                        "thumbnail": "https://i3.ytimg.com/vi/ZSLnBHxy_QI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Nov 2025",
                         "date": "2025-11-26",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
                         "link": "https://www.youtube.com/watch?v=JOd9UclzTxQ",
                         "thumbnail": "https://i3.ytimg.com/vi/JOd9UclzTxQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Nov 2025 | Berani Berdamai",
-                        "date": "2025-11-12",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=W7jVi2qXK8M",
-                        "thumbnail": "https://i4.ytimg.com/vi/W7jVi2qXK8M/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
