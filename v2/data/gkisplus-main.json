@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4738,
-        "last-update": 1764318108,
+        "update-count": 4739,
+        "last-update": 1764322811,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5138,6 +5138,20 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "ASAS kelas 8 ",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
                 "note": "-"
             }
         ],
