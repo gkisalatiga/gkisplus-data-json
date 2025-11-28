@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4742,
-        "last-update": 1764339328,
+        "update-count": 4743,
+        "last-update": 1764346806,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4371,22 +4371,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Persekutuan Kambium",
-                "type": "poster",
-                "date-created": "2025-11-22",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-11-15",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp_2.webp",
                 "title": "Persekutuan SoDa",
