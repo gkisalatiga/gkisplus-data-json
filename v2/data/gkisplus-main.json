@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4735,
-        "last-update": 1764298383,
+        "update-count": 4736,
+        "last-update": 1764306986,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5125,6 +5125,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "persiapan Dekor Natal Komisi Anak",
+                "time": "10:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "TREVIE ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
