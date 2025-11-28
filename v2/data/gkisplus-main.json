@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4739,
-        "last-update": 1764322811,
+        "update-count": 4740,
+        "last-update": 1764336432,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5153,6 +5153,20 @@
                 "pic": "Van Gouh Arimatea",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan petugas Sambut Natal",
+                "time": "11:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2025-11-30",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
