@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4740,
-        "last-update": 1764336432,
-        "last-updated-item": "agenda",
+        "update-count": 4741,
+        "last-update": 1764339001,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Nov 2025 | Kita Hidup di Masa Adven",
+                        "date": "2025-11-28",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=qm37kxKxpgQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/qm37kxKxpgQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Nov 2025 | Persatuan Dalam Keluarga Tuhan",
                         "date": "2025-11-27",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=YsSYIzHwXDI",
                         "thumbnail": "https://i2.ytimg.com/vi/YsSYIzHwXDI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Nov 2025 | White Lies",
-                        "date": "2025-11-13",
-                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
-                        "link": "https://www.youtube.com/watch?v=JOd9UclzTxQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/JOd9UclzTxQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
