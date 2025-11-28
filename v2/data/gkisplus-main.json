@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4737,
-        "last-update": 1764314173,
+        "update-count": 4738,
+        "last-update": 1764318108,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4714,10 +4714,10 @@
                 "date": "2025-12-04",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
+                "place": "Ruang Galilea ( Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "TREVIE ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
