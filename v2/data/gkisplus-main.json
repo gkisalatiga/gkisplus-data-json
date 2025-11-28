@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4734,
-        "last-update": 1764268358,
-        "last-updated-item": "ykb",
+        "update-count": 4735,
+        "last-update": 1764298383,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4595,6 +4595,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pengurus YPE",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-11-28",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "---"
+            },
+            {
                 "name": "Pertemuan tim florist",
                 "time": "12:00",
                 "time-to": "14:00",
@@ -5001,6 +5015,20 @@
                 "note": ""
             },
             {
+                "name": "Ruang untuk Ramah Tamah Natal KD",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Made Santi ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5097,20 +5125,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Pengurus YPE",
-                "time": "11:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-11-28",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "w",
-                "note": "---"
             }
         ],
         "backend": {
