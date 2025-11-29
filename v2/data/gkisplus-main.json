@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4744,
-        "last-update": 1764354765,
+        "update-count": 4745,
+        "last-update": 1764387972,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1865,6 +1865,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 30 November 2025",
+                    "date": "2025-11-29",
+                    "link": "https://drive.google.com/file/d/1dO-uhIHvatSf-Ruryhgpj5wzZDTDpsLf/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-30-november-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1dO-uhIHvatSf-Ruryhgpj5wzZDTDpsLf",
+                    "id": "1dO-uhIHvatSf-Ruryhgpj5wzZDTDpsLf",
+                    "size": "1.91 MB"
+                },
+                {
                     "title": "Warta Jemaat 23 November 2025",
                     "date": "2025-11-22",
                     "link": "https://drive.google.com/file/d/1IhrwN08SYxSYZdn4n2M2K0JENDmr2iIP/view",
@@ -2478,6 +2487,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 30 November 2025 - Adven I",
+                    "date": "2025-11-29",
+                    "link": "https://drive.google.com/file/d/1Zz4VfooiZJOtNVIB1_XgvdwJ9_0nVTbF/view",
+                    "post-page": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Zz4VfooiZJOtNVIB1_XgvdwJ9_0nVTbF",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Zz4VfooiZJOtNVIB1_XgvdwJ9_0nVTbF",
+                    "id": "1Zz4VfooiZJOtNVIB1_XgvdwJ9_0nVTbF",
+                    "size": "0.47 MB"
+                },
                 {
                     "title": "Tata Ibadah 23 November 2025 - Minggu Kristus Raja",
                     "date": "2025-11-22",
