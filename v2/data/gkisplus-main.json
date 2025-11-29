@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4748,
-        "last-update": 1764425307,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 4749,
+        "last-update": 1764436731,
+        "last-updated-item": "backend",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
     "data": {
@@ -5212,8 +5212,9 @@
                 "about_changelog_url": "https://github.com/gkisalatiga/gkisalatiga-foss/blob/main/CHANGELOG.md",
                 "about_google_play_listing_url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
                 "about_source_code_url": "https://github.com/gkisalatiga/gkisalatiga-foss",
-                "greetings_top": "Syalom!",
-                "greetings_bottom": "Selamat menghayati Bulan Keluarga 2025"
+                "greetings_top": "Maranatha!",
+                "greetings_bottom": "Mari menyambut Kristus dalam Masa Raya Natal 2025!",
+                "youtube_player_origin": "https://gkisalatiga.org"
             }
         }
     }
