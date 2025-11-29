@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4746,
-        "last-update": 1764414448,
-        "last-updated-item": "yt",
+        "update-count": 4747,
+        "last-update": 1764419370,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5174,6 +5174,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ester Wurdianto",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas Natal SoDa",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-01",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
                 "status": "w",
                 "note": ""
             }
