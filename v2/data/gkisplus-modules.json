@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 16,
-        "last-update": 1760734536,
-        "last-updated-item": "seasonal",
+        "update-count": 17,
+        "last-update": 1764448860,
+        "last-updated-item": "bible",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
@@ -13,7 +13,7 @@
                 "abbr": "AYT",
                 "lang": "idn",
                 "source": "https://ebible.org/details.php?id=indayt",
-                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/v2/modules/bible/indayt.min.json",
+                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/bibles/indayt.min.json",
                 "source-size": "4.82 MB",
                 "filename": "indayt.min.json",
                 "license": "CC-BY-NC-SA-4.0",
@@ -27,7 +27,7 @@
                 "abbr": "BBE",
                 "lang": "eng",
                 "source": "https://ebible.org/find/show.php?id=engBBE",
-                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/v2/modules/bible/engbbe.min.json",
+                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/bibles/engbbe.min.json",
                 "source-size": "4.40 MB",
                 "filename": "engbbe.min.json",
                 "license": "Public Domain",
@@ -41,7 +41,7 @@
                 "abbr": "WEB",
                 "lang": "eng",
                 "source": "https://ebible.org/find/show.php?id=engwebp",
-                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/v2/modules/bible/engwebp.min.json",
+                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/bibles/engwebp.min.json",
                 "source-size": "4.30 MB",
                 "filename": "engwebp.min.json",
                 "license": "Public Domain",

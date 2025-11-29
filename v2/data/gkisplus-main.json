@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4750,
-        "last-update": 1764441853,
+        "update-count": 4751,
+        "last-update": 1764448860,
         "last-updated-item": "backend",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
@@ -5269,6 +5269,7 @@
                 "is_easter_egg_devmode_enabled": 1,
                 "is_feature_agenda_shown": 1,
                 "is_feature_bible_shown": 0,
+                "is_feature_bible_new_shown": 1,
                 "is_feature_esliturgy_shown": 1,
                 "is_feature_formulir_shown": 1,
                 "is_feature_galeri_shown": 1,
