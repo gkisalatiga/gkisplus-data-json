@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4751,
-        "last-update": 1764448860,
-        "last-updated-item": "backend",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 4752,
+        "last-update": 1764485362,
+        "last-updated-item": "agenda",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
     "data": {
@@ -5258,6 +5258,20 @@
                 "weekday": "mon",
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Natal SoDA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Femi",
                 "status": "w",
