@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4758,
-        "last-update": 1764563612,
-        "last-updated-item": "agenda",
+        "update-count": 4759,
+        "last-update": 1764609148,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Des 2025 | Lawatan Jangan Lewatkan",
+                        "date": "2025-12-01",
+                        "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
+                        "link": "https://www.youtube.com/watch?v=nGNe_ZWYviQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/nGNe_ZWYviQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Des 2025 | Merespon Lawatan Allah",
                         "date": "2025-11-30",
@@ -96,20 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Tuty Hemawati",
                         "link": "https://www.youtube.com/watch?v=bVxCIiff2nM",
                         "thumbnail": "https://i3.ytimg.com/vi/bVxCIiff2nM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Nov 2025",
-                        "date": "2025-11-17",
-                        "desc": "Dibawakan oleh Ibu Susetyo Rini",
-                        "link": "https://www.youtube.com/watch?v=qrqRdCtHWYk",
-                        "thumbnail": "https://i2.ytimg.com/vi/qrqRdCtHWYk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |17 Nov 2025",
-                        "date": "2025-11-16",
-                        "desc": "Dibawakan oleh Bpk. Priyo Hari Adi",
-                        "link": "https://www.youtube.com/watch?v=dszaH550Yko",
-                        "thumbnail": "https://i1.ytimg.com/vi/dszaH550Yko/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -122,6 +115,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu Adven II GKI Salatiga | 07 Desember 2025 | Ugahari sebagai Jalan Pertobatan",
+                        "date": "2025-12-01",
+                        "desc": "Ibadah Minggu Adven II GKI Salatiga; 07 Desember 2025; Pukul 07:00 WIB\n\nTema: Ugahari sebagai Jalan Pertobatan\n\nNyanyian: NKB 50; KJ 81:1-2; PKJ 239; PKJ 216:1-3; KK 602\n\nBacaan 1: Yesaya 11:1-10\nTanggapan: Mazmur 72:1-7, 18-19\nBacaan 2: Roma 15:4-13\nBacaan Injil: Matius 3:1-12\nBerita Anugrah: Yesaya 30:15a\nPersembahan: Mazmur 107:1\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Yuliani Nugroho\nKredo dan Warta: Pnt. Santoso Adi P.\nSambut Tamu: Pnt. Sri Yuniwati R, Pnt. Hananto Seno\nPemandu Liturgi: Lilis Supriyanti\nLektor 1: Petrus Sutomo\nLektor 2: Fransisca Dahniar\n\nPemusik: Zephaniah\nPNK/PMZ: Jeffrey N / Yuffie\nTim Multimedia: Hermawan, Revo, Samuel Arif, Wayan, Puguh\nDokumentasi : Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Monstera\nUsher + Kolektan: KOMKES\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=QdcjtSIpTEM",
+                        "thumbnail": "https://i.ytimg.com/vi/QdcjtSIpTEM/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu Adven I GKI Salatiga | 30 November 2025 | Mengubah Pedang Menjadi Mata Bajak",
                         "date": "2025-11-29",
@@ -324,13 +324,6 @@
                         "desc": "KEBAKTIAN MINGGU PENTAKOSTA (INTERGENERASIONAL) GKI Salatiga; 8 Juni 2025; Pukul 16:30 WIB\n\nTema: Roh Kudus Selalu Menyatukan\n\nBacaan I: Kejadian 11:1-9\nTanggapan: Mazmur 104:24-34, 35b\nBacaan II: Kisah Para Rasul 2:1-21\nBacaan Injil: Yohanes 14:8-17, 25-27\n\nNyanyian: KJ 233; NKB 104; KK 579; NKB 100\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Priyo Hari Adi\nKredo dan Warta: Pnt. Ervien Dian W.\nSambut Tamu: Pnt. Hananto Seno & Pnt. Yuliani Nugroho\nPemandu Liturgi: Gita Hastuti\nLektor 1: A.M Widiatmoko\nLektor 2: Rini Hari Adi\n\nPemusik: Elhanan + Je'o\nPNK/PMZ: Vica / Eva\nPaduan Suara: PS. Sola Gratia\nTim Multimedia: Natanael Jeffrey, Samathya, Caitleen, Evang, Rere, Revo, Erio, Derryl\nUsher dan Kolektan: Panitia MRP\nFlorist: Tim Dahlia\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=YUNt8DshWN8",
                         "thumbnail": "https://i.ytimg.com/vi/YUNt8DshWN8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu Pentakosta | 8 Juni 2025 Pukul 09.30 WIB | \"Roh Kudus Selalu Menyatukan\"",
-                        "date": "2025-06-08",
-                        "desc": "KEBAKTIAN MINGGU PENTAKOSTA (INTERGENERASIONAL) GKI Salatiga; 8 Juni 2025; Pukul 09:30 WIB\n\nTema: Roh Kudus Selalu Menyatukan\n\nBacaan I: Kejadian 11:1-9\nTanggapan: Mazmur 104:24-34, 35b\nBacaan II: Kisah Para Rasul 2:1-21\nBacaan Injil: Yohanes 14:8-17, 25-27\n\nNyanyian: KJ 233; NKB 104; KK 579; NKB 100\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Priyo Hari Adi\nKredo dan Warta: Pnt. Ervien Dian W.\nSambut Tamu: Pnt. Hananto Seno & Pnt. Yuliani Nugroho\nPemandu Liturgi: Gita Hastuti\nLektor 1: A.M Widiatmoko\nLektor 2: Rini Hari Adi\n\nPemusik: Elhanan + Je'o\nPNK/PMZ: Vica / Eva\nPaduan Suara: PS. Sola Gratia\nTim Multimedia: Natanael Jeffrey, Daniel Eko, Gracia, Ruben, Tora, Kia, Erio, Derryl\nUsher dan Kolektan: Panitia MRP\nFlorist: Tim Dahlia\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
-                        "link": "https://www.youtube.com/watch?v=uCNZYAfhNwQ",
-                        "thumbnail": "https://i.ytimg.com/vi/uCNZYAfhNwQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
