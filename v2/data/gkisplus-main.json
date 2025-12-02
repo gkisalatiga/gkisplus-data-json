@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4764,
-        "last-update": 1764652571,
+        "update-count": 4765,
+        "last-update": 1764663832,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4714,6 +4714,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat tim sukacita",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Made Rai Shanti",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Lomba sambut Natal SD Kr 03",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4738,6 +4752,20 @@
                 "place": "Ruang Galilea ( Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "TREVIE ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat PAN MRN",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
                 "status": "y",
                 "note": ""
             },
@@ -5202,20 +5230,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat PAN MRN",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-04",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Chrissandhy",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
