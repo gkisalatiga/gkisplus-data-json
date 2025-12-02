@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4766,
-        "last-update": 1764682401,
-        "last-updated-item": "agenda",
+        "update-count": 4767,
+        "last-update": 1764684738,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Des 2025 | Berharap Sesuatu yang Pasti",
+                        "date": "2025-12-02",
+                        "desc": "Dibawakan oleh Bpk. A. M. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=qxQhI4DQBgc",
+                        "thumbnail": "https://i2.ytimg.com/vi/qxQhI4DQBgc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Des 2025 | Lawatan Jangan Lewatkan",
                         "date": "2025-12-01",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=0FHsuqR1hzk",
                         "thumbnail": "https://i1.ytimg.com/vi/0FHsuqR1hzk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |19 Nov 2025",
-                        "date": "2025-11-18",
-                        "desc": "Dibawakan oleh Ibu Tuty Hemawati",
-                        "link": "https://www.youtube.com/watch?v=bVxCIiff2nM",
-                        "thumbnail": "https://i3.ytimg.com/vi/bVxCIiff2nM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
