@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4762,
-        "last-update": 1764647660,
+        "update-count": 4763,
+        "last-update": 1764650987,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4658,6 +4658,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik Zephaniah",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi bersih Sambut Natal KA",
                 "time": "15:30",
                 "time-to": "18:00",
@@ -4682,6 +4696,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Ibu Evelina Purnama",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sambut Natal KA GKI Salatiga",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-12-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "y",
                 "note": ""
             },
@@ -5174,34 +5202,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Sambut Natal KA GKI Salatiga",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-12-03",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Zephaniah",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-02",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
