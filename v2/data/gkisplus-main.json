@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4768,
-        "last-update": 1764700689,
-        "last-updated-item": "ykb",
+        "update-count": 4769,
+        "last-update": 1764733904,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4728,6 +4728,34 @@
                 "note": "-"
             },
             {
+                "name": "Latihan PSA,PSW dan PSP Pesparawi",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio, Ruang Galilea (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PSDC, Pesparawi",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lomba sambut Natal SD Kr 03",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4770,6 +4798,34 @@
                 "note": ""
             },
             {
+                "name": "Gladi Kotor Pemusik English Service",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
                 "name": "Bincang-Bincang Komisi Dewasa",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4808,6 +4864,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih English Service",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-12-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
                 "status": "y",
                 "note": ""
             },
@@ -5230,48 +5300,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Gladi Kotor Pemusik English Service",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-12-04",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Bersih English Service",
-                "time": "10:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2025-12-06",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-12-04",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
