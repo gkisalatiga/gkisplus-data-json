@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4770,
-        "last-update": 1764738645,
-        "last-updated-item": "yt",
+        "update-count": 4771,
+        "last-update": 1764744788,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4852,6 +4852,20 @@
                 "pic": "Van Gouh Arimatea",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "persiapan sambut natal KA (dekorasi)",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-12-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "TREVIE",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sambut Natal KA 2025",
