@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4775,
-        "last-update": 1764820960,
+        "update-count": 4776,
+        "last-update": 1764832651,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4925,8 +4925,8 @@
             },
             {
                 "name": "Latihan Pemusik Ibadah 7 Desember",
-                "time": "17:30",
-                "time-to": "19:30",
+                "time": "18:00",
+                "time-to": "20:00",
                 "timezone": "WIB",
                 "date": "2025-12-05",
                 "weekday": "fri",
@@ -4934,7 +4934,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
