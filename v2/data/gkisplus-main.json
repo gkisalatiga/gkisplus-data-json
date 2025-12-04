@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4773,
-        "last-update": 1764787034,
-        "last-updated-item": "ykb",
+        "update-count": 4774,
+        "last-update": 1764810875,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5326,6 +5326,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Vicha",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Percakapan atestasi masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
                 "status": "w",
                 "note": ""
             }
