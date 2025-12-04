@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4777,
-        "last-update": 1764836581,
-        "last-updated-item": "agenda",
+        "update-count": 4778,
+        "last-update": 1764846616,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Des 2025",
+                        "date": "2025-12-04",
+                        "desc": "Dibawakan oleh Pdt. Wisnu Sapto Nugroho",
+                        "link": "https://www.youtube.com/watch?v=UoNK9X3SXm4",
+                        "thumbnail": "https://i2.ytimg.com/vi/UoNK9X3SXm4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Des 2025 | Menghidupi Firman",
                         "date": "2025-12-03",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri.Adoltina Muloko",
                         "link": "https://www.youtube.com/watch?v=TEUWJ0wYQs4",
                         "thumbnail": "https://i1.ytimg.com/vi/TEUWJ0wYQs4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Nov 2025 | Mencukupkan Diri",
-                        "date": "2025-11-20",
-                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
-                        "link": "https://www.youtube.com/watch?v=I3XyNJbKvyc",
-                        "thumbnail": "https://i2.ytimg.com/vi/I3XyNJbKvyc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
