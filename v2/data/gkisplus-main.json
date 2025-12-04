@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4776,
-        "last-update": 1764832651,
+        "update-count": 4777,
+        "last-update": 1764836581,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4864,6 +4864,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Persiapan Liturgi Natal SoDA",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi Nesimnasi ",
                 "status": "y",
                 "note": ""
             },
