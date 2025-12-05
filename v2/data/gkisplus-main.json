@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4781,
-        "last-update": 1764907285,
+        "update-count": 4782,
+        "last-update": 1764925930,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1858,6 +1858,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 7 Desember 2025",
+                    "date": "2025-12-05",
+                    "link": "https://drive.google.com/file/d/1OZ30GC25wg6Gpo85W53UhO7fjO8K0rLL/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-7-desember-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1OZ30GC25wg6Gpo85W53UhO7fjO8K0rLL",
+                    "id": "1OZ30GC25wg6Gpo85W53UhO7fjO8K0rLL",
+                    "size": "2.62 MB"
+                },
+                {
                     "title": "Warta Jemaat 30 November 2025",
                     "date": "2025-11-29",
                     "link": "https://drive.google.com/file/d/1dO-uhIHvatSf-Ruryhgpj5wzZDTDpsLf/view",
@@ -2480,6 +2489,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 7 Desember 2025 - Adven II",
+                    "date": "2025-12-05",
+                    "link": "https://drive.google.com/file/d/1WFt44JB39WnUo3HjrgyRZG3d496OEMWC/view",
+                    "post-page": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1WFt44JB39WnUo3HjrgyRZG3d496OEMWC",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1WFt44JB39WnUo3HjrgyRZG3d496OEMWC",
+                    "id": "1WFt44JB39WnUo3HjrgyRZG3d496OEMWC",
+                    "size": "0.80 MB"
+                },
                 {
                     "title": "Tata Ibadah 30 November 2025 - Adven I",
                     "date": "2025-11-29",
