@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4780,
-        "last-update": 1764897301,
+        "update-count": 4781,
+        "last-update": 1764907285,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4966,6 +4966,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ Bid. 1",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy Ballo",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Sambut Natal KA 2025",
                 "time": "15:00",
                 "time-to": "17:30",
@@ -5468,20 +5482,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat MJ Bid. 1",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-05",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Dessy Ballo",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
