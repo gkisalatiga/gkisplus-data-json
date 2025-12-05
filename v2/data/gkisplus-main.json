@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4779,
-        "last-update": 1764873472,
-        "last-updated-item": "ykb",
+        "update-count": 4780,
+        "last-update": 1764897301,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4882,6 +4882,20 @@
                 "note": ""
             },
             {
+                "name": "Gladi Kotor Natal Komisi Remaja",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Bincang-Bincang Komisi Dewasa",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5330,6 +5344,48 @@
                 "note": "-"
             },
             {
+                "name": "Gladi Bersih Natal Komisi Remaja",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Natal Komisi Remaja",
+                "time": "12:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-01-10",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja, Lapangan SD, parkiran",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ruang transit Natal Komisi Remaja",
+                "time": "14:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-01-10",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Betlehem, Ruang Konsistori",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 9",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5412,6 +5468,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat MJ Bid. 1",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy Ballo",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
