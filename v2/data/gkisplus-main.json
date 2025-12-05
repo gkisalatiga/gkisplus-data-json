@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4782,
-        "last-update": 1764925930,
-        "last-updated-item": "agenda",
+        "update-count": 4783,
+        "last-update": 1764943837,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Des 2025 | Berdoa dan Bersyukur Untuk Keluar Dari Rasa Kuatir",
+                        "date": "2025-12-05",
+                        "desc": "Dibawakan oleh Pnt. Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=D-DgaUeimV8",
+                        "thumbnail": "https://i1.ytimg.com/vi/D-DgaUeimV8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Des 2025",
                         "date": "2025-12-04",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Novi Prabandari",
                         "link": "https://www.youtube.com/watch?v=LTQ4dl9205s",
                         "thumbnail": "https://i1.ytimg.com/vi/LTQ4dl9205s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Nov 2025 | Manusia Berdosa",
-                        "date": "2025-11-21",
-                        "desc": "Dibawakan oleh Sdri.Adoltina Muloko",
-                        "link": "https://www.youtube.com/watch?v=TEUWJ0wYQs4",
-                        "thumbnail": "https://i1.ytimg.com/vi/TEUWJ0wYQs4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
