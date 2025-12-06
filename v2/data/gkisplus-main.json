@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4787,
-        "last-update": 1764989465,
-        "last-updated-item": "agenda",
+        "update-count": 4788,
+        "last-update": 1764990109,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=1dsijxVm1Z8",
                         "thumbnail": "https://i2.ytimg.com/vi/1dsijxVm1Z8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Nov 2025",
-                        "date": "2025-11-23",
-                        "desc": "Dibawakan oleh Ibu Novi Prabandari",
-                        "link": "https://www.youtube.com/watch?v=LTQ4dl9205s",
-                        "thumbnail": "https://i1.ytimg.com/vi/LTQ4dl9205s/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1466,6 +1459,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Bincang Bincang Komisi Dewasa | 5 Desember 2025 | KENALI SINYAL TUBUH",
+                        "date": "2025-12-06",
+                        "desc": "Topik: Kenali Sinyal Tubuh: Memahami Apa Itu Kanker, Penyebab, Gejala, dan Langkah Menanganinya\n\nAcara ini merupakan kerjasama Komisi Dewasa GKI Salatiga dengan Yayasan Pemerhati Kanker Indonesia (YPKI) Bandung",
+                        "link": "https://www.youtube.com/watch?v=g2DbvZxvvQQ",
+                        "thumbnail": "https://i.ytimg.com/vi/g2DbvZxvvQQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SESI 2 | Jadi Wirausaha, Siapa Takut? | Pembekalan Mitra Pukat Berkat & Usaha Binaan KDT 2025",
                         "date": "2025-09-23",
