@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4786,
-        "last-update": 1764959538,
-        "last-updated-item": "ykb",
+        "update-count": 4787,
+        "last-update": 1764989465,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4993,7 +4993,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Dessy Ballo",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
