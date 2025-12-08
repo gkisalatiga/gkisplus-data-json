@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4804,
-        "last-update": 1765132277,
-        "last-updated-item": "ykb",
+        "update-count": 4805,
+        "last-update": 1765172653,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4871,6 +4871,20 @@
                 "note": "Perubahan gladi mungkin bisa berubah setengah hingga satu jam sebelum atau sesudahnya"
             },
             {
+                "name": "Rapat Panitia Natal KP",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "w",
+                "note": "Pesan Air Minum Teh"
+            },
+            {
                 "name": "Sambut Natal Sekolah SMP Kristen 2",
                 "time": "07:30",
                 "time-to": "10:30",
@@ -4983,6 +4997,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik Ibadah Umum 21 Des.",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Persiapan Konsumsi Sambut Natal KUL",
                 "time": "13:00",
                 "time-to": "19:00",
@@ -5022,6 +5050,48 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik ibadah 25 des 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim musik 25 desember 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum 21 Des.",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             },
             {
@@ -5233,62 +5303,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan musik ibadah 25 des 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim musik 25 desember 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum 21 Des.",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-17",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum 21 Des.",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2025-12-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
