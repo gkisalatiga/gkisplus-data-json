@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4805,
-        "last-update": 1765172653,
-        "last-updated-item": "agenda",
+        "update-count": 4806,
+        "last-update": 1765192179,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Des 2025 | Hidup Dalam Pertobatan",
+                        "date": "2025-12-08",
+                        "desc": "Dibawakan oleh Ibu Lilis Supriyanti",
+                        "link": "https://www.youtube.com/watch?v=0o54T-3M2oU",
+                        "thumbnail": "https://i1.ytimg.com/vi/0o54T-3M2oU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Des 2025 | Suntsugi",
                         "date": "2025-12-07",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Melia Aditya",
                         "link": "https://www.youtube.com/watch?v=dbquSDSFS2s",
                         "thumbnail": "https://i1.ytimg.com/vi/dbquSDSFS2s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Nov 2025 | Hidup yang Bermakna",
-                        "date": "2025-11-25",
-                        "desc": "Dibawakan oleh Sdri. Asputri R. Kaat",
-                        "link": "https://www.youtube.com/watch?v=xhz1HFiptRE",
-                        "thumbnail": "https://i1.ytimg.com/vi/xhz1HFiptRE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
