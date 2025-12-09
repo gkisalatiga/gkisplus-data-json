@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4810,
-        "last-update": 1765256038,
+        "update-count": 4811,
+        "last-update": 1765258953,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5331,6 +5331,34 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Koordinasi Tugas & Tanggung Jawab Pendamping Komisi Remaja",
+                "time": "10:15",
+                "time-to": "12:15",
+                "timezone": "WIB",
+                "date": "2025-12-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Pemusik Moving Advent KHI",
+                "time": "19:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-12-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
