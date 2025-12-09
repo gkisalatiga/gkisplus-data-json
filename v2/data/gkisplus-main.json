@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4813,
-        "last-update": 1765268134,
-        "last-updated-item": "yt",
+        "update-count": 4814,
+        "last-update": 1765289873,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5359,6 +5359,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat PAN MRN",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
