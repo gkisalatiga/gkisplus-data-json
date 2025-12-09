@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4811,
-        "last-update": 1765258953,
+        "update-count": 4812,
+        "last-update": 1765263215,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4857,6 +4857,20 @@
                 "note": ""
             },
             {
+                "name": "Koordinasi Tugas & Tanggung Jawab Pendamping Komisi Remaja",
+                "time": "10:15",
+                "time-to": "12:15",
+                "timezone": "WIB",
+                "date": "2025-12-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lomba sambut Natal SD Kr 03",
                 "time": "07:00",
                 "time-to": "10:00",
@@ -4897,6 +4911,20 @@
                 "pic": "Femi",
                 "status": "w",
                 "note": "Pesan Air Minum Teh"
+            },
+            {
+                "name": "Gladi Pemusik Moving Advent KHI",
+                "time": "19:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2025-12-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sambut Natal Sekolah SMP Kristen 2",
@@ -5091,7 +5119,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
-                "status": "w",
+                "status": "y",
                 "note": "Setelah selesai Sambut Natal KUL"
             },
             {
@@ -5331,34 +5359,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Koordinasi Tugas & Tanggung Jawab Pendamping Komisi Remaja",
-                "time": "10:15",
-                "time-to": "12:15",
-                "timezone": "WIB",
-                "date": "2025-12-10",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Pemusik Moving Advent KHI",
-                "time": "19:00",
-                "time-to": "21:30",
-                "timezone": "WIB",
-                "date": "2025-12-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
