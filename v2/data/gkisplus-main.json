@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4808,
-        "last-update": 1765219032,
-        "last-updated-item": "ykb",
+        "update-count": 4809,
+        "last-update": 1765249166,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4727,7 +4727,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Evelina",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4797,7 +4797,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Evelina",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4811,8 +4811,22 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Evelina",
-                "status": "w",
+                "status": "y",
                 "note": "Belum pasti digunakan, hanya untuk berjaga-jaga jika cuaca di luar ruangan hujan."
+            },
+            {
+                "name": "Rapat Sarpras dan MJP Renovasi Atap Gereja",
+                "time": "19:45",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua",
+                "status": "y",
+                "note": "Minta LCD dan Teh"
             },
             {
                 "name": "Lomba pra Natal SD Kr 03 ",
@@ -4897,6 +4911,20 @@
                 "pic": "Yemima Christin",
                 "status": "y",
                 "note": "Waktu pemakaian mungkin berubah setengah-satu jam"
+            },
+            {
+                "name": "Latihan PS. Solagratia",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Yuliani Nugroho",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Gladi Bersih Ibadah Sambut Natal",
@@ -5007,7 +5035,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5041,7 +5069,7 @@
             {
                 "name": "Sambut Natal KUL, dan ramah tamah",
                 "time": "16:00",
-                "time-to": "19:00",
+                "time-to": "18:30",
                 "timezone": "WIB",
                 "date": "2025-12-18",
                 "weekday": "thu",
@@ -5064,7 +5092,7 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
                 "status": "w",
-                "note": ""
+                "note": "Setelah selesai Sambut Natal KUL"
             },
             {
                 "name": "Latihan Tim musik 25 desember 2025",
@@ -5077,7 +5105,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5091,7 +5119,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
