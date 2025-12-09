@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4812,
-        "last-update": 1765263215,
-        "last-updated-item": "agenda",
+        "update-count": 4813,
+        "last-update": 1765268134,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Des 2025 | Natal: Saat Untuk Membeli Atau Memberi?",
+                        "date": "2025-12-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=t7cUfEK6RPA",
+                        "thumbnail": "https://i1.ytimg.com/vi/t7cUfEK6RPA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Des 2025 | Hidup Dalam Pertobatan",
                         "date": "2025-12-08",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Nathanael Hardjono",
                         "link": "https://www.youtube.com/watch?v=ZSLnBHxy_QI",
                         "thumbnail": "https://i3.ytimg.com/vi/ZSLnBHxy_QI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Nov 2025",
-                        "date": "2025-11-26",
-                        "desc": "Dibawakan oleh Ibu Melia Aditya",
-                        "link": "https://www.youtube.com/watch?v=dbquSDSFS2s",
-                        "thumbnail": "https://i1.ytimg.com/vi/dbquSDSFS2s/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
