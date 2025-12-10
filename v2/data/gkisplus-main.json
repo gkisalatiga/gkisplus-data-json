@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4816,
-        "last-update": 1765342315,
+        "update-count": 4817,
+        "last-update": 1765349688,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4871,6 +4871,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat PAN MRN",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-10",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lomba sambut Natal SD Kr 03",
                 "time": "07:00",
                 "time-to": "10:00",
@@ -4909,7 +4923,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Femi",
-                "status": "w",
+                "status": "y",
                 "note": "Pesan Air Minum Teh"
             },
             {
@@ -4925,6 +4939,20 @@
                 "pic": "Samarthya",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-12-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "Sambut Natal Sekolah SMP Kristen 2",
@@ -5359,34 +5387,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat PAN MRN",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-10",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Chrissandhy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2025-12-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "PA Wilayah 5",
