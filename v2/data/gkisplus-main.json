@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4815,
-        "last-update": 1765305160,
-        "last-updated-item": "ykb",
+        "update-count": 4816,
+        "last-update": 1765342315,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5373,6 +5373,20 @@
                 "pic": "Chrissandhy",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-12-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "PA Wilayah 5",
