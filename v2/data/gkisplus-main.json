@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4819,
-        "last-update": 1765391738,
-        "last-updated-item": "ykb",
+        "update-count": 4820,
+        "last-update": 1765434410,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4979,6 +4979,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Yuliani Nugroho",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat sie konsumsi MRN",
+                "time": "18:15",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Panitia",
+                "pic": "Shinta Kumalasari ",
                 "status": "y",
                 "note": ""
             },
