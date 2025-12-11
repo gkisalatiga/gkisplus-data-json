@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4820,
-        "last-update": 1765434410,
-        "last-updated-item": "agenda",
+        "update-count": 4821,
+        "last-update": 1765451404,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Des 2025 | Sukacita Pertobatan",
+                        "date": "2025-12-11",
+                        "desc": "Dibawakan oleh Ibu Ristiani Gani Mendrofa",
+                        "link": "https://www.youtube.com/watch?v=L2f6yWdbBI0",
+                        "thumbnail": "https://i1.ytimg.com/vi/L2f6yWdbBI0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Des 2025 | Kesetiaan Di Tengah Kepahitan",
                         "date": "2025-12-10",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Ervien Dian",
                         "link": "https://www.youtube.com/watch?v=-hnXyigQiZM",
                         "thumbnail": "https://i2.ytimg.com/vi/-hnXyigQiZM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Nov 2025 | Kita Hidup di Masa Adven",
-                        "date": "2025-11-28",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=qm37kxKxpgQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/qm37kxKxpgQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
