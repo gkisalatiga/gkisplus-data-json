@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4827,
-        "last-update": 1765523984,
+        "update-count": 4828,
+        "last-update": 1765525331,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4711,20 +4711,6 @@
                 "weekday": "sun",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "Panitia",
-                "pic": "Derryl",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Perekaman Video Promosi Natal SODA 2025",
-                "time": "11:30",
-                "time-to": "14:30",
-                "timezone": "WIB",
-                "date": "2025-12-14",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Derryl Elbert Pantow",
                 "status": "w",
@@ -5135,6 +5121,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Operet Natal",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bu Alia",
+                "status": "w",
+                "note": "Minta dibuatkan Teh"
             },
             {
                 "name": "PA Wilayah 5",
