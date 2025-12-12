@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4830,
-        "last-update": 1765531231,
-        "last-updated-item": "agenda",
+        "update-count": 4831,
+        "last-update": 1765548681,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Des 2025 | Damai Yang Kekal",
+                        "date": "2025-12-12",
+                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
+                        "link": "https://www.youtube.com/watch?v=hnc5GtcLFe8",
+                        "thumbnail": "https://i1.ytimg.com/vi/hnc5GtcLFe8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Des 2025 | Sukacita Pertobatan",
                         "date": "2025-12-11",
