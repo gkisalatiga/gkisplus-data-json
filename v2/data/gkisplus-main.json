@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4828,
-        "last-update": 1765525331,
+        "update-count": 4829,
+        "last-update": 1765527824,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4676,7 +4676,7 @@
             },
             {
                 "name": "Rapat sie konsumsi MRN",
-                "time": "18:15",
+                "time": "17:30",
                 "time-to": "20:00",
                 "timezone": "WIB",
                 "date": "2025-12-12",
@@ -4687,6 +4687,20 @@
                 "pic": "Shinta Kumalasari ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Operet Natal",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bu Alia",
+                "status": "w",
+                "note": "Minta dibuatkan Teh"
             },
             {
                 "name": "Persiapan Moving Advent KHI",
@@ -5123,18 +5137,18 @@
                 "note": "-"
             },
             {
-                "name": "Latihan Operet Natal",
-                "time": "18:30",
-                "time-to": "21:00",
+                "name": "Amici A",
+                "time": "09:00",
+                "time-to": "11:00",
                 "timezone": "WIB",
-                "date": "2025-12-12",
-                "weekday": "fri",
+                "date": "2025-12-15",
+                "weekday": "mon",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Bu Alia",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "status": "w",
-                "note": "Minta dibuatkan Teh"
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
