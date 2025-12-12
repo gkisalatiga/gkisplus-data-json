@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4831,
-        "last-update": 1765548681,
-        "last-updated-item": "yt",
+        "update-count": 4832,
+        "last-update": 1765548989,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5170,6 +5170,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat BPH & Koor untuk persiapan natal KR",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-13",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Sam",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
