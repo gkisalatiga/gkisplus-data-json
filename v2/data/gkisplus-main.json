@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4825,
-        "last-update": 1765515099,
+        "update-count": 4826,
+        "last-update": 1765516667,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5119,6 +5119,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Panitia",
                 "pic": "Derryl",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Perekaman Video Promosi Natal SODA 2025",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2025-12-14",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Derryl Elbert Pantow",
                 "status": "w",
                 "note": ""
             },
