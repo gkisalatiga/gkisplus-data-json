@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4836,
-        "last-update": 1765603006,
+        "update-count": 4837,
+        "last-update": 1765613984,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5179,6 +5179,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik Sambut Natal KUL",
+                "time": "14:30",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2025-12-14",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
