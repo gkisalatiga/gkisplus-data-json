@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4837,
-        "last-update": 1765613984,
+        "update-count": 4838,
+        "last-update": 1765620923,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5191,6 +5191,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sekolah Minggu Gabungan",
+                "time": "07:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2025-12-28",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
                 "status": "w",
                 "note": ""
             },
