@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4834,
-        "last-update": 1765564607,
+        "update-count": 4835,
+        "last-update": 1765593815,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1865,6 +1865,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 14 Desember 2025",
+                    "date": "2025-12-13",
+                    "link": "https://drive.google.com/file/d/1jktO5PjfJ-7qnT8gK_NEC9TTfZGDnC7H/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-14-desember-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1jktO5PjfJ-7qnT8gK_NEC9TTfZGDnC7H",
+                    "id": "1jktO5PjfJ-7qnT8gK_NEC9TTfZGDnC7H",
+                    "size": "2.50 MB"
+                },
+                {
                     "title": "Warta Jemaat 7 Desember 2025",
                     "date": "2025-12-05",
                     "link": "https://drive.google.com/file/d/1OZ30GC25wg6Gpo85W53UhO7fjO8K0rLL/view",
@@ -2496,6 +2505,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 14 Desember 2025 - Adven III",
+                    "date": "2025-12-13",
+                    "link": "https://drive.google.com/file/d/17t4xjZUSR8eQOvaFILba5Jvl_OfTolhY/view",
+                    "post-page": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=17t4xjZUSR8eQOvaFILba5Jvl_OfTolhY",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=17t4xjZUSR8eQOvaFILba5Jvl_OfTolhY",
+                    "id": "117t4xjZUSR8eQOvaFILba5Jvl_OfTolhY",
+                    "size": "0.84 MB"
+                },
                 {
                     "title": "Tata Ibadah 7 Desember 2025 - Adven II",
                     "date": "2025-12-05",
@@ -4416,30 +4434,6 @@
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_informasi_persembahan.webp",
-                "title": "Informasi Persembahan Natal dan Persembahan Kasih Natal",
-                "type": "poster",
-                "date-created": "2025-12-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_informasi_persembahan.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Persekutuan Kambium",
-                "type": "poster",
-                "date-created": "2025-12-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2025-12-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "title": "Informasi Persekutuan SoDa",
                 "type": "poster",
@@ -4517,6 +4511,14 @@
                 "type": "poster",
                 "date-created": "2025-12-09",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ppk.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_informasi_persembahan.webp",
+                "title": "Informasi Persembahan Natal dan Persembahan Kasih Natal",
+                "type": "poster",
+                "date-created": "2025-12-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_informasi_persembahan.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
