@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4838,
-        "last-update": 1765620923,
+        "update-count": 4839,
+        "last-update": 1765633318,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5207,6 +5207,34 @@
                 "pic": "Vicha",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 24 Desember",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih Malam Natal 24 Desember",
+                "time": "16:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Gabungan KML, Sarpras-Mulmed, dan MJ"
             },
             {
                 "name": "PA Wilayah 5",
