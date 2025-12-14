@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4847,
-        "last-update": 1765704680,
+        "update-count": 4848,
+        "last-update": 1765707355,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4752,7 +4752,7 @@
                 "date": "2025-12-14",
                 "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Kana",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
                 "status": "y",
