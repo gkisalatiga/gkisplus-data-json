@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4843,
-        "last-update": 1765685451,
-        "last-updated-item": "agenda",
+        "update-count": 4844,
+        "last-update": 1765699984,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Des 2025 | Hadiah Natal",
+                        "date": "2025-12-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=eU2zpUPWa5U",
+                        "thumbnail": "https://i2.ytimg.com/vi/eU2zpUPWa5U/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Des 2025 | Damai Yang Kekal",
                         "date": "2025-12-12",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. A. M. Widiatmoko",
                         "link": "https://www.youtube.com/watch?v=qxQhI4DQBgc",
                         "thumbnail": "https://i2.ytimg.com/vi/qxQhI4DQBgc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Des 2025 | Lawatan Jangan Lewatkan",
-                        "date": "2025-12-01",
-                        "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
-                        "link": "https://www.youtube.com/watch?v=nGNe_ZWYviQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/nGNe_ZWYviQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
