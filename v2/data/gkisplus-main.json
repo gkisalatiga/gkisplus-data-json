@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4848,
-        "last-update": 1765707355,
+        "update-count": 4849,
+        "last-update": 1765719753,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5273,6 +5273,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan drama musikal tgl 25 desember 2025",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
                 "status": "w",
                 "note": ""
             },
