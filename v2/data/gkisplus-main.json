@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4845,
-        "last-update": 1765700407,
+        "update-count": 4846,
+        "last-update": 1765701912,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4761,6 +4761,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Drama",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-14",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih Ibadah Sambut Natal",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -5263,6 +5277,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "RaKor KHI",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
