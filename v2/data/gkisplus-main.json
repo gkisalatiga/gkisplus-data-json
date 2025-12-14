@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4841,
-        "last-update": 1765668021,
-        "last-updated-item": "ykb",
+        "update-count": 4842,
+        "last-update": 1765681956,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4747,6 +4747,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik Sambut Natal KUL",
+                "time": "14:30",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2025-12-14",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih Ibadah Sambut Natal",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -4842,6 +4856,20 @@
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Kristiani Murni Astuti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 24 Desember",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             },
             {
@@ -4983,6 +5011,48 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Gladi Bersih Malam Natal 24 Desember",
+                "time": "16:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Gabungan KML, Sarpras-Mulmed, dan MJ"
+            },
+            {
+                "name": "Latihan Ibadah Pemberkatan Pernikahan",
+                "time": "10:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2025-12-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Kezia",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Sekolah Minggu Gabungan",
+                "time": "07:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2025-12-28",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 7",
@@ -5179,62 +5249,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Pemusik Sambut Natal KUL",
-                "time": "14:30",
-                "time-to": "15:30",
-                "timezone": "WIB",
-                "date": "2025-12-14",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Sekolah Minggu Gabungan",
-                "time": "07:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2025-12-28",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik 24 Desember",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-12-16",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Bersih Malam Natal 24 Desember",
-                "time": "16:30",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-23",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Gabungan KML, Sarpras-Mulmed, dan MJ"
             },
             {
                 "name": "PA Wilayah 5",
