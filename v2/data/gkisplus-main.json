@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4842,
-        "last-update": 1765681956,
+        "update-count": 4843,
+        "last-update": 1765685451,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5249,6 +5249,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan musik tgl 25 des",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-15",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
