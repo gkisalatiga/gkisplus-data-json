@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4856,
-        "last-update": 1765780115,
+        "update-count": 4857,
+        "last-update": 1765787169,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4885,20 +4885,6 @@
                 "note": "Setelah selesai Sambut Natal KUL"
             },
             {
-                "name": "Persiapan Konsumsi Sambut Natal KUL",
-                "time": "13:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Ibu Widia P",
-                "status": "c",
-                "note": "-"
-            },
-            {
                 "name": "Sambut Natal KUL, dan ramah tamah",
                 "time": "16:00",
                 "time-to": "18:30",
@@ -4913,18 +4899,18 @@
                 "note": ""
             },
             {
-                "name": "Perayaan Natal",
-                "time": "07:00",
-                "time-to": "11:00",
+                "name": "Gladi bersih sambut Natal YPE",
+                "time": "14:00",
+                "time-to": "16:00",
                 "timezone": "WIB",
                 "date": "2025-12-18",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "TK Kristen 03 Eben Haezer",
-                "pic": "Wahyu Agustina Rimbita",
-                "status": "y",
-                "note": "Mohon bantuan petugas multimedia. Terimakasih\n"
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Martha Sulistya Wening",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "RaKor KHI",
@@ -4979,7 +4965,21 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Lainnya",
                 "pic": "Parmi",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Sambut Natal YPE 2025",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5233,34 +5233,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Ibadah Sambut Natal YPE 2025",
-                "time": "08:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-12-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi bersih sambut Natal YPE",
-                "time": "14:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Martha Sulistya Wening",
-                "status": "w",
-                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
