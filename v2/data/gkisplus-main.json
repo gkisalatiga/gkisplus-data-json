@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4855,
-        "last-update": 1765777649,
+        "update-count": 4856,
+        "last-update": 1765780115,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5245,6 +5245,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih sambut Natal YPE",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
             },
