@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4852,
-        "last-update": 1765768421,
+        "update-count": 4853,
+        "last-update": 1765772739,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4895,8 +4895,8 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
+                "status": "c",
+                "note": "Tidak ada PA"
             },
             {
                 "name": "PA Wilayah 7",
@@ -4909,8 +4909,22 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
+                "status": "c",
+                "note": "Tidak ada PA"
+            },
+            {
+                "name": "Latihan PSA",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "y",
-                "note": "-"
+                "note": ""
             },
             {
                 "name": "Latihan Pemusik Ibadah Umum 21 Des.",
@@ -4951,6 +4965,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Yohana Puji Astuti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Natal 2025",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
                 "status": "y",
                 "note": ""
             },
