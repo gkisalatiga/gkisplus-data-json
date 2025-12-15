@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4857,
-        "last-update": 1765787169,
-        "last-updated-item": "agenda",
+        "update-count": 4858,
+        "last-update": 1765797025,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Des 2025 | Terang dan Damai yang Menguatkan Kita",
+                        "date": "2025-12-15",
+                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
+                        "link": "https://www.youtube.com/watch?v=_8LogIAOFDM",
+                        "thumbnail": "https://i4.ytimg.com/vi/_8LogIAOFDM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Des 2025 | Hadiah Natal",
                         "date": "2025-12-14",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Chrissandhy Bothmir",
                         "link": "https://www.youtube.com/watch?v=17pZPjEH0L0",
                         "thumbnail": "https://i2.ytimg.com/vi/17pZPjEH0L0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Des 2025 | Berharap Sesuatu yang Pasti",
-                        "date": "2025-12-02",
-                        "desc": "Dibawakan oleh Bpk. A. M. Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=qxQhI4DQBgc",
-                        "thumbnail": "https://i2.ytimg.com/vi/qxQhI4DQBgc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
