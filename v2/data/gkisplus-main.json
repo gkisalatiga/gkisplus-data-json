@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4863,
-        "last-update": 1765866399,
+        "update-count": 4864,
+        "last-update": 1765869627,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5261,6 +5261,20 @@
                 "pic": "Devi",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan PS Magnificat",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Caleb",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
