@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4864,
-        "last-update": 1765869627,
+        "update-count": 4865,
+        "last-update": 1765875151,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4801,6 +4801,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPH KR dan MJP",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Pemusik Ibadah Umum 21 Des.",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4869,6 +4883,34 @@
                 "pic": "Hendra Aribowo",
                 "status": "y",
                 "note": "Minta dibuatkan teh"
+            },
+            {
+                "name": "Dekor Photo Booth Natal KB TK Kristen 3 Eben Haezer",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruangan bersama",
+                "representative": "Lainnya",
+                "pic": "Devi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS Magnificat",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Caleb",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Latihan musik ibadah 25 des 2025",
@@ -5232,48 +5274,6 @@
                 "representative": "Wilayah",
                 "pic": "Ibu Wardjini",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat BPH KR dan MJP",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-12-16",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Natalis",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Dekor Photo Booth Natal KB TK Kristen 3 Eben Haezer",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-17",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruangan bersama",
-                "representative": "Lainnya",
-                "pic": "Devi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS Magnificat",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-17",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Caleb",
-                "status": "w",
                 "note": "-"
             },
             {
