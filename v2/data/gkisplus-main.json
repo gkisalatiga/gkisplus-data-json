@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4868,
-        "last-update": 1765910236,
-        "last-updated-item": "ykb",
+        "update-count": 4869,
+        "last-update": 1765915836,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 18 Des 2025 | Decluttering",
-                        "date": "2025-12-16",
-                        "desc": "Dibawakan oleh Sdri. Natalia Pangastuti",
-                        "link": "https://www.youtube.com/watch?v=Hnqx_72zjSA",
-                        "thumbnail": "https://i1.ytimg.com/vi/Hnqx_72zjSA/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 17 Des 2025 | Terang di Tengah Kegelapan",
                         "date": "2025-12-16",
                         "desc": "Dibawakan oleh Bpk. Benaya Winandi Prasetya",
                         "link": "https://www.youtube.com/watch?v=Kd8J7P34D9I",
                         "thumbnail": "https://i4.ytimg.com/vi/Kd8J7P34D9I/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 18 Des 2025 | Decluttering",
+                        "date": "2025-12-16",
+                        "desc": "Dibawakan oleh Sdri. Natalia Pangastuti",
+                        "link": "https://www.youtube.com/watch?v=Hnqx_72zjSA",
+                        "thumbnail": "https://i1.ytimg.com/vi/Hnqx_72zjSA/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 16 Des 2025 | Terang dan Damai yang Menguatkan Kita",
