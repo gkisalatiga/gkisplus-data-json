@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4860,
-        "last-update": 1765854515,
+        "update-count": 4861,
+        "last-update": 1765858113,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5233,6 +5233,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat BPH KR dan MJP",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Natalis",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
