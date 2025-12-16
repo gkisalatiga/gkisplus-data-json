@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4861,
-        "last-update": 1765858113,
+        "update-count": 4862,
+        "last-update": 1765860826,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4956,7 +4956,7 @@
             },
             {
                 "name": "RAT Koperasi Makmur",
-                "time": "10:00",
+                "time": "11:00",
                 "time-to": "12:00",
                 "timezone": "WIB",
                 "date": "2025-12-19",
