@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4874,
-        "last-update": 1765970138,
+        "update-count": 4875,
+        "last-update": 1765981056,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5366,6 +5366,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "w",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Latihan PS Magnificat",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Caleb",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
