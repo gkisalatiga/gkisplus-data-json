@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4870,
-        "last-update": 1765933975,
+        "update-count": 4871,
+        "last-update": 1765940555,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4888,7 +4888,7 @@
                 "place": "Ruangan bersama",
                 "representative": "Lainnya",
                 "pic": "Devi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5042,7 +5042,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5056,7 +5056,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5116,7 +5116,7 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 7",
+                "name": "PA /Persiapan PK Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -5140,7 +5140,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
