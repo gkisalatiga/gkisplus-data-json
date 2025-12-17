@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4871,
-        "last-update": 1765940555,
+        "update-count": 4872,
+        "last-update": 1765947082,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5324,6 +5324,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persiapan Perjamuan Kudus Wilayah 10",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Betlehem, Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "Maaf saya isi beberapa ruangan, mohon dibantu pilihkan 1 saja karena anggota jemaat wilayah minta di lantai 1."
             },
             {
                 "name": "PA Wilayah 5",
