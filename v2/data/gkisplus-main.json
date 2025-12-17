@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4872,
-        "last-update": 1765947082,
+        "update-count": 4873,
+        "last-update": 1765955954,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4654,20 +4654,6 @@
                 "note": ""
             },
             {
-                "name": "Amici A",
-                "time": "09:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2025-12-15",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Natalis",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Gladi Bersih Sambut Natal",
                 "time": "12:00",
                 "time-to": "15:00",
@@ -4682,18 +4668,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat Natal KD",
-                "time": "17:00",
-                "time-to": "18:30",
+                "name": "Amici A",
+                "time": "09:00",
+                "time-to": "11:00",
                 "timezone": "WIB",
-                "date": "2025-12-16",
-                "weekday": "tue",
+                "date": "2025-12-15",
+                "weekday": "mon",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Dewasa",
-                "pic": "Made Rai S shanti",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Natalis",
                 "status": "y",
-                "note": "_"
+                "note": ""
             },
             {
                 "name": "Latihan Pemusik 24 Desember",
@@ -4720,20 +4706,6 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Kristiani Murni Astuti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan drama musikal tgl 25 desember 2025",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-16",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
             },
@@ -4766,6 +4738,34 @@
                 "note": "Tidak ada PA"
             },
             {
+                "name": "Rapat BPH KR dan MJP",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Natalis",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan drama musikal tgl 25 desember 2025",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-16",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4794,18 +4794,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat BPH KR dan MJP",
+                "name": "Rapat Natal KD",
                 "time": "17:00",
-                "time-to": "18:00",
+                "time-to": "18:30",
                 "timezone": "WIB",
                 "date": "2025-12-16",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Natalis",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Made Rai S shanti",
                 "status": "y",
-                "note": ""
+                "note": "_"
             },
             {
                 "name": "Latihan Pemusik Ibadah Umum 21 Des.",
@@ -4818,20 +4818,6 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapab Gerejawi Baptis Kudus Anak",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-12-17",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen Ruth Manurung",
                 "status": "y",
                 "note": ""
             },
@@ -4864,6 +4850,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan PS Magnificat",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Caleb",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Percakapab Gerejawi Baptis Kudus Anak",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Dewan Pengawas YPE",
                 "time": "11:00",
                 "time-to": "13:00",
@@ -4892,20 +4906,6 @@
                 "note": ""
             },
             {
-                "name": "Latihan PS Magnificat",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-17",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Caleb",
-                "status": "y",
-                "note": "-"
-            },
-            {
                 "name": "Latihan musik ibadah 25 des 2025",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4918,20 +4918,6 @@
                 "pic": "Uncle Vidra",
                 "status": "y",
                 "note": "Setelah selesai Sambut Natal KUL"
-            },
-            {
-                "name": "Sambut Natal KUL, dan ramah tamah",
-                "time": "16:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "y",
-                "note": ""
             },
             {
                 "name": "Gladi bersih sambut Natal YPE",
@@ -4948,6 +4934,20 @@
                 "note": ""
             },
             {
+                "name": "Sambut Natal KUL, dan ramah tamah",
+                "time": "16:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan drama musikal natal",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4958,20 +4958,6 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "RaKor KHI",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita",
                 "status": "y",
                 "note": ""
             },
@@ -5004,20 +4990,6 @@
                 "note": ""
             },
             {
-                "name": "RAT Koperasi Makmur",
-                "time": "11:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-12-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Lainnya",
-                "pic": "Parmi",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Ibadah Sambut Natal YPE 2025",
                 "time": "08:00",
                 "time-to": "11:00",
@@ -5032,6 +5004,20 @@
                 "note": ""
             },
             {
+                "name": "RAT Koperasi Makmur",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Lainnya",
+                "pic": "Parmi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan drama musikal natal",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5042,6 +5028,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "RaKor KHI",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita",
                 "status": "y",
                 "note": ""
             },
@@ -5116,20 +5116,6 @@
                 "note": ""
             },
             {
-                "name": "PA /Persiapan PK Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
                 "name": "Persiapan PK Wil 11",
                 "time": "17:00",
                 "time-to": "20:00",
@@ -5144,16 +5130,30 @@
                 "note": ""
             },
             {
-                "name": "Ruang untuk Ramah Tamah Natal KD",
+                "name": "PA /Persiapan PK Wilayah 7",
                 "time": "17:00",
-                "time-to": "20:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2026-01-03",
-                "weekday": "sat",
+                "date": "2025-12-30",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Made Santi ",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Persiapan Perjamuan Kudus Wilayah 10",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Samuel Martono",
                 "status": "y",
                 "note": ""
             },
@@ -5166,6 +5166,20 @@
                 "weekday": "sat",
                 "type": "proposal",
                 "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Made Santi ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ruang untuk Ramah Tamah Natal KD",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Made Santi ",
                 "status": "y",
@@ -5214,6 +5228,20 @@
                 "note": ""
             },
             {
+                "name": "Natal Komisi Remaja",
+                "time": "12:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-01-10",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja, Lapangan SD, parkiran",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Ruang transit Natal Komisi Remaja",
                 "time": "14:00",
                 "time-to": "21:30",
@@ -5228,18 +5256,18 @@
                 "note": ""
             },
             {
-                "name": "Natal Komisi Remaja",
-                "time": "12:00",
-                "time-to": "21:30",
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2026-01-10",
-                "weekday": "sat",
+                "date": "2026-01-13",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Gedung Gereja, Lapangan SD, parkiran",
-                "representative": "Komisi Remaja",
-                "pic": "Cedric",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
                 "status": "y",
-                "note": ""
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 9",
@@ -5256,20 +5284,6 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Ibu Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
                 "name": "PA Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5296,48 +5310,6 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Ibu Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Persiapan Perjamuan Kudus Wilayah 10",
-                "time": "17:30",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-12-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum, Ruang Betlehem, Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": "Maaf saya isi beberapa ruangan, mohon dibantu pilihkan 1 saja karena anggota jemaat wilayah minta di lantai 1."
             },
             {
                 "name": "PA Wilayah 5",
@@ -5352,6 +5324,34 @@
                 "pic": "Ibu Titik",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Ibu Wardjini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
