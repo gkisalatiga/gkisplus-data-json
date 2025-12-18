@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4877,
-        "last-update": 1766052853,
+        "update-count": 4878,
+        "last-update": 1766075673,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4425,14 +4425,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "title": "Sambut Natal KUL",
-                "type": "poster",
-                "date-created": "2025-12-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "title": "Informasi Persekutuan SoDa",
