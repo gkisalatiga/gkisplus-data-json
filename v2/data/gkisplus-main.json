@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4884,
-        "last-update": 1766049731,
+        "update-count": 4885,
+        "last-update": 1766053129,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5160,6 +5160,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Panitia",
                 "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Ibadah Hari Minggu 28 Des",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-12-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
                 "status": "w",
                 "note": ""
             },
