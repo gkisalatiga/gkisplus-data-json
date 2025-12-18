@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4883,
-        "last-update": 1766099368,
+        "update-count": 4884,
+        "last-update": 1766101026,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -26,13 +26,6 @@
                         "desc": "Dibawakan oleh Sdr. Joe Elliot Magang",
                         "link": "https://www.youtube.com/watch?v=wStN3RNeioI",
                         "thumbnail": "https://i4.ytimg.com/vi/wStN3RNeioI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Des 2025",
-                        "date": "2025-12-18",
-                        "desc": "Dibawakan oleh Sdr. Joe Magang",
-                        "link": "https://www.youtube.com/watch?v=Lmmr1oss1Fc",
-                        "thumbnail": "https://i1.ytimg.com/vi/Lmmr1oss1Fc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 18 Des 2025 | Decluttering",
