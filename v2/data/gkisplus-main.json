@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4883,
-        "last-update": 1766046450,
+        "update-count": 4884,
+        "last-update": 1766049731,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5147,6 +5147,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Operet Natal",
+                "time": "14:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
                 "note": ""
             },
             {
