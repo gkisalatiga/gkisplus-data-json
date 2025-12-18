@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4881,
-        "last-update": 1766093646,
+        "update-count": 4882,
+        "last-update": 1766097610,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Des 2025 | Menyambut Natal dalam Perjumpaan",
+                        "date": "2025-12-18",
+                        "desc": "Dibawakan oleh Sdr. Joe Elliot Magang",
+                        "link": "https://www.youtube.com/watch?v=wStN3RNeioI",
+                        "thumbnail": "https://i4.ytimg.com/vi/wStN3RNeioI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Des 2025",
                         "date": "2025-12-18",
