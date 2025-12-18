@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4880,
-        "last-update": 1766030762,
+        "update-count": 4881,
+        "last-update": 1766033557,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4700,6 +4700,20 @@
                 "pic": "Caleb",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Penari Drama Natal",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-12-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "Latihan Tim musik 25 desember 2025",
