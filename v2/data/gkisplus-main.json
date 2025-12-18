@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4886,
-        "last-update": 1766056218,
-        "last-updated-item": "yt",
+        "update-count": 4887,
+        "last-update": 1766064779,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5183,6 +5183,20 @@
                 "pic": "Kezia",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "rapat persiapan natal komisi remaja",
+                "time": "00:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel ",
+                "status": "w",
+                "note": "tambah teh"
             },
             {
                 "name": "PA Wilayah 5",
