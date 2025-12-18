@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4879,
-        "last-update": 1766027120,
+        "update-count": 4880,
+        "last-update": 1766030762,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5106,6 +5106,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": " Evaluasi ProKer Tengah Tahun Anggaran 2025/2026",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-02-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paskah",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
