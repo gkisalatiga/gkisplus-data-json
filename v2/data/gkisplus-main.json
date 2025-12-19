@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4887,
-        "last-update": 1766121484,
+        "update-count": 4888,
+        "last-update": 1766132591,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4617,104 +4617,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan musik ibadah 25 des 2025",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "y",
-                "note": "Setelah selesai Sambut Natal KUL"
-            },
-            {
-                "name": "Gladi bersih sambut Natal YPE",
-                "time": "12:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Martha Sulistya Wening",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Sambut Natal KUL, dan ramah tamah",
-                "time": "16:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan drama musikal natal",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "09:30",
-                "time-to": "10:30",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "y",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
-            },
-            {
-                "name": "Latihan PS Magnificat",
-                "time": "19:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Caleb",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Penari Drama Natal",
-                "time": "16:00",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2025-12-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": "Minta disiapkan teh"
-            },
-            {
                 "name": "Latihan Tim musik 25 desember 2025",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4825,6 +4727,20 @@
                 "pic": "Samuel ",
                 "status": "y",
                 "note": "tambah teh"
+            },
+            {
+                "name": "Rapat Bendahara",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Ervien ",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan drama musikal natal",
@@ -5037,6 +4953,20 @@
                 "note": "-"
             },
             {
+                "name": "Pelaksanaan RC",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-01-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kotor Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -5202,20 +5132,6 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pelaksanaan RC",
-                "time": "10:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-01-07",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
                 "note": ""
             },
             {
