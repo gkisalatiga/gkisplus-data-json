@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4885,
-        "last-update": 1766113680,
+        "update-count": 4886,
+        "last-update": 1766117272,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4813,6 +4813,20 @@
                 "note": ""
             },
             {
+                "name": "rapat persiapan natal komisi remaja",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-12-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel ",
+                "status": "y",
+                "note": "tambah teh"
+            },
+            {
                 "name": "Latihan drama musikal natal",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4855,9 +4869,23 @@
                 "note": "-"
             },
             {
+                "name": "Operet Natal",
+                "time": "14:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Ibadah Pemberkatan Pernikahan",
                 "time": "10:00",
-                "time-to": "00:00",
+                "time-to": "12:00",
                 "timezone": "WIB",
                 "date": "2025-12-26",
                 "weekday": "fri",
@@ -4867,6 +4895,20 @@
                 "pic": "Kezia",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Ibadah Hari Minggu 28 Des",
+                "time": "12:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2025-12-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sekolah Minggu Gabungan",
@@ -4923,6 +4965,20 @@
                 "pic": "Samuel Martono",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "persiapan PK Wilayah 2&8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Pak Lukas",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Natal Komisi Dewasa",
@@ -5147,62 +5203,6 @@
                 "pic": "Pnt. Paskah",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Operet Natal",
-                "time": "14:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-25",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Panitia",
-                "pic": "Chrissandhy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Ibadah Hari Minggu 28 Des",
-                "time": "12:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2025-12-26",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Kezia",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "rapat persiapan natal komisi remaja",
-                "time": "00:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-12-19",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel ",
-                "status": "w",
-                "note": "tambah teh"
-            },
-            {
-                "name": "persiapan PK Wilayah 2&8",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-12-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Pak Lukas",
-                "status": "w",
-                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
