@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4888,
-        "last-update": 1766132591,
+        "update-count": 4889,
+        "last-update": 1766142873,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5132,6 +5132,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik 24 Desember",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-22",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
+                "status": "w",
                 "note": ""
             },
             {
