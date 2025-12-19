@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4890,
-        "last-update": 1766147584,
-        "last-updated-item": "agenda",
+        "update-count": 4891,
+        "last-update": 1766153476,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Des 2025 | Menunggu Tim SAR",
+                        "date": "2025-12-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=LIOJA3mxs3M",
+                        "thumbnail": "https://i1.ytimg.com/vi/LIOJA3mxs3M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Des 2025 | Menyambut Natal dalam Perjumpaan",
                         "date": "2025-12-18",
