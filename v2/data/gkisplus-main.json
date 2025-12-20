@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4894,
-        "last-update": 1766199348,
+        "update-count": 4895,
+        "last-update": 1766204494,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4749,8 +4749,8 @@
             },
             {
                 "name": "Gathering pengurus KHI",
-                "time": "18:00",
-                "time-to": "20:00",
+                "time": "19:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2025-12-20",
                 "weekday": "sat",
