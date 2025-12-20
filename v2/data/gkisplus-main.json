@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4893,
-        "last-update": 1766193191,
+        "update-count": 4894,
+        "last-update": 1766199348,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4758,6 +4758,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Kartika Dewi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Gerejawi Pernikahan",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-20",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen",
                 "status": "y",
                 "note": ""
             },
