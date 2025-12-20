@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4895,
-        "last-update": 1766204494,
+        "update-count": 4896,
+        "last-update": 1766205965,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5179,6 +5179,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Perayaan Natal",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-22",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Alia Katharina",
+                "status": "w",
                 "note": ""
             },
             {
