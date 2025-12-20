@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4892,
-        "last-update": 1766169317,
-        "last-updated-item": "ykb",
+        "update-count": 4893,
+        "last-update": 1766193191,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4748,6 +4748,20 @@
                 "note": ""
             },
             {
+                "name": "Gathering pengurus KHI",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-20",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan drama musikal natal",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4759,6 +4773,20 @@
                 "representative": "Panitia",
                 "pic": "Alia Katharina",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik 24 Desember",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-22",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
+                "status": "w",
                 "note": ""
             },
             {
@@ -5137,34 +5165,6 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik 24 Desember",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-22",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Kezia",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gathering pengurus KHI",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-20",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika Dewi",
-                "status": "w",
                 "note": ""
             },
             {
