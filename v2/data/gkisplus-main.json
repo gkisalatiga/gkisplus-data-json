@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4896,
-        "last-update": 1766205965,
-        "last-updated-item": "agenda",
+        "update-count": 4897,
+        "last-update": 1766207421,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -19,92 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 20 Des 2025 | Menunggu Tim SAR",
-                        "date": "2025-12-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=LIOJA3mxs3M",
-                        "thumbnail": "https://i1.ytimg.com/vi/LIOJA3mxs3M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Des 2025 | Menyambut Natal dalam Perjumpaan",
-                        "date": "2025-12-18",
-                        "desc": "Dibawakan oleh Sdr. Joe Elliot Magang",
-                        "link": "https://www.youtube.com/watch?v=wStN3RNeioI",
-                        "thumbnail": "https://i4.ytimg.com/vi/wStN3RNeioI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Des 2025 | Decluttering",
-                        "date": "2025-12-17",
-                        "desc": "Dibawakan oleh Sdri. Natalia Pangastuti",
-                        "link": "https://www.youtube.com/watch?v=Hnqx_72zjSA",
-                        "thumbnail": "https://i1.ytimg.com/vi/Hnqx_72zjSA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Des 2025 | Terang di Tengah Kegelapan",
-                        "date": "2025-12-16",
-                        "desc": "Dibawakan oleh Bpk. Benaya Winandi Prasetya",
-                        "link": "https://www.youtube.com/watch?v=Kd8J7P34D9I",
-                        "thumbnail": "https://i4.ytimg.com/vi/Kd8J7P34D9I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Des 2025 | Terang dan Damai yang Menguatkan Kita",
-                        "date": "2025-12-15",
-                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
-                        "link": "https://www.youtube.com/watch?v=_8LogIAOFDM",
-                        "thumbnail": "https://i4.ytimg.com/vi/_8LogIAOFDM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Des 2025 | Hadiah Natal",
-                        "date": "2025-12-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=eU2zpUPWa5U",
-                        "thumbnail": "https://i2.ytimg.com/vi/eU2zpUPWa5U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Des 2025 | Damai Yang Kekal",
-                        "date": "2025-12-12",
-                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
-                        "link": "https://www.youtube.com/watch?v=hnc5GtcLFe8",
-                        "thumbnail": "https://i1.ytimg.com/vi/hnc5GtcLFe8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Des 2025 | Sukacita Pertobatan",
-                        "date": "2025-12-11",
-                        "desc": "Dibawakan oleh Ibu Ristiani Gani Mendrofa",
-                        "link": "https://www.youtube.com/watch?v=L2f6yWdbBI0",
-                        "thumbnail": "https://i1.ytimg.com/vi/L2f6yWdbBI0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Des 2025 | Kesetiaan Di Tengah Kepahitan",
-                        "date": "2025-12-10",
-                        "desc": "Dibawakan oleh Pnt. Yosua Candana",
-                        "link": "https://www.youtube.com/watch?v=CFZEmd4qews",
-                        "thumbnail": "https://i4.ytimg.com/vi/CFZEmd4qews/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Des 2025 | Natal: Saat Untuk Membeli Atau Memberi?",
-                        "date": "2025-12-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=t7cUfEK6RPA",
-                        "thumbnail": "https://i1.ytimg.com/vi/t7cUfEK6RPA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Des 2025 | Hidup Dalam Pertobatan",
-                        "date": "2025-12-08",
-                        "desc": "Dibawakan oleh Ibu Lilis Supriyanti",
-                        "link": "https://www.youtube.com/watch?v=0o54T-3M2oU",
-                        "thumbnail": "https://i1.ytimg.com/vi/0o54T-3M2oU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Des 2025 | Suntsugi",
-                        "date": "2025-12-07",
-                        "desc": "Dibawakan oleh Sdri. Eriyani Tenga Lunga",
-                        "link": "https://www.youtube.com/watch?v=rLdIVoLitMI",
-                        "thumbnail": "https://i3.ytimg.com/vi/rLdIVoLitMI/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -1166,6 +1081,13 @@
                         "desc": "\"Ku Mulai Dari Diri Sendiri\"\n\nDibawakan oleh PS Efrata pada Persekutuan Komisi Usia Lanjut (KUL) Kamis, 16 Oktober 2025 pukul 16:00 WIB.\n\nBulan Keluarga 2025 di GKI Salatiga mengangkat tema, \"Formasi Spiritualitas Keluarga.\" Perjalanan hidup keluarga kristiani tidak lepas dari berbagai pengalaman. Sebagai keluarga, tentu kita pernah merasakan kesedihan, kesusahan, kekurangan, dan dukacita. Akan tetapi, ada kalanya juga keluarga Kristus mengalami sukacita, pengharapan, dan berkat Tuhan yang melimpah. Pengalaman bersama Allah akan terus mentransformasi hidup keluarga, sehingga kita dapat dimampukan untuk menghadapi berbagai pergumulan hidup dengan keberanian dan pengharapan.\n\nMari kita terus merawat, mengembangkan, serta mempersaksikan kehidupan keluarga yang berakar, bertumbuh, dan berbuah di dalam Kristus.\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=TYZ3q3HapW4",
                         "thumbnail": "https://i.ytimg.com/vi/TYZ3q3HapW4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS. Efrata - Hai Mari Berhimpun",
+                        "date": "2025-12-20",
+                        "desc": "",
+                        "link": "https://www.youtube.com/watch?v=9gMXhjRDL5g",
+                        "thumbnail": "https://i.ytimg.com/vi/9gMXhjRDL5g/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
