@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4898,
-        "last-update": 1766207760,
+        "update-count": 4899,
+        "last-update": 1766263070,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -1794,6 +1794,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 21 Desember 2025",
+                    "date": "2025-12-20",
+                    "link": "https://drive.google.com/file/d/1Fgot9x2bcaORsAdckkEoF4GeQC_72CAM/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-21-desember-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Fgot9x2bcaORsAdckkEoF4GeQC_72CAM",
+                    "id": "1Fgot9x2bcaORsAdckkEoF4GeQC_72CAM",
+                    "size": "2.18 MB"
+                },
+                {
                     "title": "Warta Jemaat 14 Desember 2025",
                     "date": "2025-12-13",
                     "link": "https://drive.google.com/file/d/1jktO5PjfJ-7qnT8gK_NEC9TTfZGDnC7H/view",
@@ -2434,6 +2443,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 21 Desember 2025 - Adven IV",
+                    "date": "2025-12-20",
+                    "link": "https://drive.google.com/file/d/1luq7rp3QqgI0RoSWBaLBYRZpyEcxuYn2/view",
+                    "post-page": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1luq7rp3QqgI0RoSWBaLBYRZpyEcxuYn2",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1luq7rp3QqgI0RoSWBaLBYRZpyEcxuYn2",
+                    "id": "1luq7rp3QqgI0RoSWBaLBYRZpyEcxuYn2",
+                    "size": "0.68 MB"
+                },
                 {
                     "title": "Tata Ibadah 14 Desember 2025 - Adven III",
                     "date": "2025-12-13",
