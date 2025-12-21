@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4903,
-        "last-update": 1766292773,
-        "last-updated-item": "agenda",
+        "update-count": 4904,
+        "last-update": 1766293941,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -19,64 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 20 Des 2025 | Menunggu Tim SAR",
-                        "date": "2025-12-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=LIOJA3mxs3M",
-                        "thumbnail": "https://i1.ytimg.com/vi/LIOJA3mxs3M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Des 2025 | Menyambut Natal dalam Perjumpaan",
-                        "date": "2025-12-18",
-                        "desc": "Dibawakan oleh Sdr. Joe Elliot Magang",
-                        "link": "https://www.youtube.com/watch?v=wStN3RNeioI",
-                        "thumbnail": "https://i4.ytimg.com/vi/wStN3RNeioI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Des 2025 | Decluttering",
-                        "date": "2025-12-17",
-                        "desc": "Dibawakan oleh Sdri. Natalia Pangastuti",
-                        "link": "https://www.youtube.com/watch?v=Hnqx_72zjSA",
-                        "thumbnail": "https://i1.ytimg.com/vi/Hnqx_72zjSA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Des 2025 | Terang di Tengah Kegelapan",
-                        "date": "2025-12-16",
-                        "desc": "Dibawakan oleh Bpk. Benaya Winandi Prasetya",
-                        "link": "https://www.youtube.com/watch?v=Kd8J7P34D9I",
-                        "thumbnail": "https://i4.ytimg.com/vi/Kd8J7P34D9I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Des 2025 | Terang dan Damai yang Menguatkan Kita",
-                        "date": "2025-12-15",
-                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
-                        "link": "https://www.youtube.com/watch?v=_8LogIAOFDM",
-                        "thumbnail": "https://i4.ytimg.com/vi/_8LogIAOFDM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Des 2025 | Hadiah Natal",
-                        "date": "2025-12-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=eU2zpUPWa5U",
-                        "thumbnail": "https://i2.ytimg.com/vi/eU2zpUPWa5U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Des 2025 | Damai Yang Kekal",
-                        "date": "2025-12-12",
-                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
-                        "link": "https://www.youtube.com/watch?v=hnc5GtcLFe8",
-                        "thumbnail": "https://i1.ytimg.com/vi/hnc5GtcLFe8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Des 2025 | Sukacita Pertobatan",
-                        "date": "2025-12-11",
-                        "desc": "Dibawakan oleh Ibu Ristiani Gani Mendrofa",
-                        "link": "https://www.youtube.com/watch?v=L2f6yWdbBI0",
-                        "thumbnail": "https://i1.ytimg.com/vi/L2f6yWdbBI0/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
