@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4908,
-        "last-update": 1766306753,
+        "update-count": 4909,
+        "last-update": 1766309949,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5161,6 +5161,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemberkatan Nikah 27 Des",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-12-22",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia ",
                 "status": "w",
                 "note": ""
             },
