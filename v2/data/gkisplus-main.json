@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4904,
-        "last-update": 1766293941,
-        "last-updated-item": "yt",
+        "update-count": 4905,
+        "last-update": 1766295729,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5020,6 +5020,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Panitia",
                 "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik 24 Desember",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-12-22",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
                 "status": "w",
                 "note": ""
             },
