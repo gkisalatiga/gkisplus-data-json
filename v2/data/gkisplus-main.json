@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4910,
-        "last-update": 1766326156,
+        "update-count": 4911,
+        "last-update": 1766336912,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Des 2025 | Siapa Takut?",
+                        "date": "2025-12-21",
+                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
+                        "link": "https://www.youtube.com/watch?v=MDEZzzzZ2-I",
+                        "thumbnail": "https://i2.ytimg.com/vi/MDEZzzzZ2-I/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Des 2025 | Ketika Allah Melawat Umat-Nya",
+                        "date": "2025-12-21",
+                        "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
+                        "link": "https://www.youtube.com/watch?v=7Oxv4AoucMk",
+                        "thumbnail": "https://i4.ytimg.com/vi/7Oxv4AoucMk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Des 2025 | Menunggu Tim SAR",
                         "date": "2025-12-19",
@@ -61,20 +75,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=eU2zpUPWa5U",
                         "thumbnail": "https://i2.ytimg.com/vi/eU2zpUPWa5U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Des 2025 | Damai Yang Kekal",
-                        "date": "2025-12-12",
-                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
-                        "link": "https://www.youtube.com/watch?v=hnc5GtcLFe8",
-                        "thumbnail": "https://i1.ytimg.com/vi/hnc5GtcLFe8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Des 2025 | Sukacita Pertobatan",
-                        "date": "2025-12-11",
-                        "desc": "Dibawakan oleh Ibu Ristiani Gani Mendrofa",
-                        "link": "https://www.youtube.com/watch?v=L2f6yWdbBI0",
-                        "thumbnail": "https://i1.ytimg.com/vi/L2f6yWdbBI0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
