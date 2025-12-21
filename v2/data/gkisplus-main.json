@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4902,
-        "last-update": 1766255468,
-        "last-updated-item": "ykb",
+        "update-count": 4903,
+        "last-update": 1766292773,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5064,6 +5064,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat PAN MRN",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
                 "note": ""
             },
             {
