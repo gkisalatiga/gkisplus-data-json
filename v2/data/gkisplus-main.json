@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4907,
-        "last-update": 1766304796,
-        "last-updated-item": "yt",
+        "update-count": 4908,
+        "last-update": 1766306753,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5107,6 +5107,62 @@
                 "pic": "Caleb",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik 31 Desember",
+                "time": "13:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2025-12-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 31 Desember",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-12-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 31/1",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2025-12-31",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 1 Januari",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2025-12-28",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
