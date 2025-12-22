@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 17,
-        "last-update": 1764448860,
-        "last-updated-item": "bible",
+        "update-count": 18,
+        "last-update": 1766398188,
+        "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
@@ -255,32 +255,32 @@
             ]
         },
         "seasonal": {
-            "title": "Bulan Keluarga 2025",
-            "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025.webp",
-            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_banner.webp",
+            "title": "Masa Raya Natal 2025",
+            "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025.webp",
+            "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_banner.webp",
             "static-menu": {
                 "agenda": {
-                    "title": "Agenda BuKel 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_agenda.webp",
-                    "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_agenda_isi.webp",
+                    "title": "Agenda MRN 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_agenda.webp",
+                    "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_agenda_isi.webp",
                     "is_shown": 1
                 },
                 "books": {
-                    "title": "Buku Panduan BuKel 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_buku.webp",
-                    "selection-tag": "bukel-2025",
+                    "title": "Buku Panduan MRN 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                    "selection-tag": "mrn-2025",
                     "is_shown": 1
                 },
                 "gallery": {
-                    "title": "Galeri Kegiatan dan Ibadah BuKel 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_galeri.webp",
-                    "album-keyword": "[BUKEL 2025]",
+                    "title": "Galeri Kegiatan dan Ibadah MRN 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_galeri.webp",
+                    "album-keyword": "[MRN 2025]",
                     "is_shown": 1
                 },
                 "playlist": {
-                    "title": "Daftar Putar BuKel 2025",
-                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_playlist.webp",
-                    "yt-playlist": "PLtAv1OZRTdvLXeft1NLikqNNZh3-_Evop",
+                    "title": "Daftar Putar MRN 2025",
+                    "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_playlist.webp",
+                    "yt-playlist": "PLtAv1OZRTdvJukJl-2qwXhMWlofPHtPHY",
                     "is_shown": 1
                 },
                 "twibbon": {
