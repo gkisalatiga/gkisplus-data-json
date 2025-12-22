@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4915,
-        "last-update": 1766377535,
+        "update-count": 4916,
+        "last-update": 1766393513,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4685,6 +4685,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Caleb",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Natal dan rekaman lagu untuk latihan natal komisi remaja",
+                "time": "08:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-12-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Renzo",
                 "status": "w",
                 "note": "-"
             }
