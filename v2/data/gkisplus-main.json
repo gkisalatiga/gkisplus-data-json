@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 4922,
-        "last-update": 1766499073,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 4923,
+        "last-update": 1766512163,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
     "data": {
@@ -2568,6 +2568,15 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 24 Desember 2025 - Malam Natal",
+                    "date": "2025-12-24",
+                    "link": "https://drive.google.com/file/d/1vIXxxbyTA1mmmGcM5q2Lu8Jpx3tfB3N6/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-24-desember-2025-malam-natal/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1vIXxxbyTA1mmmGcM5q2Lu8Jpx3tfB3N6",
+                    "id": "1vIXxxbyTA1mmmGcM5q2Lu8Jpx3tfB3N6",
+                    "size": "0.63 MB"
+                },
+                {
                     "title": "Tata Ibadah 21 Desember 2025 - Adven IV",
                     "date": "2025-12-20",
                     "link": "https://drive.google.com/file/d/1luq7rp3QqgI0RoSWBaLBYRZpyEcxuYn2/view",
@@ -3298,6 +3307,15 @@
                 }
             ],
             "es": [
+                {
+                    "title": "English Service Liturgy December 7, 2025",
+                    "date": "2025-12-04",
+                    "link": "https://drive.google.com/file/d/1RipeTOxdjHwbplQvmMj8V21aLAsMuAPg/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-december-7-2025/",
+                    "thumbnail": "",
+                    "id": "1RipeTOxdjHwbplQvmMj8V21aLAsMuAPg",
+                    "size": "0.24 MB"
+                },
                 {
                     "title": "English Service Liturgy November 2, 2025",
                     "date": "2025-10-30",
