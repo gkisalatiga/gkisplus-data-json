@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4920,
-        "last-update": 1766452618,
+        "update-count": 4921,
+        "last-update": 1766459417,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4679,132 +4679,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Gathering pengurus KHI",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-20",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika Dewi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapan Gerejawi Pernikahan",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2025-12-20",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan drama musikal natal",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-21",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Panitia",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS Magnificat",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-12-21",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Caleb",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan musik 24 Desember",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-22",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Kezia",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Perayaan Natal",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-22",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Majelis Jemaat",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik 24 Desember",
-                "time": "12:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-12-22",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Kezia",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemberkatan Nikah 27 Des",
-                "time": "10:00",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2025-12-22",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Kezia ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS Magnificat",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-22",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Caleb",
-                "status": "w",
-                "note": "-"
-            },
-            {
                 "name": "Gladi Bersih Malam Natal 24 Desember",
                 "time": "16:30",
                 "time-to": "19:00",
@@ -4843,7 +4717,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Panitia",
                 "pic": "Chrissandhy",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4857,7 +4731,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Renzo",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -4913,7 +4787,35 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Kebaktian Minggu",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2025-12-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Kebaktian Tutup Tahun",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4941,7 +4843,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4955,7 +4857,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5015,6 +4917,20 @@
                 "note": "-"
             },
             {
+                "name": "Gladi Kebaktian Tahun Baru",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Pemusik 31/1",
                 "time": "09:00",
                 "time-to": "11:00",
@@ -5025,7 +4941,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
