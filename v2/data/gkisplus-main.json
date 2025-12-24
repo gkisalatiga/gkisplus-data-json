@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4925,
-        "last-update": 1766514990,
-        "last-updated-item": "ykb",
+        "update-count": 4926,
+        "last-update": 1766545663,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4951,6 +4951,20 @@
                 "note": "-"
             },
             {
+                "name": "Gladi Natap KD",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "I Made Santi ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kebaktian Tahun Baru",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -4975,20 +4989,6 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Natal Komisi Dewasa",
-                "time": "17:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-01-03",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Dewasa",
-                "pic": "Made Santi ",
                 "status": "y",
                 "note": ""
             },
@@ -5049,6 +5049,20 @@
                 "note": ""
             },
             {
+                "name": "Natal Komisi Dewasa",
+                "time": "17:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-01-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Made Santi ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kotor Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -5060,20 +5074,6 @@
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Gladi Bersih Natal Komisi Remaja",
-                "time": "16:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-01-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "Cedric",
-                "status": "w",
                 "note": ""
             },
             {
@@ -5214,6 +5214,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih Natal Komisi Remaja",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
                 "note": ""
             },
             {
