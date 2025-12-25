@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4929,
-        "last-update": 1766645698,
+        "update-count": 4930,
+        "last-update": 1766647112,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5228,6 +5228,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 1 Januari",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
                 "note": ""
             },
             {
