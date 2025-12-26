@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4933,
-        "last-update": 1766687690,
-        "last-updated-item": "ykb",
+        "update-count": 4934,
+        "last-update": 1766711821,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4819,8 +4819,8 @@
             },
             {
                 "name": "Latihan Pemusik 31 Desember",
-                "time": "13:00",
-                "time-to": "17:00",
+                "time": "15:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
                 "date": "2025-12-26",
                 "weekday": "fri",
@@ -4828,7 +4828,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -4902,7 +4902,7 @@
                 "note": ""
             },
             {
-                "name": "Gladi Natap KD",
+                "name": "Gladi Natal KD",
                 "time": "19:00",
                 "time-to": "21:00",
                 "timezone": "WIB",
@@ -4913,6 +4913,20 @@
                 "representative": "Komisi Dewasa",
                 "pic": "I Made Santi ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik 1 Januari",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-12-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
                 "note": ""
             },
             {
@@ -5235,20 +5249,6 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paskah",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik 1 Januari",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-12-29",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
                 "note": ""
             },
             {
