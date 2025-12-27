@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4939,
-        "last-update": 1766774105,
-        "last-updated-item": "ykb",
+        "update-count": 4940,
+        "last-update": 1766816656,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4917,8 +4917,8 @@
             },
             {
                 "name": "Latihan Pemusik 1 Januari",
-                "time": "19:00",
-                "time-to": "21:00",
+                "time": "15:00",
+                "time-to": "17:00",
                 "timezone": "WIB",
                 "date": "2025-12-29",
                 "weekday": "mon",
@@ -4926,7 +4926,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
