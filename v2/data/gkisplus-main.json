@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4950,
-        "last-update": 1766909612,
-        "last-updated-item": "yt",
+        "update-count": 4951,
+        "last-update": 1766910072,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5223,6 +5223,34 @@
                 "pic": "Pnt. Paskah",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persiapan tim musik natal kd",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-12-31",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Uncle vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan tim musik untuk natal kd",
+                "time": "10:30",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-01-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Uncle vidra",
+                "status": "w",
+                "note": "Sehabis ibadah tahun baru"
             },
             {
                 "name": "PA Wilayah 5",
