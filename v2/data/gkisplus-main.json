@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4948,
-        "last-update": 1766860400,
-        "last-updated-item": "ykb",
+        "update-count": 4949,
+        "last-update": 1766892094,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4864,6 +4864,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat PAN MRN",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-12-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
                 "status": "y",
                 "note": ""
             },
