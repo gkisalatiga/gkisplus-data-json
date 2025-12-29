@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4959,
-        "last-update": 1766989696,
+        "update-count": 4960,
+        "last-update": 1767002379,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -2618,6 +2618,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 31 Desember 2025 - Ibadah Tutup Tahun",
+                    "date": "2025-12-29",
+                    "link": "https://drive.google.com/file/d/1y9fWU4xL-Ue2JsNMQvrkDEdJvb53IFDm/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-31-desember-2025-ibadah-tutup-tahun/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1y9fWU4xL-Ue2JsNMQvrkDEdJvb53IFDm",
+                    "id": "1y9fWU4xL-Ue2JsNMQvrkDEdJvb53IFDm",
+                    "size": "0.67 MB"
+                },
                 {
                     "title": "Tata Ibadah 28 Desember 2025 - Minggu Pertama Setelah Natal",
                     "date": "2025-12-25",
