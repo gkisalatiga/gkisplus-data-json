@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4958,
-        "last-update": 1766985889,
+        "update-count": 4959,
+        "last-update": 1766989696,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4805,7 +4805,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Dewasa",
                 "pic": "I Made Santi ",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -4987,6 +4987,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Dewasa",
                 "pic": "Made Santi ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Natal KD",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-01-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "I Made Santi",
                 "status": "y",
                 "note": ""
             },
