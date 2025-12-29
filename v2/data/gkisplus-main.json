@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4957,
-        "last-update": 1766982810,
+        "update-count": 4958,
+        "last-update": 1766985889,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4838,8 +4838,8 @@
             },
             {
                 "name": "Rapat Organ YPE",
-                "time": "18:00",
-                "time-to": "19:30",
+                "time": "19:00",
+                "time-to": "20:30",
                 "timezone": "WIB",
                 "date": "2025-12-29",
                 "weekday": "mon",
@@ -4936,8 +4936,8 @@
             },
             {
                 "name": "Persiapan tim musik natal kd",
-                "time": "10:00",
-                "time-to": "11:30",
+                "time": "11:00",
+                "time-to": "12:30",
                 "timezone": "WIB",
                 "date": "2025-12-31",
                 "weekday": "wed",
@@ -4945,7 +4945,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Dewasa",
                 "pic": "Uncle vidra",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
