@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4960,
-        "last-update": 1767002379,
-        "last-updated-item": "agenda",
+        "update-count": 4961,
+        "last-update": 1767028192,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Des 2025 | Tuhan Akan Menyelamatkan Lagi",
+                        "date": "2025-12-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=2rCFzW6x8PI",
+                        "thumbnail": "https://i3.ytimg.com/vi/2rCFzW6x8PI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Des 2025 | Jangan Takut dan Jangan Kuatir Sebab Allah Telah Melawat Kita",
                         "date": "2025-12-28",
@@ -40,20 +47,6 @@
                         "desc": "Dibawakan oleh Pnt. Gita Hastuti\nDitulis oleh Pnt. Nadia Sita",
                         "link": "https://www.youtube.com/watch?v=E4S3L_5mqjg",
                         "thumbnail": "https://i2.ytimg.com/vi/E4S3L_5mqjg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Des 2025 | Siapa Takut?",
-                        "date": "2025-12-22",
-                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
-                        "link": "https://www.youtube.com/watch?v=MDEZzzzZ2-I",
-                        "thumbnail": "https://i2.ytimg.com/vi/MDEZzzzZ2-I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Des 2025 | Ketika Allah Melawat Umat-Nya",
-                        "date": "2025-12-21",
-                        "desc": "Dibawakan oleh Pnt. Sri Yuniwati",
-                        "link": "https://www.youtube.com/watch?v=7Oxv4AoucMk",
-                        "thumbnail": "https://i4.ytimg.com/vi/7Oxv4AoucMk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1138,6 +1131,13 @@
                         "desc": "KJ (Kidung Jemaat) 119 - \"Hai Dunia, Gembiralah\"\n\nSyair: Joy to the World, Isaac Watts, 1719,\nTerjemahan: Yamuger/Pan. Lit. K. A. J., 1980,\nLagu: Lowell Mason (1792 \u2013 1872) pada tema G. F. Handel, 1742\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=jwgEn2go7q0",
                         "thumbnail": "https://i.ytimg.com/vi/jwgEn2go7q0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | KJ 109 - \"Hai Mari, Berhimpun\"",
+                        "date": "2025-12-28",
+                        "desc": "KJ 109 (Kidung Jemaat) - \"Hai Mari, Berhimpun\"\n\nSyair: Adeste fideles/O Come All Ye Faithful, John Francis Wade, 1751,\nTerjemahan: Yamuger/Pan. Lit. K. A. J., 1980,\nLagu: John Francis Wade, 1751\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=LNJiWqEkW1A",
+                        "thumbnail": "https://i.ytimg.com/vi/LNJiWqEkW1A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1864,13 +1864,6 @@
                         "thumbnail": "https://i.ytimg.com/vi/i5XwGEL4k64/hqdefault.jpg"
                     },
                     {
-                        "title": "Perayaan Natal 25 Desember 2025 | \"Lawatan Allah Mengatasi Ketakutan\" | Operet GKI Salatiga",
-                        "date": "2025-12-28",
-                        "desc": "Operet Natal GKI Salatiga 2025\n\"Lawatan Allah Mengatasi Ketakutan\"\nKamis, 25 Desember 2025 Pk. 17:00 WIB\n\nKehidupan seringkali memperhadapkan kita dengan pencobaan yang bertubi-tubi. Keluarga Nasya yang semula tanpa masalah kini harus bertahan melewati tantangan kehidupan semenjak ayah Nasya diberhentikan dari tempatnya bekerja. Namun Tuhan punya rencana-Nya yang akan menolong keluarga Nasya keluar dari masalah, layaknya mukjizat natal yang memberikan pengharapan baru.\n\nMelalui mimpi Nasya, kita diajak untuk bersama-sama merefleksikan Kembali peristiwa lahirnya Yesus Kristus ke dunia. Kedatangan Kristus yang menyelamatkan manusia dari maut merupakan wujud lawatan Allah yang membawa kita keluar dari ketakutan. Sehingga, kita dapat kembali menatap masa depan dengan penuh pengharapan.\n\nNaskah dan Sutradara: Hendro & Alia\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007\n\n***\n\n00:00:00 Pembukaan\n00:06:14 PS Magnificat \"An Advent Reflection\"\n00:12:47 Puisi Natal \"Kasih Mukhalis\"\n00:15:30 Video Refleksi Pengantar\n00:17:46 Act I: Mimpi Nasya\n00:29:54 Pujian \"Sampai Akhir Hidupku\"\n00:37:37 Act II: Nyanyian Maria\n00:40:00 Act III: Berita Baik Malaikat Gabriel\n00:49:05 Act IV: Dilema Yusuf\n00:55:35 Act V: Perintah Kaisar Agustus\n00:57:44 Act VI: Menuju Betlehem\n00:58:42 Act VII: Battle Pemilik Penginapan\n01:11:04 Act VIII: Kandang Domba\n01:15:24 Pujian \"Mary Did You Know?\"\n01:19:20 Act IX: Para Gembala\n01:26:00 Act X: Orang-Orang Majus\n01:30:56 Act XI: Kelahiran Yesus\n01:33:27 Act XII: Hadiah Natal untuk Keluarga Nasya\n01:46:21 Pujian \"Hai Mari Berhimpun\"\n01:49:09 END CREDITS\n01:51:37 Penutup",
-                        "link": "https://www.youtube.com/watch?v=5zgQsxjv53Y",
-                        "thumbnail": "https://i.ytimg.com/vi/5zgQsxjv53Y/hqdefault.jpg"
-                    },
-                    {
                         "title": "Ibadah Tahun Baru GKI Salatiga | 1 Januari 2026 | Di Dalam Cinta Hadirlah Tuhan",
                         "date": "2025-12-27",
                         "desc": "Ibadah Tahun Baru GKI Salatiga | 1 Januari 2026 ; Pukul 09:00 WIB\n\nTema: Di Dalam Cinta Hadirlah Tuhan\n\nNyanyian: NKB 47B; Di Dalam Cinta dan Kasih; KJ 383:2; PKJ 216:1-3; PKJ 4; PKJ 177\n\nBacaan 1: Pengkhotbah 3:1-13\nTanggapan: Mazmur 8\nBacaan 2: Wahyu 21:1-6a\nBacaan Injil: Matius 25:31-46\nBerita Anugrah: Ratapan 3:22-23; 2; Tesalonika 2:16-17\nPersembahan: Mazmur 118: 1,4,28,29\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Desemy Ch. N. Ballo\nKredo dan Warta: Pnt. Santoso Adi P.\nSambut Tamu: Pnt. Yosua Candana H.K. , Pnt. Rodiana\nPemandu Liturgi: Yedida Christa Pujianti\nLektor 1: A.M. Widiatmoko\nLektor 2: Chrissandhy Botmir\n\nPemusik: Psalm\nPNK/PMZ: Dinda / Andreas\nTim Multimedia: Budi Santoso, Joshua, Valen, Tora, Josua, Aldo\nDokumentasi : Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Eldewise\nUsher + Kolektan: Panitia Masa Raya Natal\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
@@ -1946,6 +1939,48 @@
                         "desc": "Ibadah Minggu Adven I GKI Salatiga (Perjamuan Kudus) 30 November 2025; Pukul 07:00 WIB\n\nTema: Mengubah Pedang Menjadi Mata Bajak\n\nNyanyian: KJ 91:1,3; PKJ 203:1,6; PKJ 267; KJ 464:1;KJ310; KK 461b; KJ 260\n\nBacaan 1: Yesaya 2:1-5\nTanggapan: Mazmur 122\nBacaan 2: Roma 13:11-14\nBacaan Injil: Matius 24:36-44\nBerita Anugrah: Yesaya 54:10\nPersembahan: 1 Tawarikh 16:29\n\nPelayan Firman: Pdt. Chiko Kwit Lim (GKI Pahlawan) - PPK GKI Klasis Magelang\nKoordinator Ibadah dan Persembahan: Pnt. Adita Sutresno\nKredo dan Warta: Pnt. Natalis Sidanta\nSambut Tamu: Pnt. Paul A.W. Gulo, Pnt. Hananto Seno\nPemandu Liturgi: Pnt. Ervien Dian W.\nLektor 1: Pnt. Santoso Adi P.\nLektor 2: Pnt. Sri Yuniwati R.\n\nAnggota MJ : \nPnt. Benny A. Kailola\nPnt. Yosua Candana H.K\nPnt. Sriono Sudarso\nPnt. Shielly Gunawan\nPnt. Yuliani Nugroho\n\nPemusik: Elhanan\nPNK/PMZ: Yambres / Andreas\nPaduan Suara: Group Musik Kentongan GKI Martadireja\nTim Multimedia: Joshua A. Gracia, Evan, Budi Santoso, Evangs, David\nDokumentasi : Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Kadaka\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=npPz4LSqI98",
                         "thumbnail": "https://i.ytimg.com/vi/npPz4LSqI98/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | KJ 109 - \"Hai Mari, Berhimpun\"",
+                        "date": "2025-12-28",
+                        "desc": "KJ 109 (Kidung Jemaat) - \"Hai Mari, Berhimpun\"\n\nSyair: Adeste fideles/O Come All Ye Faithful, John Francis Wade, 1751,\nTerjemahan: Yamuger/Pan. Lit. K. A. J., 1980,\nLagu: John Francis Wade, 1751\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=LNJiWqEkW1A",
+                        "thumbnail": "https://i.ytimg.com/vi/LNJiWqEkW1A/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | KJ 102 med. NKB 66 - \"Di Dalam Palungan\"",
+                        "date": "2025-12-28",
+                        "desc": "KJ (Kidung Jemaat) 102 medley NKB (Nyanyikanlah Kidung Baru) 66 - \"Di Dalam Palungan\"\n\nSyair: Away in a Manger, William James Kirkpatrick, 1895\nLagu: James R. Murray\nTerjemahan: Yamuger, 1980\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=hKQC22ejuzs",
+                        "thumbnail": "https://i.ytimg.com/vi/hKQC22ejuzs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | KJ 92 - \"Malam Kudus\"",
+                        "date": "2025-12-28",
+                        "desc": "KJ (Kidung Jemaat) 92 - \"Malam Kudus\"\n\nSyair: Stille Nacht, heilige Nacht/Silent Night, Joseph Mohr, 1818,\nTerjemahan: Yamuger/Pan. Lit. K. A. J., 1980,\nLagu: Franz Xaver Gruber, 1818\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=emZfK003RFE",
+                        "thumbnail": "https://i.ytimg.com/vi/emZfK003RFE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | NKB 59 - \"Di Malam G\u2019lap, Sunyi Senyap\"",
+                        "date": "2025-12-28",
+                        "desc": "NKB (Nyanyikanlah Kidung Baru) 59 - \"Di Malam G\u2019lap, Sunyi Senyap\"\n\nSyair: The First Noel; Nyanyian Natal Inggris\nTerjemahan: Tim Nyanyian GKI\nLagu: Christmas Carol; Sandy\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=o7J_50GtR7A",
+                        "thumbnail": "https://i.ytimg.com/vi/o7J_50GtR7A/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | GB 150 - \"Gembiralah Saudara\"",
+                        "date": "2025-12-28",
+                        "desc": "GB (Gita Bakti) 150 - \"Gembiralah Saudara\"\n\nNyanyian Natal Inggris abad ke-18 terj. H.A. Pandopo 1981\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=I8HlIjo_huE",
+                        "thumbnail": "https://i.ytimg.com/vi/I8HlIjo_huE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "PS GKI Salatiga | KJ 94 - \"Hai Kota Mungil Betlehem\"",
+                        "date": "2025-12-28",
+                        "desc": "KJ (Kidung Jemaat) 94 - \"Hai Kota Mungil Betlehem\"\n\nSyair: O Little Town of Betlehem, Phillips Brooks, 1868,\nTerjemahan: Yamuger, 1978,\nLagu: Lewis Henry Redner, 1868\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=M1CjfLavnR0",
+                        "thumbnail": "https://i.ytimg.com/vi/M1CjfLavnR0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
