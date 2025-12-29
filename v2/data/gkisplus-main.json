@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4956,
-        "last-update": 1766978917,
-        "last-updated-item": "yt",
+        "update-count": 4957,
+        "last-update": 1766982810,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4781,62 +4781,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Gladi Kebaktian Minggu",
-                "time": "16:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2025-12-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Dessy",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Gladi Kebaktian Tutup Tahun",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-12-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Dessy",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Sekolah Minggu Gabungan",
-                "time": "07:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2025-12-28",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik 1 Januari",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2025-12-28",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Latihan Pemusik 31 Desember",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -4889,6 +4833,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Organ YPE",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2025-12-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Pdt. Helen Ruth Manurung",
                 "status": "y",
                 "note": ""
             },
@@ -4975,6 +4933,34 @@
                 "pic": "Jenny",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persiapan tim musik natal kd",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2025-12-31",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Uncle vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan tim musik untuk natal kd",
+                "time": "10:30",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-01-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Uncle vidra",
+                "status": "y",
+                "note": "Sehabis ibadah tahun baru"
             },
             {
                 "name": "Ruang untuk Ramah Tamah Natal KD",
@@ -5213,34 +5199,6 @@
                 "pic": "Pnt. Paskah",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Persiapan tim musik natal kd",
-                "time": "10:00",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2025-12-31",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Dewasa",
-                "pic": "Uncle vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Persiapan tim musik untuk natal kd",
-                "time": "10:30",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-01-01",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Dewasa",
-                "pic": "Uncle vidra",
-                "status": "w",
-                "note": "Sehabis ibadah tahun baru"
             },
             {
                 "name": "PA Wilayah 5",
