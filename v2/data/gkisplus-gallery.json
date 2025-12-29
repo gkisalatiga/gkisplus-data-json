@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 60,
-        "last-update": 1765705374,
+        "update-count": 61,
+        "last-update": 1766995031,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -24861,6 +24861,916 @@
                             "id": "16W_7Yw8qLXWpDFhblRg5BvmTjulBGfDS",
                             "name": "GKI Adven 3 141225-7-00002.JPG",
                             "date": "2025-12-14"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1LqopN7JkY8UmG25XB_Tz8oU6cu_RL-qV",
+                    "last_update": "2025-12-29",
+                    "featured_photo_id": "14I-XkrI6Go46AhNFjVGiCrM20giOtVdd",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Adven IV, 21 Desember [MRN 2025] yang dilaksanakan pada 21 Desember 2025.",
+                    "title": "Ibadah Minggu Adven IV, 21 Desember [MRN 2025]",
+                    "event_date": "2025.12.21",
+                    "photos": [
+                        {
+                            "id": "1-_9EkCKrRJeXPevHUuEI5-sdYJPoAAq2",
+                            "name": "IMG_7572.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1y0gqljy7Pg7sXMcCEH_LksFQUi5SV2Wa",
+                            "name": "IMG_7593.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1zOkfDvTwaa1f4IW5XHLpvUu7H9Z1PlCE",
+                            "name": "IMG_7568.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1mrDQhgcZElBkG94yLuNkvFAEjPWGbvom",
+                            "name": "IMG_7618.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1z4ukexeWP2-UtFLhgPG9EI5pTwPKhU2Q",
+                            "name": "IMG_7592.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1caLOkPBZQA06NyWpwqcfVJb47o5rjYkb",
+                            "name": "IMG_7373.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1flA5rOw0DxRfwpnPa5bsc5h2BkOdDSuP",
+                            "name": "IMG_7384.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1t0BhnHKoMkMpUB6h5u3m7wCGlwaBI0Co",
+                            "name": "IMG_7334.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1PbEhRZm7yKQjXHo-j3Y-ln4sPL5ng7Hv",
+                            "name": "IMG_7370.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1f-TzwqkExrpde6Rmct5kq1ACGKS3YZSM",
+                            "name": "IMG_7518.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1p5pf6Wku9SiuIFtRmcdDFVUfbfH5WvXi",
+                            "name": "IMG_7548.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1xrD_oqeoXEP1SHGTD3K1X0vE3zflf0Tm",
+                            "name": "IMG_7460.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "19iMSCYTXLW_hhAF2_-H_cY8IDd3EV28N",
+                            "name": "IMG_7501.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "12p4nXJt_hfrxtJCbailVx_bHv4VtU_nf",
+                            "name": "IMG_7477.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1MOcrpcWfiu9AJBOMFrncqqOQQeJ6fC7e",
+                            "name": "IMG_7516.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1dXOmUak_L5Pvzz4VyiGcvV8cJqRNN0oa",
+                            "name": "IMG_7484.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1mkjHzMU3s_nrv3iPNloy9SyBKUApvxNv",
+                            "name": "IMG_7482.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1rdJwivgTobw2co_ALPz78oGZH9bsis1Z",
+                            "name": "IMG_7539.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1yRxXpx_Y2rrygJRbCCXsK7ou2-xWtGM8",
+                            "name": "IMG_7541.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Q9hkXaPyJKh_ZdoA3VckGkEzuI0SAXfB",
+                            "name": "_MG_2105.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1p42XiEG5_w0b48uyeyfc2DHuoD8LYOZh",
+                            "name": "_MG_2078.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1t-Hb7q1EPREVTn0ep3bBBUbn8sL3baUN",
+                            "name": "_MG_2100.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1rY0jkx3HwWdfMxH9hFGj1EDWo2K9AvK3",
+                            "name": "_MG_2099.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1kweX2xJrFS4r7cCcxXvigZYP8d_7VMRP",
+                            "name": "_MG_2102.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1MuMeI9809huHyTexR26YhO8Np1F4Jhl3",
+                            "name": "_MG_2082.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1U_MfbweBd4HUMrKy8VfOmNfx17XGlJ9O",
+                            "name": "_MG_2116.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1XtAk2ZqPfBc8venkCXu4CKnfNBtDFDGw",
+                            "name": "_MG_2150.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1MRm9PoEnwnfLuVfl8zX6yTEICmaYGvAa",
+                            "name": "IMG_7573.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "10zt-vHZJxDuEl0wsUp4iAExIh9H9UXBE",
+                            "name": "_MG_2109.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "19xsqHShk5IxpSfk0nU2A_-gLGKuu7pqh",
+                            "name": "_MG_2138.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "12lRWjpo-vC6qj5DShlr98ZR7I_Smy0D2",
+                            "name": "_MG_2153.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1PADZAoBikLwZKb9D7sB8H0Pyo2Q4nbRR",
+                            "name": "_MG_2119.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "187GIxRGtOzi3n-r0b8hzcdik4cp_Y91X",
+                            "name": "_MG_2144.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1CJcrdp7vCA0F7oC5qBeT6ZuaTsCyG6gk",
+                            "name": "_MG_2188.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1EfASA2Pd65MSp5Pc_C2d9NVLJWtYep3l",
+                            "name": "_MG_2180.JPG",
+                            "date": "2025-12-29"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1TSJptW3l_crLwXGfObSbX710cE_86cnv",
+                    "last_update": "2025-12-29",
+                    "featured_photo_id": "12jrgmAcTtIt-6B4FaO64bdMv5zSFbFQ6",
+                    "story": "Foto-foto dokumentasi Malam Natal 2025 [MRN 2025] yang dilaksanakan pada 24 Desember 2025.",
+                    "title": "Malam Natal 2025 [MRN 2025]",
+                    "event_date": "2025.12.24",
+                    "photos": [
+                        {
+                            "id": "1o9kT84POhnF-ImF6gQvNqE3z7vroJxjF",
+                            "name": "PICT0103.jpg",
+                            "date": "2025-12-29"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1suKSYeInOHTrDuMORMqF4wpWDOG8edtH",
+                    "last_update": "2025-12-29",
+                    "featured_photo_id": "17YOnlvnllK2QYziiF7UGR--bQC_RNzsX",
+                    "story": "Foto-foto dokumentasi Ibadah Natal 2025 [MRN 2025] yang dilaksanakan pada 25 Desember 2025.",
+                    "title": "Ibadah Natal 2025 [MRN 2025]",
+                    "event_date": "2025.12.25",
+                    "photos": [
+                        {
+                            "id": "12u_2gepSKXNERkLUJhM6vG1TdyyVkFnj",
+                            "name": "YSA02504.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "16WwC4IUgUId7dLGNIH6hnPP_MyQv5kFe",
+                            "name": "GKI Natal 251225-4-00090.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1VuHNRC1sD82VuDWlP5AFTgfLljzooU2H",
+                            "name": "GKI Natal 251225-4-00089.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1se5092auMXrdw4PrIDxcwLmqRXJR5rtT",
+                            "name": "GKI Natal 251225-4-00084.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1yMBbCccDPWf5xBwRIUjvRMqtsQZFTIgG",
+                            "name": "GKI Natal 251225-4-00088.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "16CIj03Xp1Sj4JzsIajRQDw-4NNpZE-yJ",
+                            "name": "GKI Natal 251225-4-00085.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Cmn21aJOLVlB4PlXEOW9l3K3zHqx7N6x",
+                            "name": "GKI Natal 251225-4-00086.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1uKLq3vdH4BMvLxakAsIW5Mf--FobZuoS",
+                            "name": "PICT0046.jpg",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "16DsR5M5r_IyBOB-EATcyPWebk6r3JfL6",
+                            "name": "PICT0064.jpg",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1mVXeniUrE3iRIxzgXTOdQtmdiUBcsQiK",
+                            "name": "PICT0075.jpg",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1-sEYletUCsHY9TtPIaIqAPhLbcnXEFPY",
+                            "name": "PICT0070.jpg",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Q8pvJoltV8pn799gfVSiVmsJO3l6zv3T",
+                            "name": "PICT0036.jpg",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "11MYsfvkexixG4WF_K7bfmLMUXM_IUBcN",
+                            "name": "PICT0077.jpg",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1BV7VcKWqHmElCjB0jpgU3ZmhvO-NQ8mt",
+                            "name": "GKI Natal 251225-4-00093.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Ji3nFzB1BbezY1DMvH1TyX-xhAQ_AFN4",
+                            "name": "GKI Natal 251225-4-00094.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1rl68FxILKDc8XfXxfsgSNIOciwg3Qo2-",
+                            "name": "GKI Natal 251225-4-00092.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1N3pEhO94YQptJzXvqjkH37rZKLY14pDK",
+                            "name": "GKI Natal 251225-4-00004.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1SGkNZ1K0wCmcdOpenrxKWmOillZWptW_",
+                            "name": "GKI Natal 251225-4-00111.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1soeULHEvER_E7kYmWBzAzRh1iEgBxdf2",
+                            "name": "GKI Natal 251225-4-00036.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1zGSEMY8gUEAW6Z0xHAwixKZdoA5mh6pH",
+                            "name": "GKI Natal 251225-4-00035.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1GCNdy9RoV2a8x5MfnFZo0UO0grjclLRj",
+                            "name": "GKI Natal 251225-4-00114.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1ElAcHbEnSmOzKdV9CpeMlsItG-a7L94Q",
+                            "name": "GKI Natal 251225-4-00096.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1SOwC_f6XOj8nBiLvn36LB3bPSpI2tRMN",
+                            "name": "GKI Natal 251225-4-00190.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1GlrXmWAGnSCeAikdXO75ychAk5eZ-2Qi",
+                            "name": "GKI Natal 251225-4-00167.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1-OgLUg8819Rqe8UwHDOgZEDjeFwFygpb",
+                            "name": "IMG_7825.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1P1jd0Pb3HDTydJNb17geogT7P1E1JzwN",
+                            "name": "IMG_7810.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1w2C4cef0tLaAeAl8mZ22qP5n9IKmQSnZ",
+                            "name": "IMG_7822.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1GFW299vmnKxN3VBj6AxySyUrWRt4r2Wn",
+                            "name": "IMG_7820.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "15V1axkYpMjrH0Kd5SJYQSMFJdIds_gPq",
+                            "name": "IMG_7748.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1cx2LJi7gi-XJe7aMo2tyy5FHPLhGVFSp",
+                            "name": "IMG_7809.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1QBQM2zgu29B8vSH7MLDkKqVpcjIyQ5Vj",
+                            "name": "IMG_7747.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "17NAAoUfsjOCDVBtHbG5087v5mS1lJiTE",
+                            "name": "YSA02469.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1BmX6Zqp-HuLBiGcWIcKRn6EBeySEyXFN",
+                            "name": "YSA02357.JPG",
+                            "date": "2025-12-29"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1ZZxouWiQkO5lsXGe5HWZu0Vklz5d_Dri",
+                    "last_update": "2025-12-29",
+                    "featured_photo_id": "19revCdbEOTteb8xFEFZLDIPO5f6G5Q-1",
+                    "story": "Foto-foto dokumentasi Perayaan Natal 2025 [MRN 2025] yang dilaksanakan pada 25 Desember 2025.",
+                    "title": "Perayaan Natal 2025 [MRN 2025]",
+                    "event_date": "2025.12.25",
+                    "photos": [
+                        {
+                            "id": "1rGt95PgN8N_QN1-WGZ0M8sGbz5as5tP2",
+                            "name": "IMG_0357.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1nuA8zvYnL9UO5AZ6gN0yI-shqtmJuWKO",
+                            "name": "IMG_0368.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1dixi3Aq0lgIDciTj8brUA3-WSnhyLu-a",
+                            "name": "IMG_0382.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1ByI8oPexCCZsokvdoxbbi-MGhhdTnn2G",
+                            "name": "IMG_8095.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1uQTAL5VPMFwx-LMpt1JC4HNrsZCUht4W",
+                            "name": "IMG_8049.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1dPYEoLb6HxL4jot0WNO_iQ6eFe7OqRUQ",
+                            "name": "IMG_8075.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1097yixc2XqOCw3_uUHEr7sGVkscc29o6",
+                            "name": "IMG_8054.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1cHUbN-tQVH0kPFKSdtfB5hI_wkdX_ZJ9",
+                            "name": "IMG_8066.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1_XdmOdpmBSdx_17q0_8kvikbpRGPi181",
+                            "name": "IMG_8108.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1heC-lD5urKDRJ6r6jWbVnUQuXWx2aOYy",
+                            "name": "IMG_8093.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1OdodLHiMp45hQ0rluZq92QcTio4kKCrB",
+                            "name": "IMG_8116.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1eLIGuwxyUgNH-e2dgJlZFAIM1NartlhF",
+                            "name": "IMG_8082.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1yiNYc8cYvkdhvM08Tx6Zb3zuufU1bH5n",
+                            "name": "IMG_8090.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "176GK7LN4ZqyrqOgeZRGKowpZyQC1BwE-",
+                            "name": "IMG_8091.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1WkwluQS3kO7ngQsuYtabfMyhNXNBzgMi",
+                            "name": "IMG_8135.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1-8GzpSD3O8jc7nXy3kq0C11wWpcBXqS7",
+                            "name": "IMG_0360.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1PWZZiB8kUu9N08-RttAVyKeCzoTvLxbX",
+                            "name": "IMG_0331.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1hHSkXkpeL3dfERfhEzsxMgMXN_IZBa0h",
+                            "name": "IMG_0365.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1gfZpL61HAN1ZVSh9fWMhdehZsHjqae8m",
+                            "name": "IMG_0364.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1JUH91-BfX-OLDYsuNS0c5TAzvrzCnvzn",
+                            "name": "IMG_0374.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Hi4-JcE2EtA_TueZddtBTZLzeOf4iXJq",
+                            "name": "GKI Perayaan Natal 2025-00030.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1aVzbPU36qgURCFkjsoQEuJOEvELeENGA",
+                            "name": "GKI Perayaan Natal 2025-00027.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1T7FM8ZocCl9ZiFOcW-bxlMp_T5UsC76I",
+                            "name": "GKI Perayaan Natal 2025-00223.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1CAnRfBWTLBsaKRqN_qlgM1l1aYBJVC-q",
+                            "name": "GKI Perayaan Natal 2025-00021.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1XDUaon2G8QX59GDJeC0zKAm51qQOKmur",
+                            "name": "GKI Perayaan Natal 2025-00227.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1JqGjKa22qRusK8DS-qtD7mAkTJUTb9vF",
+                            "name": "GKI Perayaan Natal 2025-00216.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1oVH74idN3rj1ljMgA95cO05BpMjr25g-",
+                            "name": "IMG_7877.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "15c0pRtb5uHkXZXvEOmMO68nz33ZnZryP",
+                            "name": "IMG_8026.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1whsMGgfi4RzRv8i2S-XrDZGpjziowDkN",
+                            "name": "IMG_0293.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1NfBUFOh1jyk69u1cZvExj6ei4IoSR-WY",
+                            "name": "IMG_0284.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1aWJ4C9k1YTL50UKBRYgSL5Ys4RZfUYCt",
+                            "name": "IMG_0282.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1LuAnfXqIjZ_Cemy-bkIirSLiAkNuA3Q7",
+                            "name": "IMG_0288.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1H0c7pWYxTMRadcjTYCWdjQHrqS_2s7t6",
+                            "name": "IMG_0268.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1G8VKwLWZo_1njS8ZaEtyxfecGNemjXY3",
+                            "name": "IMG_0041.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1SM3_pikcmbcC_E6hlb0qMvgq5zyYhF2J",
+                            "name": "IMG_0035.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "18vDLSyyHoRjZ0bZ21-HRIrTgxpIvrzxK",
+                            "name": "YSA02707.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1tmta2jO8NnhagcJN5HHgRiHnjf-zHT3T",
+                            "name": "YSA02710.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1m438DCHXu2b_ClhVe-VQGmvtZsFZafv9",
+                            "name": "GKI Perayaan Natal 2025-00211.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1rznJHaXz4UG4iqHA-bVj84QXcO2yjQF9",
+                            "name": "GKI Perayaan Natal 2025-00213.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Tkq08AHAtC_gAzqzpUVeqE9IMnlIDpZd",
+                            "name": "GKI Perayaan Natal 2025-00215.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1GpAaQDZKlYsVRnAEGuc0SbkW5cDhwns3",
+                            "name": "IMG_8002.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "10D-J-zTvi6YuM_nDTN2AFWZub6ZGyZej",
+                            "name": "IMG_8015.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1ZtnNGJRupphzP-g55Y6y7AK5JAj-gQm6",
+                            "name": "IMG_8007.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1LsQMvyKj-ZH1vMcY-98PZ1UHGm5CkHCp",
+                            "name": "IMG_0259.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1hqLSJBZD-g2oJn0BdAE--QGz21g5nIcI",
+                            "name": "IMG_0262.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "17Mh9ZkNXHjyXVkAOojKD-YKI-z2-CdrD",
+                            "name": "IMG_0247.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "12TqKPbRqGL6bE8b7pBBOMhKRar3TkHKJ",
+                            "name": "YSA03108.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Rf8fmKx3oHmc3-2IbhzmnV6g6ts7OJQj",
+                            "name": "YSA03126.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "145XLfEOKQvh58Jl052zPa9ImzPBwT4wR",
+                            "name": "YSA03120.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1I6bEZRXRPlVMUsdW1CFlSja0NeKAPtuu",
+                            "name": "YSA03134.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1hH_123tUSnkq3aUcJhOH8V7n5Vi5lKHl",
+                            "name": "IMG_0021.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Rvp0btEaeZLDqEoyZM4aFuTkNTAHfTJC",
+                            "name": "IMG_0024.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1OJOv9leU9QHlvC3VI1MXLjyoxuXY_Uod",
+                            "name": "IMG_0030.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1_Nk6-Y4O97vTr-KggYQEdT24NtBytJS0",
+                            "name": "IMG_0022.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1wrAUVvPChyN1khYHxX9LfrUAsVXsAQWL",
+                            "name": "IMG_0028.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Yvc3fZfh0lNrhr65pTIbvVlJlIHNV_V7",
+                            "name": "GKI Perayaan Natal 2025-00025.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1CRd5e8KZ8b2P8eCy11EDXdmNQw6HHtVe",
+                            "name": "YSA02705.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1EvK6cLxxBR1ef57mBsBQrXhLrxAjLuQD",
+                            "name": "YSA02698.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1ToSuMUm_BVw0xIPXQexiH7ABilD_yUj8",
+                            "name": "GKI Perayaan Natal 2025-00194.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1iw-FkwyCqjLsvnwciEPvdDOKOkxPLFP2",
+                            "name": "IMG_7980.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1MElkuRqWgyizwsZGH0ryjP3t9MKD1nwI",
+                            "name": "IMG_7983.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1lGnmehgiCb_isvDaBc30HjFwRx736IlB",
+                            "name": "IMG_0230.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1rPb5DrRnOMEU8Bbt56P_lWarBNRVr31C",
+                            "name": "IMG_0241.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1hc7DPrNRhSpOxXnqpx7sfqW1d5nLLuvc",
+                            "name": "IMG_0209.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1SXWmZWm4Gw7aFxU37BjfBOlSTcmTMKaS",
+                            "name": "YSA03067.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1FJOizZWPTsmE9P8yfREUcRQGJBXMc44d",
+                            "name": "GKI Perayaan Natal 2025-00048.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1QZuTofqCZ-6TtWkLLTgtRmLu3cHbmCA1",
+                            "name": "GKI Perayaan Natal 2025-00001.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1BRPCR8fOV6CcghGAT7qqA2J0yqYZOAlU",
+                            "name": "GKI Perayaan Natal 2025-00011.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1w54XfT3DLWd2t16uR9M_sQc_gxPRdxdI",
+                            "name": "YSA02638.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Wj6H0qwH-mmXUYIUwrn4x6fOQZgZWsYy",
+                            "name": "YSA02642.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1wWIEQp3grAbVVxGju6Owo3eGiKB1OBDJ",
+                            "name": "YSA02644.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "18G166IBV2TaDRVTwSSFV4Fus1kaA6KWC",
+                            "name": "YSA02643.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1vZGfYq_j4uknUxb2N__LWwQmK3dJSUqp",
+                            "name": "GKI Perayaan Natal 2025-00243.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1zecGuahx8wmHqUpbjDMOfdIW74hrCdaW",
+                            "name": "IMG_8389.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1gY8eW9KH706X3TZeS7_BWKPbb7-1HOTR",
+                            "name": "IMG_0319.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1qdfod_wTnV9ed5z5_M5PI3SqWCWPk5SN",
+                            "name": "IMG_0317.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1iPf1XFcjFTtoT9Mpu1PXvrEq-Ag2E2qq",
+                            "name": "GKI Perayaan Natal 2025-00009.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1hrY1poWZPuzArDfd4qFQahU2kpd6Lefv",
+                            "name": "IMG_8394.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1b_g7tMapq1QYDrhO2xmEPEWgY45aBQOr",
+                            "name": "IMG_8400.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1Ob89pgrlREK9ueDWealBMTJ6D95h1vfc",
+                            "name": "YSA02668.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1kAarcsFjslYax8GQOP4Axl-tlqPw2hUw",
+                            "name": "YSA02762.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1VEsdKCTlocPpKkBC5t_7IQtSMRdVgK1U",
+                            "name": "GKI Perayaan Natal 2025-00143.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1uJU4lGDCJRIRSxbVJE0IwoflGuighkZH",
+                            "name": "GKI Perayaan Natal 2025-00160.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1dHX71b7A32rhdoM4SiOJNj2ZGQLMW54o",
+                            "name": "GKI Perayaan Natal 2025-00146.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1UyKytgy2RefnfNCMWCwZNvqggn-CniYu",
+                            "name": "IMG_7947.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1dqFhbOR-IwnBV9V86suyY61QrjHCVfIK",
+                            "name": "IMG_7937.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1BCPQCzf5a1Ust6kZJ0Dy3r7aAE5phriG",
+                            "name": "IMG_7942.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1uH7Acun9zbWwcxLoiuY3F_V1MYHxVSIb",
+                            "name": "IMG_0174.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1DKAeMiQnITucEE_poZ_tkhKKiFti5jJK",
+                            "name": "IMG_0140.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1luiGhHnhQiFsMDypmpPvSvEpIbFROV4e",
+                            "name": "YSA02926.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1LJWZlc_fsBbndkSRGgxzYES377rBy2vA",
+                            "name": "YSA02968.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1wYFQ6spCVWsDaBjWE45wsY_p0IXZyVU-",
+                            "name": "GKI Perayaan Natal 2025-00179.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1jMGaQSmUff3AA6g_pYfXAF58Ox93Kqev",
+                            "name": "IMG_7960.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1fWITYg3FPlKtOaDFLBSq1nG-XDoQuE5Z",
+                            "name": "YSA03019.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1w-egNFvGI_guchnO8ZVDm4oxm04zCPB-",
+                            "name": "GKI Perayaan Natal 2025-00110.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1qtrYU-IQUkJWxRe2fav_Elcgr_fyXI99",
+                            "name": "IMG_0133.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1ygYaLAefd6AsFLlhZRJiytuNMu_HZy_G",
+                            "name": "YSA02858.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1eHvvJn_63FmPuyENkFe7v06fOH2B2pxV",
+                            "name": "GKI Perayaan Natal 2025-00085.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1AN5wxFCYaEzBRME6DVs2RzJhv3ED2NLI",
+                            "name": "IMG_7896.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1gmci7J8FGQL88gBnrhh7-ScQXyALsKf4",
+                            "name": "IMG_0314.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1A90bvcBfu4U0spcgyZ8LxriH5uKAYywb",
+                            "name": "YSA02753.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1MxBtlVhzmLFGsH_t3Iqlidw1Gp2h2yp0",
+                            "name": "GKI Perayaan Natal 2025-00094.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1JM4hiYwDouBzfRqhVXJOApo4Bj5Xn-PK",
+                            "name": "IMG_7911.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1KRfDRZZcBXqGvrj-CnL4KW4hgHWQ8qEE",
+                            "name": "IMG_0069.JPG",
+                            "date": "2025-12-29"
+                        },
+                        {
+                            "id": "1fAsS1mnZBH4XWbjYC0LE5cR-Y-LMf18N",
+                            "name": "YSA02818.JPG",
+                            "date": "2025-12-29"
                         }
                     ]
                 }
