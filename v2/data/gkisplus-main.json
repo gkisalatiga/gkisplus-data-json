@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4967,
-        "last-update": 1767119853,
+        "update-count": 4968,
+        "last-update": 1767120067,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4629,16 +4629,16 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_akhirtahun.webp",
                 "title": "Ibadah Akhir Tahun",
                 "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_akhirtahun.webp",
+                "date-created": "2025-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_akhirtahun.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_tahunbaru.webp",
                 "title": "Ibadah Tahun Baru",
                 "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_tahunbaru.webp",
+                "date-created": "2025-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_tahunbaru.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
@@ -4695,6 +4695,14 @@
                 "type": "poster",
                 "date-created": "2025-12-27",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalmulmed.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalkd.webp",
+                "title": "Komisi Dewasa",
+                "type": "poster",
+                "date-created": "2025-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalkd.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
