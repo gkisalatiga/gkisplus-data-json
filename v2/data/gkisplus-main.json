@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4972,
-        "last-update": 1767158621,
+        "update-count": 4973,
+        "last-update": 1767165718,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -2631,6 +2631,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 1 Januari 2026 - Ibadah Awal Tahun",
+                    "date": "2025-12-31",
+                    "link": "https://drive.google.com/file/d/1SVLD8Z8av8BnvTJw21VUiJQrWunU47g7/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-1-januari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1SVLD8Z8av8BnvTJw21VUiJQrWunU47g7",
+                    "id": "1SVLD8Z8av8BnvTJw21VUiJQrWunU47g7",
+                    "size": "0.62 MB"
+                },
                 {
                     "title": "Tata Ibadah 31 Desember 2025 - Ibadah Tutup Tahun",
                     "date": "2025-12-29",
