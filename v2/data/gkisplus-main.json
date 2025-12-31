@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4974,
-        "last-update": 1767166946,
-        "last-updated-item": "agenda",
+        "update-count": 4975,
+        "last-update": 1767168913,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -19,7 +19,29 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Des 2025 | Tuhan Akan Menyelamatkan Lagi",
+                        "date": "2025-12-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=2rCFzW6x8PI",
+                        "thumbnail": "https://i3.ytimg.com/vi/2rCFzW6x8PI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Des 2025 | Jangan Takut dan Jangan Kuatir Sebab Allah Telah Melawat Kita",
+                        "date": "2025-12-28",
+                        "desc": "Dibawakan oleh Bpk. Warjendro Pamungkas",
+                        "link": "https://www.youtube.com/watch?v=vxGKiKbGZdU",
+                        "thumbnail": "https://i3.ytimg.com/vi/vxGKiKbGZdU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 27 Des 2025 | Allah Turun Tangan",
+                        "date": "2025-12-26",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=_6sVxwGlpvo",
+                        "thumbnail": "https://i4.ytimg.com/vi/_6sVxwGlpvo/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -1814,6 +1836,13 @@
             {
                 "content": [
                     {
+                        "title": "PS GKI Salatiga | KJ 92 - \"Malam Kudus\"",
+                        "date": "2025-12-28",
+                        "desc": "KJ (Kidung Jemaat) 92 - \"Malam Kudus\"\n\nSyair: Stille Nacht, heilige Nacht/Silent Night, Joseph Mohr, 1818,\nTerjemahan: Yamuger/Pan. Lit. K. A. J., 1980,\nLagu: Franz Xaver Gruber, 1818\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=emZfK003RFE",
+                        "thumbnail": "https://i.ytimg.com/vi/emZfK003RFE/hqdefault.jpg"
+                    },
+                    {
                         "title": "PS GKI Salatiga | KJ 102 med. NKB 66 - \"Di Dalam Palungan\"",
                         "date": "2025-12-28",
                         "desc": "KJ (Kidung Jemaat) 102 medley NKB (Nyanyikanlah Kidung Baru) 66 - \"Di Dalam Palungan\"\n\nSyair: Away in a Manger, William James Kirkpatrick, 1895\nLagu: James R. Murray\nTerjemahan: Yamuger, 1980\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
@@ -1861,13 +1890,6 @@
                         "desc": "NKB (Nyanyikanlah Kidung Baru) 59 - \"Di Malam G\u2019lap, Sunyi Senyap\"\n\nSyair: The First Noel; Nyanyian Natal Inggris\nTerjemahan: Tim Nyanyian GKI\nLagu: Christmas Carol; Sandy\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=o7J_50GtR7A",
                         "thumbnail": "https://i.ytimg.com/vi/o7J_50GtR7A/hqdefault.jpg"
-                    },
-                    {
-                        "title": "PS GKI Salatiga | KJ 92 - \"Malam Kudus\"",
-                        "date": "2025-12-28",
-                        "desc": "KJ (Kidung Jemaat) 92 - \"Malam Kudus\"\n\nSyair: Stille Nacht, heilige Nacht/Silent Night, Joseph Mohr, 1818,\nTerjemahan: Yamuger/Pan. Lit. K. A. J., 1980,\nLagu: Franz Xaver Gruber, 1818\n\nDibawakan oleh Paduan Suara GKI Salatiga\nPada Ibadah Malam Natal Rabu, 24 Desember 2025 Pukul 17:00 WIB\ndi Gereja Kristen Indonesia Salatiga\n\nConductor: Agastya Rama Listya\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
-                        "link": "https://www.youtube.com/watch?v=emZfK003RFE",
-                        "thumbnail": "https://i.ytimg.com/vi/emZfK003RFE/hqdefault.jpg"
                     },
                     {
                         "title": "PS Anak GKI Salatiga | \"Jesus Is The Light\"",
