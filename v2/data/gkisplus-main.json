@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4986,
-        "last-update": 1767304861,
-        "last-updated-item": "yt",
+        "update-count": 4987,
+        "last-update": 1767323625,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5555,6 +5555,20 @@
                 "pic": "Samuel Martono, SE., MM.",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu PA",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Pak Lukas",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
