@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4987,
-        "last-update": 1767323625,
+        "update-count": 4988,
+        "last-update": 1767329848,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4969,6 +4969,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan Pemandu PA",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Pak Lukas",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Gladi Kotor Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -5081,6 +5095,20 @@
                 "note": ""
             },
             {
+                "name": "Perayaan Natal Wilayah 10",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Samuel Martono, SE., MM.",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Natal KP",
                 "time": "17:00",
                 "time-to": "21:00",
@@ -5147,7 +5175,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Femi",
-                "status": "w",
+                "status": "y",
                 "note": "Pesan Teh"
             },
             {
@@ -5541,34 +5569,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Perayaan Natal Wilayah 10",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-01-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Samuel Martono, SE., MM.",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Persiapan Pemandu PA",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-01-07",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Pengajaran dan Pekabaran Injil",
-                "pic": "Pak Lukas",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
