@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4990,
-        "last-update": 1767363055,
+        "update-count": 4991,
+        "last-update": 1767373782,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Jan 2026 | Aman Di Dalam Genggaman Kristus",
+                        "date": "2026-01-02",
+                        "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
+                        "link": "https://www.youtube.com/watch?v=c-90tk34yvc",
+                        "thumbnail": "https://i4.ytimg.com/vi/c-90tk34yvc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Jan 2026 | Meminta Hikmat, Menghidupi Damai Sejahtera",
                         "date": "2026-01-01",
