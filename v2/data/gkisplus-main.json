@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4989,
-        "last-update": 1767345739,
-        "last-updated-item": "agenda",
+        "update-count": 4990,
+        "last-update": 1767363055,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -26,13 +26,6 @@
                         "desc": "Dibawakan oleh Pnt. Desemy Ch. N. Ballo",
                         "link": "https://www.youtube.com/watch?v=93BEOs6xD8k",
                         "thumbnail": "https://i2.ytimg.com/vi/93BEOs6xD8k/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Des 2025 | Tuhan Akan Menyelamatkan Lagi",
-                        "date": "2025-12-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=2rCFzW6x8PI",
-                        "thumbnail": "https://i3.ytimg.com/vi/2rCFzW6x8PI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
