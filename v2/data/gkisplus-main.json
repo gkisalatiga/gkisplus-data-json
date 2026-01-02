@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4988,
-        "last-update": 1767329848,
+        "update-count": 4989,
+        "last-update": 1767345739,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4644,14 +4644,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_tahunbaru.webp",
-                "title": "Ibadah Tahun Baru",
-                "type": "poster",
-                "date-created": "2025-12-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_tahunbaru.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natalkd.webp",
                 "title": "Natal Komisi Dewasa",
                 "type": "poster",
@@ -4681,38 +4673,6 @@
                 "type": "poster",
                 "date-created": "2025-12-27",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natalkp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalmj.webp",
-                "title": "Majelis Jemaat",
-                "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalmj.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalkp.webp",
-                "title": "Komisi Pemuda",
-                "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalkp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalmulmed.webp",
-                "title": "Tim Multimedia",
-                "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalmulmed.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalkd.webp",
-                "title": "Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2025-12-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_ucapan_natalkd.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
