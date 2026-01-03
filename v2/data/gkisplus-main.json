@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4992,
-        "last-update": 1767378942,
-        "last-updated-item": "ykb",
+        "update-count": 4993,
+        "last-update": 1767409527,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5529,6 +5529,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat besar natal kr",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-01-04",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel",
+                "status": "w",
+                "note": "tambah teh menggunakan dispenser teh saja"
             }
         ],
         "backend": {
