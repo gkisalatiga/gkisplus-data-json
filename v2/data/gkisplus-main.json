@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4993,
-        "last-update": 1767409527,
+        "update-count": 4994,
+        "last-update": 1767416811,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -2002,6 +2002,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 4 Januari 2026",
+                    "date": "2026-01-03",
+                    "link": "https://drive.google.com/file/d/1GlGT88EgiuwzjBHoP5KgKiMw5q318K8M/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-4-januari-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1GlGT88EgiuwzjBHoP5KgKiMw5q318K8M",
+                    "id": "1GlGT88EgiuwzjBHoP5KgKiMw5q318K8M",
+                    "size": "1.74 MB"
+                },
+                {
                     "title": "Warta Jemaat 28 Desember 2025",
                     "date": "2025-12-27",
                     "link": "https://drive.google.com/file/d/10um8iADvYX3qXfV3t_BekhfbIAoM_lG-/view",
@@ -2660,6 +2669,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 4 Januari 2026 - Minggu Epifani",
+                    "date": "2026-01-03",
+                    "link": "https://drive.google.com/file/d/15S0Zg39cSyV-m_oI9UenNgQlrFQe-QiN/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-4-januari-2025/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=15S0Zg39cSyV-m_oI9UenNgQlrFQe-QiN",
+                    "id": "15S0Zg39cSyV-m_oI9UenNgQlrFQe-QiN",
+                    "size": "0.75 MB"
+                },
                 {
                     "title": "Tata Ibadah 1 Januari 2026 - Ibadah Awal Tahun",
                     "date": "2025-12-31",
