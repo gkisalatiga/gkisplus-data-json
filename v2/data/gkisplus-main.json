@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4994,
-        "last-update": 1767416811,
-        "last-updated-item": "agenda",
+        "update-count": 4995,
+        "last-update": 1767417124,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Jan 2026",
+                        "date": "2026-01-03",
+                        "desc": "Dibawakan oleh Pdt. Stephanus Liem",
+                        "link": "https://www.youtube.com/watch?v=S4_mce_MQ6c",
+                        "thumbnail": "https://i4.ytimg.com/vi/S4_mce_MQ6c/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Jan 2026 | Aman Di Dalam Genggaman Kristus",
                         "date": "2026-01-02",
