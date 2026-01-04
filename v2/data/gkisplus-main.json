@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5001,
-        "last-update": 1767524907,
+        "update-count": 5002,
+        "last-update": 1767540472,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4690,35 +4690,11 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
-                "title": "Ibadah Minggu Epifani",
-                "type": "poster",
-                "date-created": "2026-01-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "title": "Informasi Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kalendergkis.webp",
                 "title": "Kalender GKIS Tahun 2026",
                 "type": "poster",
                 "date-created": "2026-01-03",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kalendergkis.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_natalkp.webp",
-                "title": "USDA Natal Komisi Pemuda",
-                "type": "poster",
-                "date-created": "2026-01-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_natalkp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
