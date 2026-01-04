@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5000,
-        "last-update": 1767498077,
+        "update-count": 5001,
+        "last-update": 1767524907,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,27 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Jan 2026 | Memulai Tahun Baru Bersama Firman Yang Kekal",
+                        "date": "2026-01-04",
+                        "desc": "Dibawakan oleh Sdri. Lusiana N",
+                        "link": "https://www.youtube.com/watch?v=SqcGUlM8ibs",
+                        "thumbnail": "https://i4.ytimg.com/vi/SqcGUlM8ibs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Jan 2026 | Hidup Dalam Rencana Nya",
+                        "date": "2026-01-04",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=f2NPcmlpWiQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/f2NPcmlpWiQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Jan 2026 | Inilah Hari Yang Dijadikan Tuhan",
+                        "date": "2026-01-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=y8DwsSHj93w",
+                        "thumbnail": "https://i2.ytimg.com/vi/y8DwsSHj93w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Jan 2026 | Dalam Gelap Aku Tak Pernah Sendiri",
                         "date": "2026-01-03",
