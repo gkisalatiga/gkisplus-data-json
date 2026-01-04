@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5003,
-        "last-update": 1767551650,
-        "last-updated-item": "ykb",
+        "update-count": 5004,
+        "last-update": 1767557389,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Jan 2026 | Dalam Gelap Aku Tak Pernah Sendiri",
+                        "date": "2026-01-04",
+                        "desc": "Dibawakan oleh Pdt. Stephanus Liem",
+                        "link": "https://www.youtube.com/watch?v=S4_mce_MQ6c",
+                        "thumbnail": "https://i4.ytimg.com/vi/S4_mce_MQ6c/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Jan 2026 | Memulai Tahun Baru Bersama Firman Yang Kekal",
                         "date": "2026-01-04",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=y8DwsSHj93w",
                         "thumbnail": "https://i2.ytimg.com/vi/y8DwsSHj93w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Jan 2026 | Dalam Gelap Aku Tak Pernah Sendiri",
-                        "date": "2026-01-03",
-                        "desc": "Dibawakan oleh Pdt. Stephanus Liem",
-                        "link": "https://www.youtube.com/watch?v=S4_mce_MQ6c",
-                        "thumbnail": "https://i4.ytimg.com/vi/S4_mce_MQ6c/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Jan 2026 | Aman Di Dalam Genggaman Kristus",
