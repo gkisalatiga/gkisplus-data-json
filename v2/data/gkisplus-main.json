@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5004,
-        "last-update": 1767557389,
-        "last-updated-item": "yt",
+        "update-count": 5005,
+        "last-update": 1767583612,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5597,6 +5597,34 @@
                 "pic": "Samuel",
                 "status": "w",
                 "note": "tambah teh menggunakan dispenser teh saja"
+            },
+            {
+                "name": "Rapat PAN MRN",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
