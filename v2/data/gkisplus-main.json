@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5006,
-        "last-update": 1767588048,
+        "update-count": 5007,
+        "last-update": 1767597878,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4883,6 +4883,20 @@
                 "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat BPH ",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-01-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pelaksanaan RC",
