@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5007,
-        "last-update": 1767597878,
+        "update-count": 5008,
+        "last-update": 1767601631,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4951,6 +4951,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Chrissandhy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "17:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
                 "status": "y",
                 "note": ""
             },
