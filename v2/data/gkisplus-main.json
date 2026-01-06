@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5010,
-        "last-update": 1767643867,
-        "last-updated-item": "yt",
+        "update-count": 5011,
+        "last-update": 1767680858,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5596,6 +5596,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
                 "note": ""
             }
         ],
