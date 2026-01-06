@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 62,
-        "last-update": 1767355326,
+        "update-count": 63,
+        "last-update": 1767662903,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -26021,6 +26021,386 @@
                             "id": "1SY3PsOADXQ2wKLg6ZiYeys2D65bRxE1n",
                             "name": "GKI 311225-3-00006.JPG",
                             "date": "2026-01-02"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kilas Balik GKI Salatiga Tahun 2026",
+            "album-data": [
+                {
+                    "folder_id": "1ceH-Fyv9xjONvddI02fZh5D4LM1uOBqu",
+                    "last_update": "2026-01-06",
+                    "featured_photo_id": "1h9Si3xca_6HFtNgQ5fPLTFv12L9Vy0rV",
+                    "story": "Foto-foto dokumentasi Ibadah Tahun Baru 2026 [MRN 2025] yang dilaksanakan pada 1 Januari 2026.",
+                    "title": "Ibadah Tahun Baru 2026 [MRN 2025]",
+                    "event_date": "2026.01.01",
+                    "photos": [
+                        {
+                            "id": "1Eh5jJhxbruzHk9QawNpQ1tVI8ID_ewcI",
+                            "name": "GKI 010126-4-00068.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "136FNU5SCBSXcWDltqNSE9mOUo908xgDl",
+                            "name": "GKI 010126-4-00059.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1VjLgslCaJd3MqTGuvnpsYBe1F99xfVEF",
+                            "name": "GKI 010126-4-00062.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1Xu8tHO9wkZKTEv36F3G5oHCxCD5-iCjS",
+                            "name": "GKI 010126-4-00072.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1ZPRxu1zMV4UzI0iB2V9YfTciW_T1eDuQ",
+                            "name": "GKI 010126-4-00058.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1N5J3rva4OlecKzY2nq4aQLBaMUPSE13s",
+                            "name": "GKI 010126-4-00054.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1WMtqUnXsDZ2Jv2zBSMqcRdeY7HpYD2a5",
+                            "name": "GKI 010126-4-00052.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1DCtAGSEXRcCoVZRlFOYnTc3DNl60ejH6",
+                            "name": "GKI 010126-4-00056.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1CAuF_th2PTATfgJ33bJoGSGD2Z1knUiF",
+                            "name": "GKI 010126-4-00073.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1q5-Jmf5ObkgOdMG_DslS_PrI3jV7EO58",
+                            "name": "GKI 010126-4-00069.JPG",
+                            "date": "2026-01-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1s7Ru4ENp3NJDGS-p45L4mA2C3Sw_keiR",
+                    "last_update": "2026-01-06",
+                    "featured_photo_id": "1aUj0zf3JEHrX6V2xjYAC7F01xVTzFw8a",
+                    "story": "Foto-foto dokumentasi Kunjungan Kasih [MRN 2025] yang dilaksanakan pada 3 Januari 2026.",
+                    "title": "Kunjungan Kasih [MRN 2025]",
+                    "event_date": "2026.01.03",
+                    "photos": [
+                        {
+                            "id": "1xPjmo8BJJv_ufnsJPcsXrjRC4a_EEbaz",
+                            "name": "MRN 2025 030126 - 8735.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1Hbd0rgXvEsKXA636MW9rJJU-lxhTD_64",
+                            "name": "MRN 2025 030126 - 8696.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1v7CE0De_CZM1fpIoHNBEJ7vxv9hfybgK",
+                            "name": "MRN 2025 030126 - 8689.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1j1_vbof-LOC3UbJmbEr3XVkkBsOIJWc7",
+                            "name": "MRN 2025 030126 - 8611.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1CHRcbWRNkJVSGxqAt-oBJCO_Nz8PSL66",
+                            "name": "MRN 2025 030126 - 8725.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1U227XpnK5hDEqEBJsKWpcGseMrok3sCW",
+                            "name": "MRN 2025 030126 - 8701.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1t3wNOynu0zW9gkc2-vSqIx2oSS27SDJC",
+                            "name": "MRN 2025 030126 - 8621.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1EzSYESYfXXwww-GP-WsQ-tjoTxtXuAoF",
+                            "name": "MRN 2025 030126 - 8730.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1oSPvHCpd7N3PevQJ62PZNQkH06UJSqei",
+                            "name": "MRN 2025 030126 - 8733.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1jqsD1YPxlIwyWCh_gR5NbVCopeu6R5p7",
+                            "name": "IMG_0580.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "10T9AX1-z1T6NMBn7Fm93V1tcktN_0te5",
+                            "name": "IMG_0527.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1xVbOkXk92pUgyMlRtC7D9h7vx77QjWBO",
+                            "name": "IMG_0574.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1EB7gkOxFZLnrM4fZVNnTGTKfags8phNc",
+                            "name": "IMG_0537.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1Hss7k_EJ8QuEpj_MCPMRXjbyg5aSDzaJ",
+                            "name": "IMG_0504.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "17uSyFDKsutNYy65clpz7SX4ET6Bs6f0C",
+                            "name": "IMG_0554.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1TDQFByx8Nx6vqDdvZmADj3WcxJc7nXQe",
+                            "name": "IMG_0506.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1GAZCQffkDmcWTEQ6i9bypHs-CYkVdb4_",
+                            "name": "IMG_0547.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1UB1fvIucuyYYX4Ux3pWQBHr8vOkNoYXJ",
+                            "name": "IMG_0552.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1FgJvfNjhP-m_xTQx1KYf9UzFPb8SCp0o",
+                            "name": "IMG_0577.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1Mj6CvREL-C8Y3t6eQrT2p07Q1sAUcZ8M",
+                            "name": "IMG_0539.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1tmCEOJR-fsDYvCbL0YYaRGJTMBW3W1Wf",
+                            "name": "IMG_0555.JPG",
+                            "date": "2026-01-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1uU2_h8SWtWO4KJ__DXTiw3Cz6rGfIOff",
+                    "last_update": "2026-01-06",
+                    "featured_photo_id": "1xxtYAU_CGXx9oF2k3oXEBLmlb6D-Yi1Z",
+                    "story": "Foto-foto dokumentasi Natal Komisi Dewasa [MRN 2025] yang dilaksanakan pada 3 Januari 2026.",
+                    "title": "Natal Komisi Dewasa [MRN 2025]",
+                    "event_date": "2026.01.03",
+                    "photos": [
+                        {
+                            "id": "1qy0rxOuPBbNEmD3x9ORL8RLDwcuBSqJ1",
+                            "name": "DSC_5284.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1sNk18jJW_TqnonPvQsordmCwQJGhZMKh",
+                            "name": "DSC_5274.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1RqJmZIwIjs0Ny3K6HHKi4EtudHwDZ5kr",
+                            "name": "DSC_5277.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1D0dUGg6unuYgsjjvUB7bHjJ5t1PpF_We",
+                            "name": "DSC_5337.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1a30afPWlZ8fjeMDBa6P1aLPxy7Ixu6WV",
+                            "name": "DSC_5645.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1lWUoduj4l8JpR9ZSCTRD6vfk0Ap215tc",
+                            "name": "DSC_5642.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1lSWyq0FIEJEiLFgRYVCV0Zx74brqkJUF",
+                            "name": "DSC_5316.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1Zh1TReqjYVUEDWhyZ5rPV4jngG7LzpDI",
+                            "name": "DSC_5295.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "18g7Lp43yLAeRyUFtUOzjsPT_GeGn-D1A",
+                            "name": "DSC_5387.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1GfXZ5u2BgrNxqaKkGQZvahItzXRjNlS8",
+                            "name": "DSC_5329.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1IXdaBOXL5LUnLrwAy9Oj0hiQ65jh0GCT",
+                            "name": "DSC_5345.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1vfHep5HQyqCb5YAlu8GgcXJkbWxDTpfL",
+                            "name": "DSC_5363.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1a7PoYpwieQfJww6KrNlMASuTSglrKbsg",
+                            "name": "DSC_5406.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1cehwocj7ZWOt-sk4kQ_YlQ3QL49SL5J9",
+                            "name": "DSC_5411.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "152A_0wEcA_XZxb0oVm2Y5gHI1OXTbIjV",
+                            "name": "DSC_5413.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1fkRiwlldcdJoEYzk8MWL4evYzrYl7Vml",
+                            "name": "DSC_5438.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1DzkGMPJwb0GDg1LGlWRMwsrRVxqUXF50",
+                            "name": "DSC_5443.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "12_bgTkG1--HBeMwEkLN863nKT2cenb7i",
+                            "name": "DSC_5432.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1FwdDHC5iOhxi4Vddh8IqQFRP2z_UEh47",
+                            "name": "DSC_5478.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1ZDuolSPreCoV5rftWLuvkS4Qv4icDPz8",
+                            "name": "DSC_5532.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1wazZ8v34RNiloRoEDoVxorASP7OSEqsD",
+                            "name": "DSC_5546.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1L9LjA1__0WAiaoKwJBttGRSKY8ivewDE",
+                            "name": "DSC_5508.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1hQhh43f5UJlBx9mf1DBbGIqFZWe0z1lR",
+                            "name": "DSC_5520.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1v_kpj0rvq047evV4UVuh1l2svrBRGlyh",
+                            "name": "DSC_5500.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1fqlEsR-KJF4ule_h3IXpA06PXOWVkzak",
+                            "name": "DSC_5453.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1aT_vjEXcDBUXFn7XZLs7akZ10EwwSPyq",
+                            "name": "DSC_5492.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1_GyB5Jdmw2_UYbiIxqaO0CwHGddNiPin",
+                            "name": "DSC_5574.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1zVgVWHoPltxUNIwpcmlNGHkfKbDEVe0p",
+                            "name": "DSC_5568.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1H8hyvGo0ERIL2h6BeBobf9I5n_fhAuWh",
+                            "name": "DSC_5627.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1lhod8kbPHUEKAZr9I-okRYMDDR-4k47g",
+                            "name": "DSC_5652.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1ybrGpUpCNWFkKKV3bHlntJUsuFNgsoGt",
+                            "name": "DSC_5605.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "19THP7UoYXCamcA4WZpn1Mk-VfyJo8xmc",
+                            "name": "DSC_5613.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1fR3-bKMSRvxRl8vduSfYwWedYEeRhNO4",
+                            "name": "DSC_5594.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1vXZhiJBzfDscX1LRXaZFwNMUQR8LzmK5",
+                            "name": "DSC_5606.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1u_7NTFE4HxTrMF_YQtp8wXwcH_L6ie0_",
+                            "name": "DSC_5599.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1cvSaYaFNnwNgtdAXlbwvInQg5LSdhVk7",
+                            "name": "DSC_5624.JPG",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1AuY33er4htopvvuCJRr6P3I9ljz6umIz",
+                            "name": "IMG_20260103_193818.jpg",
+                            "date": "2026-01-06"
+                        },
+                        {
+                            "id": "1k3Xa41j3M7FPLI2JQbF92bztMJ3Eo5s6",
+                            "name": "DSC_5580.JPG",
+                            "date": "2026-01-06"
                         }
                     ]
                 }
