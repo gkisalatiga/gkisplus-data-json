@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5015,
-        "last-update": 1767730246,
-        "last-updated-item": "yt",
+        "update-count": 5016,
+        "last-update": 1767761841,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -4976,6 +4976,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Electone",
+                "time": "09:30",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2026-01-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
                 "name": "Gladi Bersih Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -4986,6 +5000,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pengurus Koperasi",
+                "time": "13:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Lainnya",
+                "pic": "Koperasi Makmur",
                 "status": "y",
                 "note": ""
             },
@@ -5410,6 +5438,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -5606,32 +5648,46 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
+                "name": "Latihan ibadah umum ",
+                "time": "19:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
-                "date": "2026-03-10",
-                "weekday": "tue",
+                "date": "2026-01-07",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
                 "status": "w",
                 "note": ""
             },
             {
-                "name": "Latihan Electone",
-                "time": "09:30",
-                "time-to": "10:30",
+                "name": "Latihan ibadah umum ",
+                "time": "20:00",
+                "time-to": "22:00",
                 "timezone": "WIB",
                 "date": "2026-01-08",
                 "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
                 "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+                "note": ""
+            },
+            {
+                "name": "Latihan ibadah umum ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
