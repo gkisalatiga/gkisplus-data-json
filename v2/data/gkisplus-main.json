@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5018,
-        "last-update": 1767774251,
-        "last-updated-item": "agenda",
+        "update-count": 5019,
+        "last-update": 1767795234,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Jan 2026 | Berpengharapan Dalam Gelombang Besar",
+                        "date": "2026-01-07",
+                        "desc": "Dibawakan oleh Ibu Retty Andrea",
+                        "link": "https://www.youtube.com/watch?v=64u2wWx39oA",
+                        "thumbnail": "https://i3.ytimg.com/vi/64u2wWx39oA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Jan 2026 | Harapan Yang Hidup",
                         "date": "2026-01-06",
