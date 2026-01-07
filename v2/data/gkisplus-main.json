@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5016,
-        "last-update": 1767761841,
+        "update-count": 5017,
+        "last-update": 1767769038,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4934,6 +4934,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan ibadah umum ",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kotor Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -4990,6 +5004,34 @@
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
+                "name": "Latihan ibadah umum ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pembentukan Panitia Paskah 2026",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-01-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Gita Hastuti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -5014,6 +5056,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Lainnya",
                 "pic": "Koperasi Makmur",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan ibadah umum ",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Lyta ",
                 "status": "y",
                 "note": ""
             },
@@ -5088,6 +5144,20 @@
                 "note": ""
             },
             {
+                "name": "Wawancara Peserta Didik Baru",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-01-12",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dian Oktaviani",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5142,6 +5212,20 @@
                 "pic": "Samuel Martono, SE., MM.",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Wawancara Peserta Didik Baru",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-01-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dian Oktaviani",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Latihan Natal KP",
@@ -5448,7 +5532,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5645,48 +5729,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan ibadah umum ",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-07",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan ibadah umum ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-01-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan ibadah umum ",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-01-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Lyta ",
-                "status": "w",
                 "note": ""
             }
         ],
