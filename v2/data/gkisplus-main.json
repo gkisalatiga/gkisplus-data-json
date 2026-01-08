@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5022,
-        "last-update": 1767845593,
+        "update-count": 5023,
+        "last-update": 1767848139,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5161,6 +5161,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Eriyani Tenga Lunha",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pleno KD",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-01-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
             },
