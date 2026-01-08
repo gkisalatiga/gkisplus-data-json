@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5023,
-        "last-update": 1767848139,
+        "update-count": 5024,
+        "last-update": 1767853678,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5082,8 +5082,8 @@
             },
             {
                 "name": "Simulasi Multimedia Natal SODA",
-                "time": "14:00",
-                "time-to": "17:00",
+                "time": "12:00",
+                "time-to": "14:00",
                 "timezone": "WIB",
                 "date": "2026-01-09",
                 "weekday": "fri",
@@ -5091,7 +5091,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
