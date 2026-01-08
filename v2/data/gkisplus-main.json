@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5028,
-        "last-update": 1767875797,
-        "last-updated-item": "agenda",
+        "update-count": 5029,
+        "last-update": 1767881705,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Jan 2026 | Titik Balik",
+                        "date": "2026-01-08",
+                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
+                        "link": "https://www.youtube.com/watch?v=2JwYiC6sEJ4",
+                        "thumbnail": "https://i3.ytimg.com/vi/2JwYiC6sEJ4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Jan 2026 | Berpengharapan Dalam Gelombang Besar",
                         "date": "2026-01-07",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
                         "link": "https://www.youtube.com/watch?v=c-90tk34yvc",
                         "thumbnail": "https://i4.ytimg.com/vi/c-90tk34yvc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Jan 2026 | Meminta Hikmat, Menghidupi Damai Sejahtera",
-                        "date": "2026-01-01",
-                        "desc": "Dibawakan oleh Pnt. Desemy Ch. N. Ballo",
-                        "link": "https://www.youtube.com/watch?v=93BEOs6xD8k",
-                        "thumbnail": "https://i2.ytimg.com/vi/93BEOs6xD8k/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
