@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5026,
-        "last-update": 1767857130,
+        "update-count": 5027,
+        "last-update": 1767869336,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5792,6 +5792,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Akhir Pekan",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Evelina",
+                "status": "w",
                 "note": ""
             }
         ],
