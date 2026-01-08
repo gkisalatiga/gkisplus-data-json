@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5025,
-        "last-update": 1767855450,
+        "update-count": 5026,
+        "last-update": 1767857130,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5039,6 +5039,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan Chrismast Parade BKGS",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih Natal Komisi Remaja",
                 "time": "16:00",
                 "time-to": "20:00",
@@ -5778,20 +5792,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Persiapan Chrismast Parade BKGS",
-                "time": "18:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Catur Winarno",
-                "status": "w",
                 "note": ""
             }
         ],
