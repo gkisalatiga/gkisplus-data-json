@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5030,
-        "last-update": 1767897271,
-        "last-updated-item": "ykb",
+        "update-count": 5031,
+        "last-update": 1767928426,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5109,6 +5109,48 @@
                 "note": ""
             },
             {
+                "name": "Ibadah Akhir Pekan",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Evelina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat evaluasi proker KA",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Komsarpras & Mulmed",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kebaktian Minggu tgl 11 Januari 2026",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -5189,6 +5231,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sie Acara Panitia MRP 2026",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Pnt. Gita Hastuti",
                 "status": "y",
                 "note": ""
             },
@@ -5792,34 +5848,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Ibadah Akhir Pekan",
-                "time": "09:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2026-01-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Evelina",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat evaluasi proker KA",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-09",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
                 "note": ""
             }
         ],
