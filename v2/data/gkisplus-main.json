@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5033,
-        "last-update": 1767983877,
-        "last-updated-item": "ykb",
+        "update-count": 5034,
+        "last-update": 1767989471,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Jan 2026 | Inilah Hari Yang Dijadikan Tuhan",
+                        "date": "2026-01-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=y8DwsSHj93w",
+                        "thumbnail": "https://i2.ytimg.com/vi/y8DwsSHj93w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Jan 2026 | Titik Balik",
                         "date": "2026-01-08",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
                         "link": "https://www.youtube.com/watch?v=f2NPcmlpWiQ",
                         "thumbnail": "https://i3.ytimg.com/vi/f2NPcmlpWiQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Jan 2026 | Inilah Hari Yang Dijadikan Tuhan",
-                        "date": "2026-01-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=y8DwsSHj93w",
-                        "thumbnail": "https://i2.ytimg.com/vi/y8DwsSHj93w/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Jan 2026 | Aman Di Dalam Genggaman Kristus",
