@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5035,
-        "last-update": 1768014424,
+        "update-count": 5036,
+        "last-update": 1768017417,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -2044,6 +2044,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 11 Januari 2026",
+                    "date": "2026-01-10",
+                    "link": "https://drive.google.com/file/d/19QDAccQhCxaMOuca1Y4EqdEAbzZU_zvv/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-11-januari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=19QDAccQhCxaMOuca1Y4EqdEAbzZU_zvv",
+                    "id": "19QDAccQhCxaMOuca1Y4EqdEAbzZU_zvv",
+                    "size": "1.98 MB"
+                },
+                {
                     "title": "Warta Jemaat 4 Januari 2026",
                     "date": "2026-01-03",
                     "link": "https://drive.google.com/file/d/1GlGT88EgiuwzjBHoP5KgKiMw5q318K8M/view",
@@ -2711,6 +2720,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 11 Januari 2026 - Pembaptisan Yesus",
+                    "date": "2026-01-10",
+                    "link": "https://drive.google.com/file/d/1fWDZMWbVAMrXFWYhIZcdzLNVyRjV2VFS/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-11-januari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1fWDZMWbVAMrXFWYhIZcdzLNVyRjV2VFS",
+                    "id": "1fWDZMWbVAMrXFWYhIZcdzLNVyRjV2VFS",
+                    "size": "0.80 MB"
+                },
                 {
                     "title": "Tata Ibadah 4 Januari 2026 - Minggu Epifani",
                     "date": "2026-01-03",
