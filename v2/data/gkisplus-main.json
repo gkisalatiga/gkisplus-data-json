@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5040,
-        "last-update": 1768070055,
-        "last-updated-item": "ykb",
+        "update-count": 5041,
+        "last-update": 1768112708,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5033,7 +5033,7 @@
                 "date": "2026-01-11",
                 "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Pnt. Gita Hastuti",
                 "status": "y",
