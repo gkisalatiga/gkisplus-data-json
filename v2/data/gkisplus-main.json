@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5042,
-        "last-update": 1768156457,
-        "last-updated-item": "ykb",
+        "update-count": 5043,
+        "last-update": 1768162209,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Jan 2026 | Hidup Dalam Rencana Nya",
+                        "date": "2026-01-11",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=f2NPcmlpWiQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/f2NPcmlpWiQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Jan 2026 | Inilah Hari Yang Dijadikan Tuhan",
                         "date": "2026-01-09",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Pdt. Stephanus Liem",
                         "link": "https://www.youtube.com/watch?v=S4_mce_MQ6c",
                         "thumbnail": "https://i4.ytimg.com/vi/S4_mce_MQ6c/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Jan 2026 | Hidup Dalam Rencana Nya",
-                        "date": "2026-01-04",
-                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
-                        "link": "https://www.youtube.com/watch?v=f2NPcmlpWiQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/f2NPcmlpWiQ/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Jan 2026 | Aman Di Dalam Genggaman Kristus",
