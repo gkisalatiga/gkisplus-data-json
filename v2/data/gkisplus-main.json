@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5043,
-        "last-update": 1768162209,
-        "last-updated-item": "yt",
+        "update-count": 5044,
+        "last-update": 1768180962,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5682,6 +5682,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Ibadah dan doa serentak hari sekolah kristen Indonesia",
+                "time": "07:00",
+                "time-to": "07:45",
+                "timezone": "WIB",
+                "date": "2026-01-19",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "w",
+                "note": "Tidak ada"
             }
         ],
         "backend": {
