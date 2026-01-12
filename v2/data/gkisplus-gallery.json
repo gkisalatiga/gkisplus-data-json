@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 63,
-        "last-update": 1767662903,
+        "update-count": 64,
+        "last-update": 1768219391,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -25052,11 +25052,81 @@
                 {
                     "folder_id": "1TSJptW3l_crLwXGfObSbX710cE_86cnv",
                     "last_update": "2025-12-29",
-                    "featured_photo_id": "1kANGydgPU8qu0UUgjQGbWJkkn93AHFdu",
+                    "featured_photo_id": "1N7a-I3aBgpghaNUb0SXPFtTDN4Om1zCK",
                     "story": "Foto-foto dokumentasi Malam Natal 2025 [MRN 2025] yang dilaksanakan pada 24 Desember 2025.",
                     "title": "Malam Natal 2025 [MRN 2025]",
                     "event_date": "2025.12.24",
                     "photos": [
+                        {
+                            "id": "1OIMCMHWs9DFZqucfCy-qhGmWLyiN1qka",
+                            "name": "GKI Malam Natal 241225-3-00078.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1_cHYOMa_LbdDM_yv0GDHeRe9MvTI5rGQ",
+                            "name": "GKI Malam Natal 241225-3-00069.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Spuous5bXx1MQN7dbVmE-vm0CGCgvOMb",
+                            "name": "GKI Malam Natal 241225-3-00075.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "16qG_iD9f_ui8JC4v2An2rH7By6iC77X6",
+                            "name": "GKI 241225-3-00011.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1tKbHJEbl8AdulUIEl7Htrrj1RFRQirgL",
+                            "name": "GKI Malam Natal 241225-3-00087.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1zLXkZUlzBMGFLmgSnlDZqfykfKmbBJUe",
+                            "name": "GKI Malam Natal 241225-3-00083.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1GT4GQ0MeP2RbQlwQ2mNt84_6iKFnXLzl",
+                            "name": "GKI Malam Natal 241225-3-00040.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1uzR5GH2_6CkiQOKnLrzoQEznkGqT95qI",
+                            "name": "GKI Malam Natal 241225-3-00015.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1If9aCWJ-O6V1pmvip_aUMpaCJXuJPvJ1",
+                            "name": "GKI 241225-3-00027.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1GRRWCHbasOyqpOW9cOfHdgECcefThFEl",
+                            "name": "GKI Malam Natal 241225-3-00072.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1qrS68U061nTDsT5fwjiPViL06Z1S0Jnk",
+                            "name": "GKI Malam Natal 241225-3-00050.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1vBRYZRmPxWlPQJ9FDrIuXllufUepzZX8",
+                            "name": "GKI Malam Natal 241225-3-00066.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "16lJZNcChZ-Tv5B51qCDSSPXMviWiynBw",
+                            "name": "GKI Malam Natal 241225-3-00061.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1eOnYAp-3_GDDcJkSke1pT5GZaqdLFuUF",
+                            "name": "GKI 241225-3-00015.JPG",
+                            "date": "2026-01-12"
+                        },
                         {
                             "id": "1Br-HWqaS5_H7Bpc0uUiXgbXTsMA3jITo",
                             "name": "GKIS Malam Natal 2025 (jeff) (1).jpg",
@@ -26401,6 +26471,461 @@
                             "id": "1k3Xa41j3M7FPLI2JQbF92bztMJ3Eo5s6",
                             "name": "DSC_5580.JPG",
                             "date": "2026-01-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1DiWSBjCoVb_EUTfPCb-pFlGyRL5OUrtS",
+                    "last_update": "2026-01-12",
+                    "featured_photo_id": "1Yss4HDwlfDK2V3rOLNV0_mSA0vdapT7P",
+                    "story": "Foto-foto dokumentasi Natal Komisi Remaja [MRN 2025] yang dilaksanakan pada 10 Januari 2026.",
+                    "title": "Natal Komisi Remaja [MRN 2025]",
+                    "event_date": "2026.01.10",
+                    "photos": [
+                        {
+                            "id": "1b_uBoJHk89SbtrrKmAkY6-De-Bq_dBTe",
+                            "name": "IMG_0272.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1wYUIVzn0Jj6O5LI7ixWjNzMDta98sePF",
+                            "name": "IMG_0361.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1982xb0QEqGvkpzBGiD6y2u0_GsrQeyxy",
+                            "name": "IMG_0497.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1mmW5o-YEECC89PBgg14Zb20vsRIgGeQh",
+                            "name": "IMG_0267.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1mF7dYty4-HeXYQVNIMLxL-tQs8ZtN9Mw",
+                            "name": "IMG_0294.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1_0obVjWgAEUN-jcdSrErHsVsSFNwkcbq",
+                            "name": "IMG_0384.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1L3SrKsBKCP6b39rRkxnwFWXcYIrOTRu8",
+                            "name": "IMG_0409.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1KZ1D4iBSt3VHsjH8d7GPQs_MmfWgRYaI",
+                            "name": "IMG_9941.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Uyii-OauwfnQlpmMjP4VHzGvQWhWyNHM",
+                            "name": "IMG_9955.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1YcATrT9LP79vAesnxmrA7KQV2ozzm0w3",
+                            "name": "IMG_0506.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1cCYM5_hSCqZ2DvbVTUOfT-FVTqAF-WvL",
+                            "name": "IMG_9934.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1aydq7YmaT404gUg0ouxojZYye0GpIWvS",
+                            "name": "IMG_9962.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1L_eJWMOrgR5B4hqORGd52sb_gmzHIkIg",
+                            "name": "IMG_0474.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1wGY22Y_UyEvB7YKoWpebWxFT0_8jfERb",
+                            "name": "IMG_9966.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1McDnlHjovEllfJ42q0WfIbao8wecPwsQ",
+                            "name": "IMG_0514.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1xOGqGDOP-9SUMA-sOqUpR5HSsp-CnQxq",
+                            "name": "IMG_0004.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1JcZAaPBFz6_DtwGk2Pcn2EbqujmnHQVT",
+                            "name": "IMG_0080.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1NisNpol5ODreGejJv1icvkxC7sYpTSZY",
+                            "name": "IMG_0019.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1ReD-01ZtQVSBcTL988X4qyTfPLNJGK6c",
+                            "name": "IMG_0049.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1KGEfXVGZ2pljJTpeJueYfq5sRliPPmRp",
+                            "name": "IMG_0029.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Xj9Gwkqy1DA320vhPEZ4xyt9G8SFIJ32",
+                            "name": "IMG_9167.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1dX6i4wOK6lUXV7RAtk6VO4VFEPfHeVHX",
+                            "name": "IMG_9282.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1I9ADXUFqpFQbZfeeAi739U6V2ccvmtar",
+                            "name": "IMG_9145.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1A8lhUNBO_IoJF7ln3LHtcLRyYORxOvuF",
+                            "name": "IMG_9696.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "12Hj9Zugd4HU2It0TGUrPa3dnrOur7FL2",
+                            "name": "IMG_9662.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1M_ygDVUs--gtA-WR1nJWhGXpPjkldRXr",
+                            "name": "IMG_9626.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1nxvsvAx2xQ9PtTLtRiO8PIDGEMrUX1Ow",
+                            "name": "IMG_9665.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1WyW4398hSeywkeCbJOGK8qXYVk2jwWgq",
+                            "name": "IMG_9686.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1GGuSdTSLwlxhm8EHu8zFBEPA1kRtA4JX",
+                            "name": "IMG_9721.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1tD3NrKsHQ3kSZ9cqZTZgrTAnEYs4tTSF",
+                            "name": "IMG_9429.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "10OUEgT0ErCN7wINNzgIKFXw-p1h7wOcs",
+                            "name": "IMG_9650.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1MDuCRuShXOqAxa0cWDTn5seyiF9Wqiei",
+                            "name": "IMG_9509.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1ZI1yWPeN7IfDWEc0nsq0x12PBnNKH_H1",
+                            "name": "IMG_9737.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1VbNHsZqH9JlGRkamT7l4KpaD2-cN6Roa",
+                            "name": "IMG_9794.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1bJFKPMjNZ1sOOc9v463FTWReitjBhDFC",
+                            "name": "IMG_9761.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1q6qTXiwsi0dAXuzCSSk00evRp2tE59gO",
+                            "name": "IMG_9800.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1PH2-uact3SANVMiMMlrsWpq8cFfpO26E",
+                            "name": "IMG_9836.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1i0ej1LJPsGI1owPzBhBVQ3JHC7f1GDre",
+                            "name": "IMG_9783.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1DN-3L4bTTWJabYTvuLaXyXQdR4GaIopW",
+                            "name": "IMG_9876.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1thHDUfe40aYy54i8U16pTKBr8F4n_Eer",
+                            "name": "IMG_9735.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1hDd9h0SDa54VXGmjDyN0YtAXmPKtXdSH",
+                            "name": "IMG_9830.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1uDUCWZRrRK2HpvgF7u6j0d1lTScrVVy4",
+                            "name": "IMG_9756.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Cd1XwMkQwKdmzaFLk3T7rkL8H0BFc_fZ",
+                            "name": "Natal KR  (140).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1lUQSsiK969shkvVXUyUCZ6MqR3ZhEGbf",
+                            "name": "Natal KR  (13).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1f6RNCzda-wER4R-acomOiNKMbnDjkJ5y",
+                            "name": "Natal KR  (132).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Z8c6ExvWef21i-VCXrxEnlu-Nvb7MD1F",
+                            "name": "Natal KR  (70).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "16bdEMCSMLgBKSap6dXdJ5c7ZjN5BjTzA",
+                            "name": "Natal KR  (74).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1AjlJZf3FtfMUpMhqpFg7GoUJGS5C4xub",
+                            "name": "Natal KR  (110).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1bQeFElDQmoihrrfBRSRcd8e8pywTyJhi",
+                            "name": "Natal KR  (84).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1AqUNq-zqvISRKfeQUAFHi_Br-LFGrxCZ",
+                            "name": "Natal KR  (37).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1ihRetwsX2e3Wz8CB7DsohKVtoK-K61LY",
+                            "name": "Natal KR  (54).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1n-1BuWr8cy3WTE8DQIgoXRPIHBnH50x1",
+                            "name": "Natal KR  (38).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1zU2FchYhtZCEsZwknbm2p2Ipmk0OvhtP",
+                            "name": "Natal KR  (27).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1tVjrbctNX6AmSIwqLij7huHSNpLKYmed",
+                            "name": "Natal KOMISI REMAJA 2025 (13).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "14DcT4zrRElp_wO00-qBB7rEAhxb9_qu9",
+                            "name": "Natal KOMISI REMAJA 2025 (81).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1iDYYOPL84cavpdcS2HBUWl_i3heiARk9",
+                            "name": "Natal KOMISI REMAJA 2025 (103).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "15Yf_9qeK67serB-iauT33Vbtl24WOd-e",
+                            "name": "Natal KOMISI REMAJA 2025 (158).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1UbqoB85U94UC9F2BWPA3-ULFpaVNMKQ-",
+                            "name": "Natal KOMISI REMAJA 2025 (5).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1jywE76aAAP5PMqjLZ_pgOlqApsot4Fdz",
+                            "name": "Natal KOMISI REMAJA 2025 (98).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1bFWsA3_DHcIcnjqLXoZv6jO-Fpn5bXTR",
+                            "name": "Natal KOMISI REMAJA 2025 (157).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1wo0QxZ_f5pR7U2yf0eRNwv2GGPbDqFMD",
+                            "name": "Natal KOMISI REMAJA 2025 (112).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1CLTLZPgWpyOrcXySkRtTcnIpOGOEawwf",
+                            "name": "Natal KOMISI REMAJA 2025 (228).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1RgE5WAzbvbgoxYWjh8poUNDcBhS91Wqb",
+                            "name": "Natal KOMISI REMAJA 2025 (276).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1pF33NQ0rDqfNDvk-lmwWgkl-ywvseOkW",
+                            "name": "Natal KOMISI REMAJA 2025 (206).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1mzM4vMYIRbv9bMRN23O2MOClTGXI_qjo",
+                            "name": "Natal KOMISI REMAJA 2025 (277).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1APIcT1Ocs8tJakz5xru3DuMTwOt_qWfs",
+                            "name": "Natal KOMISI REMAJA 2025 (236).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "10kwJnWROW4uDL_xOobevUBDQ1hp9yNsh",
+                            "name": "Natal KOMISI REMAJA 2025 (215).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1lu5xLfCDBfQeKly5KPQRiH5DLob9ZOfL",
+                            "name": "Natal KOMISI REMAJA 2025 (192).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1TFwiyCzoHg2Ks6r3i1YyNF02mAAGhBrg",
+                            "name": "Natal KOMISI REMAJA 2025 (300).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1eHZ0u8_Zs2QDbIcWuThkFX9CCS2_JXF_",
+                            "name": "Natal KOMISI REMAJA 2025 (257).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1PkO52BZxc-IHjYGCuYUXqIzTgCXbqv6y",
+                            "name": "Natal KOMISI REMAJA 2025 (273).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1WG8UfUDKES54S5VfEeAFdSDqTcvSm_RI",
+                            "name": "Natal KOMISI REMAJA 2025 (336).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "112fK2Va-S9B1PlDI9jyH_rU-Pyq11Lko",
+                            "name": "Natal KOMISI REMAJA 2025 (321).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "17_pnHcIWHNxoG7XDIVf7AeTXrpK-Rori",
+                            "name": "Natal KOMISI REMAJA 2025 (313).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1DPJp6qWlPw5vBWDuTsERTOsuc8e4d6ww",
+                            "name": "Natal KOMISI REMAJA 2025 (355).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1pEOuOIvghdlKYM6oCJgnKYve4Yy4tEBy",
+                            "name": "Natal KOMISI REMAJA 2025 (322).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1d5E3NAiDsot-e7O_w5_VCr99QzU65kIk",
+                            "name": "Natal KOMISI REMAJA 2025 (311).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1vu37nwpWnwYXywL6vkJLd-SGL8EbeAFw",
+                            "name": "Natal KOMISI REMAJA 2025 (348).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1NEM-gZ2TOWom91KAg8fgoTjAHw9Tf0-b",
+                            "name": "Natal KOMISI REMAJA 2025 (339).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1VDaBbSaI3l0YmLBs8cmy68RwoKyo1STv",
+                            "name": "Natal KOMISI REMAJA 2025 (345).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1v6hZ6AbjjY5yhCFzRbU2CDC0ygVcTVEn",
+                            "name": "Natal KOMISI REMAJA 2025 (364).JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1dF_0R0QB5IBVY6tdldUkxMpXElAd-6mX",
+                            "name": "DSCF5123-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1cbA-1HPHIdLyrDaWH1b-PgCOVcemr7C5",
+                            "name": "IMG_0134-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Xqgycy63hIxSCbgHE8RM5QBnpEDx5XuE",
+                            "name": "IMG_0105-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1TkSQ2YXoIQb0AYU5Nd-emhdBYA2Ma6n-",
+                            "name": "IMG_0139-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1qG1xWjIxdRQxc_Ka4JA4kaJRLWWG4O59",
+                            "name": "IMG_0127-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1A6C-GUfFzqMR44so1_kOgYVzJk1OCjuB",
+                            "name": "IMG_0149-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1_wc1lv_QPr0U1n1dCpqUde2N-jPOkUIx",
+                            "name": "IMG_0112-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1ogJpHfWvObIP3uAvsni9i8FVvZNB7v2T",
+                            "name": "IMG_0111-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
                         }
                     ]
                 }
