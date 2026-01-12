@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 64,
-        "last-update": 1768219391,
+        "update-count": 65,
+        "last-update": 1768219874,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -26475,6 +26475,101 @@
                     ]
                 },
                 {
+                    "folder_id": "1w2OzsocoKWQOdiJP27j5XWoKBkiox8uW",
+                    "last_update": "2026-01-12",
+                    "featured_photo_id": "1g8xiXaTtggQ9llgjNo1f2UWQryQilrII",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Epifani [MRN 2025] yang dilaksanakan pada 4 Januari 2026.",
+                    "title": "Ibadah Minggu Epifani [MRN 2025]",
+                    "event_date": "2026.01.04",
+                    "photos": [
+                        {
+                            "id": "12zpgN4KYRof7QnkhHqdSasW1WUN33Ujn",
+                            "name": "GKI 040126-7-00069.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "19pOox3wuvAtcAJ5DAG2zLTCulDggsHLI",
+                            "name": "GKI 040126-7-00076.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1i4vzMzU-TXFAleU5vgQBOIfvOs1I18j8",
+                            "name": "GKI 040126-7-00001.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1DQmQzl3hU9D08k0lMRUHJPy5_TFuLPRJ",
+                            "name": "GKI 040126-7-00062.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1ramamz4Y-fMKgHWBF3oMvmXI9rqrpw5Y",
+                            "name": "GKI 040126-7-00003.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1UjZAnQTG4VZZvoNMVM9Bh0EXbGC47qSA",
+                            "name": "GKI 040126-7-00085.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1wusGn_dCJUH7y_3hjwwqc7uOFouDaq5d",
+                            "name": "GKI 040126-7-00015.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1IslhfZ4l9sux5kPbnFoDkD8CIzrlvA9K",
+                            "name": "GKI 040126-7-00056.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1HYULk9wOybXdQp1fdQ75koxPVlbQ9wN0",
+                            "name": "GKI 040126-7-00037.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1dVlz3TMuv6kJEz-JDI4D9BtiNsmQdiZw",
+                            "name": "GKI 040126-7-00079.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1m3zxT2bN18EBFXmkavnuyln5n-NNqMpT",
+                            "name": "GKI 040126-7-00036.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1lNRGqY5Yl9mZJBN6NsCoscOmphG8920Y",
+                            "name": "GKI 040126-7-00077.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1_SZ_riN5QsLN0z5RXlTUadybkGtl8PbQ",
+                            "name": "GKI 040126-7-00033.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "11kC4hL3A1-5g0CAhZe0ukR2nLZQVZwMC",
+                            "name": "GKI 040126-7-00074.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1xL2ecg_sbJDM4pJPLCGL2mBnmfShXF5O",
+                            "name": "GKI 040126-7-00073.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1NMY5SROa7bD3uhqVfOlpIXaZYcq7NquS",
+                            "name": "GKI 040126-7-00068.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1IM_MmplW2zUiS7xZ9Vk43EBp41pX45eR",
+                            "name": "GKI 040126-7-00095.JPG",
+                            "date": "2026-01-12"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1DiWSBjCoVb_EUTfPCb-pFlGyRL5OUrtS",
                     "last_update": "2026-01-12",
                     "featured_photo_id": "1Yss4HDwlfDK2V3rOLNV0_mSA0vdapT7P",
@@ -26925,6 +27020,66 @@
                         {
                             "id": "1ogJpHfWvObIP3uAvsni9i8FVvZNB7v2T",
                             "name": "IMG_0111-Enhanced-NR.jpg",
+                            "date": "2026-01-12"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1DZLjJhDAyQibWpN_ElAQ1ENJg5ex_OtV",
+                    "last_update": "2026-01-12",
+                    "featured_photo_id": "1UHM75DlEjnDquye3y_1TsZyWrJguk48G",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Pembaptisan Yesus [MRN 2025] yang dilaksanakan pada 11 Januari 2026.",
+                    "title": "Ibadah Minggu Pembaptisan Yesus [MRN 2025]",
+                    "event_date": "2026.01.11",
+                    "photos": [
+                        {
+                            "id": "1ni52Mknq48PPtdvqq4hsieRiA-dRXx51",
+                            "name": "GKI 110126-7-00008.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1mAIE6OzJAxm4TvvaNMLQfgmrjExJe8iz",
+                            "name": "GKI 110126-7-00009.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1kbs2wheYj6alhtVk1Nnoehk-s8zVQ3Lc",
+                            "name": "GKI 110126-7-00023.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1T_OhlQJyon_aUiTRX-9oEA-aAOJhvoY1",
+                            "name": "GKI 110126-7-00019.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1tLJLGiA64UKgyuud0C5pvs6joXttC3LK",
+                            "name": "GKI 110126-7-00032.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1OPlqp8kspwZEdMtjebgzkI-UKL4dSVl9",
+                            "name": "GKI 110126-7-00010.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1nncey3GzDPehY5B_vILiwcT_QQjrZ7H8",
+                            "name": "GKI 110126-7-00006.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1kFcZVfQhH-Y9FPe8BuDv54PcbBrGPHTl",
+                            "name": "GKI 110126-7-00025.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1kZG4zkV2_Pbjy6GxNudLn04PkZBt67NG",
+                            "name": "GKI 110126-7-00030.JPG",
+                            "date": "2026-01-12"
+                        },
+                        {
+                            "id": "1Ns35H7YA7dnIVeUAqKB9ujHgpXGgmqTt",
+                            "name": "GKI 110126-7-00037.JPG",
                             "date": "2026-01-12"
                         }
                     ]
