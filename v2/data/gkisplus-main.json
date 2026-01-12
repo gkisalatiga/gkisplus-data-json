@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5045,
-        "last-update": 1768188072,
+        "update-count": 5046,
+        "last-update": 1768203969,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5709,6 +5709,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Sosialisasi TKA ortu kls 6",
+                "time": "07:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-01-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "w",
                 "note": ""
             }
         ],
