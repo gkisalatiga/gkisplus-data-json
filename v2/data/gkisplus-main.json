@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5044,
-        "last-update": 1768180962,
+        "update-count": 5045,
+        "last-update": 1768188072,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5152,6 +5152,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-01-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Kristiani Murti Astuti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Percakapan Atestasi masuk Sdr. Rhicco",
                 "time": "16:00",
                 "time-to": "17:00",
@@ -5192,6 +5206,20 @@
                 "pic": "Femi",
                 "status": "y",
                 "note": "Pesan Teh"
+            },
+            {
+                "name": "Ibadah dan doa serentak hari sekolah kristen Indonesia",
+                "time": "07:00",
+                "time-to": "07:45",
+                "timezone": "WIB",
+                "date": "2026-01-19",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "y",
+                "note": "Tidak ada"
             },
             {
                 "name": "PA Wilayah 9 ",
@@ -5682,20 +5710,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Ibadah dan doa serentak hari sekolah kristen Indonesia",
-                "time": "07:00",
-                "time-to": "07:45",
-                "timezone": "WIB",
-                "date": "2026-01-19",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Siska Indria Yuniarti",
-                "status": "w",
-                "note": "Tidak ada"
             }
         ],
         "backend": {
