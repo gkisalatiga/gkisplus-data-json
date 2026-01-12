@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5046,
-        "last-update": 1768203969,
-        "last-updated-item": "agenda",
+        "update-count": 5047,
+        "last-update": 1768216269,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Jan 2026 | Berkat Tuhan Saat Ini dan Pada Hari Ini",
+                        "date": "2026-01-12",
+                        "desc": "Dibawakan oleh Ibu Celly Murniningsih",
+                        "link": "https://www.youtube.com/watch?v=xI28FtfUPVU",
+                        "thumbnail": "https://i1.ytimg.com/vi/xI28FtfUPVU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Jan 2026 | Hidup Dalam Rencana Nya",
                         "date": "2026-01-11",
