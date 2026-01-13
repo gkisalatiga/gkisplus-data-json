@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5049,
-        "last-update": 1768243124,
-        "last-updated-item": "ykb",
+        "update-count": 5050,
+        "last-update": 1768281421,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Jan 2026 | Kesempatan Kedua",
+                        "date": "2026-01-13",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=B_GskXzr91E",
+                        "thumbnail": "https://i3.ytimg.com/vi/B_GskXzr91E/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Jan 2026 | Melibatkan Tuhan Dalam Perencanaan",
+                        "date": "2026-01-13",
+                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
+                        "link": "https://www.youtube.com/watch?v=IRuJANqW5do",
+                        "thumbnail": "https://i2.ytimg.com/vi/IRuJANqW5do/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Jan 2026 | Berkat Tuhan Saat Ini dan Pada Hari Ini",
                         "date": "2026-01-12",
@@ -75,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Stephanus Liem",
                         "link": "https://www.youtube.com/watch?v=S4_mce_MQ6c",
                         "thumbnail": "https://i4.ytimg.com/vi/S4_mce_MQ6c/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Jan 2026 | Aman Di Dalam Genggaman Kristus",
-                        "date": "2026-01-02",
-                        "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
-                        "link": "https://www.youtube.com/watch?v=c-90tk34yvc",
-                        "thumbnail": "https://i4.ytimg.com/vi/c-90tk34yvc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
