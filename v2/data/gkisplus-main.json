@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5053,
-        "last-update": 1768344546,
+        "update-count": 5054,
+        "last-update": 1768345545,
         "last-updated-item": "backend",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
@@ -4735,15 +4735,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_paw.webp",
-                "title": "Informasi PA Wilayah",
-                "type": "poster",
-                "date-created": "2026-01-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_paw.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
                 "title": "KTB Komisi Dewasa",
