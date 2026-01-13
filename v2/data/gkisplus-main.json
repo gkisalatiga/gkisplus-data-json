@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 5052,
-        "last-update": 1768335078,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 5053,
+        "last-update": 1768344546,
+        "last-updated-item": "backend",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
     "data": {
@@ -97,7 +97,7 @@
                 "type": "rss",
                 "pinned": 1,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -318,7 +318,7 @@
                 "type": "regular",
                 "pinned": 1,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -539,7 +539,7 @@
                 "type": "regular",
                 "pinned": 1,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -760,7 +760,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -967,7 +967,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1188,7 +1188,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1255,7 +1255,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1476,7 +1476,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1536,7 +1536,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1757,7 +1757,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -1887,7 +1887,7 @@
                 "type": "regular",
                 "pinned": 0,
                 "is_shown": 1,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "content": [
@@ -2052,7 +2052,7 @@
                 "type": "regular",
                 "pinned": 1,
                 "is_shown": 0,
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             }
         ],
         "pdf": {
@@ -4742,7 +4742,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_paw.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
@@ -4751,7 +4751,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
@@ -4760,7 +4760,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
@@ -4769,7 +4769,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
@@ -4778,7 +4778,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natalkp.webp",
@@ -4787,7 +4787,7 @@
                 "date-created": "2025-12-27",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natalkp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_3.webp",
@@ -4796,7 +4796,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_3.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kalendergkis.webp",
@@ -4805,7 +4805,7 @@
                 "date-created": "2026-01-07",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kalendergkis.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
@@ -4814,7 +4814,7 @@
                 "date-created": "2026-01-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrn_1.webp",
@@ -4823,7 +4823,7 @@
                 "date-created": "2025-12-27",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 0
+                "is_shown_ios": 1
             }
         ],
         "pukat-berkat": [
@@ -5727,7 +5727,7 @@
                 "is_feature_persembahan_shown": 1,
                 "is_feature_seasonal_shown": 1,
                 "is_feature_ykb_shown": 1,
-                "is_ios_submission_ongoing": 1
+                "is_ios_submission_ongoing": 0
             },
             "strings": {
                 "address": "Jl. Jend. Sudirman 111B, Salatiga, 50742, Jawa Tengah, Indonesia",
