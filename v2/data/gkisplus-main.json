@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5060,
-        "last-update": 1768415931,
-        "last-updated-item": "ykb",
+        "update-count": 5061,
+        "last-update": 1768421369,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 15 Jan 2026 | Kesempatan Kedua",
+                        "date": "2026-01-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=B_GskXzr91E",
+                        "thumbnail": "https://i3.ytimg.com/vi/B_GskXzr91E/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 14 Jan 2026 | Melibatkan Tuhan Dalam Perencanaan",
                         "date": "2026-01-13",
                         "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
                         "link": "https://www.youtube.com/watch?v=IRuJANqW5do",
                         "thumbnail": "https://i2.ytimg.com/vi/IRuJANqW5do/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Jan 2026 | Kesempatan Kedua",
-                        "date": "2026-01-13",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=B_GskXzr91E",
-                        "thumbnail": "https://i3.ytimg.com/vi/B_GskXzr91E/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 13 Jan 2026 | Berkat Tuhan Saat Ini dan Pada Hari Ini",
