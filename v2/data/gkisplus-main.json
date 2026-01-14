@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5056,
-        "last-update": 1768368016,
+        "update-count": 5057,
+        "last-update": 1768374217,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4735,6 +4735,15 @@
             }
         ],
         "carousel": [
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk.webp",
+                "title": "Informasi Pembaruan Aplikasi GKI Salatiga+",
+                "type": "poster",
+                "date-created": "2026-01-14",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_info_apk.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
                 "title": "KTB Komisi Dewasa",
