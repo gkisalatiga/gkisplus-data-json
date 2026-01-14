@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5055,
-        "last-update": 1768353719,
+        "update-count": 5056,
+        "last-update": 1768368016,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5154,8 +5154,22 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "renzo",
-                "status": "w",
+                "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan untuk ibadah KUL",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Lainnya",
+                "pic": "Ryu",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sosialisasi TKA ortu kls 6",
@@ -5168,7 +5182,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Kepala Sekolah",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5182,7 +5196,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Gita Kartika Dewi ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5196,7 +5210,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Lainnya",
                 "pic": "Bayu / Mr.Tommy",
-                "status": "w",
+                "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
@@ -5224,6 +5238,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Samuel ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Kunjungan Fak. Teologi UKSW",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-01-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
                 "status": "y",
                 "note": ""
             },
@@ -5336,8 +5364,22 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "FEMI",
-                "status": "w",
+                "status": "n",
                 "note": "Pesan Teh"
+            },
+            {
+                "name": "Gladi Keb.Minggu, 1 jam sebelumnya untuk latihan pemusik",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-01-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "NATAL KP",
