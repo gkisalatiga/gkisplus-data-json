@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5058,
-        "last-update": 1768378545,
-        "last-updated-item": "yt",
+        "update-count": 5059,
+        "last-update": 1768397821,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5794,6 +5794,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Untuk Live Music",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "FEMI",
+                "status": "w",
                 "note": ""
             }
         ],
