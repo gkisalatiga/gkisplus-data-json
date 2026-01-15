@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5063,
-        "last-update": 1768470494,
-        "last-updated-item": "agenda",
+        "update-count": 5064,
+        "last-update": 1768486501,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Jan 2026",
+                        "date": "2026-01-15",
+                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
+                        "link": "https://www.youtube.com/watch?v=SF_nfNX_4QM",
+                        "thumbnail": "https://i4.ytimg.com/vi/SF_nfNX_4QM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Jan 2026 | Kesempatan Kedua",
                         "date": "2026-01-14",
