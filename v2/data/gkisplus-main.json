@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5064,
-        "last-update": 1768486501,
-        "last-updated-item": "yt",
+        "update-count": 5065,
+        "last-update": 1768486835,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5576,6 +5576,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Femi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi Panitia Natal KR",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-01-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb ",
                 "status": "w",
                 "note": ""
             }
