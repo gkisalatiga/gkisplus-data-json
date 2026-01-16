@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5068,
-        "last-update": 1768555540,
-        "last-updated-item": "yt",
+        "update-count": 5069,
+        "last-update": 1768556831,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5572,6 +5572,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Caleb ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat evaluasi tengah tahun BPH KR",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
                 "status": "w",
                 "note": ""
             }
