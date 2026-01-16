@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5069,
-        "last-update": 1768556831,
-        "last-updated-item": "agenda",
+        "update-count": 5070,
+        "last-update": 1768572831,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Jan 2026",
+                        "date": "2026-01-16",
+                        "desc": "Dibawakan oleh Sdri. Ester Juliawati",
+                        "link": "https://www.youtube.com/watch?v=-g_ROQmjzdI",
+                        "thumbnail": "https://i2.ytimg.com/vi/-g_ROQmjzdI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Jan 2026",
                         "date": "2026-01-15",
