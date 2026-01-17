@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5073,
-        "last-update": 1768632694,
+        "update-count": 5074,
+        "last-update": 1768635339,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -2072,6 +2072,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 18 Januari 2026",
+                    "date": "2026-01-17",
+                    "link": "https://drive.google.com/file/d/1OOaQ2dHG7Ne2XT59qK6tJ1S2SUptQ2jH/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-18-januari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1OOaQ2dHG7Ne2XT59qK6tJ1S2SUptQ2jH",
+                    "id": "1OOaQ2dHG7Ne2XT59qK6tJ1S2SUptQ2jH",
+                    "size": "1.61 MB"
+                },
+                {
                     "title": "Warta Jemaat 11 Januari 2026",
                     "date": "2026-01-10",
                     "link": "https://drive.google.com/file/d/19QDAccQhCxaMOuca1Y4EqdEAbzZU_zvv/view",
@@ -2748,6 +2757,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 18 Januari 2026",
+                    "date": "2026-01-17",
+                    "link": "https://drive.google.com/file/d/1ZEDYNTnHxptF9-NSPH7HHSv_2qqtxgiI/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-18-januari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1ZEDYNTnHxptF9-NSPH7HHSv_2qqtxgiI",
+                    "id": "1ZEDYNTnHxptF9-NSPH7HHSv_2qqtxgiI",
+                    "size": "0.71 MB"
+                },
                 {
                     "title": "Tata Ibadah 11 Januari 2026 - Pembaptisan Yesus",
                     "date": "2026-01-10",
