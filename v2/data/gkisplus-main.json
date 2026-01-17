@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5072,
-        "last-update": 1768628556,
+        "update-count": 5073,
+        "last-update": 1768632694,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4981,6 +4981,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat evaluasi tengah tahun BPH KR",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Percakapan Atestasi masuk Sdr. Rhicco",
                 "time": "16:00",
                 "time-to": "17:00",
@@ -5021,6 +5035,34 @@
                 "pic": "Pnt. Dessy",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi Panitia Natal KR",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-01-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Live Musik Panitia Natal KP",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Latihan Natal KP",
@@ -5145,6 +5187,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Dekor ruangan untuk Natal KP",
+                "time": "12:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-01-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
                 "status": "y",
                 "note": ""
             },
@@ -5553,62 +5609,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Dekor ruangan untuk Natal KP",
-                "time": "12:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-01-23",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "Femi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Evaluasi Panitia Natal KR",
-                "time": "15:00",
-                "time-to": "17:00",
-                "timezone": "WIB",
-                "date": "2026-01-17",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Caleb ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat evaluasi tengah tahun BPH KR",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-01-16",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Remaja",
-                "pic": "Cedric",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Live Musik Panitia Natal KP",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-01-17",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Femi",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
