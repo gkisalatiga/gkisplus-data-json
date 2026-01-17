@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5075,
-        "last-update": 1768636968,
-        "last-updated-item": "agenda",
+        "update-count": 5076,
+        "last-update": 1768648125,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Lusiana N",
                         "link": "https://www.youtube.com/watch?v=SqcGUlM8ibs",
                         "thumbnail": "https://i4.ytimg.com/vi/SqcGUlM8ibs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Jan 2026 | Dalam Gelap Aku Tak Pernah Sendiri",
-                        "date": "2026-01-04",
-                        "desc": "Dibawakan oleh Pdt. Stephanus Liem",
-                        "link": "https://www.youtube.com/watch?v=S4_mce_MQ6c",
-                        "thumbnail": "https://i4.ytimg.com/vi/S4_mce_MQ6c/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
