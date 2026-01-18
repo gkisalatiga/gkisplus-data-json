@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5080,
-        "last-update": 1768742730,
-        "last-updated-item": "agenda",
+        "update-count": 5081,
+        "last-update": 1768745366,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |19 Jan 2026 | Menyelaraskan dengan Kehendak Allah",
+                        "date": "2026-01-18",
+                        "desc": "Dibawakan oleh Sdri. Gabrilia Dewi",
+                        "link": "https://www.youtube.com/watch?v=2TBQpygMcZY",
+                        "thumbnail": "https://i3.ytimg.com/vi/2TBQpygMcZY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Jan 2026",
                         "date": "2026-01-16",
