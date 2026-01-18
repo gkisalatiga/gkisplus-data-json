@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5078,
-        "last-update": 1768674813,
-        "last-updated-item": "ykb",
+        "update-count": 5079,
+        "last-update": 1768706417,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5655,6 +5655,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persekutuan guru sekolah minggu",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-01-25",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
                 "note": ""
             }
         ],
