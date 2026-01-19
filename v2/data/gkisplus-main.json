@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5083,
-        "last-update": 1768772994,
-        "last-updated-item": "ykb",
+        "update-count": 5084,
+        "last-update": 1768785816,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5655,6 +5655,20 @@
                 "pic": "Nareswari",
                 "status": "w",
                 "note": "pesan teh"
+            },
+            {
+                "name": "Latihan Live Musik KP",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-19",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
