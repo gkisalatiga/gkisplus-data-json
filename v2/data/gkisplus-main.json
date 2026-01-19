@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5085,
-        "last-update": 1768836078,
-        "last-updated-item": "agenda",
+        "update-count": 5086,
+        "last-update": 1768842899,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Jan 2026 | Living in Harmony (Special HUT ke 83 GKI Salatiga)",
+                        "date": "2026-01-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=mMuztpUHiaY",
+                        "thumbnail": "https://i2.ytimg.com/vi/mMuztpUHiaY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |19 Jan 2026 | Menyelaraskan dengan Kehendak Allah",
                         "date": "2026-01-18",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Paul A. Gul\u00f6",
                         "link": "https://www.youtube.com/watch?v=XOhiyhKXFHo",
                         "thumbnail": "https://i1.ytimg.com/vi/XOhiyhKXFHo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Jan 2026 | Memulai Tahun Baru Bersama Firman Yang Kekal",
-                        "date": "2026-01-05",
-                        "desc": "Dibawakan oleh Sdri. Lusiana N",
-                        "link": "https://www.youtube.com/watch?v=SqcGUlM8ibs",
-                        "thumbnail": "https://i4.ytimg.com/vi/SqcGUlM8ibs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
