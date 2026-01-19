@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 65,
-        "last-update": 1768219874,
+        "update-count": 66,
+        "last-update": 1768839411,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -27027,11 +27027,26 @@
                 {
                     "folder_id": "1DZLjJhDAyQibWpN_ElAQ1ENJg5ex_OtV",
                     "last_update": "2026-01-12",
-                    "featured_photo_id": "1UHM75DlEjnDquye3y_1TsZyWrJguk48G",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu Pembaptisan Yesus [MRN 2025] yang dilaksanakan pada 11 Januari 2026.",
-                    "title": "Ibadah Minggu Pembaptisan Yesus [MRN 2025]",
+                    "featured_photo_id": "1DlpfJo723xWNssU--K5GtwULuoIUEZK5",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Pembaptisan Yesus yang dilaksanakan pada 11 Januari 2026.",
+                    "title": "Ibadah Minggu Pembaptisan Yesus",
                     "event_date": "2026.01.11",
                     "photos": [
+                        {
+                            "id": "1fDQhcg_EBk9KxjGTNbftllp0WmG3VK6X",
+                            "name": "DSCF5390.JPG",
+                            "date": "2026-01-19"
+                        },
+                        {
+                            "id": "1hDIYJbct4MA5e31NKhL06jinCmDjBXMN",
+                            "name": "DSCF5387.JPG",
+                            "date": "2026-01-19"
+                        },
+                        {
+                            "id": "1tqHBblNAgfnYRXPCyCuaIKeXD5kB7EJl",
+                            "name": "DSCF5399.JPG",
+                            "date": "2026-01-19"
+                        },
                         {
                             "id": "1ni52Mknq48PPtdvqq4hsieRiA-dRXx51",
                             "name": "GKI 110126-7-00008.JPG",
@@ -27081,6 +27096,31 @@
                             "id": "1Ns35H7YA7dnIVeUAqKB9ujHgpXGgmqTt",
                             "name": "GKI 110126-7-00037.JPG",
                             "date": "2026-01-12"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1hUb-EkrWZ1Q6chZH8HUHEkvvkOxXqzCr",
+                    "last_update": "2026-01-19",
+                    "featured_photo_id": "1NRGJg8H_VRcaAWl-RDA-JZYA-ljc16Jl",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 18 Januari yang dilaksanakan pada 18 Januari 2026.",
+                    "title": "Ibadah Minggu, 18 Januari",
+                    "event_date": "2026.01.18",
+                    "photos": [
+                        {
+                            "id": "19gR0reRRK11lp-pP1IF6eseIWCVM287j",
+                            "name": "GKIS 180126-7(4).jpg",
+                            "date": "2026-01-19"
+                        },
+                        {
+                            "id": "1bSrnP2KeqM1JbCzxNOxV2QYM-5zxVRug",
+                            "name": "GKIS 180126-7(2).jpg",
+                            "date": "2026-01-19"
+                        },
+                        {
+                            "id": "1NrTRC4ui9szbiTY_udEABpKmS_jAfsE4",
+                            "name": "GKIS 180126-7(6).jpg",
+                            "date": "2026-01-19"
                         }
                     ]
                 }
