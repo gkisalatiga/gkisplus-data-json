@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5084,
-        "last-update": 1768785816,
+        "update-count": 5085,
+        "last-update": 1768836078,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5669,6 +5669,20 @@
                 "pic": "Femi",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia MRP 2026",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-01-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Set.",
+                "status": "w",
+                "note": "Tolong disediakan teh tawar dan gelas"
             }
         ],
         "backend": {
