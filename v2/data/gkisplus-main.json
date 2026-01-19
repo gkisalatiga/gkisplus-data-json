@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5087,
-        "last-update": 1768847865,
-        "last-updated-item": "ykb",
+        "update-count": 5088,
+        "last-update": 1768853458,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -26,6 +26,13 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=mMuztpUHiaY",
                         "thumbnail": "https://i2.ytimg.com/vi/mMuztpUHiaY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Jan 2026 | Lupa dan Melupakan",
+                        "date": "2026-01-19",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=CQ4UW2bwdBc",
+                        "thumbnail": "https://i4.ytimg.com/vi/CQ4UW2bwdBc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi |19 Jan 2026 | Menyelaraskan dengan Kehendak Allah",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Retty Andrea",
                         "link": "https://www.youtube.com/watch?v=64u2wWx39oA",
                         "thumbnail": "https://i3.ytimg.com/vi/64u2wWx39oA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Jan 2026 | Harapan Yang Hidup",
-                        "date": "2026-01-06",
-                        "desc": "Dibawakan oleh Pnt. Paul A. Gul\u00f6",
-                        "link": "https://www.youtube.com/watch?v=XOhiyhKXFHo",
-                        "thumbnail": "https://i1.ytimg.com/vi/XOhiyhKXFHo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
