@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5090,
-        "last-update": 1768896185,
+        "update-count": 5091,
+        "last-update": 1768912791,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5034,6 +5034,20 @@
                 "pic": "Bambang Set.",
                 "status": "y",
                 "note": "Tolong disediakan teh tawar dan gelas"
+            },
+            {
+                "name": "Latihan Live Musik Natal KP",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Mario",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "GLADI BERSIH NATAL KP",
