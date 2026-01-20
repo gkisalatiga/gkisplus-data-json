@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5091,
-        "last-update": 1768912791,
-        "last-updated-item": "agenda",
+        "update-count": 5092,
+        "last-update": 1768918834,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Jan 2026 | Harmoni Dengan Alam",
+                        "date": "2026-01-20",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=csW-JEr7sdE",
+                        "thumbnail": "https://i4.ytimg.com/vi/csW-JEr7sdE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Jan 2026 | Living in Harmony (Special HUT ke 83 GKI Salatiga)",
                         "date": "2026-01-19",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
                         "link": "https://www.youtube.com/watch?v=2JwYiC6sEJ4",
                         "thumbnail": "https://i3.ytimg.com/vi/2JwYiC6sEJ4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Jan 2026 | Berpengharapan Dalam Gelombang Besar",
-                        "date": "2026-01-07",
-                        "desc": "Dibawakan oleh Ibu Retty Andrea",
-                        "link": "https://www.youtube.com/watch?v=64u2wWx39oA",
-                        "thumbnail": "https://i3.ytimg.com/vi/64u2wWx39oA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
