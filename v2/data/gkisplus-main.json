@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5095,
-        "last-update": 1768971737,
+        "update-count": 5096,
+        "last-update": 1768974639,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5005,6 +5005,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Dekorasi Natal KP",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "w",
                 "note": ""
             }
         ],
