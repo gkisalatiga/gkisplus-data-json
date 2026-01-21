@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5099,
-        "last-update": 1769021405,
-        "last-updated-item": "ykb",
+        "update-count": 5100,
+        "last-update": 1769026673,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 22 Jan 2026 | Lupa dan Melupakan",
+                        "date": "2026-01-21",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=CQ4UW2bwdBc",
+                        "thumbnail": "https://i4.ytimg.com/vi/CQ4UW2bwdBc/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 21 Jan 2026 | Harmoni Dengan Alam",
                         "date": "2026-01-20",
                         "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=mMuztpUHiaY",
                         "thumbnail": "https://i2.ytimg.com/vi/mMuztpUHiaY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Jan 2026 | Lupa dan Melupakan",
-                        "date": "2026-01-19",
-                        "desc": "Dibawakan oleh Ibu July Silooy",
-                        "link": "https://www.youtube.com/watch?v=CQ4UW2bwdBc",
-                        "thumbnail": "https://i4.ytimg.com/vi/CQ4UW2bwdBc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi |19 Jan 2026 | Menyelaraskan dengan Kehendak Allah",
