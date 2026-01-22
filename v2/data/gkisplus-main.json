@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5100,
-        "last-update": 1769026673,
-        "last-updated-item": "yt",
+        "update-count": 5101,
+        "last-update": 1769044913,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5612,6 +5612,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat tkm liturgi KUL",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-01-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Kristiani Murni Astuti",
+                "status": "w",
                 "note": ""
             }
         ],
