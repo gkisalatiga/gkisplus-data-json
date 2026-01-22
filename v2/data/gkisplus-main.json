@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5101,
-        "last-update": 1769044913,
-        "last-updated-item": "agenda",
+        "update-count": 5102,
+        "last-update": 1769091632,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Jan 2026 | Bertumbuh Bersama Dalam Pelayanan",
+                        "date": "2026-01-22",
+                        "desc": "Dibawakan oleh Pnt. Catur Winarno",
+                        "link": "https://www.youtube.com/watch?v=aCJsr6M43ww",
+                        "thumbnail": "https://i2.ytimg.com/vi/aCJsr6M43ww/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Jan 2026 | Lupa dan Melupakan",
                         "date": "2026-01-21",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=y8DwsSHj93w",
                         "thumbnail": "https://i2.ytimg.com/vi/y8DwsSHj93w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Jan 2026 | Titik Balik",
-                        "date": "2026-01-08",
-                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
-                        "link": "https://www.youtube.com/watch?v=2JwYiC6sEJ4",
-                        "thumbnail": "https://i3.ytimg.com/vi/2JwYiC6sEJ4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
