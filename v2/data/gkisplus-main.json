@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5104,
-        "last-update": 1769131186,
+        "update-count": 5105,
+        "last-update": 1769156634,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4943,146 +4943,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert ",
-                "status": "c",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Ibu Wardjini",
-                "status": "c",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-01-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "LATIHAN NATAL KP",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Femi",
-                "status": "y",
-                "note": "Pesan Teh"
-            },
-            {
-                "name": "GLADI KOTOR NATAL KP",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "FEMI",
-                "status": "y",
-                "note": "Pesan Teh"
-            },
-            {
-                "name": "Rapat Panitia MRP 2026",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-01-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Bambang Set.",
-                "status": "y",
-                "note": "Tolong disediakan teh tawar dan gelas"
-            },
-            {
-                "name": "Latihan Live Musik Natal KP",
-                "time": "18:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-01-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Mario",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Persiapan Dekorasi Natal KP",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Femi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat MJ Bidang 3",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-01-21",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "GLADI BERSIH NATAL KP",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-22",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "FEMI",
-                "status": "y",
-                "note": "Pesan Teh"
-            },
-            {
                 "name": "Gladi Keb.Minggu, 1 jam sebelumnya untuk latihan pemusik",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -5125,6 +4985,20 @@
                 "note": "pesan teh"
             },
             {
+                "name": "Rapat BPH",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-01-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "NATAL KP",
                 "time": "17:00",
                 "time-to": "21:00",
@@ -5149,6 +5023,34 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Yonatan Komisi Pemuda",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-25",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "evaluasi dan brifing ulang pelatihan musik periode I",
+                "time": "13:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-01-25",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "y",
                 "note": ""
             },
@@ -5247,7 +5149,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -5289,7 +5191,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -5345,7 +5247,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Adhi kristianto",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5359,7 +5261,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -5387,7 +5289,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Adhi Kristanto",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5612,34 +5514,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat tkm liturgi KUL",
-                "time": "15:00",
-                "time-to": "17:00",
-                "timezone": "WIB",
-                "date": "2026-01-22",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Kristiani Murni Astuti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Yonatan Komisi Pemuda",
-                "time": "18:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-25",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Samarthya",
-                "status": "w",
                 "note": ""
             }
         ],
