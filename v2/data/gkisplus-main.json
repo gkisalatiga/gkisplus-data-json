@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 5108,
-        "last-update": 1769224188,
-        "last-updated-item": "agenda",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 5109,
+        "last-update": 1769229788,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.2"
     },
     "data": {
@@ -2072,6 +2072,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 25 Januari 2026",
+                    "date": "2026-01-24",
+                    "link": "https://drive.google.com/file/d/1WLUhhqhFrXTT-Yn8g7ATmYsXXLwVvuLY/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-25-januari-2026",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1WLUhhqhFrXTT-Yn8g7ATmYsXXLwVvuLY",
+                    "id": "1WLUhhqhFrXTT-Yn8g7ATmYsXXLwVvuLY",
+                    "size": "1.85 MB"
+                },
+                {
                     "title": "Warta Jemaat 18 Januari 2026",
                     "date": "2026-01-17",
                     "link": "https://drive.google.com/file/d/1OOaQ2dHG7Ne2XT59qK6tJ1S2SUptQ2jH/view",
@@ -2757,6 +2766,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 25 Januari 2026 (HUT GKI Salatiga Ke-83)",
+                    "date": "2026-01-24",
+                    "link": "https://drive.google.com/file/d/1OiswHZppm1aewH4tSsJUvMSWuK6MVJLn/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-25-januari-2026-hut-gki-salatiga-ke-83/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1OiswHZppm1aewH4tSsJUvMSWuK6MVJLn",
+                    "id": "1OiswHZppm1aewH4tSsJUvMSWuK6MVJLn",
+                    "size": "0.84 MB"
+                },
                 {
                     "title": "Tata Ibadah 18 Januari 2026",
                     "date": "2026-01-17",
@@ -5533,6 +5551,7 @@
         ],
         "backend": {
             "flags": {
+                "is_android_submission_ongoing": 0,
                 "is_easter_egg_devmode_enabled": 1,
                 "is_feature_agenda_shown": 1,
                 "is_feature_bible_shown": 0,
@@ -5553,8 +5572,8 @@
                 "about_changelog_url": "https://github.com/gkisalatiga/gkisalatiga-foss/blob/main/CHANGELOG.md",
                 "about_google_play_listing_url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
                 "about_source_code_url": "https://github.com/gkisalatiga/gkisalatiga-foss",
-                "greetings_top": "Maranatha!",
-                "greetings_bottom": "Mari menyambut Kristus dalam Masa Raya Natal 2025!",
+                "greetings_top": "Dirgahayu!",
+                "greetings_bottom": "Selamat ulang tahun GKI Salatiga ke-83!",
                 "youtube_player_origin": "https://gkisalatiga.org"
             }
         }
