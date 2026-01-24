@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5111,
-        "last-update": 1769242428,
+        "update-count": 5112,
+        "last-update": 1769249609,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -4793,11 +4793,11 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natalkp.webp",
-                "title": "Natal Komisi Pemuda",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carouselcarousel_banner_ibadah_minggu.webp",
+                "title": "Ibadah HUT ke-83 GKI Salatiga",
                 "type": "poster",
-                "date-created": "2025-12-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natalkp.webp",
+                "date-created": "2026-01-24",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -4820,6 +4820,24 @@
                 "is_shown_ios": 1
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_hbdgkis.webp",
+                "title": "Selamat Ulang Tahun GKI Salatiga",
+                "type": "poster",
+                "date-created": "2026-01-24",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_hbdgkis.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
+                "title": "Selamat Ulang Tahun GKI Salatiga",
+                "type": "poster",
+                "date-created": "2026-01-24",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ppk.webp",
                 "title": "Tahap Perkenalan",
                 "type": "poster",
@@ -4838,29 +4856,11 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
-                "title": "Seleksi Calon Mahasiswa Teologi GKI 2026",
-                "type": "poster",
-                "date-created": "2026-01-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kalendergkis.webp",
                 "title": "Kalender GKIS Tahun 2026",
                 "type": "poster",
                 "date-created": "2026-01-17",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kalendergkis.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_hbdgkis.webp",
-                "title": "Selamat Ulang Tahun GKI Salatiga",
-                "type": "poster",
-                "date-created": "2026-01-21",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_hbdgkis.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
