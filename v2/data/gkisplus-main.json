@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5107,
-        "last-update": 1769193579,
-        "last-updated-item": "ykb",
+        "update-count": 5108,
+        "last-update": 1769224188,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5514,6 +5514,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Natal KP",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-24",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "w",
                 "note": ""
             }
         ],
