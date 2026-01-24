@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 5109,
-        "last-update": 1769229788,
-        "last-updated-item": "pdf",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 5110,
+        "last-update": 1769233393,
+        "last-updated-item": "agenda",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
     "data": {
@@ -5031,6 +5031,34 @@
                 "note": ""
             },
             {
+                "name": "Natal KP",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-01-24",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Femi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Live Musik Natal KP",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-01-24",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Mario",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Persekutuan guru sekolah minggu",
                 "time": "09:30",
                 "time-to": "13:00",
@@ -5532,20 +5560,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Natal KP",
-                "time": "16:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-01-24",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Femi",
-                "status": "w",
                 "note": ""
             }
         ],
