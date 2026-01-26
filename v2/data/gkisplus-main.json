@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5121,
-        "last-update": 1769405121,
-        "last-updated-item": "yt",
+        "update-count": 5122,
+        "last-update": 1769412219,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5241,7 +5241,7 @@
                 "type": "proposal",
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
-                "pic": "Adhi kristianto",
+                "pic": "Abdi Siswanto",
                 "status": "y",
                 "note": ""
             },
