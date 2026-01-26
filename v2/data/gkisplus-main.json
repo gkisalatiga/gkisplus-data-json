@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5120,
-        "last-update": 1769402482,
-        "last-updated-item": "agenda",
+        "update-count": 5121,
+        "last-update": 1769405121,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 29 Jan 2026 | Firman Tuhan Memberi Terang dan Pengertian",
+                        "date": "2026-01-26",
+                        "desc": "Dibawakan oleh Ibu Margriet Ermiyati Rambakila",
+                        "link": "https://www.youtube.com/watch?v=nBoXAU6v2Rc",
+                        "thumbnail": "https://i3.ytimg.com/vi/nBoXAU6v2Rc/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 26 Jan 2026 | Indahnya Keharmonisan dalam Persaudaraan",
                         "date": "2026-01-25",
                         "desc": "Dibawakan oleh Pdt. Merry C. Rungkat",
@@ -28,7 +35,7 @@
                         "thumbnail": "https://i3.ytimg.com/vi/zW1yc0Vxwsg/hqdefault.jpg"
                     },
                     {
-                        "title": "SaRen Pagi | 27 Jan 2026",
+                        "title": "SaRen Pagi | 27 Jan 2026 | Hukum Tabur Tuai",
                         "date": "2026-01-24",
                         "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
                         "link": "https://www.youtube.com/watch?v=qKY4hQ5X5sk",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
                         "link": "https://www.youtube.com/watch?v=SF_nfNX_4QM",
                         "thumbnail": "https://i4.ytimg.com/vi/SF_nfNX_4QM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Jan 2026 | Kesempatan Kedua",
-                        "date": "2026-01-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=B_GskXzr91E",
-                        "thumbnail": "https://i3.ytimg.com/vi/B_GskXzr91E/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
