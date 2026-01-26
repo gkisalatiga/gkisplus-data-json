@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5122,
-        "last-update": 1769412219,
+        "update-count": 5123,
+        "last-update": 1769413592,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5284,6 +5284,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Adhi Kristanto",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan Pengurus Bapel ",
+                "time": "16:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-03-07",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
             },
