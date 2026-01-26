@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5126,
-        "last-update": 1769420112,
+        "update-count": 5127,
+        "last-update": 1769427672,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5489,6 +5489,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Ibadah minggu",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
                 "status": "w",
                 "note": ""
             }
