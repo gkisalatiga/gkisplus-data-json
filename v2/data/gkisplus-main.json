@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5128,
-        "last-update": 1769452902,
-        "last-updated-item": "ykb",
+        "update-count": 5129,
+        "last-update": 1769458301,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 27 Jan 2026 | Hukum Tabur Tuai",
+                        "date": "2026-01-26",
+                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
+                        "link": "https://www.youtube.com/watch?v=qKY4hQ5X5sk",
+                        "thumbnail": "https://i2.ytimg.com/vi/qKY4hQ5X5sk/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 29 Jan 2026 | Firman Tuhan Memberi Terang dan Pengertian",
                         "date": "2026-01-26",
                         "desc": "Dibawakan oleh Ibu Margriet Ermiyati Rambakila",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry C. Rungkat",
                         "link": "https://www.youtube.com/watch?v=zW1yc0Vxwsg",
                         "thumbnail": "https://i3.ytimg.com/vi/zW1yc0Vxwsg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Jan 2026 | Hukum Tabur Tuai",
-                        "date": "2026-01-24",
-                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
-                        "link": "https://www.youtube.com/watch?v=qKY4hQ5X5sk",
-                        "thumbnail": "https://i2.ytimg.com/vi/qKY4hQ5X5sk/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 24 Jan 2026 | Berbeda Untuk Menjadi Berkat",
