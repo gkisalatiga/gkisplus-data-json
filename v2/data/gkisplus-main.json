@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5125,
-        "last-update": 1769416676,
-        "last-updated-item": "yt",
+        "update-count": 5126,
+        "last-update": 1769420112,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5462,6 +5462,34 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik English Service KHI",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-01-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih English Service KHI",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-01-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
