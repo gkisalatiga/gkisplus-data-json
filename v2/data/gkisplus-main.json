@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5118,
-        "last-update": 1769390757,
+        "update-count": 5119,
+        "last-update": 1769398196,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5228,6 +5228,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pengajaran dan Pekabaran Injil",
                 "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-01-30",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen, Pnt. Paskah, Pnt. Seno",
                 "status": "y",
                 "note": ""
             },
