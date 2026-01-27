@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5129,
-        "last-update": 1769458301,
+        "update-count": 5130,
+        "last-update": 1769484502,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Jan 2026 | Peduli Tiada Henti",
+                        "date": "2026-01-27",
+                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
+                        "link": "https://www.youtube.com/watch?v=FUiB-cs27s0",
+                        "thumbnail": "https://i3.ytimg.com/vi/FUiB-cs27s0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Jan 2026 | Hukum Tabur Tuai",
                         "date": "2026-01-26",
