@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5135,
-        "last-update": 1769576498,
+        "update-count": 5136,
+        "last-update": 1769586365,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -3740,16 +3740,6 @@
                     "note": "Setiap bulan pada Minggu 1, atau Minggu 2 jika ada Perjamuan Kudus di Minggu 1"
                 },
                 {
-                    "name": "Latihan PS Wilayah 4",
-                    "time": "11:00",
-                    "time-to": "12:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Wil.4",
-                    "note": ""
-                },
-                {
                     "name": "Kebaktian Umum III",
                     "time": "16:30",
                     "time-to": "18:00",
@@ -3758,16 +3748,6 @@
                     "place": "Gedung Gereja",
                     "representative": "Majelis Jemaat",
                     "note": ""
-                },
-                {
-                    "name": "Latihan PS. KUL untuk temu raya klasis",
-                    "time": "18:30",
-                    "time-to": "20:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Gereja",
-                    "representative": "Komisi Usia Lanjut",
-                    "note": "Sampai Oktober 2025"
                 }
             ],
             "mon": [
@@ -3789,16 +3769,6 @@
                     "type": "rutin",
                     "place": "Lapangan SD Kristen 3/Ruang Kana",
                     "representative": "Komisi Dewasa",
-                    "note": ""
-                },
-                {
-                    "name": "Latihan PS SD Kristen 3",
-                    "time": "16:00",
-                    "time-to": "17:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Gereja",
-                    "representative": "SD K 03",
                     "note": ""
                 },
                 {
@@ -3894,16 +3864,6 @@
                     "place": "Ruang Kana",
                     "representative": "Majelis Jemaat",
                     "note": ""
-                },
-                {
-                    "name": "Pelatihan PNK",
-                    "time": "17:00",
-                    "time-to": "18:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Komisi Musik dan Liturgi",
-                    "note": "Rutin sampai dengan Mei 2025"
                 }
             ],
             "thu": [
@@ -5052,6 +5012,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah minggu",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-01-28",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Pemusik English Service KHI",
                 "time": "18:00",
                 "time-to": "21:30",
@@ -5539,20 +5513,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik ibadah minggu",
-                "time": "18:30",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-01-28",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
                 "note": ""
             }
         ],
