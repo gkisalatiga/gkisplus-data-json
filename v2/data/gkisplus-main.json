@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5138,
-        "last-update": 1769625767,
-        "last-updated-item": "ykb",
+        "update-count": 5139,
+        "last-update": 1769697029,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Jan 2026 | Persekutuan yang Benar-benar Persekutuan",
+                        "date": "2026-01-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=RmR4uYfBs4I",
+                        "thumbnail": "https://i3.ytimg.com/vi/RmR4uYfBs4I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Jan 2026 | Firman Tuhan Memberi Terang dan Pengertian",
                         "date": "2026-01-28",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Gabrilia Dewi",
                         "link": "https://www.youtube.com/watch?v=2TBQpygMcZY",
                         "thumbnail": "https://i3.ytimg.com/vi/2TBQpygMcZY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Jan 2026",
-                        "date": "2026-01-16",
-                        "desc": "Dibawakan oleh Sdri. Ester Juliawati",
-                        "link": "https://www.youtube.com/watch?v=-g_ROQmjzdI",
-                        "thumbnail": "https://i2.ytimg.com/vi/-g_ROQmjzdI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
