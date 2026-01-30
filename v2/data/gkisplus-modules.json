@@ -339,7 +339,7 @@
             {
                 "id": 1,
                 "title": "Masa Raya Natal 2025",
-                "active": 0,
+                "active": 1,
                 "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025.webp",
                 "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_banner.webp",
                 "inspirations-shown": [],
