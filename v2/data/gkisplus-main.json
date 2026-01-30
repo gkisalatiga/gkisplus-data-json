@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5145,
-        "last-update": 1769770959,
-        "last-updated-item": "agenda",
+        "update-count": 5146,
+        "last-update": 1769783137,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 31 Jan 2026 | Tumbuh dan Dewasa",
+                        "date": "2026-01-30",
+                        "desc": "Dibawakan oleh Ibu Chandra Novita",
+                        "link": "https://www.youtube.com/watch?v=2_75_aSOH2Y",
+                        "thumbnail": "https://i3.ytimg.com/vi/2_75_aSOH2Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Jan 2026 | Persekutuan yang Benar-benar Persekutuan",
                         "date": "2026-01-29",
