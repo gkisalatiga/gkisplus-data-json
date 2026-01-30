@@ -302,7 +302,7 @@
             {
                 "id": 0,
                 "title": "Bulan Keluarga 2025",
-                "active": 0,
+                "active": 1,
                 "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025.webp",
                 "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_banner.webp",
                 "inspirations-shown": [],
