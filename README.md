@@ -9,8 +9,9 @@ In each JSON node, the following key is used for comment: `"_comment"`. Do not p
 ## v2.3 Update Note
 
 **gkisplus-main**
-- `data/backend/is_feature_seasonal_shown` is deprecated. Use `data/backend/is_feature_seasonal_v2_3_shown` instead to control the visibility of the entire seasonal menu.
-- `data/backend/is_feature_bible_shown` is deprecated. Use `data/backend/is_feature_bible_new_shown` instead to control the visibility of the Bible menu.
+- `data/backend/flags/is_feature_seasonal_shown` is deprecated. Use `data/backend/is_feature_seasonal_v2_3_shown` instead to control the visibility of the entire seasonal menu.
+- `data/backend/flags/is_feature_bible_shown` is deprecated. Use `data/backend/is_feature_bible_new_shown` instead to control the visibility of the Bible menu.
+- Use `data/backend/flags/is_feature_inspirations_shown` ("0" or "1") to control the visibility of the "Inspirations"/spinwheel menu.
 
 **gkisplus-modules**
 
