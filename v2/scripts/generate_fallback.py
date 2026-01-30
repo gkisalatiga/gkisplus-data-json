@@ -81,6 +81,7 @@ class FallbackGenerator():
             j['data']['backend']['flags']['is_easter_egg_devmode_enabled'] = 0
             j['data']['backend']['flags']['is_feature_agenda_shown'] = 0
             j['data']['backend']['flags']['is_feature_bible_shown'] = 0
+            j['data']['backend']['flags']['is_feature_bible_new_shown'] = 0
             j['data']['backend']['flags']['is_feature_esliturgy_shown'] = 0
             j['data']['backend']['flags']['is_feature_formulir_shown'] = 0
             j['data']['backend']['flags']['is_feature_galeri_shown'] = 0
@@ -89,6 +90,7 @@ class FallbackGenerator():
             j['data']['backend']['flags']['is_feature_library_shown'] = 0
             j['data']['backend']['flags']['is_feature_persembahan_shown'] = 0
             j['data']['backend']['flags']['is_feature_seasonal_shown'] = 0
+            j['data']['backend']['flags']['is_feature_seasonal_v2_3_shown'] = 0
             j['data']['backend']['flags']['is_feature_ykb_shown'] = 0
         
         elif path.__contains__('modules'):
