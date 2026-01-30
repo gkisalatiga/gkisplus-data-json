@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5142,
-        "last-update": 1769745475,
-        "last-updated-item": "yt",
+        "update-count": 5143,
+        "last-update": 1769753276,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
     },
@@ -5522,6 +5522,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Ibadah KR 1 Feb 2026",
+                "time": "17:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-01-30",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Remaja",
+                "pic": "Iyom",
+                "status": "w",
                 "note": ""
             }
         ],
