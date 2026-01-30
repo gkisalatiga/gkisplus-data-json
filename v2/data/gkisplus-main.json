@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5143,
-        "last-update": 1769753276,
+        "update-count": 5144,
+        "last-update": 1769759898,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5537,6 +5537,20 @@
                 "pic": "Iyom",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-01-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriyuniwati",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
