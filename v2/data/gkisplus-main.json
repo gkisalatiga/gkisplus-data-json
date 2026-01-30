@@ -4,7 +4,7 @@
         "last-update": 1769783137,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
-        "schema-version": "2.2"
+        "schema-version": "2.3"
     },
     "data": {
         "url-profile": {
@@ -5588,6 +5588,7 @@
                 "is_feature_library_shown": 1,
                 "is_feature_persembahan_shown": 1,
                 "is_feature_seasonal_shown": 1,
+                "is_feature_seasonal_v2_3_shown": 1,
                 "is_feature_ykb_shown": 1,
                 "is_ios_submission_ongoing": 0
             },
