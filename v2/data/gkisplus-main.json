@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5144,
-        "last-update": 1769759898,
+        "update-count": 5145,
+        "last-update": 1769770959,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.2"
@@ -5551,6 +5551,20 @@
                 "pic": "Pnt. Sriyuniwati",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan ibadah minggu",
+                "time": "13:00",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2026-01-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
