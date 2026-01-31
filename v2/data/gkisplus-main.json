@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5149,
-        "last-update": 1769838116,
+        "update-count": 5150,
+        "last-update": 1769844261,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -3773,6 +3773,16 @@
                     "place": "Gedung Gereja",
                     "representative": "Majelis Jemaat",
                     "note": ""
+                },
+                {
+                    "name": "Latihan PSDC. Pesparawi Kota Salatiga",
+                    "time": "18:30",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Gedung Gereja",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
                 }
             ],
             "mon": [
