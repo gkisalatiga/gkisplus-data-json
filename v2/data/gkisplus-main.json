@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5151,
-        "last-update": 1769851954,
-        "last-updated-item": "ykb",
+        "update-count": 5152,
+        "last-update": 1769857895,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Feb 2026 | Kesehatan Reproduksi Wanita dari Iman Kristiani",
+                        "date": "2026-01-31",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=J7bfqryR6OM",
+                        "thumbnail": "https://i3.ytimg.com/vi/J7bfqryR6OM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 31 Jan 2026 | Tumbuh dan Dewasa",
                         "date": "2026-01-30",
@@ -89,20 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=csW-JEr7sdE",
                         "thumbnail": "https://i4.ytimg.com/vi/csW-JEr7sdE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Jan 2026 | Living in Harmony (Special HUT ke 83 GKI Salatiga)",
-                        "date": "2026-01-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=mMuztpUHiaY",
-                        "thumbnail": "https://i2.ytimg.com/vi/mMuztpUHiaY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |19 Jan 2026 | Menyelaraskan dengan Kehendak Allah",
-                        "date": "2026-01-18",
-                        "desc": "Dibawakan oleh Sdri. Gabrilia Dewi",
-                        "link": "https://www.youtube.com/watch?v=2TBQpygMcZY",
-                        "thumbnail": "https://i3.ytimg.com/vi/2TBQpygMcZY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
