@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5147,
-        "last-update": 1769799048,
+        "update-count": 5148,
+        "last-update": 1769834937,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2086,6 +2086,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 1 Februari 2026",
+                    "date": "2026-01-31",
+                    "link": "https://drive.google.com/file/d/1ejtk8gYKa9CRZjfPBLvR3GSFhX1ELN8z/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-1-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1ejtk8gYKa9CRZjfPBLvR3GSFhX1ELN8z",
+                    "id": "1ejtk8gYKa9CRZjfPBLvR3GSFhX1ELN8z",
+                    "size": "1.77 MB"
+                },
+                {
                     "title": "Warta Jemaat 25 Januari 2026",
                     "date": "2026-01-24",
                     "link": "https://drive.google.com/file/d/1WLUhhqhFrXTT-Yn8g7ATmYsXXLwVvuLY/view",
@@ -2780,6 +2789,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 1 Februari 2026",
+                    "date": "2026-01-31",
+                    "link": "https://drive.google.com/file/d/1M8eQCdA4qApLjcI8ir3MjlHpkLvKdR4L/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-1-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1M8eQCdA4qApLjcI8ir3MjlHpkLvKdR4L",
+                    "id": "1M8eQCdA4qApLjcI8ir3MjlHpkLvKdR4L",
+                    "size": "0.68 MB"
+                },
                 {
                     "title": "Tata Ibadah 25 Januari 2026 (HUT GKI Salatiga Ke-83)",
                     "date": "2026-01-24",
@@ -4759,15 +4777,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "title": "KTB Komisi Remaja",
-                "type": "poster",
-                "date-created": "2026-01-29",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "title": "Persekutuan SoDa",
