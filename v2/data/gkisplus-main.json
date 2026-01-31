@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5152,
-        "last-update": 1769857895,
-        "last-updated-item": "yt",
+        "update-count": 5153,
+        "last-update": 1769858157,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5444,6 +5444,48 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-02-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Tim Apostles"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-02-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Tim Apostles"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-02-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Tim Apostles"
             }
         ],
         "backend": {
