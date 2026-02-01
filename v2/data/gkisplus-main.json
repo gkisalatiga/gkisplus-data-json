@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 5156,
-        "last-update": 1769927071,
-        "last-updated-item": "backend",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 5157,
+        "last-update": 1769966119,
+        "last-updated-item": "yt",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
     "data": {
@@ -334,7 +334,7 @@
                         "date": "2026-01-24",
                         "desc": "GKI Salatiga | English Service | Sunday, February 1st, 2026 | 10 a.m. Jakarta Time\n\nNot just another brick in the wall\n1 Peter 2:4-12\n\nLed by\nMr. Patrick Frey\n\nKoordinator:  Pnt. Nadia Sitaresmi\nPL: Pnt. Gita Hastuti\nReader: Amanda\nPrayer: Lauren & David\nOffertory: Debora Mayang\nKolektan: Irma & Dita\nUsher: Irma\nPPT & Poster: James\nMultiMedia: Pak Bamz\nRefreshments: Dita\nSinger: Aline & Maria\nMusician:\n- Keyboard: Naldi\n- Drum: Joan\n- Bass: Adriel\n- Gitar: Valentino\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
                         "link": "https://www.youtube.com/watch?v=jbEVmQRUEA4",
-                        "thumbnail": "https://i.ytimg.com/vi/jbEVmQRUEA4/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/jbEVmQRUEA4/hqdefault.jpg"
                     },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, December 7th, 2025 | 10 a.m. Jakarta Time",
