@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5162,
-        "last-update": 1770011090,
+        "update-count": 5163,
+        "last-update": 1770015406,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5151,6 +5151,20 @@
                 "note": "Tim Apostles"
             },
             {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-07",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paul",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5191,6 +5205,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pra Pembelajaran kls 1 baru",
+                "time": "12:45",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-02-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -5540,20 +5568,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapan Atestasi Masuk",
-                "time": "18:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-02-07",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Paul",
-                "status": "w",
                 "note": ""
             }
         ],
