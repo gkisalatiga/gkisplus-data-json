@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 66,
-        "last-update": 1768839411,
+        "update-count": 67,
+        "last-update": 1770022178,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -27102,11 +27102,46 @@
                 {
                     "folder_id": "1hUb-EkrWZ1Q6chZH8HUHEkvvkOxXqzCr",
                     "last_update": "2026-01-19",
-                    "featured_photo_id": "1NRGJg8H_VRcaAWl-RDA-JZYA-ljc16Jl",
+                    "featured_photo_id": "1wO1qnk6JGdUH-RVLDh2xFITlEDD3nSpD",
                     "story": "Foto-foto dokumentasi Ibadah Minggu, 18 Januari yang dilaksanakan pada 18 Januari 2026.",
                     "title": "Ibadah Minggu, 18 Januari",
                     "event_date": "2026.01.18",
                     "photos": [
+                        {
+                            "id": "1tAfaa3-k-yTM-zr8WVDtJ3zu6supRC8z",
+                            "name": "GKI Salatiga 180126-7-11.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1CJe_yTSQ3HDWyG30RSXktML3O7YWB-5o",
+                            "name": "GKI Salatiga 180126-7-21.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1npyYDBnDhZccb51LoT9Z-yneA96LiKCU",
+                            "name": "GKI Salatiga 180126-7-1.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1lpPh3sfmvptbIZ6aIkO7EgOt5lGnwHlI",
+                            "name": "GKI Salatiga 180126-7-18.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1aFdZAN0WwQJX139oQWLjKMfat08K6isR",
+                            "name": "GKI Salatiga 180126-7-17.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1pG6Ra5wax3sSIQ5q0RtlWamS5dKaygQB",
+                            "name": "GKI Salatiga 180126-7-31.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1C7lV1q_x7hth1_3N1rHE-vrMOoXFB6GE",
+                            "name": "GKI Salatiga 180126-7-3.JPG",
+                            "date": "2026-02-02"
+                        },
                         {
                             "id": "19gR0reRRK11lp-pP1IF6eseIWCVM287j",
                             "name": "GKIS 180126-7(4).jpg",
@@ -27121,6 +27156,771 @@
                             "id": "1NrTRC4ui9szbiTY_udEABpKmS_jAfsE4",
                             "name": "GKIS 180126-7(6).jpg",
                             "date": "2026-01-19"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "16vuvFnJCtIjNcS4wRccRld8g-7AZAd7v",
+                    "last_update": "2026-02-02",
+                    "featured_photo_id": "1eb0MttKwPhiIgPmMiEeo8BJJbpf2sxX9",
+                    "story": "Foto-foto dokumentasi Natal Komisi Pemuda [MRN 2025] yang dilaksanakan pada 24 Januari 2026.",
+                    "title": "Natal Komisi Pemuda [MRN 2025]",
+                    "event_date": "2026.01.24",
+                    "photos": [
+                        {
+                            "id": "1IDZA8B1F9dyDUDWk98zWQyu1lfQDeBCv",
+                            "name": "IMG_2442[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "17SulclqGj9bbDqlSQMR9EpG49BbjYjKc",
+                            "name": "IMG_2245[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1fUS0_BRtEJTZ7amb3PGlhrQ-xNp2VhVJ",
+                            "name": "IMG_2419[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "13l30Srb1PvrSA8ScviAWIGuSV4iDQjQp",
+                            "name": "IMG_2297[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1HEpUdPzelIQP5dLYHtzUKQ8QonJkfk97",
+                            "name": "IMG_2357[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1HyJPb3kD0bwimjP4ux6f8KXdLSyQvYa_",
+                            "name": "IMG_2397[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1TI37z0cluGYvCYpZgqS-zdFplS1UNrTI",
+                            "name": "IMG_2282[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1OCNHy9fOdTtWY91e9OoC00ZD3fEZLZ0D",
+                            "name": "IMG_2342[1].JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1JLL_U3NKXRQ0cnOBF7dsOqCMK2VzX0YD",
+                            "name": "NATAL SODA 24.01.26 (149).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "14LOI6TXe-EflxI0ets2V6kM9mZXs0K0-",
+                            "name": "NATAL SODA 24.01.26 (139).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1LGAJnn8nOcPoWUESgs-Mf9uuOkkwiZvT",
+                            "name": "NATAL SODA 24.01.26 (124).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1PU1KN2XTuNpG673wYg56uyFUlnubgyTA",
+                            "name": "NATAL SODA 24.01.26 (14).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1XYyKWV8SOxAPH6bk3XylO0CWhsEa4mf9",
+                            "name": "NATAL SODA 24.01.26 (169).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1pxIXPMEyh_JCQssOXdUmA5rQ9j-pPFr_",
+                            "name": "NATAL SODA 24.01.26 (58).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1KLtdmuctXINdduE9Ck5f2FrATx9f8iuH",
+                            "name": "NATAL SODA 24.01.26 (69).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1mPHswcwymHfoMaQtLxBtf42sqMD7il3_",
+                            "name": "NATAL SODA 24.01.26 (213).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Sl8DwKtX6M0O-NPRGeJUCNN-3oFStFmo",
+                            "name": "NATAL SODA 24.01.26 (183).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1YRl5fGAv15i00XFqYlCM5QArY_Jce_fw",
+                            "name": "NATAL SODA 24.01.26 (190).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1MEvh2i64xIZI65fpMnIsGwjbZhcxn2Me",
+                            "name": "NATAL SODA 24.01.26 (249).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "192mU6azgC9V69T39ZM7ZKRs4kF0e8vuk",
+                            "name": "NATAL SODA 24.01.26 (260).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1sUhQniT7piWVo1xPVdoTumZObg9r0LDz",
+                            "name": "NATAL SODA 24.01.26 (235).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Mg-DRrKvsFnmEZUV1OvSNOl7xmMgQ1sw",
+                            "name": "NATAL SODA 24.01.26 (194).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1i_MlfJq98_dVgIWKI9EDcpXDK6UwYGac",
+                            "name": "NATAL SODA 24.01.26 (211).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1M1DbphKuMe7aMYRi1WLcS6eV_gtliqiy",
+                            "name": "NATAL SODA 24.01.26 (320).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1ouuTn6izJYUttxyWQwt2XN73r8iJ2jMt",
+                            "name": "NATAL SODA 24.01.26 (314).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1kMeiJL2dVRNoxW-iWoIy3v6SWYWMMyyB",
+                            "name": "NATAL SoDa 24.01.26 (75).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Welxrdx2DxximYHXJSrXYFF4vrlpja-D",
+                            "name": "NATAL SoDa 24.01.26 (41).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1xSljDtHxv1v5DfaeeZMZtY2voixUeSTV",
+                            "name": "NATAL SoDa 24.01.26 (34).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1KR53HRZCzjkKlEy041S3UkepjwLV7YAC",
+                            "name": "NATAL SoDa 24.01.26 (39).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1VURsjM-y3u2T6T5qre2AmaWwMgEEvM0f",
+                            "name": "NATAL SoDa 24.01.26 (72).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "12VcsoWV_kUpJa-ie8bgaU6h-Na4I6wcf",
+                            "name": "NATAL SoDa 24.01.26 (79).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1lo6QbSFcWMAjuItr-MroLWQ-OSTqwuRZ",
+                            "name": "NATAL SoDa 24.01.26 (142).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1hRxXPsd5M7E2kWZdRUrfH5YqQllsXPVO",
+                            "name": "NATAL SoDa 24.01.26 (88).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1-cPhtyMX65DkfvF8WTkiINkA2nPjdtDk",
+                            "name": "NATAL SoDa 24.01.26 (99).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1y1Nx2YMzc_FOlXwbSg0Cs7mObiGy1jD2",
+                            "name": "NATAL SoDa 24.01.26 (144).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1tNda_TEd5EqqS60wftBGeV6ruU0Ow9wu",
+                            "name": "NATAL SoDa 24.01.26 (103).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1hTfWmmigyCZmZ3DzcoICj7otOf1ejcOO",
+                            "name": "NATAL SoDa 24.01.26 (158).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1BBUnMECm9L-9ngvgdbw5GNPJMa72CBy8",
+                            "name": "NATAL SoDa 24.01.26 (156).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1cy7Cn0Y8uWEfPmhekZGTx7rC1ZvQRxq0",
+                            "name": "NATAL SoDa 24.01.26 (133).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Rmaz4GwrTVku2P8AQGJch0Slk0TuFVbb",
+                            "name": "NATAL SoDa 24.01.26 (136).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1cIJMDEBr0Iklg_aNIFnNn2XBZS6CKhui",
+                            "name": "NATAL SoDa 24.01.26 (134).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "16hf9C1bLdbYJmAvQ8IMzqwfTswyu25CJ",
+                            "name": "NATAL SoDa 24.01.26 (218).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1U0_GGBezKW52h-1F5SQpJU0-8Qh3QpHG",
+                            "name": "NATAL SoDa 24.01.26 (193).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1L9IQRzku-Uq96t1S8FY5iiA1n6Mjfw2q",
+                            "name": "NATAL SoDa 24.01.26 (168).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1DR4Fw4MOxBC1OEQQoHK4hz8Ze2jzgn4-",
+                            "name": "NATAL SoDa 24.01.26 (219).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1nlv2T9SrVwEfI8MbLP09MRczg1GPkgOM",
+                            "name": "NATAL SoDa 24.01.26 (231).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1MiWu1sJN_SW2vRWfdmg7Lan0XkgJBN0o",
+                            "name": "NATAL SoDa 24.01.26 (172).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1fOFoQSiRf8U7dUI1XnnGMzDQVCcPv-W2",
+                            "name": "NATAL SoDa 24.01.26 (175).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1xnQ-r8btumcH4Wzv32HjoYZwxDxSt4Sv",
+                            "name": "NATAL SoDa 24.01.26 (265).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "10a07sJrSCxkCREEDbG0yPt9mNY6DsjtQ",
+                            "name": "NATAL SoDa 24.01.26 (300).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1y1IEiJzO5w-DFEqwipYz7bKhC6TGIeqz",
+                            "name": "NATAL SoDa 24.01.26 (255).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1ISRMqsxDGkug0akRl5wEgium4ftB9vTr",
+                            "name": "DSCF5226-Enhanced-NR.jpg",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1bt-vAsvMBgZpZjidKzAR39wiF8qjeZub",
+                            "name": "DSCF5287-Enhanced-NR.jpg",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Qt-RFKx4MU_4nNYPBsZWtgr2ruDICDJ6",
+                            "name": "DSCF5161.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1pBQZ6gOdvW7Fnm70t5B-mxiLRiJO3Yfu",
+                            "name": "DSCF5156.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1_NdFT9CxjLhGatoOdVN2Jmv_OwqzJ0Bh",
+                            "name": "DSCF5185.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1grYkxU3zyIYyLrj3M6poZNeEv8gFUrYW",
+                            "name": "DSCF5181.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1ye4X5es4_OxXlWYj187r3bAatgT_NLd2",
+                            "name": "DSCF5191.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "11SQsKTUlNqB-0DBsWmVA3NEV9PK6pKsp",
+                            "name": "DSCF5021.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1grtQMmuMjaGCR0lvSwu8TwttrFqcvtq7",
+                            "name": "DSCF5051.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1j27FUWPPEOV5lb8frmh0rP3OGci_PFFp",
+                            "name": "DSCF5055.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1I67qyQkiDiC1r2r0xAufFgqsobBV5bm7",
+                            "name": "DSCF5025.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1JOgi47NnpZJrr5Vq0noVc2IuytSvGX8a",
+                            "name": "DSCF5024.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1nTd6rbMR9buZkTiUNf501HKyzEhEO96n",
+                            "name": "DSCF5054.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1t6jDKVm8m5VNdd6JfRXoqSmmWa1qH3Gd",
+                            "name": "DSCF5082.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1-lG4_QJcZ8EGHG3Jws-weoxbb7w3VCOV",
+                            "name": "DSCF5092.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1rE4xCryUT_ANBNcwd4F3w1m3xRFH-NYR",
+                            "name": "DSCF5106.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1ADeyqYm9giJ4OQZ0aNR33ynOCbw9qig0",
+                            "name": "DSCF5125.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "10n3OuCHXsDWXYxhuBn6qygzOY0ugbWKp",
+                            "name": "DSCF5113.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1yx-_RoKY0vBvkgbt8zqtdX61ivhxjeII",
+                            "name": "DSCF5103.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1FUaEkVVdUpeaUamh6SDZnf39nUcF-a8b",
+                            "name": "DSCF5123.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1RdU465l6A9Om1nNb7gXuapjCW0nxi4yD",
+                            "name": "DSCF5089.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1NsnTqLsK8koGRP4gxP7GVQyGaeon8Gw6",
+                            "name": "DSCF5195.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Ia5kyHf7xunI2cWAhndQzcV2Kyqb1Wdy",
+                            "name": "DSCF5218.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1FyETLQRbSmQ2Q9PpAtJ5T2XmbUOn9f9H",
+                            "name": "DSCF5228.JPG",
+                            "date": "2026-02-02"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1TKN5M-s-3ws4jCtFpeNlW0Z_fGbIQstj",
+                    "last_update": "2026-02-02",
+                    "featured_photo_id": "1-DL4ibMBaV4zW2QHfkzRZtllSwlqj-B4",
+                    "story": "Foto-foto dokumentasi Ibadah Syukur HUT Ke-83 GKIS, 25 Januari yang dilaksanakan pada 25 Januari 2026.",
+                    "title": "Ibadah Syukur HUT Ke-83 GKIS, 25 Januari",
+                    "event_date": "2026.01.25",
+                    "photos": [
+                        {
+                            "id": "1d9sUanjAyzi-coxEyXakdg0Mgd6jKp03",
+                            "name": "GKI Salatiga 250126-7-158.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1vajT9i68wR7VL1D0N8RQmszCpxXTOoSW",
+                            "name": "GKI Salatiga 250126-7-108.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1KWTZrrcuCMh4cs-PS6e08Jf94gR3S7l4",
+                            "name": "GKI Salatiga 250126-7-48.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "14ccAPrJh7ITOra2c8RCRh-PGYbpx9_H3",
+                            "name": "GKI Salatiga 250126-7-79.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1YFY83AkakAnmrXBPkW0DWEIuGIed4ja2",
+                            "name": "GKI Salatiga 250126-7-50.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1FZG7c6n_eCqKg4KztiOhtq_RV-tuDgzr",
+                            "name": "GKI Salatiga 250126-7-103.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1pt1aaGrjmYTg-BBpVhV6kX1e0UaJ0ePd",
+                            "name": "GKI Salatiga 250126-7-119.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1rDB5cs0PxaBBgnu9RWTwngTh6QPdB_b4",
+                            "name": "GKI Salatiga 250126-7-112.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "12CzEMd3gju7CVeGuPLvI4jYCqQqp_XHP",
+                            "name": "GKI Salatiga 250126-7-66.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1INfk6GmuFYX977dwms6k2Kow5AKGHQJ6",
+                            "name": "GKI Salatiga 250126-7-127.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1XxG8q0coHfwhNsbvfRb7J-wyzlWz5rlM",
+                            "name": "GKI Salatiga 250126-7-38.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1O9gMw14O5CBRc_nkBYm-WvRz1EjW4Cy0",
+                            "name": "GKI Salatiga 250126-7-170.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1QWz5irYWrUf4WB0VFPj2JC5b9GWJilas",
+                            "name": "GKI Salatiga 250126-7-122.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1B-in5t1tIbh6Db2K0g-GxXQN-v1y4sNJ",
+                            "name": "GKI Salatiga 250126-7-143.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1lqZkfm8U50udgTNW-cXrnODx8HWHl8hj",
+                            "name": "GKI Salatiga 250126-7-134.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1RmWbMLZybjbwC8PZARB99GCy0RHTUlQZ",
+                            "name": "GKI Salatiga 250126-7-165.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1y65urngGkay1lJzY8HN9g82utwgroJL1",
+                            "name": "GKI Salatiga 250126-7-132.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1axjhaUItAr8WV04THhl1-KPeDZBnKPpF",
+                            "name": "GKI Salatiga 250126-7-155.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1eZAM_TX4euySBLFLdJLR5JnYVXxD7Xpz",
+                            "name": "GKI Salatiga 250126-7-164.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1D3IZP68Tmfyw7GO7Dkzm6HaMd7R1KuS4",
+                            "name": "GKI Salatiga 250126-7-151.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "113Clzqe5m6iudDctRlZo7bI_Hr3zItAE",
+                            "name": "GKI Salatiga 250126-7-176.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1w_I16Qp4eCUUeSzGw-dj_FgePc8FW4A2",
+                            "name": "GKI Salatiga 250126-7-223.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "11kcqQ4QkvWYi92XZYrqFIGbev28ZruPC",
+                            "name": "GKI Salatiga 250126-7-219.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1asxC8x6zFsq43UoCdCcJjq8B-xYq89Ux",
+                            "name": "GKI Salatiga 250126-7-187.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "140UdRSq0_ftYtKQmTw1bZrsAnuVMaiSP",
+                            "name": "GKI Salatiga 250126-7-184.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1N6XKCEei1p5a3ZDbr-fJkt6bveDpPGJe",
+                            "name": "GKI Salatiga 250126-7-232.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1-Ci8Oix1Mv5U-I5rf7AeqR5AE1_q1J0N",
+                            "name": "GKI Salatiga 250126-7-248.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1v6abeRBt8_nGKm9_kdprGPSdgOJN1gjb",
+                            "name": "GKI Salatiga 250126-7-225.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1-sUvwh2o-Oatlv8i_uq9nDrtK5YikWlA",
+                            "name": "GKI Salatiga 250126-7-201.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1xjTPloCHLfUWrFR8H7VzhuLcDIVuvoy-",
+                            "name": "GKI Salatiga 250126-7-208.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Bv9ykDh88LAsF2KyIRWcKm0aXESmsuVv",
+                            "name": "GKI Salatiga 250126-7-239.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1p-KahVJDtCNe8s1uNBJ2raW8dQNkA9RM",
+                            "name": "IMG_0684.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1hNaPIP6vDwwxjGCNhWmXojnLuQGAqDtc",
+                            "name": "IMG_0679.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1wpFLHBctTl3as6NJg98GDrpJB9JJd_0j",
+                            "name": "IMG_0702.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1BFnFwkDqMljBvmCb1_FGl3C1eh7InvwT",
+                            "name": "IMG_0682.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1BtUaHB5vltHN7plpi22VokWfcceqFI3Z",
+                            "name": "IMG_0696.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1cToHsraaGwYJNSE-1l1CVU_Yni-U1itw",
+                            "name": "IMG_0692.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1sA5YipbmLZwq5AAolyZz_0YTbb8BbTE6",
+                            "name": "DSCF5563.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1r6vbcXH3r8XQeDTDDv8j8SQeSOFiZMi7",
+                            "name": "DSCF5523.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1nqcRI61Fxp16npBqdP6Z9R7_CSF8RILP",
+                            "name": "GKIS 25.01.26 (12).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1eqamk-XF0Y1YzoMTyqru-aB3qG1XnAVf",
+                            "name": "DSCF5526.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1zQvNYtGC-NPyEB2A3FeRuAhNOYQXASs8",
+                            "name": "DSCF5542.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1ZJ1VzU37caHRdUVmRlpRUFktzED74uEH",
+                            "name": "GKIS 25.01.26 (3).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1EQoOk9f-wce9WfjLIkRMLfJnAnv1Qg95",
+                            "name": "DSCF5566.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1QpqEmGAkqD885V-dDxiupoRUCivkEecb",
+                            "name": "GKIS 25.01.26 (22).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1w4xuzVwqowkBda0TKI4i0a2YolJmTuQC",
+                            "name": "GKIS 25.01.26 (27).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1-CW_pbugPVSx1-Qw6Em87pFBPheVHmO0",
+                            "name": "DSCF5537.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Ru5I04RdiBcjDtmsg68UF6s3cEuTNsFJ",
+                            "name": "DSCF5556.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1uzyrPWUZbuMvecC5LVTdWpky7YR0Z_4c",
+                            "name": "DSCF5551.JPG",
+                            "date": "2026-02-02"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1IVlV3UAi_Fn3J24euiztirBG88fQ4GIQ",
+                    "last_update": "2026-02-02",
+                    "featured_photo_id": "1JfuUAl_zD1Hp_7ct2su1GmGp4V5r-6AP",
+                    "story": "Foto-foto dokumentasi English Service February 1st yang dilaksanakan pada 1 Februari 2026.",
+                    "title": "English Service February 1st",
+                    "event_date": "2026.02.01",
+                    "photos": [
+                        {
+                            "id": "1zysHFvbEYLlieseDzHP7W5fcz4Rhy-Oa",
+                            "name": "GKI Salatiga 010226-7-32.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1iI6kwcmqNkbctQKSMyVqRKQr0EDmpGL1",
+                            "name": "GKI Salatiga 010226-7-40.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1QbKU45JU6xWmv7WvaKoch9NcaZtb3i6P",
+                            "name": "GKIS 010226 (51).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1lkoBXmuFInaTzXErZ8V78kOw7yIRelpa",
+                            "name": "GKIS 010226 (36).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1iBe31ul8YFB-9X8Ear_fBuRsx-iRiTMc",
+                            "name": "GKIS 010226 (38).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1XNIQnQUKMMOpwVeh9jRNBHSgL44OH8ha",
+                            "name": "GKIS 010226 (49).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1sHEj1NzZ9TohDtm5aDs4WRopBnYTkb5q",
+                            "name": "GKIS 010226 (46).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "15Mgh7SbG8F7Xn9MiT1Dx1fGT-vBTm91u",
+                            "name": "GKIS 010226 (50).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1XdqxXC09izhEpUgh-nBB9ZWFQBomFmpE",
+                            "name": "GKIS 010226 (54).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1dKtNd6Fe2z36cN9kdoUJ1593rxcQ_flO",
+                            "name": "GKIS 010226 (41).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1YOjAqDQ1BT3aDGW__aSnBqiKt1GbjaT0",
+                            "name": "GKIS 010226 (52).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1sofV0vYUtG0GujCImUUNowJIT9mMcxOP",
+                            "name": "GKIS 010226 (56).JPG",
+                            "date": "2026-02-02"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "15Fy5My-88BXA5wuhvdYWMZHnGy7b8Ath",
+                    "last_update": "2026-02-02",
+                    "featured_photo_id": "15tjL8el3cFHnct1ATbxXv6VU4IAP-C48",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 1 Februari yang dilaksanakan pada 1 Februari 2026.",
+                    "title": "Ibadah Minggu, 1 Februari",
+                    "event_date": "2026.02.01",
+                    "photos": [
+                        {
+                            "id": "1ecJsUuWxRkpAgnCJ1Al18YOE9EDud75A",
+                            "name": "GKI Salatiga 010226-7-8.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1oIzH3x3e5uq5MAJjC_CP7FHCTDmfP4TV",
+                            "name": "GKI Salatiga 010226-7-3.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1Qy95xCinYLhywCUPhm1Hc7ypUaS_VNAr",
+                            "name": "GKI Salatiga 010226-7-1.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1VR0k5lLzuPvYfRT7nPAQqTPIJQgaBTfQ",
+                            "name": "GKI Salatiga 010226-7-25.JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1sjA2lj-_FfeEvuwG34yEryoX-xwrv3xa",
+                            "name": "GKIS 010226 (28).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1LR67kgGGBLlMBYR4BH487uIavZzRmSGc",
+                            "name": "GKIS 010226 (99).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1hezefIq5UAH0z7qJaTgzUcWNt_gRL6Tw",
+                            "name": "GKIS 010226 (76).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1lvrkcYk4oQsordHqBrsnksTo-7KxKVms",
+                            "name": "GKIS 010226 (14).JPG",
+                            "date": "2026-02-02"
+                        },
+                        {
+                            "id": "1sArnIVggd55EeYJM0-P2VeNdpzwOb07i",
+                            "name": "GKIS 010226 (69).JPG",
+                            "date": "2026-02-02"
                         }
                     ]
                 }
