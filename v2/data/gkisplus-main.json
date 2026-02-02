@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5159,
-        "last-update": 1769976692,
-        "last-updated-item": "yt",
+        "update-count": 5160,
+        "last-update": 1769996909,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5576,6 +5576,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": "Tim Apostles"
+            },
+            {
+                "name": "Rapat Panitia Paskah 2026",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-02-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Set.",
+                "status": "w",
+                "note": "Tolong disediakan teh tawar."
             }
         ],
         "backend": {
