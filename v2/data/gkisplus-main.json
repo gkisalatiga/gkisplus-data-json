@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5165,
-        "last-update": 1770031655,
-        "last-updated-item": "yt",
+        "update-count": 5166,
+        "last-update": 1770031934,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5568,6 +5568,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan perjamuan Kudus Wil 9 ",
+                "time": "17:00",
+                "time-to": "01:30",
+                "timezone": "WIB",
+                "date": "2026-03-31",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
                 "note": ""
             }
         ],
