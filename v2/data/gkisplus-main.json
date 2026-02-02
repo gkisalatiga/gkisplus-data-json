@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5164,
-        "last-update": 1770020955,
+        "update-count": 5165,
+        "last-update": 1770031655,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Feb 2026 | Tetap Dekat Allah Saja",
+                        "date": "2026-02-02",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
+                        "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Feb 2026 | Allah Sumber Kemurahan",
                         "date": "2026-02-02",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Catur Winarno",
                         "link": "https://www.youtube.com/watch?v=aCJsr6M43ww",
                         "thumbnail": "https://i2.ytimg.com/vi/aCJsr6M43ww/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Jan 2026 | Lupa dan Melupakan",
-                        "date": "2026-01-21",
-                        "desc": "Dibawakan oleh Ibu July Silooy",
-                        "link": "https://www.youtube.com/watch?v=CQ4UW2bwdBc",
-                        "thumbnail": "https://i4.ytimg.com/vi/CQ4UW2bwdBc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
