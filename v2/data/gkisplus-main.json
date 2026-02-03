@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5169,
-        "last-update": 1770085961,
-        "last-updated-item": "ykb",
+        "update-count": 5170,
+        "last-update": 1770091861,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5403,6 +5403,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan perjamuan Kudus Wil 9 ",
+                "time": "17:00",
+                "time-to": "01:30",
+                "timezone": "WIB",
+                "date": "2026-03-31",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5441,6 +5455,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
                 "status": "y",
                 "note": ""
             },
@@ -5571,30 +5599,16 @@
                 "note": ""
             },
             {
-                "name": "Persiapan perjamuan Kudus Wil 9 ",
-                "time": "17:00",
-                "time-to": "01:30",
+                "name": "Evaluasi Pelatihan KML",
+                "time": "11:00",
+                "time-to": "12:30",
                 "timezone": "WIB",
-                "date": "2026-03-31",
-                "weekday": "tue",
+                "date": "2026-02-08",
+                "weekday": "sun",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-04-21",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
