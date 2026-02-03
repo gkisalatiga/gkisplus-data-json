@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 19,
-        "last-update": 1769790585,
+        "update-count": 20,
+        "last-update": 1770090877,
         "last-updated-item": "inspirations",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
@@ -441,6 +441,201 @@
                         "i": 3,
                         "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
                         "s": "Mengucapkan maaf saat berbuat salah"
+                    },
+                    {
+                        "i": 4,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menunggu giliran dengan sabar"
+                    },
+                    {
+                        "i": 5,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Berbagi mainan dengan teman"
+                    },
+                    {
+                        "i": 6,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menolong teman yang kesulitan"
+                    },
+                    {
+                        "i": 7,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyimpan sepatu di tempatnya"
+                    },
+                    {
+                        "i": 8,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Membuang sampah pada tempatnya"
+                    },
+                    {
+                        "i": 9,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengikuti aturan permainan"
+                    },
+                    {
+                        "i": 10,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mendengarkan saat orang lain berbicara"
+                    },
+                    {
+                        "i": 11,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyelesaikan tugas sederhana"
+                    },
+                    {
+                        "i": 12,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak berteriak saat marah"
+                    },
+                    {
+                        "i": 13,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengembalikan barang pinjaman"
+                    },
+                    {
+                        "i": 14,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghormati guru dan orang tua"
+                    },
+                    {
+                        "i": 15,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyapa dengan sopan"
+                    },
+                    {
+                        "i": 16,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengucapkan tolong saat meminta bantuan"
+                    },
+                    {
+                        "i": 17,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak mengejek teman"
+                    },
+                    {
+                        "i": 18,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga kebersihan meja belajar"
+                    },
+                    {
+                        "i": 19,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Membantu pekerjaan rumah ringan"
+                    },
+                    {
+                        "i": 20,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghabiskan makanan tanpa menyisakan berlebihan"
+                    },
+                    {
+                        "i": 21,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyiram tanaman"
+                    },
+                    {
+                        "i": 22,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Memberi makan hewan peliharaan"
+                    },
+                    {
+                        "i": 23,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menepati janji kecil"
+                    },
+                    {
+                        "i": 24,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengantre dengan tertib"
+                    },
+                    {
+                        "i": 25,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga buku dan alat tulis"
+                    },
+                    {
+                        "i": 26,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak memukul atau mendorong"
+                    },
+                    {
+                        "i": 27,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengucapkan doa sebelum dan sesudah aktivitas"
+                    },
+                    {
+                        "i": 28,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghargai karya teman"
+                    },
+                    {
+                        "i": 29,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak mengambil barang tanpa izin"
+                    },
+                    {
+                        "i": 30,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menolong adik atau teman yang lebih kecil"
+                    },
+                    {
+                        "i": 31,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyelesaikan permainan dengan jujur"
+                    },
+                    {
+                        "i": 32,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengakui kesalahan"
+                    },
+                    {
+                        "i": 33,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga suara di tempat umum"
+                    },
+                    {
+                        "i": 34,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mematikan lampu setelah selesai"
+                    },
+                    {
+                        "i": 35,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengucapkan terima kasih kepada orang yang membantu"
+                    },
+                    {
+                        "i": 36,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mendengarkan instruksi dengan baik"
+                    },
+                    {
+                        "i": 37,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengembalikan buku ke rak"
+                    },
+                    {
+                        "i": 38,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga kebersihan kamar"
+                    },
+                    {
+                        "i": 39,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghormati waktu belajar"
+                    },
+                    {
+                        "i": 40,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga perasaan teman"
+                    },
+                    {
+                        "i": 41,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengingatkan diri bahwa berbuat baik itu pilihan"
+                    },
+                    {
+                        "i": 42,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Merapikan tempat tidur sebangun tidur"
                     }
                 ]
             },
@@ -473,6 +668,196 @@
                         "i": 3,
                         "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
                         "s": "Mengucapkan terima kasih dengan tulus"
+                    },
+                    {
+                        "i": 4,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menahan diri dari komentar negatif"
+                    },
+                    {
+                        "i": 5,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mendengarkan orang lain sampai selesai"
+                    },
+                    {
+                        "i": 6,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Membantu tanpa diminta"
+                    },
+                    {
+                        "i": 7,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menepati janji kecil"
+                    },
+                    {
+                        "i": 8,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Datang tepat waktu"
+                    },
+                    {
+                        "i": 9,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengakui kesalahan sendiri"
+                    },
+                    {
+                        "i": 10,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga rahasia yang dipercayakan"
+                    },
+                    {
+                        "i": 11,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak mengambil hak orang lain"
+                    },
+                    {
+                        "i": 12,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Memberi jalan atau giliran lebih dulu"
+                    },
+                    {
+                        "i": 13,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Membersihkan area yang kita pakai"
+                    },
+                    {
+                        "i": 14,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mendoakan kebaikan orang lain"
+                    },
+                    {
+                        "i": 15,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Memberi pujian yang jujur"
+                    },
+                    {
+                        "i": 16,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menolak keuntungan yang tidak halal/tidak adil"
+                    },
+                    {
+                        "i": 17,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengurangi penggunaan ponsel saat berbicara"
+                    },
+                    {
+                        "i": 18,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyapa orang dengan ramah"
+                    },
+                    {
+                        "i": 19,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak menyela pembicaraan"
+                    },
+                    {
+                        "i": 20,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyimpan sampah sampai menemukan tempat sampah"
+                    },
+                    {
+                        "i": 21,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghemat listrik atau air"
+                    },
+                    {
+                        "i": 22,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyelesaikan pekerjaan meski tidak diawasi"
+                    },
+                    {
+                        "i": 23,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Bersikap adil dalam keputusan kecil"
+                    },
+                    {
+                        "i": 24,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Membantu rekan kerja yang kesulitan"
+                    },
+                    {
+                        "i": 25,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghindari gosip"
+                    },
+                    {
+                        "i": 26,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga nada bicara tetap sopan"
+                    },
+                    {
+                        "i": 27,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengucapkan maaf tanpa pembelaan diri"
+                    },
+                    {
+                        "i": 28,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyisihkan sedikit rezeki untuk berbagi"
+                    },
+                    {
+                        "i": 29,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Memberi contoh baik, bukan hanya nasihat"
+                    },
+                    {
+                        "i": 30,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghargai waktu orang lain"
+                    },
+                    {
+                        "i": 31,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak memotong antrean"
+                    },
+                    {
+                        "i": 32,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menepati komitmen pribadi"
+                    },
+                    {
+                        "i": 33,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjaga fasilitas umum"
+                    },
+                    {
+                        "i": 34,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menyelesaikan apa yang sudah dimulai"
+                    },
+                    {
+                        "i": 35,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Tidak memanfaatkan kelemahan orang lain"
+                    },
+                    {
+                        "i": 36,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghormati perbedaan pendapat"
+                    },
+                    {
+                        "i": 37,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menghindari pamer berlebihan"
+                    },
+                    {
+                        "i": 38,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Membalas pesan penting dengan tepat"
+                    },
+                    {
+                        "i": 39,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menjalankan amanah meski kecil"
+                    },
+                    {
+                        "i": 40,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Mengoreksi diri sebelum mengoreksi orang lain"
+                    },
+                    {
+                        "i": 41,
+                        "p": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "s": "Menutup hari dengan refleksi niat"
                     }
                 ]
             }
