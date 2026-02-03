@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5170,
-        "last-update": 1770091861,
+        "update-count": 5171,
+        "last-update": 1770096777,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -3768,6 +3768,26 @@
                     "note": ""
                 },
                 {
+                    "name": "Latihan PSP. Pesparawi Kota Salatiga",
+                    "time": "17:00",
+                    "time-to": "18:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kapernaum",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
+                },
+                {
+                    "name": "Latihan PSW. Pesparawi Kota Salatiga",
+                    "time": "17:00",
+                    "time-to": "18:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Betlehem",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
+                },
+                {
                     "name": "Latihan PSDC. Pesparawi Kota Salatiga",
                     "time": "18:30",
                     "time-to": "20:00",
@@ -3892,6 +3912,46 @@
                     "place": "Ruang Kana",
                     "representative": "Majelis Jemaat",
                     "note": ""
+                },
+                {
+                    "name": "Latihan PSA, Pesparawi Kota Salatiga",
+                    "time": "17:00",
+                    "time-to": "18:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Gedung Gereja",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
+                },
+                {
+                    "name": "Latihan PSP, Pesparawi Kota Salatiga",
+                    "time": "18:00",
+                    "time-to": "19:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Studio",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
+                },
+                {
+                    "name": "Latihan PSW, Pesparawi Kota Salatiga",
+                    "time": "18:00",
+                    "time-to": "19:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Galilea",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
+                },
+                {
+                    "name": "Latihan PSDC, Pesparawi Kota Salatiga",
+                    "time": "19:00",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Gedung Gereja",
+                    "representative": "LPPD",
+                    "note": "Rutin sampai dengan 14 Juni 2026"
                 }
             ],
             "thu": [
