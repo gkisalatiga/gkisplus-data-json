@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5171,
-        "last-update": 1770096777,
+        "update-count": 5172,
+        "last-update": 1770104346,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5197,6 +5197,20 @@
                 "note": "Tolong disediakan teh tawar."
             },
             {
+                "name": "Rapat MJ Bidang 3 dan Bidang 1",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-02-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Pemusik Ibadah Umum",
                 "time": "18:00",
                 "time-to": "21:30",
@@ -5221,6 +5235,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paul",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Evaluasi Pelatihan KML",
+                "time": "11:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-02-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "y",
                 "note": ""
             },
@@ -5656,20 +5684,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Evaluasi Pelatihan KML",
-                "time": "11:00",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2026-02-08",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
                 "note": ""
             }
         ],
