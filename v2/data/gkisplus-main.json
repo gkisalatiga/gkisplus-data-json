@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5173,
-        "last-update": 1770124868,
+        "update-count": 5174,
+        "last-update": 1770127257,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5675,6 +5675,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Besar Panitia Ibadah Padang KR",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
                 "note": ""
             }
         ],
