@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5175,
-        "last-update": 1770145257,
-        "last-updated-item": "ykb",
+        "update-count": 5176,
+        "last-update": 1770150115,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,25 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 4 Feb 2026 | Tetap Dekat Allah Saja",
+                        "date": "2026-02-03",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
+                        "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
+                        "date": "2026-02-03",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
+                        "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 3 Feb 2026 | Allah Sumber Kemurahan",
                         "date": "2026-02-02",
                         "desc": "Dibawakan oleh Bpk. Lukas Sukan",
                         "link": "https://www.youtube.com/watch?v=WJgcwJjfUOc",
                         "thumbnail": "https://i4.ytimg.com/vi/WJgcwJjfUOc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Feb 2026 | Tetap Dekat Allah Saja",
-                        "date": "2026-02-02",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
-                        "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 2 Feb 2026 | Kesehatan Reproduksi Wanita dari Iman Kristiani",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
                         "link": "https://www.youtube.com/watch?v=OETX8BJ3YU4",
                         "thumbnail": "https://i4.ytimg.com/vi/OETX8BJ3YU4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Jan 2026 | Bertumbuh Bersama Dalam Pelayanan",
-                        "date": "2026-01-22",
-                        "desc": "Dibawakan oleh Pnt. Catur Winarno",
-                        "link": "https://www.youtube.com/watch?v=aCJsr6M43ww",
-                        "thumbnail": "https://i2.ytimg.com/vi/aCJsr6M43ww/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
