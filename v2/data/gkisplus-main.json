@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5177,
-        "last-update": 1770189938,
+        "update-count": 5178,
+        "last-update": 1770195962,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5202,6 +5202,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
                 "name": "Latihan Pemusik Ibadah Umum",
                 "time": "18:00",
                 "time-to": "21:30",
@@ -5284,6 +5298,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Besar Panitia Ibadah Padang KR",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pra Pembelajaran kls 1 baru",
@@ -5678,32 +5706,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat Besar Panitia Ibadah Padang KR",
-                "time": "17:00",
-                "time-to": "18:30",
+                "name": "Rapat Sie Acara MRP 26 ",
+                "time": "17:30",
+                "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2026-02-11",
+                "date": "2026-02-04",
                 "weekday": "wed",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
+                "representative": "Panitia",
+                "pic": "Iryatun Trikorini ",
                 "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-02-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+                "note": "Terima kasih "
             }
         ],
         "backend": {
