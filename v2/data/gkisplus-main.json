@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5179,
-        "last-update": 1770231398,
-        "last-updated-item": "ykb",
+        "update-count": 5180,
+        "last-update": 1770236343,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
+                        "date": "2026-02-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
+                        "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 4 Feb 2026 | Tetap Dekat Allah Saja",
                         "date": "2026-02-03",
                         "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
                         "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
                         "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
-                        "date": "2026-02-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
-                        "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Feb 2026 | Allah Sumber Kemurahan",
