@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5181,
-        "last-update": 1770255832,
+        "update-count": 5182,
+        "last-update": 1770269740,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5760,6 +5760,20 @@
                 "pic": "Bu Wardjini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan PS Magnificat ",
+                "time": "17:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-07",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
