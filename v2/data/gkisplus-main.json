@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5182,
-        "last-update": 1770269740,
-        "last-updated-item": "agenda",
+        "update-count": 5183,
+        "last-update": 1770290815,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Feb 2026 | Kesetiaan dan Ketaatan Yang Sejati",
+                        "date": "2026-02-05",
+                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=mDhmLkJFVg4",
+                        "thumbnail": "https://i2.ytimg.com/vi/mDhmLkJFVg4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
                         "date": "2026-02-04",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry C. Rungkat",
                         "link": "https://www.youtube.com/watch?v=zW1yc0Vxwsg",
                         "thumbnail": "https://i3.ytimg.com/vi/zW1yc0Vxwsg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Jan 2026 | Berbeda Untuk Menjadi Berkat",
-                        "date": "2026-01-23",
-                        "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
-                        "link": "https://www.youtube.com/watch?v=OETX8BJ3YU4",
-                        "thumbnail": "https://i4.ytimg.com/vi/OETX8BJ3YU4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
