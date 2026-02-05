@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5180,
-        "last-update": 1770236343,
-        "last-updated-item": "yt",
+        "update-count": 5181,
+        "last-update": 1770255832,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5718,6 +5718,48 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "w",
                 "note": "Terima kasih "
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
