@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5186,
-        "last-update": 1770363771,
+        "update-count": 5187,
+        "last-update": 1770366939,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5151,6 +5151,20 @@
                 "note": "Tim Apostles"
             },
             {
+                "name": "Rapat Sie Acara MRP 26 ",
+                "time": "17:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "Latihan Pemusik Ibadah Umum",
                 "time": "18:00",
                 "time-to": "21:30",
@@ -5231,6 +5245,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paul",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS Magnificat ",
+                "time": "17:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-07",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "y",
                 "note": ""
             },
@@ -5319,6 +5347,20 @@
                 "note": ""
             },
             {
+                "name": "Dekorasi Rabu Abu ",
+                "time": "09:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-02-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem, Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Trevie ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5329,6 +5371,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "pemasangan Dekorasi sumur yakub",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-02-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Trevie ",
                 "status": "y",
                 "note": ""
             },
@@ -5417,6 +5487,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Pelatihan Pengurus Bapel ",
                 "time": "16:30",
                 "time-to": "19:30",
@@ -5457,6 +5541,20 @@
                 "pic": "Elibert",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -5694,104 +5792,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Sie Acara MRP 26 ",
-                "time": "17:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-04",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-03-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-03-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-02-17",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan PS Magnificat ",
-                "time": "17:30",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-02-07",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "pemasangan Dekorasi sumur yakub",
-                "time": "13:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-02-20",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Trevie ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Dekorasi Rabu Abu ",
-                "time": "09:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-02-16",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem, Ruang Kana (Lantai 2)",
-                "representative": "Panitia",
-                "pic": "Trevie ",
-                "status": "w",
                 "note": ""
             }
         ],
