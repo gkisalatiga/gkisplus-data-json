@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5185,
-        "last-update": 1770317721,
-        "last-updated-item": "ykb",
+        "update-count": 5186,
+        "last-update": 1770363771,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5763,6 +5763,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "pemasangan Dekorasi sumur yakub",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-02-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Trevie ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Dekorasi Rabu Abu ",
+                "time": "09:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-02-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem, Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Trevie ",
                 "status": "w",
                 "note": ""
             }
