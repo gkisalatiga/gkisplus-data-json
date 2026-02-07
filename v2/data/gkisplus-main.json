@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5193,
-        "last-update": 1770442414,
+        "update-count": 5194,
+        "last-update": 1770452216,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -103,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
                         "link": "https://www.youtube.com/watch?v=FUiB-cs27s0",
                         "thumbnail": "https://i3.ytimg.com/vi/FUiB-cs27s0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Jan 2026 | Hukum Tabur Tuai",
-                        "date": "2026-01-26",
-                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
-                        "link": "https://www.youtube.com/watch?v=qKY4hQ5X5sk",
-                        "thumbnail": "https://i2.ytimg.com/vi/qKY4hQ5X5sk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
