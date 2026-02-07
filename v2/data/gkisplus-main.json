@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5191,
-        "last-update": 1770425226,
+        "update-count": 5192,
+        "last-update": 1770427626,
         "last-updated-item": "backend",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
@@ -2086,6 +2086,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 8 Februari 2026",
+                    "date": "2026-02-07",
+                    "link": "https://drive.google.com/file/d/1SZ6ZoDpsYqO9cVaoiKS7W4WrrDlEu2UZ/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-8-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1SZ6ZoDpsYqO9cVaoiKS7W4WrrDlEu2UZ",
+                    "id": "1SZ6ZoDpsYqO9cVaoiKS7W4WrrDlEu2UZ",
+                    "size": "2.25 MB"
+                },
+                {
                     "title": "Warta Jemaat 1 Februari 2026",
                     "date": "2026-01-31",
                     "link": "https://drive.google.com/file/d/1ejtk8gYKa9CRZjfPBLvR3GSFhX1ELN8z/view",
@@ -2789,6 +2798,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 8 Februari 2026",
+                    "date": "2026-02-07",
+                    "link": "https://drive.google.com/file/d/1ufloPWtBJECxmaaYjFObzP1C8P-nd7Mt/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-8-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1ufloPWtBJECxmaaYjFObzP1C8P-nd7Mt",
+                    "id": "1ufloPWtBJECxmaaYjFObzP1C8P-nd7Mt",
+                    "size": "0.74 MB"
+                },
                 {
                     "title": "Tata Ibadah 1 Februari 2026",
                     "date": "2026-01-31",
