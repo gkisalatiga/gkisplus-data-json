@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 67,
-        "last-update": 1770022178,
+        "update-count": 68,
+        "last-update": 1770565147,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -27921,6 +27921,51 @@
                             "id": "1sArnIVggd55EeYJM0-P2VeNdpzwOb07i",
                             "name": "GKIS 010226 (69).JPG",
                             "date": "2026-02-02"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1F_CpzZmCOxx8sdNPsFqO_jurUWrs7v8i",
+                    "last_update": "2026-02-08",
+                    "featured_photo_id": "1NyvSEKWeCPaYYoLdUsv_BuaobR0v_r4I",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 8 Februari yang dilaksanakan pada 8 Februari 2026.",
+                    "title": "Ibadah Minggu, 8 Februari",
+                    "event_date": "2026.02.08",
+                    "photos": [
+                        {
+                            "id": "11lSyaP5zgqTiUWTnjRoZduD1wQRpO8UT",
+                            "name": "GKI Salatiga 080226-7-4.JPG",
+                            "date": "2026-02-08"
+                        },
+                        {
+                            "id": "1qiNimcugXKAHSR-hJSKSUaa6vG6-U5v0",
+                            "name": "GKIS -020826 (10).JPG",
+                            "date": "2026-02-08"
+                        },
+                        {
+                            "id": "1EI7n131ZXkHz822iKCTgOEoMvZexXPL2",
+                            "name": "GKIS -020826 (1).JPG",
+                            "date": "2026-02-08"
+                        },
+                        {
+                            "id": "1tdWQQuq3dS0usjv5kRH-AHD7rTaD-rra",
+                            "name": "GKI Salatiga 080226-7-28.JPG",
+                            "date": "2026-02-08"
+                        },
+                        {
+                            "id": "1OYl9Z0S4YikyZl8NAdMOO9Vrh7fpRrFZ",
+                            "name": "GKIS -020826 (9).JPG",
+                            "date": "2026-02-08"
+                        },
+                        {
+                            "id": "1EJfd50w3yxT3W-fD8eSJ_6cBOQAznnNc",
+                            "name": "GKI Salatiga 080226-7-22.JPG",
+                            "date": "2026-02-08"
+                        },
+                        {
+                            "id": "10m_tNnWMyEvBQN96405PYNQxkMbo6lfb",
+                            "name": "GKI Salatiga 080226-7-12.JPG",
+                            "date": "2026-02-08"
                         }
                     ]
                 }
