@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5204,
-        "last-update": 1770626203,
-        "last-updated-item": "yt",
+        "update-count": 5205,
+        "last-update": 1770633181,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5885,6 +5885,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KD persiapan valentine",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia ",
                 "status": "y",
                 "note": ""
             }
