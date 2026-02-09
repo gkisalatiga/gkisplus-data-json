@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5202,
-        "last-update": 1770610429,
-        "last-updated-item": "yt",
+        "update-count": 5203,
+        "last-update": 1770611008,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5244,6 +5244,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Informatika",
+                "time": "16:45",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-02-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5284,6 +5298,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:45",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat Besar Panitia Ibadah Padang KR",
@@ -5650,6 +5678,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5759,34 +5801,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-04-28",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "18:45",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
                 "note": ""
             }
         ],
