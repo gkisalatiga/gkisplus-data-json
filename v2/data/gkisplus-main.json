@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5206,
-        "last-update": 1770664891,
-        "last-updated-item": "ykb",
+        "update-count": 5207,
+        "last-update": 1770668852,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 10 Feb 2026 | Healing",
+                        "date": "2026-02-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=-4BXqdckfic",
+                        "thumbnail": "https://i2.ytimg.com/vi/-4BXqdckfic/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 9 Feb 2026 | Hidup yang Bersyukur",
                         "date": "2026-02-08",
                         "desc": "Dibawakan oleh Ibu Sintarini Utomo",
                         "link": "https://www.youtube.com/watch?v=kB32-yUjgFI",
                         "thumbnail": "https://i4.ytimg.com/vi/kB32-yUjgFI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Feb 2026 | Healing",
-                        "date": "2026-02-07",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=-4BXqdckfic",
-                        "thumbnail": "https://i2.ytimg.com/vi/-4BXqdckfic/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 7 Feb 2026 | Menemukan Perhentian di Dalam Tuhan",
