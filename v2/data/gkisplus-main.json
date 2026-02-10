@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5208,
-        "last-update": 1770698439,
-        "last-updated-item": "agenda",
+        "update-count": 5209,
+        "last-update": 1770703451,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,92 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 10 Feb 2026 | Healing",
-                        "date": "2026-02-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=-4BXqdckfic",
-                        "thumbnail": "https://i2.ytimg.com/vi/-4BXqdckfic/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Feb 2026 | Hidup yang Bersyukur",
-                        "date": "2026-02-08",
-                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
-                        "link": "https://www.youtube.com/watch?v=kB32-yUjgFI",
-                        "thumbnail": "https://i4.ytimg.com/vi/kB32-yUjgFI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Feb 2026 | Menemukan Perhentian di Dalam Tuhan",
-                        "date": "2026-02-06",
-                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
-                        "link": "https://www.youtube.com/watch?v=ekhElxw42TQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/ekhElxw42TQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Feb 2026 | Kesetiaan dan Ketaatan Yang Sejati",
-                        "date": "2026-02-05",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=mDhmLkJFVg4",
-                        "thumbnail": "https://i2.ytimg.com/vi/mDhmLkJFVg4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
-                        "date": "2026-02-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
-                        "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Feb 2026 | Tetap Dekat Allah Saja",
-                        "date": "2026-02-03",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
-                        "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Feb 2026 | Allah Sumber Kemurahan",
-                        "date": "2026-02-02",
-                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
-                        "link": "https://www.youtube.com/watch?v=WJgcwJjfUOc",
-                        "thumbnail": "https://i4.ytimg.com/vi/WJgcwJjfUOc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Feb 2026 | Kesehatan Reproduksi Wanita dari Iman Kristiani",
-                        "date": "2026-02-01",
-                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
-                        "link": "https://www.youtube.com/watch?v=J7bfqryR6OM",
-                        "thumbnail": "https://i3.ytimg.com/vi/J7bfqryR6OM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Jan 2026 | Tumbuh dan Dewasa",
-                        "date": "2026-01-30",
-                        "desc": "Dibawakan oleh Ibu Chandra Novita",
-                        "link": "https://www.youtube.com/watch?v=2_75_aSOH2Y",
-                        "thumbnail": "https://i3.ytimg.com/vi/2_75_aSOH2Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Jan 2026 | Persekutuan yang Benar-benar Persekutuan",
-                        "date": "2026-01-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=RmR4uYfBs4I",
-                        "thumbnail": "https://i3.ytimg.com/vi/RmR4uYfBs4I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Jan 2026 | Firman Tuhan Memberi Terang dan Pengertian",
-                        "date": "2026-01-28",
-                        "desc": "Dibawakan oleh Ibu Margriet Ermiyati Rambakila",
-                        "link": "https://www.youtube.com/watch?v=nBoXAU6v2Rc",
-                        "thumbnail": "https://i3.ytimg.com/vi/nBoXAU6v2Rc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Jan 2026 | Peduli Tiada Henti",
-                        "date": "2026-01-27",
-                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=FUiB-cs27s0",
-                        "thumbnail": "https://i3.ytimg.com/vi/FUiB-cs27s0/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
