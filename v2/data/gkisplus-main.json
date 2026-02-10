@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5213,
-        "last-update": 1770713036,
+        "update-count": 5214,
+        "last-update": 1770717385,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5134,8 +5134,8 @@
             },
             {
                 "name": "Latihan Pemusik Rabu Abu",
-                "time": "19:00",
-                "time-to": "21:00",
+                "time": "20:00",
+                "time-to": "22:00",
                 "timezone": "WIB",
                 "date": "2026-02-10",
                 "weekday": "tue",
@@ -5143,7 +5143,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "n",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5171,6 +5171,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat team atap gedung gereja",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-02-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua",
                 "status": "y",
                 "note": ""
             },
