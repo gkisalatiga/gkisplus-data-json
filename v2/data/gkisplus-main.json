@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5209,
-        "last-update": 1770703451,
-        "last-updated-item": "yt",
+        "update-count": 5210,
+        "last-update": 1770709008,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5258,6 +5258,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat KD persiapan valentine",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5311,6 +5325,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Rabu Abu",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
                 "note": ""
             },
             {
@@ -5801,34 +5829,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KD persiapan valentine",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-09",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Rabu Abu",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-02-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
                 "note": ""
             }
         ],
