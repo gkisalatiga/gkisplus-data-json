@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5215,
-        "last-update": 1770734456,
-        "last-updated-item": "agenda",
+        "update-count": 5216,
+        "last-update": 1770745949,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Feb 2026 | Kasih Yang Mengubahkan",
+                        "date": "2026-02-10",
+                        "desc": "Dibawakan oleh Ibu Made Rai Shanti",
+                        "link": "https://www.youtube.com/watch?v=UFjn53OEUI4",
+                        "thumbnail": "https://i2.ytimg.com/vi/UFjn53OEUI4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Feb 2026 | Healing",
                         "date": "2026-02-09",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Margriet Ermiyati Rambakila",
                         "link": "https://www.youtube.com/watch?v=nBoXAU6v2Rc",
                         "thumbnail": "https://i3.ytimg.com/vi/nBoXAU6v2Rc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Jan 2026 | Peduli Tiada Henti",
-                        "date": "2026-01-27",
-                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=FUiB-cs27s0",
-                        "thumbnail": "https://i3.ytimg.com/vi/FUiB-cs27s0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
