@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5224,
-        "last-update": 1770829694,
-        "last-updated-item": "agenda",
+        "update-count": 5225,
+        "last-update": 1770832102,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Feb 2026 | Kasih Allah yang Sempurna",
+                        "date": "2026-02-11",
+                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
+                        "link": "https://www.youtube.com/watch?v=6vLdXcw8mR8",
+                        "thumbnail": "https://i3.ytimg.com/vi/6vLdXcw8mR8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Feb 2026 | Kasih Yang Mengubahkan",
                         "date": "2026-02-10",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=RmR4uYfBs4I",
                         "thumbnail": "https://i3.ytimg.com/vi/RmR4uYfBs4I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Jan 2026 | Firman Tuhan Memberi Terang dan Pengertian",
-                        "date": "2026-01-28",
-                        "desc": "Dibawakan oleh Ibu Margriet Ermiyati Rambakila",
-                        "link": "https://www.youtube.com/watch?v=nBoXAU6v2Rc",
-                        "thumbnail": "https://i3.ytimg.com/vi/nBoXAU6v2Rc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
