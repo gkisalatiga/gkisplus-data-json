@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5221,
-        "last-update": 1770798840,
-        "last-updated-item": "yt",
+        "update-count": 5222,
+        "last-update": 1770799309,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5161,6 +5161,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:45",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Rapat koordinasi ",
+                "time": "12:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "Pra Pembelajaran kls 1 baru",
                 "time": "12:45",
                 "time-to": "14:00",
@@ -5649,48 +5691,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "18:45",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-02-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
-            },
-            {
-                "name": "Rapat koordinasi ",
-                "time": "12:00",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2026-02-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
