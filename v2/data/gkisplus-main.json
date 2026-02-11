@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5222,
-        "last-update": 1770799309,
+        "update-count": 5223,
+        "last-update": 1770819402,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5203,6 +5203,34 @@
                 "note": "Terima kasih "
             },
             {
+                "name": "EXPO SMA/SMK Open House",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Martha Sulistya Wening",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Expo ",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Pra Pembelajaran kls 1 baru",
                 "time": "12:45",
                 "time-to": "14:00",
@@ -5229,6 +5257,34 @@
                 "pic": "Pnt. Yosua",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "EXPO SMA/SMK Open House",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-02-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Martha Sulistya Wening",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Expo",
+                "time": "07:30",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Dekorasi Rabu Abu ",
@@ -5690,6 +5746,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "EXPO SMA/SMK Open House ",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-12-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Martha Sulistya Wening",
+                "status": "w",
                 "note": ""
             }
         ],
