@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5218,
-        "last-update": 1770775021,
+        "update-count": 5219,
+        "last-update": 1770789130,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5677,6 +5677,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "w",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Rapat koordinasi ",
+                "time": "12:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
