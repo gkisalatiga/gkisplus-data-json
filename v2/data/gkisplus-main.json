@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5230,
-        "last-update": 1770885126,
+        "update-count": 5231,
+        "last-update": 1770895887,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Feb 2026",
+                        "date": "2026-02-12",
+                        "desc": "Dibawakan oleh Ibu Endah Mardikaningtyas",
+                        "link": "https://www.youtube.com/watch?v=Kh2U3XLrsKk",
+                        "thumbnail": "https://i4.ytimg.com/vi/Kh2U3XLrsKk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Feb 2026 | Kasih Allah yang Sempurna",
                         "date": "2026-02-11",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Chandra Novita",
                         "link": "https://www.youtube.com/watch?v=2_75_aSOH2Y",
                         "thumbnail": "https://i3.ytimg.com/vi/2_75_aSOH2Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Jan 2026 | Persekutuan yang Benar-benar Persekutuan",
-                        "date": "2026-01-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=RmR4uYfBs4I",
-                        "thumbnail": "https://i3.ytimg.com/vi/RmR4uYfBs4I/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
