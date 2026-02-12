@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5227,
-        "last-update": 1770870044,
+        "update-count": 5228,
+        "last-update": 1770875166,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5222,6 +5222,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Pemusik Rabu Abu",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-02-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pra Pembelajaran kls 1 baru",
                 "time": "12:45",
                 "time-to": "14:00",
@@ -5388,6 +5402,34 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persekutuan Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-02-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "KTB Komisi Remaja",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-02-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -5750,20 +5792,6 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Martha Sulistya Wening",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Rabu Abu",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-02-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
