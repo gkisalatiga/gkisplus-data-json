@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 5240,
-        "last-update": 1771065187,
+        "last-update": 1771065814,
         "last-updated-item": "yt",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
@@ -5840,8 +5840,8 @@
                 "about_changelog_url": "https://github.com/gkisalatiga/gkisalatiga-foss/blob/main/CHANGELOG.md",
                 "about_google_play_listing_url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
                 "about_source_code_url": "https://github.com/gkisalatiga/gkisalatiga-foss",
-                "greetings_top": "Dirgahayu!",
-                "greetings_bottom": "Selamat ulang tahun GKI Salatiga ke-83!",
+                "greetings_top": "Haleluya!",
+                "greetings_bottom": "Selamat memasuki Masa Prapaskah 2026!",
                 "youtube_player_origin": "https://gkisalatiga.org"
             }
         }
