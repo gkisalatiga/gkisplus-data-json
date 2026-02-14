@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 5234,
-        "last-update": 1771009001,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 5235,
+        "last-update": 1771031636,
+        "last-updated-item": "backend",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
     },
     "data": {
@@ -5810,8 +5810,8 @@
                 "is_feature_lapak_shown": 0,
                 "is_feature_library_shown": 1,
                 "is_feature_persembahan_shown": 1,
-                "is_feature_seasonal_shown": 1,
-                "is_feature_seasonal_v2_3_shown": 1,
+                "is_feature_seasonal_shown": 0,
+                "is_feature_seasonal_v2_3_shown": 0,
                 "is_feature_ykb_shown": 1,
                 "is_ios_submission_ongoing": 0
             },
