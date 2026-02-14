@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5241,
-        "last-update": 1771067590,
-        "last-updated-item": "yt",
+        "update-count": 5242,
+        "last-update": 1771067928,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5819,6 +5819,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Martha Sulistya Wening",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Rabu Abu",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-02-15",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "jenny",
                 "status": "w",
                 "note": ""
             }
