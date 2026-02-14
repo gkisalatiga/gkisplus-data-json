@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5238,
-        "last-update": 1771047384,
+        "update-count": 5239,
+        "last-update": 1771063400,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2807,6 +2807,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 15 Februari 2026",
+                    "date": "2026-02-14",
+                    "link": "https://drive.google.com/file/d/1c_pKdy4oyjl7hDOi3teyntlus4ONnvbV/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-15-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1c_pKdy4oyjl7hDOi3teyntlus4ONnvbV",
+                    "id": "1c_pKdy4oyjl7hDOi3teyntlus4ONnvbV",
+                    "size": "0.69 MB"
+                },
                 {
                     "title": "Tata Ibadah 8 Februari 2026",
                     "date": "2026-02-07",
