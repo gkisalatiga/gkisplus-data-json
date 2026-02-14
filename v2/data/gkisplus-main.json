@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5236,
-        "last-update": 1771041518,
+        "update-count": 5237,
+        "last-update": 1771043007,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2000,6 +2000,15 @@
         ],
         "pdf": {
             "wj": [
+                {
+                    "title": "Warta Jemaat 15 Februari 2026",
+                    "date": "2026-02-14",
+                    "link": "https://drive.google.com/file/d/19YdmjKMhi7wTs8TM3vZCs3l_8z8w5fXb/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-15-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=19YdmjKMhi7wTs8TM3vZCs3l_8z8w5fXb",
+                    "id": "19YdmjKMhi7wTs8TM3vZCs3l_8z8w5fXb",
+                    "size": "3.40 MB"
+                },
                 {
                     "title": "Warta Jemaat 8 Februari 2026",
                     "date": "2026-02-07",
@@ -4780,15 +4789,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2026-02-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
                 "title": "Sekolah Minggu 15 Februari",
