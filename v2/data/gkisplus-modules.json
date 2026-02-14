@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 21,
-        "last-update": 1771029932,
-        "last-updated-item": "inspirations",
+        "update-count": 22,
+        "last-update": 1771065187,
+        "last-updated-item": "seasonal",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
     },
@@ -323,7 +323,7 @@
             {
                 "id": 0,
                 "title": "Bulan Keluarga 2025",
-                "active": 1,
+                "active": 0,
                 "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025.webp",
                 "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/bukel_2025_banner.webp",
                 "inspirations-shown": [],
@@ -360,7 +360,7 @@
             {
                 "id": 1,
                 "title": "Masa Raya Natal 2025",
-                "active": 1,
+                "active": 0,
                 "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025.webp",
                 "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_banner.webp",
                 "inspirations-shown": [],
@@ -398,32 +398,32 @@
                 "id": 2,
                 "title": "Masa Raya Paskah 2026",
                 "active": 1,
-                "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025.webp",
-                "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_banner.webp",
+                "banner-front": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026_depan.webp",
+                "banner-inside": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026.webp",
                 "inspirations-shown": ["bccf4869-e667-4356-a4c9-9ff2915668bd", "74cf6eb6-6dc6-4b1e-918b-0c5612f2c9c0"],
                 "static-menu": {
                     "agenda": {
                         "title": "Agenda MRP 2026",
-                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_agenda.webp",
-                        "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_agenda_isi.webp",
+                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026_agenda.webp",
+                        "url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026_agenda_isi.webp",
                         "is_shown": 1
                     },
                     "books": {
                         "title": "Buku Panduan MRP 2026",
-                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_buku.webp",
+                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026_buku.webp",
                         "selection-tag": "mrp-2026",
                         "is_shown": 1
                     },
                     "gallery": {
                         "title": "Galeri Kegiatan dan Ibadah MRP 2026",
-                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_galeri.webp",
+                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026_galeri.webp",
                         "album-keyword": "[MRP 2026]",
                         "is_shown": 1
                     },
                     "playlist": {
                         "title": "Daftar Putar MRP 2026",
-                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrn_2025_playlist.webp",
-                        "yt-playlist": "PLtAv1OZRTdvJukJl-2qwXhMWlofPHtPHY",
+                        "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/mrp_2026_youtube.webp",
+                        "yt-playlist": "PLtAv1OZRTdvLwnDqvBScH99I27jL7tw6v",
                         "is_shown": 1
                     },
                     "twibbon": {

@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 5239,
-        "last-update": 1771063400,
+        "update-count": 5240,
+        "last-update": 1771065187,
         "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
     },
     "data": {
@@ -2077,6 +2077,16 @@
                 "last-update": "-",
                 "playlist-id": "PLtAv1OZRTdvJukJl-2qwXhMWlofPHtPHY",
                 "title": "Masa Raya Natal 2025",
+                "type": "regular",
+                "pinned": 0,
+                "is_shown": 0,
+                "is_shown_ios": 1
+            },
+            {
+                "content": [],
+                "last-update": "-",
+                "playlist-id": "PLtAv1OZRTdvLwnDqvBScH99I27jL7tw6v",
+                "title": "Masa Raya Paskah 2026",
                 "type": "regular",
                 "pinned": 1,
                 "is_shown": 0,
@@ -5820,7 +5830,7 @@
                 "is_feature_library_shown": 1,
                 "is_feature_persembahan_shown": 1,
                 "is_feature_seasonal_shown": 0,
-                "is_feature_seasonal_v2_3_shown": 0,
+                "is_feature_seasonal_v2_3_shown": 1,
                 "is_feature_ykb_shown": 1,
                 "is_ios_submission_ongoing": 0
             },
