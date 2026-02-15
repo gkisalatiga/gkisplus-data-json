@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5249,
-        "last-update": 1771180911,
-        "last-updated-item": "ykb",
+        "update-count": 5250,
+        "last-update": 1771195631,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |16 Feb 2026 | Cinta di Daun Loncang",
+                        "date": "2026-02-15",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=YwsPMv7PgqA",
+                        "thumbnail": "https://i2.ytimg.com/vi/YwsPMv7PgqA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Feb 2026",
                         "date": "2026-02-13",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Bpk. Lukas Sukan",
                         "link": "https://www.youtube.com/watch?v=WJgcwJjfUOc",
                         "thumbnail": "https://i4.ytimg.com/vi/WJgcwJjfUOc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Feb 2026 | Kesehatan Reproduksi Wanita dari Iman Kristiani",
-                        "date": "2026-02-01",
-                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
-                        "link": "https://www.youtube.com/watch?v=J7bfqryR6OM",
-                        "thumbnail": "https://i3.ytimg.com/vi/J7bfqryR6OM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
