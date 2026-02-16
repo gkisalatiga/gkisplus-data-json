@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5255,
-        "last-update": 1771235286,
-        "last-updated-item": "agenda",
+        "update-count": 5256,
+        "last-update": 1771252488,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -96,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
                         "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
                         "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Feb 2026 | Allah Sumber Kemurahan",
-                        "date": "2026-02-02",
-                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
-                        "link": "https://www.youtube.com/watch?v=WJgcwJjfUOc",
-                        "thumbnail": "https://i4.ytimg.com/vi/WJgcwJjfUOc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
