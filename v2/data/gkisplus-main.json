@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5256,
-        "last-update": 1771252488,
-        "last-updated-item": "yt",
+        "update-count": 5257,
+        "last-update": 1771257791,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5671,6 +5671,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "uncle vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "latihan tim.musik",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
                 "status": "w",
                 "note": ""
             }
