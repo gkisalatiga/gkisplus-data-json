@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5257,
-        "last-update": 1771257791,
-        "last-updated-item": "agenda",
+        "update-count": 5258,
+        "last-update": 1771262973,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Feb 2026 | Menjadi COO Allah yang Baik",
+                        "date": "2026-02-16",
+                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=hrqkAjPhCQI",
+                        "thumbnail": "https://i1.ytimg.com/vi/hrqkAjPhCQI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |16 Feb 2026 | Cinta di Daun Loncang",
                         "date": "2026-02-15",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
                         "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Feb 2026 | Tetap Dekat Allah Saja",
-                        "date": "2026-02-03",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=RhWdYzfvxKU",
-                        "thumbnail": "https://i3.ytimg.com/vi/RhWdYzfvxKU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
