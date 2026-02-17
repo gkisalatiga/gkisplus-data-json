@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5260,
-        "last-update": 1771307441,
+        "update-count": 5261,
+        "last-update": 1771317107,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Feb 2026 | Menjadi COO Allah yang Baik",
+                        "date": "2026-02-16",
+                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=hrqkAjPhCQI",
+                        "thumbnail": "https://i1.ytimg.com/vi/hrqkAjPhCQI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |16 Feb 2026 | Cinta di Daun Loncang",
+                        "date": "2026-02-15",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=YwsPMv7PgqA",
+                        "thumbnail": "https://i2.ytimg.com/vi/YwsPMv7PgqA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Feb 2026",
+                        "date": "2026-02-13",
+                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
+                        "link": "https://www.youtube.com/watch?v=ja-wBKNzgl4",
+                        "thumbnail": "https://i3.ytimg.com/vi/ja-wBKNzgl4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Feb 2026",
+                        "date": "2026-02-12",
+                        "desc": "Dibawakan oleh Ibu Endah Mardikaningtyas",
+                        "link": "https://www.youtube.com/watch?v=Kh2U3XLrsKk",
+                        "thumbnail": "https://i4.ytimg.com/vi/Kh2U3XLrsKk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Feb 2026 | Kasih Allah yang Sempurna",
+                        "date": "2026-02-11",
+                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
+                        "link": "https://www.youtube.com/watch?v=6vLdXcw8mR8",
+                        "thumbnail": "https://i3.ytimg.com/vi/6vLdXcw8mR8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 11 Feb 2026 | Kasih Yang Mengubahkan",
+                        "date": "2026-02-10",
+                        "desc": "Dibawakan oleh Ibu Made Rai Shanti",
+                        "link": "https://www.youtube.com/watch?v=UFjn53OEUI4",
+                        "thumbnail": "https://i2.ytimg.com/vi/UFjn53OEUI4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Feb 2026 | Healing",
+                        "date": "2026-02-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=-4BXqdckfic",
+                        "thumbnail": "https://i2.ytimg.com/vi/-4BXqdckfic/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Feb 2026 | Hidup yang Bersyukur",
+                        "date": "2026-02-08",
+                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
+                        "link": "https://www.youtube.com/watch?v=kB32-yUjgFI",
+                        "thumbnail": "https://i4.ytimg.com/vi/kB32-yUjgFI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Feb 2026 | Menemukan Perhentian di Dalam Tuhan",
+                        "date": "2026-02-06",
+                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
+                        "link": "https://www.youtube.com/watch?v=ekhElxw42TQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/ekhElxw42TQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Feb 2026 | Kesetiaan dan Ketaatan Yang Sejati",
+                        "date": "2026-02-05",
+                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=mDhmLkJFVg4",
+                        "thumbnail": "https://i2.ytimg.com/vi/mDhmLkJFVg4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
+                        "date": "2026-02-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
+                        "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
