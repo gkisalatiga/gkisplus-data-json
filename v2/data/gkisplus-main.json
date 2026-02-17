@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5261,
-        "last-update": 1771317107,
+        "update-count": 5262,
+        "last-update": 1771339086,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -89,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
                         "link": "https://www.youtube.com/watch?v=mDhmLkJFVg4",
                         "thumbnail": "https://i2.ytimg.com/vi/mDhmLkJFVg4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Feb 2026 | Tuhan Yang Anda Lihat",
-                        "date": "2026-02-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=smfn-BcthiE",
-                        "thumbnail": "https://i4.ytimg.com/vi/smfn-BcthiE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
