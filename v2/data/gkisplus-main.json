@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5265,
-        "last-update": 1771387761,
-        "last-updated-item": "yt",
+        "update-count": 5266,
+        "last-update": 1771388254,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5664,6 +5664,20 @@
                 "pic": "Uncle Vidra",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
