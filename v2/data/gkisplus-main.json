@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5264,
-        "last-update": 1771354952,
-        "last-updated-item": "ykb",
+        "update-count": 5265,
+        "last-update": 1771387761,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -82,13 +82,6 @@
                         "desc": "Dibawakan oleh Ibu Dewi Retnowati",
                         "link": "https://www.youtube.com/watch?v=ekhElxw42TQ",
                         "thumbnail": "https://i2.ytimg.com/vi/ekhElxw42TQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Feb 2026 | Kesetiaan dan Ketaatan Yang Sejati",
-                        "date": "2026-02-05",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=mDhmLkJFVg4",
-                        "thumbnail": "https://i2.ytimg.com/vi/mDhmLkJFVg4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
