@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5272,
-        "last-update": 1771441266,
-        "last-updated-item": "ykb",
+        "update-count": 5273,
+        "last-update": 1771446266,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,7 +21,14 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 19 Feb 2026 |",
+                        "title": "SaRen Pagi | 20 Feb 2026 | Bumi Adalah Rumah Bersama, Ciptaan Allah",
+                        "date": "2026-02-18",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=x3ygwF12bpI",
+                        "thumbnail": "https://i1.ytimg.com/vi/x3ygwF12bpI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 19 Feb 2026 | Sadar dan Aksi Nyata",
                         "date": "2026-02-18",
                         "desc": "Dibawakan oleh Pnt. Samuel Martono",
                         "link": "https://www.youtube.com/watch?v=X7F-LTwbiyc",
