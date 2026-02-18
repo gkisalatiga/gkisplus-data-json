@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5268,
-        "last-update": 1771403507,
-        "last-updated-item": "yt",
+        "update-count": 5269,
+        "last-update": 1771403927,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5176,6 +5176,48 @@
                 "note": "Gladi Kebaktian Rabu Abu"
             },
             {
+                "name": "latiham tim musik untuk ibadah minggu",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-18",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "uncle vidra",
+                "status": "y",
+                "note": "SELESAI KEBAKTIAN RABU ABU"
+            },
+            {
+                "name": "latihan tim.musik",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
                 "name": "pemasangan Dekorasi sumur yakub",
                 "time": "13:00",
                 "time-to": "16:00",
@@ -5636,48 +5678,6 @@
                 "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
-            },
-            {
-                "name": "latiham tim musik untuk ibadah minggu",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-18",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "uncle vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "latihan tim.musik",
-                "time": "19:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-02-19",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-02-19",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
