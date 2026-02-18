@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5269,
-        "last-update": 1771403927,
+        "update-count": 5270,
+        "last-update": 1771406165,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2797,8 +2797,17 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah 15 Februari 2026",
-                    "date": "2026-02-14",
+                    "title": "Tata Ibadah 18 Februari 2026 - Rabu Abu",
+                    "date": "2026-02-18",
+                    "link": "https://drive.google.com/file/d/12027Gm_SaqGh9QC1j8EUc-Sr_ij_gGrW/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-18-februari-2026-rabu-abu/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=12027Gm_SaqGh9QC1j8EUc-Sr_ij_gGrW",
+                    "id": "12027Gm_SaqGh9QC1j8EUc-Sr_ij_gGrW",
+                    "size": "0.78 MB"
+                },
+                {
+                    "title": "Tata Ibadah 15 Februari 2026 - Minggu Transfigurasi",
+                    "date": "2026-02-18",
                     "link": "https://drive.google.com/file/d/1c_pKdy4oyjl7hDOi3teyntlus4ONnvbV/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-15-februari-2026/",
                     "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1c_pKdy4oyjl7hDOi3teyntlus4ONnvbV",
