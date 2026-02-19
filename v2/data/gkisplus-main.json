@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5275,
-        "last-update": 1771479647,
+        "update-count": 5276,
+        "last-update": 1771487206,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5633,6 +5633,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Martha Sulistya Wening",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH dan Koordinator MRP 2026",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samuel Martono",
                 "status": "w",
                 "note": ""
             }
