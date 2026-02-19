@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5277,
-        "last-update": 1771489786,
-        "last-updated-item": "yt",
+        "update-count": 5278,
+        "last-update": 1771497492,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5718,6 +5718,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Samuel Martono",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan nyanyi",
+                "time": "12:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-02-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Selvi",
                 "status": "w",
                 "note": ""
             }
