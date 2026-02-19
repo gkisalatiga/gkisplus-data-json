@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5278,
-        "last-update": 1771497492,
+        "update-count": 5279,
+        "last-update": 1771510022,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5732,6 +5732,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Selvi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu Bible Study",
+                "time": "16:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-02-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Hastuti",
                 "status": "w",
                 "note": ""
             }
