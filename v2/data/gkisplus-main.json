@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5274,
-        "last-update": 1771474085,
-        "last-updated-item": "yt",
+        "update-count": 5275,
+        "last-update": 1771479647,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5159,6 +5159,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Rapat LPPD Kota Salatiga",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Eriyani Tenga Lunga",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "pemasangan Dekorasi sumur yakub",
