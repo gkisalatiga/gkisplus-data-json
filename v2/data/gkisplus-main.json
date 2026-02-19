@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5280,
-        "last-update": 1771527345,
-        "last-updated-item": "ykb",
+        "update-count": 5281,
+        "last-update": 1771532308,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 20 Feb 2026 | Bumi Adalah Rumah Bersama, Ciptaan Allah",
+                        "date": "2026-02-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=x3ygwF12bpI",
+                        "thumbnail": "https://i1.ytimg.com/vi/x3ygwF12bpI/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 21 Feb 2026 | Merenungkan Mazmur 23 di Tengah Bumi Yang Gersang",
                         "date": "2026-02-19",
                         "desc": "Dibawakan oleh Sdri. Yuliyanti",
                         "link": "https://www.youtube.com/watch?v=XaX_0c7L-mE",
                         "thumbnail": "https://i1.ytimg.com/vi/XaX_0c7L-mE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Feb 2026 | Bumi Adalah Rumah Bersama, Ciptaan Allah",
-                        "date": "2026-02-18",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=x3ygwF12bpI",
-                        "thumbnail": "https://i1.ytimg.com/vi/x3ygwF12bpI/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 19 Feb 2026 | Sadar dan Aksi Nyata",
