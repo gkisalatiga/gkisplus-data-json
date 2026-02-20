@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5283,
-        "last-update": 1771551874,
+        "update-count": 5284,
+        "last-update": 1771570201,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5246,6 +5246,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPH dan Koordinator MRP 2026",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "pemasangan Dekorasi sumur yakub",
                 "time": "13:00",
                 "time-to": "16:00",
@@ -5258,6 +5272,48 @@
                 "pic": "Trevie ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu Bible Study",
+                "time": "16:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-02-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Hastuti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan nyanyi",
+                "time": "12:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-02-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Selvi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Organ YPE",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -5314,6 +5370,20 @@
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-02-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Kristiani Murti Astuti",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Persekutuan Komisi Dewasa",
@@ -5706,62 +5776,6 @@
                 "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
-            },
-            {
-                "name": "Rapat BPH dan Koordinator MRP 2026",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2026-02-19",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan nyanyi",
-                "time": "12:30",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-02-21",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Selvi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Persiapan Pemandu Bible Study",
-                "time": "16:30",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-02-20",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Hastuti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Organ YPE",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-21",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
