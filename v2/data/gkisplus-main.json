@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5282,
-        "last-update": 1771541723,
-        "last-updated-item": "yt",
+        "update-count": 5283,
+        "last-update": 1771551874,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5748,6 +5748,20 @@
                 "pic": "Gita Hastuti",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Organ YPE",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
