@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5289,
-        "last-update": 1771618561,
+        "update-count": 5290,
+        "last-update": 1771644469,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2082,6 +2082,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 22 Februari 2026",
+                    "date": "2026-02-21",
+                    "link": "https://drive.google.com/file/d/1g2-Pz7qcSRZkg08QJrqxz15o_1JKTyya/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-22-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1g2-Pz7qcSRZkg08QJrqxz15o_1JKTyya",
+                    "id": "1g2-Pz7qcSRZkg08QJrqxz15o_1JKTyya",
+                    "size": "2.54 MB"
+                },
+                {
                     "title": "Warta Jemaat 15 Februari 2026",
                     "date": "2026-02-14",
                     "link": "https://drive.google.com/file/d/19YdmjKMhi7wTs8TM3vZCs3l_8z8w5fXb/view",
@@ -2803,6 +2812,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 22 Februari 2026 - Prapaskah I",
+                    "date": "2026-02-21",
+                    "link": "https://drive.google.com/file/d/16bYXKERcWUvoMNEfiONfwxicFkzxKHwD/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-22-februari-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=16bYXKERcWUvoMNEfiONfwxicFkzxKHwD",
+                    "id": "16bYXKERcWUvoMNEfiONfwxicFkzxKHwD",
+                    "size": "0.97 MB"
+                },
                 {
                     "title": "Tata Ibadah 18 Februari 2026 - Rabu Abu",
                     "date": "2026-02-18",
