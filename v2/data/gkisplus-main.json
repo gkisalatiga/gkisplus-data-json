@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5290,
-        "last-update": 1771644469,
-        "last-updated-item": "yt",
+        "update-count": 5291,
+        "last-update": 1771646531,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5153,6 +5153,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Sie Sumur Yakub ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "Latihan nyanyi",
                 "time": "12:30",
                 "time-to": "14:00",
@@ -5249,6 +5263,20 @@
                 "pic": "Kristiani Murti Astuti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Studi banding komisi sekolah GKI Klaten ",
+                "time": "08:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-02-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
             },
             {
                 "name": "Persekutuan Komisi Dewasa",
@@ -5641,34 +5669,6 @@
                 "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
-            },
-            {
-                "name": "Rapat Sie Sumur Yakub ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-02-20",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
-            },
-            {
-                "name": "Studi banding komisi sekolah GKI Klaten ",
-                "time": "08:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-02-25",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
