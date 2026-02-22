@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5295,
-        "last-update": 1771709291,
-        "last-updated-item": "ykb",
+        "update-count": 5296,
+        "last-update": 1771733540,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5714,6 +5714,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Martha Sulistya Wening",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Wilayah 5",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-07-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah 5",
+                "pic": "nan",
                 "status": "w",
                 "note": ""
             }
