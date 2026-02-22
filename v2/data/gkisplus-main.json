@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5296,
-        "last-update": 1771733540,
+        "update-count": 5297,
+        "last-update": 1771738397,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5718,7 +5718,7 @@
                 "note": ""
             },
             {
-                "name": "Wilayah 5",
+                "name": "PA Wilayah 5",
                 "time": "18:00",
                 "time-to": "20:00",
                 "timezone": "WIB",
