@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5304,
-        "last-update": 1771829926,
+        "update-count": 5305,
+        "last-update": 1771833441,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5218,6 +5218,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": "Terima kasih "
+            },
+            {
+                "name": "Rapat Pohon Pengharapan",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Persekutuan Komisi Dewasa",
