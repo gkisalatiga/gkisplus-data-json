@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5301,
-        "last-update": 1771791080,
-        "last-updated-item": "yt",
+        "update-count": 5302,
+        "last-update": 1771820435,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5716,6 +5716,34 @@
                 "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat pengurus YPE",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-02-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "--"
+            },
+            {
+                "name": "Rapat Pengurus YPE",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-02-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "--"
             },
             {
                 "name": "PA Wilayah 5",
