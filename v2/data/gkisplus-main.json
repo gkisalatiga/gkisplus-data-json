@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5314,
-        "last-update": 1771919312,
+        "update-count": 5315,
+        "last-update": 1771922402,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5127,6 +5127,20 @@
         ],
         "agenda-ruangan": [
             {
+                "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2024-04-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Pak Wahyu",
+                "status": "w",
+                "note": "Bawa angklung"
+            },
+            {
                 "name": "Rapat Pleno KD",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -5179,7 +5193,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Abdi Siswanto",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -5533,6 +5547,20 @@
                 "note": ""
             },
             {
+                "name": "Perayaan Paskah SD Kristen 04 Eben Haezer",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Pak Wahyu",
+                "status": "w",
+                "note": "Alat luar : angklung sekolah"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5727,34 +5755,6 @@
                 "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
-            },
-            {
-                "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
-                "time": "07:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2024-04-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Pak Wahyu",
-                "status": "w",
-                "note": "Bawa angklung"
-            },
-            {
-                "name": "Perayaan Paskah SD Kristen 04 Eben Haezer",
-                "time": "07:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2026-04-14",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Pak Wahyu",
-                "status": "w",
-                "note": "Alat luar : angklung sekolah"
             }
         ],
         "backend": {
