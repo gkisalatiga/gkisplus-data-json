@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5312,
-        "last-update": 1771911589,
+        "update-count": 5313,
+        "last-update": 1771916069,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5211,6 +5211,20 @@
                 "note": "--"
             },
             {
+                "name": "Latihan Ibadah 1 maret ~ Jeremiah",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Lainnya",
+                "pic": "Panji",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KUL",
                 "time": "10:00",
                 "time-to": "12:00",
@@ -5281,6 +5295,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Evaluasi Panitia Ibadah Padang KR",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Percakapan atestasi masuk Mr. Jeffrey",
                 "time": "13:00",
                 "time-to": "14:00",
@@ -5338,8 +5366,8 @@
             },
             {
                 "name": "Pelatihan Pengurus Bapel ",
-                "time": "16:30",
-                "time-to": "19:30",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
                 "date": "2026-03-07",
                 "weekday": "sat",
@@ -5391,6 +5419,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Seminar anak",
+                "time": "07:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-03-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Ni Nyoman Dewi Ajeng Prihartina ",
+                "status": "y",
+                "note": "Akan dibagi 2 sesi"
             },
             {
                 "name": "PA wilayah 11",
@@ -5673,32 +5715,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat Evaluasi Panitia Ibadah Padang KR",
-                "time": "17:00",
-                "time-to": "18:30",
+                "name": "Parenting dan cek kesehatan dari dinkes",
+                "time": "07:00",
+                "time-to": "12:00",
                 "timezone": "WIB",
-                "date": "2026-02-27",
+                "date": "2026-03-13",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
+                "place": "Ruang Kana (Lantai 2), Ruang Galilea (Lantai 2)",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Ni Nyoman Dewi Ajeng Prihartina ",
                 "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Ibadah 1 maret ~ Jeremiah",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-02-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Lainnya",
-                "pic": "Panji",
-                "status": "w",
-                "note": ""
+                "note": "R.kana dipakai untuk parenting, R Galilea untuk pemeriksaan kesehatan"
             }
         ],
         "backend": {
