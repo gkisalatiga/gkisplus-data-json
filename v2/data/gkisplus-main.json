@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5309,
-        "last-update": 1771878630,
-        "last-updated-item": "yt",
+        "update-count": 5310,
+        "last-update": 1771897566,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5671,6 +5671,20 @@
                 "pic": "Martha Sulistya Wening",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi Panitia Ibadah Padang KR",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
