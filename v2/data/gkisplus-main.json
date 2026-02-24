@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5310,
-        "last-update": 1771897566,
-        "last-updated-item": "agenda",
+        "update-count": 5311,
+        "last-update": 1771905994,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Feb 2026 | Sampah Terpilah Hidup Terarah",
+                        "date": "2026-02-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=A8dLUPV-Ycs",
+                        "thumbnail": "https://i2.ytimg.com/vi/A8dLUPV-Ycs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Feb 2026 | Air Sebagai Berkat",
                         "date": "2026-02-23",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
                         "link": "https://www.youtube.com/watch?v=ja-wBKNzgl4",
                         "thumbnail": "https://i3.ytimg.com/vi/ja-wBKNzgl4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Feb 2026",
-                        "date": "2026-02-12",
-                        "desc": "Dibawakan oleh Ibu Endah Mardikaningtyas",
-                        "link": "https://www.youtube.com/watch?v=Kh2U3XLrsKk",
-                        "thumbnail": "https://i4.ytimg.com/vi/Kh2U3XLrsKk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
