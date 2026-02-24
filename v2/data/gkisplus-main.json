@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5311,
-        "last-update": 1771905994,
-        "last-updated-item": "yt",
+        "update-count": 5312,
+        "last-update": 1771911589,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5239,7 +5239,7 @@
                 "note": "Terima kasih "
             },
             {
-                "name": "Rapat Pohon Pengharapan",
+                "name": "Rapat Majelis",
                 "time": "18:30",
                 "time-to": "20:00",
                 "timezone": "WIB",
@@ -5685,6 +5685,20 @@
                 "pic": "Nareswari",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Ibadah 1 maret ~ Jeremiah",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Lainnya",
+                "pic": "Panji",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
