@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5313,
-        "last-update": 1771916069,
+        "update-count": 5314,
+        "last-update": 1771919312,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5435,6 +5435,20 @@
                 "note": "Akan dibagi 2 sesi"
             },
             {
+                "name": "Parenting dan cek kesehatan dari dinkes",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-03-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2), Ruang Galilea (Lantai 2)",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Ni Nyoman Dewi Ajeng Prihartina ",
+                "status": "y",
+                "note": "R.kana dipakai untuk parenting, R Galilea untuk pemeriksaan kesehatan"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -5715,18 +5729,32 @@
                 "note": ""
             },
             {
-                "name": "Parenting dan cek kesehatan dari dinkes",
+                "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
                 "time": "07:00",
-                "time-to": "12:00",
+                "time-to": "10:00",
                 "timezone": "WIB",
-                "date": "2026-03-13",
-                "weekday": "fri",
+                "date": "2024-04-08",
+                "weekday": "mon",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2), Ruang Galilea (Lantai 2)",
+                "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Ni Nyoman Dewi Ajeng Prihartina ",
+                "pic": "Pak Wahyu",
                 "status": "w",
-                "note": "R.kana dipakai untuk parenting, R Galilea untuk pemeriksaan kesehatan"
+                "note": "Bawa angklung"
+            },
+            {
+                "name": "Perayaan Paskah SD Kristen 04 Eben Haezer",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Pak Wahyu",
+                "status": "w",
+                "note": "Alat luar : angklung sekolah"
             }
         ],
         "backend": {
