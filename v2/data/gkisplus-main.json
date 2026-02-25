@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5318,
-        "last-update": 1771992982,
-        "last-updated-item": "agenda",
+        "update-count": 5319,
+        "last-update": 1771998772,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -75,13 +75,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=YwsPMv7PgqA",
                         "thumbnail": "https://i2.ytimg.com/vi/YwsPMv7PgqA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Feb 2026",
-                        "date": "2026-02-13",
-                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
-                        "link": "https://www.youtube.com/watch?v=ja-wBKNzgl4",
-                        "thumbnail": "https://i3.ytimg.com/vi/ja-wBKNzgl4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -316,6 +309,13 @@
             {
                 "content": [
                     {
+                        "title": "GKI Salatiga | English Service | Sunday, March 1st, 2026 | 10 a.m. Jakarta Time",
+                        "date": "2026-02-25",
+                        "desc": "GKI Salatiga | English Service | Sunday, March 1st, 2026 | 10 a.m. Jakarta Time\n\nMercy for the Weary\nLuke 18:1-14\n\nLed by\nMr. Mark Geense\n\nKoordinator: Irma\nPL: Sam Lyka\nReader: Nara\nPrayer: Shalom & Pramusita\nOffertory: Nathanael\nKolektan: Dita dan Gita A.\nUsher: \nPPT & Poster: James\nMultiMedia: Pak Bamz\nRefreshments: Dita\nSinger: \nMusician:\n- Keyboard: \n- Drum: \n- Bass: \n- Gitar: \n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
+                        "link": "https://www.youtube.com/watch?v=fBgrODgH-qw",
+                        "thumbnail": "https://i.ytimg.com/vi/fBgrODgH-qw/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "GKI Salatiga | English Service | Sunday, February 1st, 2026 | 10 a.m. Jakarta Time",
                         "date": "2026-01-24",
                         "desc": "GKI Salatiga | English Service | Sunday, February 1st, 2026 | 10 a.m. Jakarta Time\n\nNot just another brick in the wall\n1 Peter 2:4-12\n\nLed by\nMr. Patrick Frey\n\nKoordinator:  Pnt. Nadia Sitaresmi\nPL: Pnt. Gita Hastuti\nReader: Amanda\nPrayer: Lauren & David\nOffertory: Debora Mayang\nKolektan: Irma & Dita\nUsher: Irma\nPPT & Poster: James\nMultiMedia: Pak Bamz\nRefreshments: Dita\nSinger: Aline & Maria\nMusician:\n- Keyboard: Naldi\n- Drum: Joan\n- Bass: Adriel\n- Gitar: Valentino\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
@@ -517,13 +517,6 @@
                         "desc": "Sermon: Rev. Izak Lattu\nLiturgist: Diane Nuhamara\nSong Leader: Christa Tehusalawany\nPianist: Teddy \nMultimedia: Eddy, Elisabet",
                         "link": "https://www.youtube.com/watch?v=dy9P2mSu5V4",
                         "thumbnail": "https://i.ytimg.com/vi/dy9P2mSu5V4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "English Service | Sept 4, 2022 | \"Jesus Christ is The Same - Yesterday, Today and Forever\"",
-                        "date": "2022-09-03",
-                        "desc": "English Service \nSeptember 4, 2022\nLed by Mr. Troy Fraiser\nLiturgist: Pnt.Gita H.\nSinger: Elisabet, Diane\nMusic : Eki, Reina, Ralf\nMultimedia: Natan, Christa",
-                        "link": "https://www.youtube.com/watch?v=FuE5jCNLgTw",
-                        "thumbnail": "https://i.ytimg.com/vi/FuE5jCNLgTw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
