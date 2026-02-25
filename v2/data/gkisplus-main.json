@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5317,
-        "last-update": 1771960134,
-        "last-updated-item": "ykb",
+        "update-count": 5318,
+        "last-update": 1771992982,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5127,20 +5127,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
-                "time": "07:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2024-04-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Pak Wahyu",
-                "status": "w",
-                "note": "Bawa angklung"
-            },
-            {
                 "name": "Rapat Pleno KD",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -5277,6 +5263,48 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-02-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Latihan Persekutuan KD",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-02-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Ristiani Gani Mendrofa",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPK",
+                "time": "09:00",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2026-02-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Dwi Handari",
                 "status": "y",
                 "note": ""
             },
@@ -5519,6 +5547,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan PK Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-31",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5531,6 +5573,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-04-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Pak Wahyu",
+                "status": "y",
+                "note": "Bawa angklung"
             },
             {
                 "name": "PA wilayah 11",
@@ -5741,34 +5797,6 @@
                 "pic": "nan",
                 "status": "w",
                 "note": ""
-            },
-            {
-                "name": "EXPO SMA/SMK Open House ",
-                "time": "07:00",
-                "time-to": "00:00",
-                "timezone": "WIB",
-                "date": "2026-12-02",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Martha Sulistya Wening",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-02-26",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             }
         ],
         "backend": {
