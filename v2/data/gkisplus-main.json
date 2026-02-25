@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5320,
-        "last-update": 1772002607,
+        "update-count": 5321,
+        "last-update": 1772028444,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5775,6 +5775,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Pubdok Komisi Pemuda",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             },
             {
