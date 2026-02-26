@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5325,
-        "last-update": 1772084937,
+        "update-count": 5326,
+        "last-update": 1772094752,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,71 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Feb 2026 | Saat Cakrawala Terhalang Plastik",
+                        "date": "2026-02-25",
+                        "desc": "Dibawakan oleh Sdr. Bambang Setiadhy",
+                        "link": "https://www.youtube.com/watch?v=4edCY1JCq7s",
+                        "thumbnail": "https://i1.ytimg.com/vi/4edCY1JCq7s/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Feb 2026 | Sampah Terpilah Hidup Terarah",
+                        "date": "2026-02-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=A8dLUPV-Ycs",
+                        "thumbnail": "https://i2.ytimg.com/vi/A8dLUPV-Ycs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Feb 2026 | Air Sebagai Berkat",
+                        "date": "2026-02-23",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=hi4KsSmfIPU",
+                        "thumbnail": "https://i1.ytimg.com/vi/hi4KsSmfIPU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Feb 2026 | Hemat Energi, Selamatkan Bumi",
+                        "date": "2026-02-22",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
+                        "link": "https://www.youtube.com/watch?v=HqkDSFhjEtw",
+                        "thumbnail": "https://i1.ytimg.com/vi/HqkDSFhjEtw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Feb 2026 | Merenungkan Mazmur 23 di Tengah Bumi Yang Gersang",
+                        "date": "2026-02-20",
+                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
+                        "link": "https://www.youtube.com/watch?v=XaX_0c7L-mE",
+                        "thumbnail": "https://i1.ytimg.com/vi/XaX_0c7L-mE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Feb 2026 | Bumi Adalah Rumah Bersama, Ciptaan Allah",
+                        "date": "2026-02-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=x3ygwF12bpI",
+                        "thumbnail": "https://i1.ytimg.com/vi/x3ygwF12bpI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 19 Feb 2026 | Sadar dan Aksi Nyata",
+                        "date": "2026-02-18",
+                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                        "link": "https://www.youtube.com/watch?v=X7F-LTwbiyc",
+                        "thumbnail": "https://i1.ytimg.com/vi/X7F-LTwbiyc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 17 Feb 2026 | Menjadi COO Allah yang Baik",
+                        "date": "2026-02-16",
+                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=hrqkAjPhCQI",
+                        "thumbnail": "https://i1.ytimg.com/vi/hrqkAjPhCQI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |16 Feb 2026 | Cinta di Daun Loncang",
+                        "date": "2026-02-15",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=YwsPMv7PgqA",
+                        "thumbnail": "https://i2.ytimg.com/vi/YwsPMv7PgqA/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
