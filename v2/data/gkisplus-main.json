@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5323,
-        "last-update": 1772046699,
-        "last-updated-item": "ykb",
+        "update-count": 5324,
+        "last-update": 1772070271,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5309,6 +5309,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Pubdok Komisi Pemuda",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat MJ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-02-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Persekutuan Komisi Dewasa",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -5351,6 +5379,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Pemusik+Singer English Service",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Percakapan atestasi masuk Mr. Jeffrey",
                 "time": "13:00",
                 "time-to": "14:00",
@@ -5361,6 +5403,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Samuel Martono",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik English Service",
+                "time": "11:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-02-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Pnt. Gita + Samarthya",
                 "status": "y",
                 "note": ""
             },
@@ -5589,6 +5645,20 @@
                 "note": "Bawa angklung"
             },
             {
+                "name": "Paskah KD",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5782,20 +5852,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Pubdok Komisi Pemuda",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-02-26",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Samarthya",
-                "status": "w",
                 "note": ""
             },
             {
