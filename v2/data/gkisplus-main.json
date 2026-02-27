@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5335,
-        "last-update": 1772178115,
+        "update-count": 5336,
+        "last-update": 1772181338,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5422,6 +5422,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Evaluasi Dan Progres ",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-02-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5628,6 +5642,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bp. Heri",
                 "status": "y",
                 "note": ""
             },
@@ -5854,20 +5882,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat Evaluasi Dan Progres ",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-02-28",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Susan",
-                "status": "w",
-                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
