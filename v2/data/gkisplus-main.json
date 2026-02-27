@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5336,
-        "last-update": 1772181338,
-        "last-updated-item": "agenda",
+        "update-count": 5337,
+        "last-update": 1772213076,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Feb 2026 | Bersama Allah Memelihara Ciptaan",
+                        "date": "2026-02-27",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=q2bD03Bd1n8",
+                        "thumbnail": "https://i2.ytimg.com/vi/q2bD03Bd1n8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Feb 2026 | Saat Banjir Meraja",
                         "date": "2026-02-26",
