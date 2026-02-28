@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5344,
-        "last-update": 1772285608,
+        "update-count": 5345,
+        "last-update": 1772300606,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -3681,6 +3681,24 @@
             ],
             "es": [
                 {
+                    "title": "English Service Liturgy March 1, 2026",
+                    "date": "2026-02-28",
+                    "link": "https://drive.google.com/file/d/1pEIY8yvmBvgkAtkIllkA1c8mSKmThkvp/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-march-1-2026/",
+                    "thumbnail": "",
+                    "id": "1pEIY8yvmBvgkAtkIllkA1c8mSKmThkvp",
+                    "size": "0.23 MB"
+                },
+                {
+                    "title": "English Service Liturgy February 1, 2026",
+                    "date": "2026-01-31",
+                    "link": "https://drive.google.com/file/d/1hyHC4lhkQumG3O8GZHzw-t0SSugF5zxq/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-february-1-2026/",
+                    "thumbnail": "",
+                    "id": "1hyHC4lhkQumG3O8GZHzw-t0SSugF5zxq",
+                    "size": "0.22 MB"
+                },
+                {
                     "title": "English Service Liturgy December 7, 2025",
                     "date": "2025-12-04",
                     "link": "https://drive.google.com/file/d/1RipeTOxdjHwbplQvmMj8V21aLAsMuAPg/preview",
@@ -6027,8 +6045,8 @@
                 "about_changelog_url": "https://github.com/gkisalatiga/gkisalatiga-foss/blob/main/CHANGELOG.md",
                 "about_google_play_listing_url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
                 "about_source_code_url": "https://github.com/gkisalatiga/gkisalatiga-foss",
-                "greetings_top": "Haleluya!",
-                "greetings_bottom": "Selamat memasuki Masa Prapaskah 2026!",
+                "greetings_top": "Hosiana!",
+                "greetings_bottom": "Selamat menghayati Masa Prapaskah 2026!",
                 "youtube_player_origin": "https://gkisalatiga.org"
             }
         }
