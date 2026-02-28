@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5343,
-        "last-update": 1772266502,
-        "last-updated-item": "yt",
+        "update-count": 5344,
+        "last-update": 1772285608,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5972,6 +5972,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "rapat bph paskah kpkr",
+                "time": "14:30",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2026-03-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel",
+                "status": "w",
+                "note": "tambah teh"
             },
             {
                 "name": "PA Wilayah 5",
