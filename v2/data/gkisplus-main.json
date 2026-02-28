@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5340,
-        "last-update": 1772250272,
+        "update-count": 5341,
+        "last-update": 1772254130,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2011,6 +2011,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 1 Maret 2026",
+                    "date": "2026-02-28",
+                    "link": "https://drive.google.com/file/d/1pjm9fOPzSqpBa9sPOwirr2VR-kxDl1SU/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-1-maret-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1pjm9fOPzSqpBa9sPOwirr2VR-kxDl1SU",
+                    "id": "1pjm9fOPzSqpBa9sPOwirr2VR-kxDl1SU",
+                    "size": "2.55 MB"
+                },
+                {
                     "title": "Warta Jemaat 22 Februari 2026",
                     "date": "2026-02-21",
                     "link": "https://drive.google.com/file/d/1g2-Pz7qcSRZkg08QJrqxz15o_1JKTyya/view",
@@ -2741,6 +2750,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 1 Maret 2026 - Prapaskah II",
+                    "date": "2026-02-28",
+                    "link": "https://drive.google.com/file/d/1zo1PedzKSFOOMOtSe8lIRf66RA7zd9hX/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-1-maret-2026-prapaskah-ii/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1zo1PedzKSFOOMOtSe8lIRf66RA7zd9hX",
+                    "id": "1zo1PedzKSFOOMOtSe8lIRf66RA7zd9hX",
+                    "size": "0.83 MB"
+                },
                 {
                     "title": "Tata Ibadah 22 Februari 2026 - Prapaskah I",
                     "date": "2026-02-21",
