@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5350,
-        "last-update": 1772339289,
+        "update-count": 5351,
+        "last-update": 1772343278,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5670,6 +5670,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persiapan PK Wil. 10",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-03-31",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Andi David Hutabarat",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
