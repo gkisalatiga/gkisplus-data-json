@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 69,
-        "last-update": 1772129330,
+        "update-count": 70,
+        "last-update": 1772377902,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -28371,6 +28371,96 @@
                             "id": "1jncZpdmxr7puDhXIfwwZCPMpcixspJZb",
                             "name": "Sumur Yakub (17).JPG",
                             "date": "2026-02-26"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "18N0Ra59DNfryL_WJyPp48xJJs994G8U9",
+                    "last_update": "2026-03-01",
+                    "featured_photo_id": "1s7TuuZKY0xm7AlHsIR09xtQNyLdpp-PE",
+                    "story": "Foto-foto dokumentasi English Service March 1st yang dilaksanakan pada 1 Maret 2026.",
+                    "title": "English Service March 1st",
+                    "event_date": "2026.03.01",
+                    "photos": [
+                        {
+                            "id": "1EwWZNgpagMGUbUYDGiwZZJELvGnKygn0",
+                            "name": "IMG_20260301_102013.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "16PY8o-Hk6MsXJnDHPbujiSf9JTRkeqrk",
+                            "name": "MVIMG_20260301_112726.jpg",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1a9Cws5ek97q7CKInHaAV92pJGZtxPY5y",
+                            "name": "MVIMG_20260301_112718.jpg",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1jleHtp7XCEARO--MHui_HpgIbsqrK8MA",
+                            "name": "IMG_20260301_103317.HEIC",
+                            "date": "2026-03-01"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1bE0pJ-Y47H-Ron08Zig_hDzHbofM3gKx",
+                    "last_update": "2026-03-01",
+                    "featured_photo_id": "1FEq_dX3FeeEPe8o-1An-Tl4bV3o2JmTX",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Prapaskah II, 1 Maret [MRP 2026] yang dilaksanakan pada 1 Maret 2026.",
+                    "title": "Ibadah Minggu Prapaskah II, 1 Maret [MRP 2026]",
+                    "event_date": "2026.03.01",
+                    "photos": [
+                        {
+                            "id": "1DGeLkAwcsHv65lkeH5bhH_l9IlrXMGmJ",
+                            "name": "IMG_20260301_075906.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "16CC6VX4fVlPbw7M6G5P9LPuftY6rUuuI",
+                            "name": "IMG_20260301_080022.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "17ZwJAmsgdHySSGK4O6ht3w3kOGw7hZu7",
+                            "name": "IMG_20260301_082527.jpg",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1qPEJWMc-mDuLeZ5G4nb7nKyLInUHU1xU",
+                            "name": "IMG_20260301_082810.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1MvinHmAartBApZfBEeaz1WuwjXS7SJXD",
+                            "name": "IMG_20260301_083634.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1ziEL1Mhuz4Gmn_MHOFHvVWSvLFP5jrVy",
+                            "name": "IMG_20260301_082124.jpg",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1zmF9ltTmaiO_BVyVfQE571Fh63u5Wzie",
+                            "name": "IMG_20260301_080148.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1V3y7wkrGtdh0Hj3UZZUKv3g_TiLErqVg",
+                            "name": "IMG_20260301_083805.HEIC",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1y6z4punNqacW0ObKX7bYge69LWrf2InP",
+                            "name": "MVIMG_20260301_082721.jpg",
+                            "date": "2026-03-01"
+                        },
+                        {
+                            "id": "1KTjTMZbfL58C4zoDA61hMzgvLOPhi9qt",
+                            "name": "IMG_20260301_085026.jpg",
+                            "date": "2026-03-01"
                         }
                     ]
                 }
