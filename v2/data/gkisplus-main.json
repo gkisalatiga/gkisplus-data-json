@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5354,
-        "last-update": 1772377995,
+        "update-count": 5355,
+        "last-update": 1772385197,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
+                        "date": "2026-03-01",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=K8QnFHTL6gs",
+                        "thumbnail": "https://i4.ytimg.com/vi/K8QnFHTL6gs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Mar 2026 | Rahasia Tumbuh",
+                        "date": "2026-03-01",
+                        "desc": "Dibawakan oleh Pnt. Ervien Dian Widyawati",
+                        "link": "https://www.youtube.com/watch?v=xeOVizR7Mt8",
+                        "thumbnail": "https://i1.ytimg.com/vi/xeOVizR7Mt8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Feb 2026 | Bersama Allah Memelihara Ciptaan",
                         "date": "2026-02-27",
@@ -75,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=x3ygwF12bpI",
                         "thumbnail": "https://i1.ytimg.com/vi/x3ygwF12bpI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Feb 2026 | Sadar dan Aksi Nyata",
-                        "date": "2026-02-18",
-                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
-                        "link": "https://www.youtube.com/watch?v=X7F-LTwbiyc",
-                        "thumbnail": "https://i1.ytimg.com/vi/X7F-LTwbiyc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -99,7 +106,7 @@
                         "date": "2026-02-28",
                         "desc": "Ibadah Minggu GKI Salatiga | 1 Maret 2026 | Pukul 07:00 WIB\n(Prapaskah II)\n\nTema: \"Berjalan bersama Tuhan dengan Pasti\"\n\nNyanyian: PKJ 1:1,3; NKB 214; PKJ 270; NKB 133; PKJ 244\r\n\nBacaan 1: Kejadian 12:1-4a\nTanggapan: Mazmur 121\nBacaan 2: Roma 4:1-5; 13-17\nBacaan Injil: Yohanes 3:1-17\nBerita Anugrah: Yesaya 41:10\nPersembahan: Filipi 4:19\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Catur Winarno\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Santoso Adi P. ; Pnt. Ervien Dian W.\nPemandu Liturgi: Suparmi\nLektor 1: Margrit Ermiaty\nLektor 2: Fransiska Dahniar\n\nPemusik: Jeremiah\nPNK: Dinda\nPemazmur:  Aurell\r\nTim Multimedia: Joshua A. Gracia, Susan, Gita Tika + @jeffrey20_s  Puguh, Wayan, \nDokumentasi: Erio / Derryl / Judica / @jeffrey20_s \nFlorist: Tim Edelweis\nUsher & kolektan: KOMKES: Priska Winarni DH, Joko Banon\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=2uT63VwrVe4",
-                        "thumbnail": "https://i.ytimg.com/vi/2uT63VwrVe4/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/2uT63VwrVe4/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu Prapaskah I GKI Salatiga | 22 Februari 2026 | \"Kesahajaan Bukan Keserakahan\"",
@@ -320,7 +327,7 @@
                         "date": "2026-02-25",
                         "desc": "GKI Salatiga | English Service | Sunday, March 1st, 2026 | 10 a.m. Jakarta Time\n\nMercy for the Weary\nLuke 18:1-14\n\nLed by\nMr. Mark Geense\n\nKoordinator: Irma\nPL: Sam Lyka\nReader: Sisca\nPrayer: Bunga & Pramusita\nOffertory: Cevi\nKolektan: Dita dan Gita A.\nUsher: Dea & Neria\nPPT & Poster: James\nMultiMedia: Pak Bamz\nRefreshments: Dita\nSinger: Angelica\nPianist: Reinhart\nSpecial Music: Maria, Shena, Kristin, and Alfon\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
                         "link": "https://www.youtube.com/watch?v=fBgrODgH-qw",
-                        "thumbnail": "https://i.ytimg.com/vi/fBgrODgH-qw/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/fBgrODgH-qw/hqdefault.jpg"
                     },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, February 1st, 2026 | 10 a.m. Jakarta Time",
@@ -2068,7 +2075,7 @@
                         "date": "2026-02-28",
                         "desc": "Ibadah Minggu GKI Salatiga | 1 Maret 2026 | Pukul 07:00 WIB\n(Prapaskah II)\n\nTema: \"Berjalan bersama Tuhan dengan Pasti\"\n\nNyanyian: PKJ 1:1,3; NKB 214; PKJ 270; NKB 133; PKJ 244\r\n\nBacaan 1: Kejadian 12:1-4a\nTanggapan: Mazmur 121\nBacaan 2: Roma 4:1-5; 13-17\nBacaan Injil: Yohanes 3:1-17\nBerita Anugrah: Yesaya 41:10\nPersembahan: Filipi 4:19\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Catur Winarno\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Santoso Adi P. ; Pnt. Ervien Dian W.\nPemandu Liturgi: Suparmi\nLektor 1: Margrit Ermiaty\nLektor 2: Fransiska Dahniar\n\nPemusik: Jeremiah\nPNK: Dinda\nPemazmur:  Aurell\r\nTim Multimedia: Joshua A. Gracia, Susan, Gita Tika + @jeffrey20_s  Puguh, Wayan, \nDokumentasi: Erio / Derryl / Judica / @jeffrey20_s \nFlorist: Tim Edelweis\nUsher & kolektan: KOMKES: Priska Winarni DH, Joko Banon\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=2uT63VwrVe4",
-                        "thumbnail": "https://i.ytimg.com/vi/2uT63VwrVe4/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/2uT63VwrVe4/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu Prapaskah I GKI Salatiga | 22 Februari 2026 | \"Kesahajaan Bukan Keserakahan\"",
