@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5348,
-        "last-update": 1772338267,
-        "last-updated-item": "yt",
+        "update-count": 5349,
+        "last-update": 1772338773,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5507,8 +5507,22 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Susan",
-                "status": "w",
+                "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "rapat bph paskah kpkr",
+                "time": "14:30",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2026-03-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel",
+                "status": "y",
+                "note": "tambah teh"
             },
             {
                 "name": "PA wilayah 11",
@@ -5551,6 +5565,20 @@
                 "pic": "Bu Wardjini",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Rapat MJ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pelatihan Pengurus Bapel ",
@@ -5957,20 +5985,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "rapat bph paskah kpkr",
-                "time": "14:30",
-                "time-to": "16:30",
-                "timezone": "WIB",
-                "date": "2026-03-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel",
-                "status": "w",
-                "note": "tambah teh"
             },
             {
                 "name": "PA Wilayah 5",
