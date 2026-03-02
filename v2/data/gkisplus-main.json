@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5358,
-        "last-update": 1772434281,
+        "update-count": 5359,
+        "last-update": 1772444539,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5242,6 +5242,20 @@
                 "pic": "Pdt. Yefta S. Krisgunadi",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Sie Acara MRP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih"
             }
         ],
         "backend": {
