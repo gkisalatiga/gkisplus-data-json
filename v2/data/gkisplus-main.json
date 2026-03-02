@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5357,
-        "last-update": 1772424593,
+        "update-count": 5358,
+        "last-update": 1772434281,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5212,6 +5212,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Tim BKJ",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-03-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Percakapan pernikahan",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Pdt. Yefta S. Krisgunadi",
                 "status": "w",
                 "note": "-"
             }
