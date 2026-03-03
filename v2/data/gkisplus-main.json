@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5363,
-        "last-update": 1772523515,
-        "last-updated-item": "agenda",
+        "update-count": 5364,
+        "last-update": 1772548502,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,27 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Mar 2026 | Indahnya Merasa Cukup",
+                        "date": "2026-03-03",
+                        "desc": "Dibawakan oleh Ibu Susan Pakpahan",
+                        "link": "https://www.youtube.com/watch?v=RcYueIhbgZc",
+                        "thumbnail": "https://i3.ytimg.com/vi/RcYueIhbgZc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Mar 2026 | Mengerikan! Ambisi Menguasai Alam",
+                        "date": "2026-03-03",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=odXHL-_0pbo",
+                        "thumbnail": "https://i4.ytimg.com/vi/odXHL-_0pbo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Mar 2026 | Manjadi Pelaku Estafet Kehidupan",
+                        "date": "2026-03-03",
+                        "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
+                        "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
+                        "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
                         "date": "2026-03-02",
@@ -82,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Yuliyanti",
                         "link": "https://www.youtube.com/watch?v=XaX_0c7L-mE",
                         "thumbnail": "https://i1.ytimg.com/vi/XaX_0c7L-mE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Feb 2026 | Bumi Adalah Rumah Bersama, Ciptaan Allah",
-                        "date": "2026-02-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=x3ygwF12bpI",
-                        "thumbnail": "https://i1.ytimg.com/vi/x3ygwF12bpI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
