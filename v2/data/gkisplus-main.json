@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5362,
-        "last-update": 1772515867,
+        "update-count": 5363,
+        "last-update": 1772523515,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5282,6 +5282,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Ristiani Gani Mendrofa",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-03-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
