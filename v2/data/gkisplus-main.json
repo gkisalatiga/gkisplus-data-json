@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5365,
-        "last-update": 1772559214,
+        "update-count": 5366,
+        "last-update": 1772569177,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Mar 2026 | Manjadi Pelaku Estafet Kehidupan",
+                        "date": "2026-03-03",
+                        "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
+                        "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
+                        "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Mar 2026 | Merawat Bumi Memuliakan Pencipta",
                         "date": "2026-03-03",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=odXHL-_0pbo",
                         "thumbnail": "https://i4.ytimg.com/vi/odXHL-_0pbo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Mar 2026 | Manjadi Pelaku Estafet Kehidupan",
-                        "date": "2026-03-03",
-                        "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
-                        "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
-                        "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
