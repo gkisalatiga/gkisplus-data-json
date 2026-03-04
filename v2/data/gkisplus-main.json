@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5369,
-        "last-update": 1772602058,
+        "update-count": 5370,
+        "last-update": 1772608201,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5772,6 +5772,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Inventaris",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
                 "status": "w",
                 "note": ""
             },
