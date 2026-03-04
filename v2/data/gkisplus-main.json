@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5366,
-        "last-update": 1772569177,
-        "last-updated-item": "yt",
+        "update-count": 5367,
+        "last-update": 1772588551,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5731,6 +5731,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik untuk ibadah umum 8 maret",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-03-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "w",
                 "note": ""
             },
             {
