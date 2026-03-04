@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5368,
-        "last-update": 1772597084,
+        "update-count": 5369,
+        "last-update": 1772602058,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5760,6 +5760,20 @@
                 "pic": "Bayu/Mr Tommy",
                 "status": "w",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Latihan paduan suara",
+                "time": "08:30",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2026-03-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
