@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5371,
-        "last-update": 1772610978,
-        "last-updated-item": "agenda",
+        "update-count": 5372,
+        "last-update": 1772612699,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -1562,6 +1562,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN HENNIE & PRISILIA | 6 MARET 2026",
+                        "date": "2026-03-04",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Hennie Tuhuteru dengan Sdri. Prisilia Trusdy Pattiata\n\nJumat, 6 Maret 2026 pukul 14.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Catur Winarno & Pnt. Sri Yuniwati\nPemusik : Lamentation\nPNK : Adhara\nMultimedia : I Made Satya, Joshua, Enrico, Iwandi",
+                        "link": "https://www.youtube.com/watch?v=4XzY_mW__q4",
+                        "thumbnail": "https://i.ytimg.com/vi/4XzY_mW__q4/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN JORRIT M. & ANNA N. | 27 DESEMBER 2025",
                         "date": "2025-12-26",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Jorrit Maneschijn dengan Sdri. Anna Novitasari\n\nSabtu, 27 Desember 2025 pukul 10.30 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Desemy Ch. N. Ballo & Pnt. Nadia Sitaresmi\nPemusik : Kezia & Michel\nPNK : Adhara\nMultimedia : Jeffrey, Bethrys",
@@ -1763,13 +1770,6 @@
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. Aholiab Januar Sanjaya dan  Indrika Dermadibyo Tiranda\n\nSabtu, 1 Oktober 2022 pukul 09.00 WIB",
                         "link": "https://www.youtube.com/watch?v=AKeWN9xKkiw",
                         "thumbnail": "https://i.ytimg.com/vi/AKeWN9xKkiw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Kebaktian Peneguhan dan Pemberkatan Pernikahan Pangky & Riska | Jumat, 1 Juli 2022",
-                        "date": "2022-06-29",
-                        "desc": "KEBAKTIAN PENEGUHAN DAN PEMBERKATAN PERNIKAHAN\nGKI SALATIGA | Jumat, 1 Juli  2022 pukul 11.00 WIB\n\nSdr. Pangky Hendra Setyawan dan Sdri. Riska Prabawani\n\nPF : Pdt. Helen Ruth Manurung\nMJ : Pnt. Sandy Murniati Santoso\u2502Pnt. Iryatun Trikorini\nPemusik : Joanda R.\u2502PNK : Eriyani\u2502Voice Over : Reina \u2502OBS : Bayu \u2502\nTata Suara : I Made Satya \u2502PPT : Tony | Kameramen : Iwandi ;\nJoshua",
-                        "link": "https://www.youtube.com/watch?v=wt8BthlfNmE",
-                        "thumbnail": "https://i.ytimg.com/vi/wt8BthlfNmE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
