@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5372,
-        "last-update": 1772612699,
-        "last-updated-item": "yt",
+        "update-count": 5373,
+        "last-update": 1772613375,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5802,6 +5802,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia MRP 2026",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "Minta tolong disiapkan teh tanpa gula (gula di tempat terpisah)"
             },
             {
                 "name": "PA Wilayah 5",
