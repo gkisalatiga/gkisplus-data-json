@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5370,
-        "last-update": 1772608201,
+        "update-count": 5371,
+        "last-update": 1772610978,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5300,6 +5300,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan pemusik untuk ibadah umum 8 maret",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-03-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-03-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KPPI",
                 "time": "18:00",
                 "time-to": "20:30",
@@ -5314,6 +5342,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-03-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu/Mr Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "Latihan paduan suara",
+                "time": "08:30",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2026-03-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Pelatihan Pengurus Bapel ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5322,6 +5378,20 @@
                 "weekday": "sat",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Inventaris",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
@@ -5731,62 +5801,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik untuk ibadah umum 8 maret",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-03-04",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "Yunita Tella ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-03-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu/Mr Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
-            },
-            {
-                "name": "Latihan paduan suara",
-                "time": "08:30",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2026-03-06",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Endah",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Inventaris",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-03-09",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
                 "note": ""
             },
             {
