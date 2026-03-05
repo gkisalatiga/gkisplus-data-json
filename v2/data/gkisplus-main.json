@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5375,
-        "last-update": 1772675115,
+        "update-count": 5376,
+        "last-update": 1772683688,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5356,6 +5356,48 @@
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
+                "name": "Rapat Panitia MRP 2026",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Minta tolong disiapkan teh tanpa gula (gula di tempat terpisah)"
+            },
+            {
+                "name": "Latihan pemusik ibadah umum 8 maret ",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-03-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Informatika",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "Minta disiapkan teh untuk 4 orang"
+            },
+            {
                 "name": "Latihan paduan suara",
                 "time": "08:30",
                 "time-to": "09:30",
@@ -5801,34 +5843,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia MRP 2026",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-03-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": "Minta tolong disiapkan teh tanpa gula (gula di tempat terpisah)"
-            },
-            {
-                "name": "Latihan pemusik ibadah umum 8 maret ",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-03-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "Yunita Tella ",
-                "status": "w",
                 "note": ""
             },
             {
