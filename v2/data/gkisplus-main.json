@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5376,
-        "last-update": 1772683688,
-        "last-updated-item": "agenda",
+        "update-count": 5377,
+        "last-update": 1772689170,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,92 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 5 Mar 2026 | Mengerikan! Ambisi Menguasai Alam",
-                        "date": "2026-03-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=odXHL-_0pbo",
-                        "thumbnail": "https://i4.ytimg.com/vi/odXHL-_0pbo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Mar 2026 | Manjadi Pelaku Estafet Kehidupan",
-                        "date": "2026-03-03",
-                        "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
-                        "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
-                        "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Mar 2026 | Merawat Bumi Memuliakan Pencipta",
-                        "date": "2026-03-03",
-                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
-                        "link": "https://www.youtube.com/watch?v=PM746pk6fWU",
-                        "thumbnail": "https://i1.ytimg.com/vi/PM746pk6fWU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Mar 2026 | Indahnya Merasa Cukup",
-                        "date": "2026-03-03",
-                        "desc": "Dibawakan oleh Ibu Susan Pakpahan",
-                        "link": "https://www.youtube.com/watch?v=RcYueIhbgZc",
-                        "thumbnail": "https://i3.ytimg.com/vi/RcYueIhbgZc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
-                        "date": "2026-03-02",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=K8QnFHTL6gs",
-                        "thumbnail": "https://i4.ytimg.com/vi/K8QnFHTL6gs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Mar 2026 | Rahasia Tumbuh",
-                        "date": "2026-03-01",
-                        "desc": "Dibawakan oleh Pnt. Ervien Dian Widyawati",
-                        "link": "https://www.youtube.com/watch?v=xeOVizR7Mt8",
-                        "thumbnail": "https://i1.ytimg.com/vi/xeOVizR7Mt8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Feb 2026 | Bersama Allah Memelihara Ciptaan",
-                        "date": "2026-02-27",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=q2bD03Bd1n8",
-                        "thumbnail": "https://i2.ytimg.com/vi/q2bD03Bd1n8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Feb 2026 | Saat Banjir Meraja",
-                        "date": "2026-02-26",
-                        "desc": "Dibawakan oleh Ibu Sandy Murniati Santoso",
-                        "link": "https://www.youtube.com/watch?v=bZ1EybLSY-Q",
-                        "thumbnail": "https://i3.ytimg.com/vi/bZ1EybLSY-Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Feb 2026 | Saat Cakrawala Terhalang Plastik",
-                        "date": "2026-02-25",
-                        "desc": "Dibawakan oleh Sdr. Bambang Setiadhy",
-                        "link": "https://www.youtube.com/watch?v=4edCY1JCq7s",
-                        "thumbnail": "https://i1.ytimg.com/vi/4edCY1JCq7s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Feb 2026 | Sampah Terpilah Hidup Terarah",
-                        "date": "2026-02-24",
-                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
-                        "link": "https://www.youtube.com/watch?v=A8dLUPV-Ycs",
-                        "thumbnail": "https://i2.ytimg.com/vi/A8dLUPV-Ycs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Feb 2026 | Air Sebagai Berkat",
-                        "date": "2026-02-23",
-                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
-                        "link": "https://www.youtube.com/watch?v=hi4KsSmfIPU",
-                        "thumbnail": "https://i1.ytimg.com/vi/hi4KsSmfIPU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Feb 2026 | Hemat Energi, Selamatkan Bumi",
-                        "date": "2026-02-22",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=HqkDSFhjEtw",
-                        "thumbnail": "https://i1.ytimg.com/vi/HqkDSFhjEtw/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
