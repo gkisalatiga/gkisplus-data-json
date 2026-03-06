@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5389,
-        "last-update": 1772809877,
+        "update-count": 5390,
+        "last-update": 1772828247,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Mar 2026 | Merawat Bumi Memuliakan Pencipta",
+                        "date": "2026-03-06",
+                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
+                        "link": "https://www.youtube.com/watch?v=PM746pk6fWU",
+                        "thumbnail": "https://i1.ytimg.com/vi/PM746pk6fWU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Mar 2026 | Indahnya Merasa Cukup",
                         "date": "2026-03-05",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
                         "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
                         "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Mar 2026 | Merawat Bumi Memuliakan Pencipta",
-                        "date": "2026-03-03",
-                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
-                        "link": "https://www.youtube.com/watch?v=PM746pk6fWU",
-                        "thumbnail": "https://i1.ytimg.com/vi/PM746pk6fWU/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
