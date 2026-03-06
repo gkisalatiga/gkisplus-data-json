@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5381,
-        "last-update": 1772742311,
-        "last-updated-item": "yt",
+        "update-count": 5382,
+        "last-update": 1772774961,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5853,6 +5853,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Perayaan Paskah SMP Kristen 2 Salatiga",
+                "time": "06:00",
+                "time-to": "08:00",
+                "timezone": "WIB",
+                "date": "2026-04-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Supriyadi",
+                "status": "w",
                 "note": ""
             },
             {
