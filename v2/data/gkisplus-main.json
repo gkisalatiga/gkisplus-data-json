@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5384,
-        "last-update": 1772781084,
+        "update-count": 5385,
+        "last-update": 1772783775,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5408,6 +5408,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan nyanyi Wil.10",
+                "time": "12:30",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-03-07",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Selvi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim Inventaris",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5881,20 +5895,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan nyanyi ",
-                "time": "12:30",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2026-03-07",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Selvi",
-                "status": "w",
                 "note": ""
             },
             {
