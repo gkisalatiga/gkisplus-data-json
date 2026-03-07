@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5391,
-        "last-update": 1772833693,
-        "last-updated-item": "yt",
+        "update-count": 5392,
+        "last-update": 1772846907,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5980,6 +5980,20 @@
                 "pic": "Samuel Esa ",
                 "status": "w",
                 "note": "Teh dengan termos teh "
+            },
+            {
+                "name": "Latihan pemusik ibadah umum 8 maret ",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-03-07",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
