@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 70,
-        "last-update": 1772377902,
+        "update-count": 71,
+        "last-update": 1772884515,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -28377,11 +28377,46 @@
                 {
                     "folder_id": "18N0Ra59DNfryL_WJyPp48xJJs994G8U9",
                     "last_update": "2026-03-01",
-                    "featured_photo_id": "1s7TuuZKY0xm7AlHsIR09xtQNyLdpp-PE",
+                    "featured_photo_id": "1qcWRpNFX1TgdupT8HvlWDinhdXIdl_MR",
                     "story": "Foto-foto dokumentasi English Service March 1st yang dilaksanakan pada 1 Maret 2026.",
                     "title": "English Service March 1st",
                     "event_date": "2026.03.01",
                     "photos": [
+                        {
+                            "id": "1AlRVTGaSWuCtXNuCv5w9DMITCwzpzuma",
+                            "name": "GKI Salatiga 010326-7-23.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1jEAzmd48zTUJ5u0tP-LE-QN94qOvf73B",
+                            "name": "GKI Salatiga 010326-7-20.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1cBgzRFkdoryTWIGVwOpBDRNquuWOxwnQ",
+                            "name": "GKI Salatiga 010326-7-25.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1agFqLj0jtQuz6QHEfhtJ6N4tIPmOpUYc",
+                            "name": "GKI Salatiga 010326-7-29.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1WDWwZfclmfJwvbBVZ9SBxJf09Ht2W9lW",
+                            "name": "GKI Salatiga 010326-7-48.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1UjUA260g6MVqo-r3C1uH3hv29Pkfo8m0",
+                            "name": "GKI Salatiga 010326-7-58.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1I1-iU_LknjoPHZXe7jJ4UCnF30PX3UxX",
+                            "name": "GKI Salatiga 010326-7-55.JPG",
+                            "date": "2026-03-07"
+                        },
                         {
                             "id": "1EwWZNgpagMGUbUYDGiwZZJELvGnKygn0",
                             "name": "IMG_20260301_102013.HEIC",
@@ -28407,11 +28442,36 @@
                 {
                     "folder_id": "1bE0pJ-Y47H-Ron08Zig_hDzHbofM3gKx",
                     "last_update": "2026-03-01",
-                    "featured_photo_id": "1FEq_dX3FeeEPe8o-1An-Tl4bV3o2JmTX",
+                    "featured_photo_id": "16WQl9QUDGU6w7P9pJHCJc9pG1l6iIw-R",
                     "story": "Foto-foto dokumentasi Ibadah Minggu Prapaskah II, 1 Maret [MRP 2026] yang dilaksanakan pada 1 Maret 2026.",
                     "title": "Ibadah Minggu Prapaskah II, 1 Maret [MRP 2026]",
                     "event_date": "2026.03.01",
                     "photos": [
+                        {
+                            "id": "1bh3ale30UPTV33Ym3JALj1qG0YIcBfY7",
+                            "name": "GKI Salatiga 010326-7-14.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1wbYHk_tM__74n5xoewOyjqsCrKdivSFe",
+                            "name": "GKI Salatiga 010326-7-40.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1Lc-518LmWlWUmedSDl1OyJ66qJUZPhVi",
+                            "name": "GKI Salatiga 010326-7-1.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "13Rk4LOufs1lwdnADgmx2on25UoEbqvY2",
+                            "name": "GKI Salatiga 010326-7-6.JPG",
+                            "date": "2026-03-07"
+                        },
+                        {
+                            "id": "1eDF_QvrazhSSJNjSoUQ6mlEAjUG4pkZt",
+                            "name": "GKI Salatiga 010326-7-13.JPG",
+                            "date": "2026-03-07"
+                        },
                         {
                             "id": "1DGeLkAwcsHv65lkeH5bhH_l9IlrXMGmJ",
                             "name": "IMG_20260301_075906.HEIC",
