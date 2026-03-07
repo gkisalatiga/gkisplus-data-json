@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5392,
-        "last-update": 1772846907,
+        "update-count": 5393,
+        "last-update": 1772853141,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2125,6 +2125,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 8 Maret 2026",
+                    "date": "2026-03-07",
+                    "link": "https://drive.google.com/file/d/1jkzPIOwVisyDNdJtmtGaEKllyqsGOqvR/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-8-maret-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1jkzPIOwVisyDNdJtmtGaEKllyqsGOqvR",
+                    "id": "1jkzPIOwVisyDNdJtmtGaEKllyqsGOqvR",
+                    "size": "2.39 MB"
+                },
+                {
                     "title": "Warta Jemaat 1 Maret 2026",
                     "date": "2026-02-28",
                     "link": "https://drive.google.com/file/d/1pjm9fOPzSqpBa9sPOwirr2VR-kxDl1SU/view",
@@ -2864,6 +2873,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 8 Maret 2026 - Prapaskah III",
+                    "date": "2026-03-07",
+                    "link": "https://drive.google.com/file/d/1bx0oIrKotyO_g9kSHTz1o2lNE6mJxFr7/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-8-maret-2026-prapaskah-iii/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1bx0oIrKotyO_g9kSHTz1o2lNE6mJxFr7",
+                    "id": "1bx0oIrKotyO_g9kSHTz1o2lNE6mJxFr7",
+                    "size": "0.67 MB"
+                },
                 {
                     "title": "Tata Ibadah 1 Maret 2026 - Prapaskah II",
                     "date": "2026-02-28",
