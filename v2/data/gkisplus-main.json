@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5393,
-        "last-update": 1772853141,
+        "update-count": 5394,
+        "last-update": 1772858255,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5147,20 +5147,11 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_6.webp",
-                "title": "Agenda Paskah 2026",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
+                "title": "Pengumpulan Daun Palem",
                 "type": "poster",
-                "date-created": "2026-02-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_6.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_1.webp",
-                "title": "Makna Puasa Dalam Masa Prapaskah",
-                "type": "poster",
-                "date-created": "2026-02-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_1.webp",
+                "date-created": "2026-03-07",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5174,11 +5165,20 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_3.webp",
-                "title": "Gerakan 5R",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_10.webp",
+                "title": "Dapat Dilakukan Melalui",
                 "type": "poster",
-                "date-created": "2026-02-15",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_3.webp",
+                "date-created": "2026-03-07",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_10.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_1.webp",
+                "title": "Makna Puasa Dalam Masa Prapaskah",
+                "type": "poster",
+                "date-created": "2026-03-07",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
