@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5394,
-        "last-update": 1772858255,
+        "update-count": 5395,
+        "last-update": 1772859470,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6010,6 +6010,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Yunita Tella ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pendamping Kader Pendeta",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono",
                 "status": "w",
                 "note": ""
             },
