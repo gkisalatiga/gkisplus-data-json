@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5401,
-        "last-update": 1772990039,
+        "update-count": 5402,
+        "last-update": 1773000698,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Mar 2026 | Sungguh Amat Baik",
+                        "date": "2026-03-08",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=k3GuyvHNUw4",
+                        "thumbnail": "https://i4.ytimg.com/vi/k3GuyvHNUw4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Mar 2026 | Hutan Kita Masa Depan Anak Cucu Kita",
+                        "date": "2026-03-08",
+                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
+                        "link": "https://www.youtube.com/watch?v=_XqppYITI38",
+                        "thumbnail": "https://i4.ytimg.com/vi/_XqppYITI38/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Mar 2026 | Merawat Bumi Memuliakan Pencipta",
                         "date": "2026-03-06",
@@ -89,20 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
                         "link": "https://www.youtube.com/watch?v=A8dLUPV-Ycs",
                         "thumbnail": "https://i2.ytimg.com/vi/A8dLUPV-Ycs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Feb 2026 | Air Sebagai Berkat",
-                        "date": "2026-02-23",
-                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
-                        "link": "https://www.youtube.com/watch?v=hi4KsSmfIPU",
-                        "thumbnail": "https://i1.ytimg.com/vi/hi4KsSmfIPU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Feb 2026 | Hemat Energi, Selamatkan Bumi",
-                        "date": "2026-02-22",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=HqkDSFhjEtw",
-                        "thumbnail": "https://i1.ytimg.com/vi/HqkDSFhjEtw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
