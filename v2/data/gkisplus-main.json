@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5404,
-        "last-update": 1773029102,
-        "last-updated-item": "yt",
+        "update-count": 5405,
+        "last-update": 1773029554,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5474,6 +5474,34 @@
                 "note": "-"
             },
             {
+                "name": "latihan tim musik untuk ibadah",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-03-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "latihan tim.musik untuk ibadah",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-03-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Seminar anak",
                 "time": "07:00",
                 "time-to": "12:30",
@@ -5877,34 +5905,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "latihan tim musik untuk ibadah",
-                "time": "19:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-03-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Paklik Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "latihan tim.musik untuk ibadah",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-03-11",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "w",
                 "note": ""
             },
             {
