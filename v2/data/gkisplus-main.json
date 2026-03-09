@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5409,
-        "last-update": 1773042488,
+        "update-count": 5410,
+        "last-update": 1773045503,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5363,6 +5363,20 @@
                 "note": "Minta disiapkan LCD Proyektor"
             },
             {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-03-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Adita Sutresno",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Parenting dan cek kesehatan dari dinkes",
                 "time": "07:00",
                 "time-to": "12:00",
@@ -5475,6 +5489,20 @@
                 "note": ""
             },
             {
+                "name": "Kebaktian Jum'at Agung KA",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-04-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5541,7 +5569,21 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
-                "status": "w",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Paskah Komisi Anak",
+                "time": "15:30",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2026-04-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5571,6 +5613,48 @@
                 "pic": "Pak Wahyu",
                 "status": "y",
                 "note": "Alat luar : angklung sekolah"
+            },
+            {
+                "name": "Gladi Kotor Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb Tito",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Gladi Bersih Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-04-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb Tito",
+                "status": "n",
+                "note": "-"
+            },
+            {
+                "name": "Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
+                "time": "13:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb Tito",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -5738,90 +5822,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapan Atestasi Masuk",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-03-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Adita Sutresno",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Kotor Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
-                "time": "16:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-04-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "Caleb Tito",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Gladi Bersih Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
-                "time": "16:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-04-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "Caleb Tito",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
-                "time": "13:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-04-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Caleb Tito",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Kebaktian Jum'at Agung KA",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2026-04-03",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Paskah Komisi Anak",
-                "time": "15:30",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2026-04-11",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
                 "note": ""
             },
             {
