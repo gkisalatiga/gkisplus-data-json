@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5407,
-        "last-update": 1773035323,
-        "last-updated-item": "yt",
+        "update-count": 5408,
+        "last-update": 1773039348,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5738,6 +5738,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-03-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Adita Sutresno",
+                "status": "w",
                 "note": ""
             },
             {
