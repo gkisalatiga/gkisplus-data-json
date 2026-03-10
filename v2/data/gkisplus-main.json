@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5418,
-        "last-update": 1773131231,
-        "last-updated-item": "yt",
+        "update-count": 5419,
+        "last-update": 1773132788,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5878,6 +5878,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih Hosana",
+                "time": "08:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2026-03-14",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Renny",
+                "status": "w",
                 "note": ""
             },
             {
