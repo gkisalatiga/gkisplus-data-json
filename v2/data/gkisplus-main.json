@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5413,
-        "last-update": 1773106141,
+        "update-count": 5414,
+        "last-update": 1773114717,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5321,6 +5321,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat sie acara dan musik panitia paskah KRKP GKI Salatiga",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-03-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb Tito",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "latihan tim.musik untuk ibadah",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -5333,6 +5347,20 @@
                 "pic": "Uncle Vidra",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pengembangan musik SoDa ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "y",
+                "note": "Minta dibuatkan Teh "
             },
             {
                 "name": "Seminar anak",
@@ -5823,34 +5851,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat sie acara dan musik panitia paskah KRKP GKI Salatiga",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-03-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Remaja",
-                "pic": "Caleb Tito",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Pengembangan musik SoDa ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-03-11",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Yunita Tella ",
-                "status": "w",
-                "note": "Minta dibuatkan Teh "
             },
             {
                 "name": "PA Wilayah 5",
