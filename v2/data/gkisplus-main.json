@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5416,
-        "last-update": 1773119212,
+        "update-count": 5417,
+        "last-update": 1773126741,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5332,6 +5332,20 @@
                 "pic": "Pnt. Adita Sutresno",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Bahan KUL Sinode",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-03-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Em. Iman Santoso",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "Parenting dan cek kesehatan dari dinkes",
