@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5419,
-        "last-update": 1773132788,
-        "last-updated-item": "agenda",
+        "update-count": 5420,
+        "last-update": 1773173950,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Mar 2026 | Stop Buang Sampah ke Sungai",
+                        "date": "2026-03-10",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=SGKoZQeTCzM",
+                        "thumbnail": "https://i4.ytimg.com/vi/SGKoZQeTCzM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Mar 2026 | Sungguh Amat Baik",
                         "date": "2026-03-09",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Sandy Murniati Santoso",
                         "link": "https://www.youtube.com/watch?v=bZ1EybLSY-Q",
                         "thumbnail": "https://i3.ytimg.com/vi/bZ1EybLSY-Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Feb 2026 | Saat Cakrawala Terhalang Plastik",
-                        "date": "2026-02-25",
-                        "desc": "Dibawakan oleh Sdr. Bambang Setiadhy",
-                        "link": "https://www.youtube.com/watch?v=4edCY1JCq7s",
-                        "thumbnail": "https://i1.ytimg.com/vi/4edCY1JCq7s/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
