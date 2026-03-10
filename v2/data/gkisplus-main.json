@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5415,
-        "last-update": 1773115038,
-        "last-updated-item": "yt",
+        "update-count": 5416,
+        "last-update": 1773119212,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5276,6 +5276,20 @@
                 "pic": "Yunita Tella ",
                 "status": "y",
                 "note": "Minta dibuatkan Teh "
+            },
+            {
+                "name": "Rapat Tim Informatika",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono",
+                "status": "y",
+                "note": "Minta disiapkan teh"
             },
             {
                 "name": "Seminar anak",
