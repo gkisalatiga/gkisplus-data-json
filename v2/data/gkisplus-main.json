@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5425,
-        "last-update": 1773243918,
-        "last-updated-item": "agenda",
+        "update-count": 5426,
+        "last-update": 1773250785,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Mar 2026 | Dilarang Menginjak Rumput",
+                        "date": "2026-03-11",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=iZG-eR-EoV0",
+                        "thumbnail": "https://i2.ytimg.com/vi/iZG-eR-EoV0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Mar 2026 | Stop Buang Sampah ke Sungai",
                         "date": "2026-03-10",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=q2bD03Bd1n8",
                         "thumbnail": "https://i2.ytimg.com/vi/q2bD03Bd1n8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Feb 2026 | Saat Banjir Meraja",
-                        "date": "2026-02-26",
-                        "desc": "Dibawakan oleh Ibu Sandy Murniati Santoso",
-                        "link": "https://www.youtube.com/watch?v=bZ1EybLSY-Q",
-                        "thumbnail": "https://i3.ytimg.com/vi/bZ1EybLSY-Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
