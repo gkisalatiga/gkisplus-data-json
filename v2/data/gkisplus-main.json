@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5423,
-        "last-update": 1773213947,
+        "update-count": 5424,
+        "last-update": 1773216014,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5433,6 +5433,20 @@
                 "note": "Minta disiapkan teh"
             },
             {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-03-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
                 "name": "Parenting dan cek kesehatan dari dinkes",
                 "time": "07:00",
                 "time-to": "12:00",
@@ -5499,6 +5513,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-03-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
                 "status": "y",
                 "note": ""
             },
@@ -5907,34 +5949,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-03-17",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "10:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-03-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "PA Wilayah 5",
