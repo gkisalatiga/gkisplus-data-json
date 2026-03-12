@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5427,
-        "last-update": 1773288147,
-        "last-updated-item": "yt",
+        "update-count": 5428,
+        "last-update": 1773292511,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5340,7 +5340,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Lainnya",
                 "pic": "Bayu / Mr.Tommy",
-                "status": "w",
+                "status": "y",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
