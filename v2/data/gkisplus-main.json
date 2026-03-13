@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5433,
-        "last-update": 1773374449,
-        "last-updated-item": "yt",
+        "update-count": 5434,
+        "last-update": 1773374877,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5372,6 +5372,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Electone",
+                "time": "12:15",
+                "time-to": "13:15",
+                "timezone": "WIB",
+                "date": "2026-03-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "y",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
                 "name": "Gladi bersih Hosana",
                 "time": "08:00",
                 "time-to": "09:00",
@@ -5846,20 +5860,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Latihan Electone",
-                "time": "12:15",
-                "time-to": "13:15",
-                "timezone": "WIB",
-                "date": "2026-03-13",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Bayu / Mr.Tommy",
-                "status": "w",
-                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "PA Wilayah 5",
