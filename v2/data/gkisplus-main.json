@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5439,
-        "last-update": 1773472188,
+        "update-count": 5440,
+        "last-update": 1773474862,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5418,6 +5418,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ Bidang 1",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-03-15",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD dan  Jenis Sloki PK disiapkan di Meja"
+            },
+            {
                 "name": "Rapat Pengurus wilayah 11 ",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5878,20 +5892,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat MJ Bidang 1",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-03-15",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy Ch. N. Ballo",
-                "status": "w",
-                "note": "Minta disiapkan LCD dan  Jenis Sloki PK disiapkan di Meja"
             },
             {
                 "name": "PA Wilayah 5",
