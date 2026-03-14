@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5441,
-        "last-update": 1773476448,
-        "last-updated-item": "yt",
+        "update-count": 5442,
+        "last-update": 1773483763,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5984,6 +5984,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Sie Acara MRP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih saja"
             },
             {
                 "name": "PA Wilayah 5",
