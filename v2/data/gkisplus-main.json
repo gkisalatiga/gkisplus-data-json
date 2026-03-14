@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5443,
-        "last-update": 1773486872,
-        "last-updated-item": "yt",
+        "update-count": 5444,
+        "last-update": 1773487196,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6000,10 +6000,10 @@
                 "date": "2026-03-16",
                 "weekday": "mon",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Kapernaum",
                 "representative": "Panitia",
                 "pic": "Iryatun Trikorini ",
-                "status": "w",
+                "status": "y",
                 "note": "Terima kasih saja"
             },
             {
