@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5437,
-        "last-update": 1773460776,
+        "update-count": 5438,
+        "last-update": 1773462745,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2040,6 +2040,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 15 Maret 2026",
+                    "date": "2026-03-14",
+                    "link": "https://drive.google.com/file/d/1T0IT3z1LS7HxcGh4-qlO15CVpOIoQ2D5/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-15-maret-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1T0IT3z1LS7HxcGh4-qlO15CVpOIoQ2D5",
+                    "id": "1T0IT3z1LS7HxcGh4-qlO15CVpOIoQ2D5",
+                    "size": "2.35 MB"
+                },
+                {
                     "title": "Warta Jemaat 8 Maret 2026",
                     "date": "2026-03-07",
                     "link": "https://drive.google.com/file/d/1jkzPIOwVisyDNdJtmtGaEKllyqsGOqvR/view",
@@ -2788,6 +2797,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 15 Maret 2026 - Prapaskah IV",
+                    "date": "2026-03-14",
+                    "link": "https://drive.google.com/file/d/16-dORqBsQTJ5aY8LkOrJ4MXvrqFE1t6E/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-15-maret-2026-prapaskah-iv/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=16-dORqBsQTJ5aY8LkOrJ4MXvrqFE1t6E",
+                    "id": "16-dORqBsQTJ5aY8LkOrJ4MXvrqFE1t6E",
+                    "size": "1.14 MB"
+                },
                 {
                     "title": "Tata Ibadah 8 Maret 2026 - Prapaskah III",
                     "date": "2026-03-07",
@@ -4927,20 +4945,20 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk_3.webp",
-                "title": "Lowongan Magang",
-                "type": "poster",
-                "date-created": "2026-03-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_info_apk_3.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 14 Maret",
                 "type": "poster",
                 "date-created": "2026-03-06",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk_3.webp",
+                "title": "Lowongan Magang",
+                "type": "poster",
+                "date-created": "2026-03-14",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_info_apk_3.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
