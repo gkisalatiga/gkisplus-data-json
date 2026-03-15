@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5448,
-        "last-update": 1773548530,
+        "update-count": 5449,
+        "last-update": 1773563023,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,99 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Mar 2026 | Reuse; Menggunakan Kembali Barang-Barang Yang Sudah Tidak Terpakai.",
+                        "date": "2026-03-13",
+                        "desc": "Dibawakan oleh Sdri. Dita Puspita Sari",
+                        "link": "https://www.youtube.com/watch?v=q5zfMuqecF4",
+                        "thumbnail": "https://i2.ytimg.com/vi/q5zfMuqecF4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Mar 2026 | Langkah Kecil Banyak Keajaiban",
+                        "date": "2026-03-12",
+                        "desc": "Dibawakan oleh Sdri. Irma Picauly",
+                        "link": "https://www.youtube.com/watch?v=vJak4zzNuyA",
+                        "thumbnail": "https://i3.ytimg.com/vi/vJak4zzNuyA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Mar 2026 | Dilarang Menginjak Rumput",
+                        "date": "2026-03-11",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=iZG-eR-EoV0",
+                        "thumbnail": "https://i2.ytimg.com/vi/iZG-eR-EoV0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 11 Mar 2026 | Stop Buang Sampah ke Sungai",
+                        "date": "2026-03-10",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=SGKoZQeTCzM",
+                        "thumbnail": "https://i4.ytimg.com/vi/SGKoZQeTCzM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Mar 2026 | Sungguh Amat Baik",
+                        "date": "2026-03-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=k3GuyvHNUw4",
+                        "thumbnail": "https://i4.ytimg.com/vi/k3GuyvHNUw4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 16 Mar 2026 | Zea Mays",
+                        "date": "2026-03-08",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=z7iPQke2AUY",
+                        "thumbnail": "https://i3.ytimg.com/vi/z7iPQke2AUY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Mar 2026 | Hutan Kita Masa Depan Anak Cucu Kita",
+                        "date": "2026-03-08",
+                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
+                        "link": "https://www.youtube.com/watch?v=_XqppYITI38",
+                        "thumbnail": "https://i4.ytimg.com/vi/_XqppYITI38/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Mar 2026 | Merawat Bumi Memuliakan Pencipta",
+                        "date": "2026-03-06",
+                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
+                        "link": "https://www.youtube.com/watch?v=PM746pk6fWU",
+                        "thumbnail": "https://i1.ytimg.com/vi/PM746pk6fWU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Mar 2026 | Indahnya Merasa Cukup",
+                        "date": "2026-03-05",
+                        "desc": "Dibawakan oleh Ibu Susan Pakpahan",
+                        "link": "https://www.youtube.com/watch?v=RcYueIhbgZc",
+                        "thumbnail": "https://i3.ytimg.com/vi/RcYueIhbgZc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Mar 2026 | Mengerikan! Ambisi Menguasai Alam",
+                        "date": "2026-03-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=odXHL-_0pbo",
+                        "thumbnail": "https://i4.ytimg.com/vi/odXHL-_0pbo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Mar 2026 | Menjadi Pelaku Estafet Kehidupan",
+                        "date": "2026-03-03",
+                        "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
+                        "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
+                        "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
+                        "date": "2026-03-02",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=K8QnFHTL6gs",
+                        "thumbnail": "https://i4.ytimg.com/vi/K8QnFHTL6gs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Mar 2026 | Rahasia Tumbuh",
+                        "date": "2026-03-01",
+                        "desc": "Dibawakan oleh Pnt. Ervien Dian Widyawati",
+                        "link": "https://www.youtube.com/watch?v=xeOVizR7Mt8",
+                        "thumbnail": "https://i1.ytimg.com/vi/xeOVizR7Mt8/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
