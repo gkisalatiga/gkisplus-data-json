@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5450,
-        "last-update": 1773584402,
-        "last-updated-item": "yt",
+        "update-count": 5451,
+        "last-update": 1773584748,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6077,6 +6077,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": "Terima kasih saja"
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "17:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Catur Winarno",
+                "status": "w",
+                "note": "Minta dibuatkan minum Teh"
             },
             {
                 "name": "PA Wilayah 5",
