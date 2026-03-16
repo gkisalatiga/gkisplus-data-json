@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5455,
-        "last-update": 1773641858,
+        "update-count": 5456,
+        "last-update": 1773647574,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5313,6 +5313,20 @@
                 "pic": "A.M. Widiatmoko",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat BPMJ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan LCD di kantor gereja"
             },
             {
                 "name": "PA wilayah 11",
