@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5454,
-        "last-update": 1773636215,
+        "update-count": 5455,
+        "last-update": 1773641858,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5257,6 +5257,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": "Terima kasih saja"
+            },
+            {
+                "name": "Latihan PS GKI Salatiga",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Anti",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
