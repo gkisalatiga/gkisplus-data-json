@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5461,
-        "last-update": 1773737096,
+        "update-count": 5462,
+        "last-update": 1773747576,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5802,6 +5802,20 @@
                 "place": "Ruang Betania ( Lantai 2)",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih Jumat Agung KA",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-03-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             },
