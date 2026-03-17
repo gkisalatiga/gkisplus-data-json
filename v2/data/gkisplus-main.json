@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5460,
-        "last-update": 1773711998,
+        "update-count": 5461,
+        "last-update": 1773737096,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5790,6 +5790,20 @@
                 "pic": "Caleb ",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Aksi Sosial KR",
+                "time": "16:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-03-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
