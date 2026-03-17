@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5462,
-        "last-update": 1773747576,
-        "last-updated-item": "agenda",
+        "update-count": 5463,
+        "last-update": 1773758804,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Mar 2026 | Bantu Bumi Untuk Pulih",
+                        "date": "2026-03-17",
+                        "desc": "Dibawakan oleh Ibu Trevie Rumuat",
+                        "link": "https://www.youtube.com/watch?v=39ts_nuv8t8",
+                        "thumbnail": "https://i4.ytimg.com/vi/39ts_nuv8t8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Mar 2026 | Mensyukuri dan Menjaga Rumah Kita",
                         "date": "2026-03-16",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
                         "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
                         "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Mar 2026 | Peka Terhadap Dampak Budaya Konsumtif",
-                        "date": "2026-03-02",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=K8QnFHTL6gs",
-                        "thumbnail": "https://i4.ytimg.com/vi/K8QnFHTL6gs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
