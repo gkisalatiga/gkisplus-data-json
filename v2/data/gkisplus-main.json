@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5469,
-        "last-update": 1773843815,
-        "last-updated-item": "agenda",
+        "update-count": 5470,
+        "last-update": 1773856273,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Mar 2026 | Ciptaan Tuhan Tidak Ada Yang Sia sia",
+                        "date": "2026-03-18",
+                        "desc": "Dibawakan oleh Pnt. Catur Winarno",
+                        "link": "https://www.youtube.com/watch?v=mo5Fm_9-dzM",
+                        "thumbnail": "https://i2.ytimg.com/vi/mo5Fm_9-dzM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Mar 2026 | Bantu Bumi Untuk Pulih",
                         "date": "2026-03-17",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=odXHL-_0pbo",
                         "thumbnail": "https://i4.ytimg.com/vi/odXHL-_0pbo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Mar 2026 | Menjadi Pelaku Estafet Kehidupan",
-                        "date": "2026-03-03",
-                        "desc": "Dibawakan oleh Bpk. Nathanael Harjono",
-                        "link": "https://www.youtube.com/watch?v=39TCksGFqLU",
-                        "thumbnail": "https://i4.ytimg.com/vi/39TCksGFqLU/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
