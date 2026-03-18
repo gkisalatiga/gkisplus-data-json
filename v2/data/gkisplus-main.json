@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5463,
-        "last-update": 1773758804,
-        "last-updated-item": "yt",
+        "update-count": 5464,
+        "last-update": 1773798674,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5816,6 +5816,48 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "13:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-03-29",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan jumat agung KA",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-03-18",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Asputri",
                 "status": "w",
                 "note": ""
             },
