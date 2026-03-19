@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5473,
-        "last-update": 1773919561,
-        "last-updated-item": "yt",
+        "update-count": 5474,
+        "last-update": 1773924838,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5872,6 +5872,34 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Panji",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas Jumat Agung dan Paskah",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-03-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Gloria ",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan ibadah Minggu 22 Maret 2026",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-03-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Stefanus",
                 "status": "w",
                 "note": ""
             },
