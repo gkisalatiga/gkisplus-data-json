@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5472,
-        "last-update": 1773908924,
+        "update-count": 5473,
+        "last-update": 1773919561,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Mar 2026 | Hati yang Rusak Bumi yang Terluka",
+                        "date": "2026-03-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=n73Qv4AnNCs",
+                        "thumbnail": "https://i3.ytimg.com/vi/n73Qv4AnNCs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Mar 2026 | Ciptaan Tuhan Tidak Ada Yang Sia sia",
                         "date": "2026-03-18",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Susan Pakpahan",
                         "link": "https://www.youtube.com/watch?v=RcYueIhbgZc",
                         "thumbnail": "https://i3.ytimg.com/vi/RcYueIhbgZc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Mar 2026 | Mengerikan! Ambisi Menguasai Alam",
-                        "date": "2026-03-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=odXHL-_0pbo",
-                        "thumbnail": "https://i4.ytimg.com/vi/odXHL-_0pbo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
