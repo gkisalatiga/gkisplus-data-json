@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5476,
-        "last-update": 1773985365,
+        "update-count": 5477,
+        "last-update": 1774017294,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Mar 2026 | Tindakan Kecil Yang Berdampak Besar",
+                        "date": "2026-03-20",
+                        "desc": "Dibawakan oleh Sdri. Claudia Sing",
+                        "link": "https://www.youtube.com/watch?v=_0DYWdTUhOA",
+                        "thumbnail": "https://i4.ytimg.com/vi/_0DYWdTUhOA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Mar 2026 | Hati yang Rusak Bumi yang Terluka",
                         "date": "2026-03-19",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Chrisna Sabang",
                         "link": "https://www.youtube.com/watch?v=PM746pk6fWU",
                         "thumbnail": "https://i1.ytimg.com/vi/PM746pk6fWU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Mar 2026 | Indahnya Merasa Cukup",
-                        "date": "2026-03-05",
-                        "desc": "Dibawakan oleh Ibu Susan Pakpahan",
-                        "link": "https://www.youtube.com/watch?v=RcYueIhbgZc",
-                        "thumbnail": "https://i3.ytimg.com/vi/RcYueIhbgZc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
