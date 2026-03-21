@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5478,
-        "last-update": 1774017839,
+        "update-count": 5479,
+        "last-update": 1774070514,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2139,6 +2139,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 22 Maret 2026",
+                    "date": "2026-03-21",
+                    "link": "https://drive.google.com/file/d/1lm3_GY8V4_Ll4xZnXTAv4GyDF3v-yGc8/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-22-maret-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1lm3_GY8V4_Ll4xZnXTAv4GyDF3v-yGc8",
+                    "id": "1lm3_GY8V4_Ll4xZnXTAv4GyDF3v-yGc8",
+                    "size": "2.62 MB"
+                },
+                {
                     "title": "Warta Jemaat 15 Maret 2026",
                     "date": "2026-03-14",
                     "link": "https://drive.google.com/file/d/1T0IT3z1LS7HxcGh4-qlO15CVpOIoQ2D5/view",
@@ -2896,6 +2905,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 22 Maret 2026 - Prapaskah V",
+                    "date": "2026-03-21",
+                    "link": "https://drive.google.com/file/d/1UR_9G0JpIqbrn8Zl-5OGxuzhFtuzh978/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-22-maret-2026-prapaskah-v/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=16-dORqBsQTJ5aY8LkOrJ4MXvrqFE1t6E",
+                    "id": "16-dORqBsQTJ5aY8LkOrJ4MXvrqFE1t6E",
+                    "size": "0.63 MB"
+                },
                 {
                     "title": "Tata Ibadah 15 Maret 2026 - Prapaskah IV",
                     "date": "2026-03-14",
@@ -5044,15 +5062,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi-Pundi Samaria",
-                "type": "poster",
-                "date-created": "2026-03-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 21 Maret",
                 "type": "poster",
@@ -5112,6 +5121,15 @@
                 "type": "poster",
                 "date-created": "2026-03-07",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "title": "Pundi-Pundi Samaria",
+                "type": "poster",
+                "date-created": "2026-03-21",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
