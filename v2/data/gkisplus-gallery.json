@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 72,
-        "last-update": 1772982971,
+        "update-count": 73,
+        "last-update": 1774071080,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -28831,6 +28831,126 @@
                             "id": "1vv9CxRK8JwKeFHIXaTmQZNdra7KhsKwN",
                             "name": "DSCF8478.JPG",
                             "date": "2026-03-08"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1BRKa7BX4uLI3DN1G5cN2hpyvAXuORQ3V",
+                    "last_update": "2026-03-21",
+                    "featured_photo_id": "15ItBzmW-pMUFPKLhcgKZTV5ZtrKZ7DOM",
+                    "story": "Foto-foto dokumentasi Pembinaan Pemandu Pemahaman Alkitab yang dilaksanakan pada 15 Maret 2026.",
+                    "title": "Pembinaan Pemandu Pemahaman Alkitab",
+                    "event_date": "2026.03.15",
+                    "photos": [
+                        {
+                            "id": "1Ag4lQ5YI7FO7RIR_Z09HtSpiK4xiO8ib",
+                            "name": "YSA04083.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1vqOKkvB0htibJKCy0ONr7KO-0vJDdsBT",
+                            "name": "YSA04039.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1Va8YSnRPetGx4CrG3sIH9eTMyivzDsWz",
+                            "name": "YSA04037.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1Y-OIDc0e6AXP_sx5BfNImd-KcdEhJzml",
+                            "name": "YSA04062.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1Cvaugnru8dIqOiUOi8JxBDV4SRNpYZsg",
+                            "name": "YSA04040.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1JVuMV7Usx4gZQ_dIhWZpMF-H8KLaO-oF",
+                            "name": "YSA04051.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1632SWhSchUJFQ0wfZggIlzk9iEd9MTGO",
+                            "name": "YSA04064.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1CkV60eV3etsM2CA0GPCF4jd5aegeQ9i-",
+                            "name": "YSA03969.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1WOO5UOIBrbYd6p7IKH4cQbDEZoqZA72W",
+                            "name": "YSA04079.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1uSZuGNkr53EMSyefr4mztEejSALppZZY",
+                            "name": "YSA03824.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1i5BWV_DpSIpXQlfRJY82d05bQizNZZb0",
+                            "name": "WhatsApp Image 2026-03-15 at 9.50.44 PM(1).jpeg",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1rhLa89rp7aZTgwIggVAxdBLmGhvsWpUc",
+                            "name": "YSA03889.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1VzLcRuXKs1NB7JdqvBvQXvlF9wWirZLN",
+                            "name": "YSA04098.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1HrusfhZuk9m1yfYhzLkFHF6NWLGlYW55",
+                            "name": "YSA03853.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1d2NwXSQ2RzWw7QnGIxjvbMDCwhwEymTF",
+                            "name": "WhatsApp Image 2026-03-15 at 9.50.45 PM.jpeg",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "16Z5LK__oNghzROtV6enW81JmDWF3crC7",
+                            "name": "YSA03928.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "19_ie0LF-MoFWyRQ9qGJtgLq9YnwE5haU",
+                            "name": "YSA04021.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1FsRcJV_K8UtJcEp_ql3M2M1ZDnKcDuGW",
+                            "name": "YSA04013.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1nTZyvsHNcGZ5SetvB7K4d1U75DjYH7rp",
+                            "name": "YSA04070.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1_4rE7ib4RJX7Uzq8X03iKLzrtnwz-E4i",
+                            "name": "YSA03985.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "1qFC1WFRiHbNfwqWrnvGyxd9XgeVLQeV-",
+                            "name": "YSA03988.JPG",
+                            "date": "2026-03-21"
+                        },
+                        {
+                            "id": "121K6yvEMjpVHyA73NXxYeiWjf6KAhNXp",
+                            "name": "YSA03964.JPG",
+                            "date": "2026-03-21"
                         }
                     ]
                 }
