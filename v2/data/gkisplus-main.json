@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5490,
-        "last-update": 1774183208,
+        "update-count": 5491,
+        "last-update": 1774186806,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6158,6 +6158,34 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Sabtu Sunyi",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Martin",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Sabtu Sunyi",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-03-30",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Martin",
                 "status": "w",
                 "note": ""
             },
