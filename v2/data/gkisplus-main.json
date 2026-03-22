@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5493,
-        "last-update": 1774199766,
+        "update-count": 5494,
+        "last-update": 1774210344,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Mar 2026 | Jaga Udara Kita",
+                        "date": "2026-03-22",
+                        "desc": "Dibawakan oleh Bpk. Pramudya",
+                        "link": "https://www.youtube.com/watch?v=OiNF2DF-ucE",
+                        "thumbnail": "https://i4.ytimg.com/vi/OiNF2DF-ucE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Mar 2026 | Tindakan Kecil Yang Berdampak Besar",
                         "date": "2026-03-20",
