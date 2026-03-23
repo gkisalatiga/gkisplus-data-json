@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5494,
-        "last-update": 1774210344,
-        "last-updated-item": "yt",
+        "update-count": 5495,
+        "last-update": 1774230755,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6166,6 +6166,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Martin",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan paskah ceria 2026",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-03-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Panitia",
+                "pic": "Caleb ",
                 "status": "w",
                 "note": ""
             },
