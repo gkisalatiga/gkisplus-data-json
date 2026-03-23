@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5498,
-        "last-update": 1774255294,
+        "update-count": 5499,
+        "last-update": 1774287670,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Mar 2026 | Setetes Air Sebesar Iman",
+                        "date": "2026-03-22",
+                        "desc": "Dibawakan oleh Sdri. Jantini Natangku",
+                        "link": "https://www.youtube.com/watch?v=XHXhCuv9L0M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XHXhCuv9L0M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Mar 2026 | Jaga Udara Kita",
                         "date": "2026-03-22",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=k3GuyvHNUw4",
                         "thumbnail": "https://i4.ytimg.com/vi/k3GuyvHNUw4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Mar 2026 | Hutan Kita Masa Depan Anak Cucu Kita",
-                        "date": "2026-03-08",
-                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
-                        "link": "https://www.youtube.com/watch?v=_XqppYITI38",
-                        "thumbnail": "https://i4.ytimg.com/vi/_XqppYITI38/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
