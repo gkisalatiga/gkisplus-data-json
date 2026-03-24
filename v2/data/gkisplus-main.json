@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5503,
-        "last-update": 1774331531,
-        "last-updated-item": "yt",
+        "update-count": 5504,
+        "last-update": 1774341981,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6238,6 +6238,20 @@
                 "pic": "SUSETYO RINI ",
                 "status": "w",
                 "note": "Tidak ada"
+            },
+            {
+                "name": "Latihan Petugas Paskah KA",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-03-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Gloria",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
