@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5504,
-        "last-update": 1774341981,
-        "last-updated-item": "agenda",
+        "update-count": 5505,
+        "last-update": 1774352178,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |  Mar 2026 | Let Save The Earth",
+                        "date": "2026-03-24",
+                        "desc": "Dibawakan oleh Pdt. Irene Ludji",
+                        "link": "https://www.youtube.com/watch?v=4QlBYKioZJg",
+                        "thumbnail": "https://i1.ytimg.com/vi/4QlBYKioZJg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Mar 2026 | Setetes Air Sebesar Iman",
                         "date": "2026-03-23",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=SGKoZQeTCzM",
                         "thumbnail": "https://i4.ytimg.com/vi/SGKoZQeTCzM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Mar 2026 | Sungguh Amat Baik",
-                        "date": "2026-03-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=k3GuyvHNUw4",
-                        "thumbnail": "https://i4.ytimg.com/vi/k3GuyvHNUw4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
