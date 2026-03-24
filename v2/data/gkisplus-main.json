@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5501,
-        "last-update": 1774325172,
-        "last-updated-item": "yt",
+        "update-count": 5502,
+        "last-update": 1774325630,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6132,6 +6132,20 @@
                 "pic": "Sasa dan Icha ",
                 "status": "w",
                 "note": "Latihan terakhir untuk acara Fellowship Paskah KRKP"
+            },
+            {
+                "name": "Rapat Pengurus wilayah ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "SUSETYO RINI ",
+                "status": "w",
+                "note": "Tidak ada"
             },
             {
                 "name": "PA Wilayah 5",
