@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5511,
-        "last-update": 1774427756,
+        "update-count": 5512,
+        "last-update": 1774460903,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Mar 2026 | Together We Make a Better Environment",
+                        "date": "2026-03-25",
+                        "desc": "Dibawakan oleh Ibu RIni Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=5VQo5rS-u3M",
+                        "thumbnail": "https://i2.ytimg.com/vi/5VQo5rS-u3M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Mar 2026 | Let Save The Earth",
                         "date": "2026-03-24",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Irma Picauly",
                         "link": "https://www.youtube.com/watch?v=vJak4zzNuyA",
                         "thumbnail": "https://i3.ytimg.com/vi/vJak4zzNuyA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Mar 2026 | Dilarang Menginjak Rumput",
-                        "date": "2026-03-11",
-                        "desc": "Dibawakan oleh Bpk. Junianto",
-                        "link": "https://www.youtube.com/watch?v=iZG-eR-EoV0",
-                        "thumbnail": "https://i2.ytimg.com/vi/iZG-eR-EoV0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
