@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5510,
-        "last-update": 1774421809,
-        "last-updated-item": "agenda",
+        "update-count": 5511,
+        "last-update": 1774427756,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,92 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Mar 2026 | Let Save The Earth",
+                        "date": "2026-03-24",
+                        "desc": "Dibawakan oleh Pdt. Irene Ludji",
+                        "link": "https://www.youtube.com/watch?v=4QlBYKioZJg",
+                        "thumbnail": "https://i1.ytimg.com/vi/4QlBYKioZJg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Mar 2026 | Setetes Air Sebesar Iman",
+                        "date": "2026-03-23",
+                        "desc": "Dibawakan oleh Sdri. Jantini Natangku",
+                        "link": "https://www.youtube.com/watch?v=XHXhCuv9L0M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XHXhCuv9L0M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Mar 2026 | Jaga Udara Kita",
+                        "date": "2026-03-22",
+                        "desc": "Dibawakan oleh Bpk. Pramudya",
+                        "link": "https://www.youtube.com/watch?v=OiNF2DF-ucE",
+                        "thumbnail": "https://i4.ytimg.com/vi/OiNF2DF-ucE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Mar 2026 | Tindakan Kecil Yang Berdampak Besar",
+                        "date": "2026-03-20",
+                        "desc": "Dibawakan oleh Sdri. Claudia Sing",
+                        "link": "https://www.youtube.com/watch?v=_0DYWdTUhOA",
+                        "thumbnail": "https://i4.ytimg.com/vi/_0DYWdTUhOA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Mar 2026 | Hati yang Rusak Bumi yang Terluka",
+                        "date": "2026-03-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=n73Qv4AnNCs",
+                        "thumbnail": "https://i3.ytimg.com/vi/n73Qv4AnNCs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 19 Mar 2026 | Ciptaan Tuhan Tidak Ada Yang Sia sia",
+                        "date": "2026-03-18",
+                        "desc": "Dibawakan oleh Pnt. Catur Winarno",
+                        "link": "https://www.youtube.com/watch?v=mo5Fm_9-dzM",
+                        "thumbnail": "https://i2.ytimg.com/vi/mo5Fm_9-dzM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 18 Mar 2026 | Bantu Bumi Untuk Pulih",
+                        "date": "2026-03-17",
+                        "desc": "Dibawakan oleh Ibu Trevie Rumuat",
+                        "link": "https://www.youtube.com/watch?v=39ts_nuv8t8",
+                        "thumbnail": "https://i4.ytimg.com/vi/39ts_nuv8t8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 17 Mar 2026 | Mensyukuri dan Menjaga Rumah Kita",
+                        "date": "2026-03-16",
+                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
+                        "link": "https://www.youtube.com/watch?v=BRGAvDUKtAs",
+                        "thumbnail": "https://i3.ytimg.com/vi/BRGAvDUKtAs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 16 Mar 2026 | Zea Mays",
+                        "date": "2026-03-15",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=z7iPQke2AUY",
+                        "thumbnail": "https://i3.ytimg.com/vi/z7iPQke2AUY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Mar 2026 | Reuse; Menggunakan Kembali Barang-Barang Yang Sudah Tidak Terpakai.",
+                        "date": "2026-03-13",
+                        "desc": "Dibawakan oleh Sdri. Dita Puspita Sari",
+                        "link": "https://www.youtube.com/watch?v=q5zfMuqecF4",
+                        "thumbnail": "https://i2.ytimg.com/vi/q5zfMuqecF4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Mar 2026 | Langkah Kecil Banyak Keajaiban",
+                        "date": "2026-03-12",
+                        "desc": "Dibawakan oleh Sdri. Irma Picauly",
+                        "link": "https://www.youtube.com/watch?v=vJak4zzNuyA",
+                        "thumbnail": "https://i3.ytimg.com/vi/vJak4zzNuyA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Mar 2026 | Dilarang Menginjak Rumput",
+                        "date": "2026-03-11",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=iZG-eR-EoV0",
+                        "thumbnail": "https://i2.ytimg.com/vi/iZG-eR-EoV0/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -473,6 +558,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN Usia Lanjut GKI Salatiga | 26 Maret 2026 | \u201cMemento Mori (Ingatlah, Anda akan mati)\u201d",
+                        "date": "2026-03-25",
+                        "desc": "PERSEKUTUAN  USIA LANJUT GKI Salatiga\nKamis, 26 Maret 2026 | Pukul 16.00 WIB\n\nTema : \u201cMemento Mori (Ingatlah, Anda akan mati)\u201d\nPelayan Firman : Pdt. Helen Ruth Manurung\nMJP: Pnt Shielly\nPL: Bp. Santoso Adi Pribadi\nMusik: Ibu Retty & kak Samarthya\nVoice: Ibu Hana Ch Laihad\nMultimedia : kak Judica, kak Risti, kak Mario dan pak Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=EhR-MSZQEQM",
+                        "thumbnail": "https://i.ytimg.com/vi/EhR-MSZQEQM/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "PERSEKUTUAN Usia Lanjut GKI Salatiga | 19 Februari 2026 | \u201cHIDUP ADALAH MEWARIS\u201d",
                         "date": "2026-02-15",
                         "desc": "PERSEKUTUAN  USIA LANJUT GKI Salatiga\nKamis, 19 Februari 2026 | Pukul 16.00 WIB\n\nTema : \u201cHIDUP adalah MEWARIS\"\nPelayan Firman : Pdt. Elisabeth Parinsi\n\nMJP : -\nMusik : Ibu Retty, Samarthya \nPnk : \nPaduan Suara : PS. Efrata\nMultimedia : Joshua, Risti, Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -674,13 +766,6 @@
                         "desc": "*PERSEKUTUAN  USIA LANJUT GKI SALATIGA \n24 Agustus 2023 | Pukul 16.00 WIB\n\nTema : \u201cMelayani Dengan Hat\"\nDilayani oleh Yefta Setiawan Krisgunadi\nMJ : Pnt. Sri Yuniwati Retnoningsih\nPemusik : Ibu Retty \u2502PNK : Ibu Hana \u2502Tata Suara : Tonny Harnoto\nPPT : Deny Jaya\u2502 OBS : Joshua Abdi Gracia \u2502 Kamerawan : Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
                         "link": "https://www.youtube.com/watch?v=GhiCYCvjWkA",
                         "thumbnail": "https://i.ytimg.com/vi/GhiCYCvjWkA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "PERSEKUTUAN  USIA LANJUT GKI SALATIGA | \u201cFirman Tuhan Pemandu Hidup Kita\"",
-                        "date": "2023-07-19",
-                        "desc": "*PERSEKUTUAN  USIA LANJUT GKI SALATIGA \n20 Juli 2023 | Pukul 16.00 WIB\n\nTema : \u201cFirman Tuhan Pemandu Hidup Kita\"\nDilayani oleh Pdt. Helen Ruth Manurung\nMJ : Pnt. Desemy Ch. N. Ballo\nPemusik : Tabita + Aurel \u2502PNK : Hana Wongkar \u2502Tata Suara : Tonny Harnoto\nPPT : Deny Jaya\u2502 OBS : Joshua Abdi Gracia \u2502 Kamerawan : Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
-                        "link": "https://www.youtube.com/watch?v=IAJqUmYYpJA",
-                        "thumbnail": "https://i.ytimg.com/vi/IAJqUmYYpJA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
