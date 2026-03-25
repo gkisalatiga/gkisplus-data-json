@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5508,
-        "last-update": 1774411671,
-        "last-updated-item": "yt",
+        "update-count": 5509,
+        "last-update": 1774412171,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6188,6 +6188,20 @@
                 "pic": "Bayu / Mr.Tommy",
                 "status": "w",
                 "note": "Latihan Electone a/n Grace murid Mr.Tommy"
+            },
+            {
+                "name": "merangkai palem palmarum",
+                "time": "09:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-03-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Trevie",
+                "status": "w",
+                "note": "mohon di buatkan tes panas "
             },
             {
                 "name": "PA Wilayah 5",
