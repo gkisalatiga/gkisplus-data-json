@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5506,
-        "last-update": 1774363791,
-        "last-updated-item": "yt",
+        "update-count": 5507,
+        "last-update": 1774403422,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6252,6 +6252,34 @@
                 "pic": "Gloria",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik Persekutuan KUL",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-03-25",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Electone",
+                "time": "10:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-03-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Bayu / Mr.Tommy",
+                "status": "w",
+                "note": "Latihan Electone a/n Grace murid Mr.Tommy"
             },
             {
                 "name": "PA Wilayah 5",
