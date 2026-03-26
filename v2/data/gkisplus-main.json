@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5516,
-        "last-update": 1774499518,
+        "update-count": 5517,
+        "last-update": 1774510823,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6100,6 +6100,34 @@
                 "pic": "Yohana",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan drama paskah KRKP GKI Salatiga ",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-04-06",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan drama paskah KRKP GKI Salatiga",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-04-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Caleb",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
