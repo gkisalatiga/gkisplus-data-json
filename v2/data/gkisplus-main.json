@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5513,
-        "last-update": 1774471458,
-        "last-updated-item": "yt",
+        "update-count": 5514,
+        "last-update": 1774490192,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5291,118 +5291,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan Pemusik Ibadah KUL",
-                "time": "14:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-03-23",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Paskah",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-03-23",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Minggu Paskah",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-03-23",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-03-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "c",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik Paskah",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-03-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Minggu Paskah",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-03-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Sabtu Sunyi",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-03-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Martin",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan paskah ceria 2026",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-03-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Panitia",
-                "pic": "Caleb ",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "Latihan Tim Musik Chronicles",
                 "time": "19:00",
                 "time-to": "20:00",
@@ -5595,7 +5483,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5624,6 +5512,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Martin",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Persiapan Paskah KUL",
+                "time": "09:30",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-03-30",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5693,7 +5595,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5707,7 +5609,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5721,7 +5623,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Sasa dan Icha",
-                "status": "w",
+                "status": "y",
                 "note": "Latihan perdana acara Fellowship KRKP Paskah"
             },
             {
@@ -5861,7 +5763,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Sasa dan Icha",
-                "status": "w",
+                "status": "y",
                 "note": "Latihan kedua Fellowship Paskah KRKP"
             },
             {
@@ -5931,8 +5833,8 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Caleb",
-                "status": "w",
-                "note": "Bareng dg latihan PSDC"
+                "status": "y",
+                "note": "Sudah koord dg PSDC"
             },
             {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
@@ -6029,8 +5931,8 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Caleb",
-                "status": "w",
-                "note": "Bareng dg latihan PSDC"
+                "status": "y",
+                "note": "Sudah koord dg PSDC"
             },
             {
                 "name": "Latihan acara terakhir Fellowship Paskah KRKP",
@@ -6043,7 +5945,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Sasa dan Icha ",
-                "status": "w",
+                "status": "y",
                 "note": "Latihan terakhir untuk acara Fellowship Paskah KRKP"
             },
             {
