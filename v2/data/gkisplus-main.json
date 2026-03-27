@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5529,
-        "last-update": 1774600656,
-        "last-updated-item": "yt",
+        "update-count": 5530,
+        "last-update": 1774605031,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6227,6 +6227,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Soda",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-30",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "w",
+                "note": "Minta tambahan Teh"
             },
             {
                 "name": "PA Wilayah 5",
