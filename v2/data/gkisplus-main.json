@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5532,
-        "last-update": 1774624419,
-        "last-updated-item": "agenda",
+        "update-count": 5533,
+        "last-update": 1774633214,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Mar 2026 | Kita Penjaga, Bukan Pemilik",
+                        "date": "2026-03-27",
+                        "desc": "Dibawakan oleh Sdr. Stephanus Egy Pratama",
+                        "link": "https://www.youtube.com/watch?v=VxSlrh0wD9c",
+                        "thumbnail": "https://i3.ytimg.com/vi/VxSlrh0wD9c/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Mar 2026 | Dunia Butuh Bantuan Kita",
                         "date": "2026-03-26",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=z7iPQke2AUY",
                         "thumbnail": "https://i3.ytimg.com/vi/z7iPQke2AUY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Mar 2026 | Reuse; Menggunakan Kembali Barang-Barang Yang Sudah Tidak Terpakai.",
-                        "date": "2026-03-13",
-                        "desc": "Dibawakan oleh Sdri. Dita Puspita Sari",
-                        "link": "https://www.youtube.com/watch?v=q5zfMuqecF4",
-                        "thumbnail": "https://i2.ytimg.com/vi/q5zfMuqecF4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
