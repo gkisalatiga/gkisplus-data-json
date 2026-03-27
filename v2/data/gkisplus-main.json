@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5531,
-        "last-update": 1774610371,
+        "update-count": 5532,
+        "last-update": 1774624419,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6232,6 +6232,20 @@
                 "pic": "Susan",
                 "status": "w",
                 "note": "Minta tambahan Teh"
+            },
+            {
+                "name": "Ibadah persiapan menjelang ujian",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
