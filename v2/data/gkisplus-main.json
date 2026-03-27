@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5527,
-        "last-update": 1774591821,
+        "update-count": 5528,
+        "last-update": 1774597182,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5360,6 +5360,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pleno Panitia MRP 2026",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-03-29",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Minta tolong disediakan teh panas dan gula terpisah"
+            },
+            {
                 "name": "Latihan Tim Musik Kamis Putih ",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5720,6 +5734,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Caleb",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembukaan Galang Trampil",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-04-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
                 "status": "y",
                 "note": ""
             },
@@ -6114,34 +6142,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Pembukaan Galang Trampil",
-                "time": "11:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-04-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Pleno Panitia MRP 2026",
-                "time": "18:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-03-29",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum, Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": "Minta tolong disediakan teh panas dan gula terpisah"
             },
             {
                 "name": "PA Wilayah 5",
