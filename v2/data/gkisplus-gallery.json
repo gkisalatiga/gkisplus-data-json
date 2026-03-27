@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 73,
-        "last-update": 1774071080,
+        "update-count": 74,
+        "last-update": 1774610275,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -28835,6 +28835,81 @@
                     ]
                 },
                 {
+                    "folder_id": "194kjlP_ouvRB5LaUqGk3ocbP1YM0oPsn",
+                    "last_update": "2026-03-27",
+                    "featured_photo_id": "1mAMD58gF2M5x31YNnoRjbxKJ9NS4xeEX",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Prapaskah IV [MRP 2026] yang dilaksanakan pada 15 Maret 2026.",
+                    "title": "Ibadah Minggu Prapaskah IV [MRP 2026]",
+                    "event_date": "2026.03.15",
+                    "photos": [
+                        {
+                            "id": "1OoGykvwizM8iWDxkG5V9EhMghVxw7-dD",
+                            "name": "GKI Pra-Paskah 4 150326-7-00007.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1mUdNRL5_7XuR83x1LnCf5IfOrGU190O-",
+                            "name": "GKI Pra-Paskah 4 150326-7-00006.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1Cp6EVi8feQS5wD-fiLbwOcUpNcEfO-_6",
+                            "name": "GKI Pra-Paskah 4 150326-7-00004.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "10MU3RV3bb2EIM-sBVrrBaGGuNOH5mSkp",
+                            "name": "GKI Pra-Paskah 4 150326-7-00003.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1ecohkuhj5NEQADI-GimJ6pU3Zssi5VX7",
+                            "name": "GKI Pra-Paskah 4 150326-7-00015.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1Zqi3KteJteD7L8pUnh1hwYYTwrZOOAsL",
+                            "name": "GKI Pra-Paskah 4 150326-7-00042.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1sD9YRVGSDuwy9Jl1EA0NlcmVK6pF71Zj",
+                            "name": "GKI Pra-Paskah 4 150326-7-00036.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1jlpP0vgdm_-DmbFGszB54q6R6NGr53PF",
+                            "name": "GKI Pra-Paskah 4 150326-7-00024.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1z8AYrJ9EUAFMZlccCLyZOQtDfNix_uAX",
+                            "name": "GKI Pra-Paskah 4 150326-7-00038.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1auUcOBFqeng4QjvB3J87BbHXpVkcq6RW",
+                            "name": "GKI Pra-Paskah 4 150326-7-00009.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1IRJvh3byl_on5vyW1cqrq8JnqetyospS",
+                            "name": "GKI Pra-Paskah 4 150326-7-00032.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1d0JkrB56sFWkxg4SULocBJeeLQxAmsSP",
+                            "name": "GKI Pra-Paskah 4 150326-7-00030.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1fS-cBVUCs4C5drqL2OcMj3c-wGcBRvmj",
+                            "name": "GKI Pra-Paskah 4 150326-7-00001.JPG",
+                            "date": "2026-03-27"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1BRKa7BX4uLI3DN1G5cN2hpyvAXuORQ3V",
                     "last_update": "2026-03-21",
                     "featured_photo_id": "15ItBzmW-pMUFPKLhcgKZTV5ZtrKZ7DOM",
@@ -28951,6 +29026,111 @@
                             "id": "121K6yvEMjpVHyA73NXxYeiWjf6KAhNXp",
                             "name": "YSA03964.JPG",
                             "date": "2026-03-21"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1tYCDekWGz1npjlsKcCYWir4aAUfaL2zK",
+                    "last_update": "2026-03-27",
+                    "featured_photo_id": "1MnW3Zvs2rT8sc-Epw6dFbsRjqchnoaWF",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Prapaskah V [MRP 2026] yang dilaksanakan pada 22 Maret 2026.",
+                    "title": "Ibadah Minggu Prapaskah V [MRP 2026]",
+                    "event_date": "2026.03.22",
+                    "photos": [
+                        {
+                            "id": "1hUfD8207ARw6Z-UXubuio3S87K1GpVm-",
+                            "name": "DSCF8296.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "10CljM1bKsfyAojUWM7-D81VmWBIqsIo4",
+                            "name": "DSCF8276.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1i6fVbqZRX0uHerkle-G1ZdeKo7TP5Kjf",
+                            "name": "DSCF8310.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1Gv3rvT2zKM7OndQOfcmxP8rvPLhrJd4y",
+                            "name": "DSCF8305.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1o_EamqH8VXzAJjqPFYMjf9UpZbJRwvJB",
+                            "name": "Pra-Paskah 5 220326-7-00043.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "186BYzRNh_ClEPuswSGGufYCcsRmzLQBT",
+                            "name": "Pra-Paskah 5 220326-7-00014.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1cjou5_1BYy_arDTaWONAH78hpfnEHXz6",
+                            "name": "Pra-Paskah 5 220326-7-00028.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1z-fWq7U2kBirS_mCDILLsfSphk4VbY4I",
+                            "name": "Pra-Paskah 5 220326-7-00024.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "15vONQKQBd27eH3vhEToi8wp1dr_U3CQN",
+                            "name": "Pra-Paskah 5 220326-7-00022.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1qP_cseEvOu7aMIGyqmmmLD5ShYPxYrMa",
+                            "name": "Pra-Paskah 5 220326-7-00017.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1Y1nHUMEg6OAOTkLvWTW1QWkNhiAU-FzH",
+                            "name": "Pra-Paskah 5 220326-7-00032.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1NjjFQZIgLJN_0T1euWXdzNbKHiEWo-jl",
+                            "name": "Pra-Paskah 5 220326-7-00029.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1th60QZPZCUlfk5yLkzkBf_K3w4lYjf33",
+                            "name": "Pra-Paskah 5 220326-7-00039.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1InXoi1Zt0qV6rdaEWEGy3X1CcNfyTNe5",
+                            "name": "Pra-Paskah 5 220326-7-00047.JPG",
+                            "date": "2026-03-27"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1fnt01SgWpOcCq3NVd8iHZZaa5cW6GZmz",
+                    "last_update": "2026-03-27",
+                    "featured_photo_id": "150lav-fLwrcwXHt2disgpbQ1mwsRfHtY",
+                    "story": "Foto-foto dokumentasi Ibadah Komisi Usia Lanjut (KUL) yang dilaksanakan pada 26 Maret 2026.",
+                    "title": "Ibadah Komisi Usia Lanjut (KUL)",
+                    "event_date": "2026.03.26",
+                    "photos": [
+                        {
+                            "id": "1Y8oR2YsaIbRFjztEpodd3SPnnRN9qHlv",
+                            "name": "DSCF0009.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1MgW88jKu2C9fw4QYQtJR_q_aqT9rIgcP",
+                            "name": "DSCF0007.JPG",
+                            "date": "2026-03-27"
+                        },
+                        {
+                            "id": "1b1FU8HF7ew6WxGPMs70XWOPJkeS6J0mk",
+                            "name": "DSCF0001.JPG",
+                            "date": "2026-03-27"
                         }
                     ]
                 }
