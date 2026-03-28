@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5533,
-        "last-update": 1774633214,
+        "update-count": 5534,
+        "last-update": 1774670831,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2139,6 +2139,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 29 Maret 2026",
+                    "date": "2026-03-28",
+                    "link": "https://drive.google.com/file/d/10Bab2yMt628MWhTJF44CyeUlL5JVDvAX/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-29-maret-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=10Bab2yMt628MWhTJF44CyeUlL5JVDvAX",
+                    "id": "10Bab2yMt628MWhTJF44CyeUlL5JVDvAX",
+                    "size": "2.37 MB"
+                },
+                {
                     "title": "Warta Jemaat 22 Maret 2026",
                     "date": "2026-03-21",
                     "link": "https://drive.google.com/file/d/1lm3_GY8V4_Ll4xZnXTAv4GyDF3v-yGc8/view",
@@ -2905,6 +2914,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 29 Maret 2026 - Prapaskah VI/Palmarum",
+                    "date": "2026-03-28",
+                    "link": "https://drive.google.com/file/d/10cWusjo_anDcgP5mZrGNjc8Urdhtwh2r/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-29-maret-2026-prapaskah-vi/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=10cWusjo_anDcgP5mZrGNjc8Urdhtwh2r",
+                    "id": "10cWusjo_anDcgP5mZrGNjc8Urdhtwh2r",
+                    "size": "0.68 MB"
+                },
                 {
                     "title": "Tata Ibadah 22 Maret 2026 - Prapaskah V",
                     "date": "2026-03-21",
@@ -5062,20 +5080,20 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
-                "title": "Pengumpulan Daun Palem",
-                "type": "poster",
-                "date-created": "2026-03-27",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
                 "title": "SoDa Talk Series",
                 "type": "poster",
                 "date-created": "2026-03-14",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
+                "title": "Pengumpulan Daun Palem",
+                "type": "poster",
+                "date-created": "2026-03-28",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_11.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
