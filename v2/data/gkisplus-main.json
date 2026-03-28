@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5539,
-        "last-update": 1774696692,
-        "last-updated-item": "yt",
+        "update-count": 5540,
+        "last-update": 1774705642,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6271,6 +6271,34 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Gladi Kotor Paskah KA",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Gloria",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Gladi Bersih Paskah KA",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-04-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Gloria",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
