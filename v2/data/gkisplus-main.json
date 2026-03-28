@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5534,
-        "last-update": 1774670831,
-        "last-updated-item": "yt",
+        "update-count": 5535,
+        "last-update": 1774671336,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5327,6 +5327,20 @@
                 "note": "-"
             },
             {
+                "name": "Ibadah persiapan menjelang ujian",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-03-28",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Latihan Tim Musik Chronicles",
                 "time": "13:00",
                 "time-to": "14:00",
@@ -5423,6 +5437,20 @@
                 "pic": "Widia Prayogo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Soda",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-03-30",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "w",
+                "note": "Minta tambahan Teh"
             },
             {
                 "name": "PA wilayah 11",
@@ -6150,34 +6178,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Soda",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-03-30",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Susan",
-                "status": "w",
-                "note": "Minta tambahan Teh"
-            },
-            {
-                "name": "Ibadah persiapan menjelang ujian",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-03-28",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Asputri",
-                "status": "w",
                 "note": ""
             },
             {
