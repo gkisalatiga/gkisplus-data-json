@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5546,
-        "last-update": 1774804832,
+        "update-count": 5547,
+        "last-update": 1774815439,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Mar 2026 | Warisan Bagi Anak Cucu",
+                        "date": "2026-03-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=WoZ7RyetrAs",
+                        "thumbnail": "https://i4.ytimg.com/vi/WoZ7RyetrAs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Mar 2026 | Kita Penjaga, Bukan Pemilik",
                         "date": "2026-03-27",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Asputri Kaat",
                         "link": "https://www.youtube.com/watch?v=BRGAvDUKtAs",
                         "thumbnail": "https://i3.ytimg.com/vi/BRGAvDUKtAs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Mar 2026 | Zea Mays",
-                        "date": "2026-03-15",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=z7iPQke2AUY",
-                        "thumbnail": "https://i3.ytimg.com/vi/z7iPQke2AUY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
