@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 74,
-        "last-update": 1774610275,
+        "update-count": 75,
+        "last-update": 1774832963,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -29131,6 +29131,51 @@
                             "id": "1b1FU8HF7ew6WxGPMs70XWOPJkeS6J0mk",
                             "name": "DSCF0001.JPG",
                             "date": "2026-03-27"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1R8dW23DJxw3OCQbtYVemMxOeGY_b_AIT",
+                    "last_update": "2026-03-30",
+                    "featured_photo_id": "1J6MCitaR6LhgzLW0Az7ISjpl8hkPoEaZ",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Palmarum [MRP 2026] yang dilaksanakan pada 29 Maret 2026.",
+                    "title": "Ibadah Minggu Palmarum [MRP 2026]",
+                    "event_date": "2026.03.29",
+                    "photos": [
+                        {
+                            "id": "165aQmdlxhaR2XCLhdld2NEbmcLGxs5cS",
+                            "name": "IMG_20260329_164939.HEIC",
+                            "date": "2026-03-30"
+                        },
+                        {
+                            "id": "1RR1_c6Bjl4Chnxb5eVgsWkpduTxpKEaz",
+                            "name": "IMG_20260329_164558.HEIC",
+                            "date": "2026-03-30"
+                        },
+                        {
+                            "id": "1TdqLrx3VZAiW3Wos8bnRpHa9OOm7tIfW",
+                            "name": "IMG_20260329_113824.HEIC",
+                            "date": "2026-03-30"
+                        },
+                        {
+                            "id": "1pJDbFu6UGrS0zGTuXBRwzQsa0vT6t-Ie",
+                            "name": "IMG_20260329_113102.HEIC",
+                            "date": "2026-03-30"
+                        },
+                        {
+                            "id": "14giMw1uce-6CfpIkgzxbXNKfdpyz8HRB",
+                            "name": "IMG_20260329_113354.HEIC",
+                            "date": "2026-03-30"
+                        },
+                        {
+                            "id": "1i3ak-cAkXMNQ9lDyWKjuV6okhxOFr5_5",
+                            "name": "IMG_20260329_113338.jpg",
+                            "date": "2026-03-30"
+                        },
+                        {
+                            "id": "1Zl7AusfnUhQmOpms-dhgAGU3W4xEDTGM",
+                            "name": "IMG_20260329_164905.jpg",
+                            "date": "2026-03-30"
                         }
                     ]
                 }
