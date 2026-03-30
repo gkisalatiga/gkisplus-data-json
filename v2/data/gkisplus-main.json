@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5552,
-        "last-update": 1774854317,
-        "last-updated-item": "agenda",
+        "update-count": 5553,
+        "last-update": 1774861264,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,64 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Mar 2026 | Warisan Bagi Anak Cucu",
+                        "date": "2026-03-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=WoZ7RyetrAs",
+                        "thumbnail": "https://i4.ytimg.com/vi/WoZ7RyetrAs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Mar 2026 | Kita Penjaga, Bukan Pemilik",
+                        "date": "2026-03-27",
+                        "desc": "Dibawakan oleh Sdr. Stephanus Egy Pratama",
+                        "link": "https://www.youtube.com/watch?v=VxSlrh0wD9c",
+                        "thumbnail": "https://i3.ytimg.com/vi/VxSlrh0wD9c/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 27 Mar 2026 | Dunia Butuh Bantuan Kita",
+                        "date": "2026-03-26",
+                        "desc": "Dibawakan oleh Sdri. Dian Apilia Malaikosa",
+                        "link": "https://www.youtube.com/watch?v=vbf1Spq6Xig",
+                        "thumbnail": "https://i3.ytimg.com/vi/vbf1Spq6Xig/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Mar 2026 | Together We Make a Better Environment",
+                        "date": "2026-03-25",
+                        "desc": "Dibawakan oleh Ibu RIni Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=5VQo5rS-u3M",
+                        "thumbnail": "https://i2.ytimg.com/vi/5VQo5rS-u3M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Mar 2026 | Let Save The Earth",
+                        "date": "2026-03-24",
+                        "desc": "Dibawakan oleh Pdt. Irene Ludji",
+                        "link": "https://www.youtube.com/watch?v=4QlBYKioZJg",
+                        "thumbnail": "https://i1.ytimg.com/vi/4QlBYKioZJg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Mar 2026 | Setetes Air Sebesar Iman",
+                        "date": "2026-03-23",
+                        "desc": "Dibawakan oleh Sdri. Jantini Natangku",
+                        "link": "https://www.youtube.com/watch?v=XHXhCuv9L0M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XHXhCuv9L0M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Mar 2026 | Jaga Udara Kita",
+                        "date": "2026-03-22",
+                        "desc": "Dibawakan oleh Bpk. Pramudya",
+                        "link": "https://www.youtube.com/watch?v=OiNF2DF-ucE",
+                        "thumbnail": "https://i4.ytimg.com/vi/OiNF2DF-ucE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Mar 2026 | Tindakan Kecil Yang Berdampak Besar",
+                        "date": "2026-03-20",
+                        "desc": "Dibawakan oleh Sdri. Claudia Sing",
+                        "link": "https://www.youtube.com/watch?v=_0DYWdTUhOA",
+                        "thumbnail": "https://i4.ytimg.com/vi/_0DYWdTUhOA/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
