@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5553,
-        "last-update": 1774861264,
+        "update-count": 5554,
+        "last-update": 1774882509,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Apr 2026 | Memelihara Ciptaan Allah",
+                        "date": "2026-03-30",
+                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
+                        "link": "https://www.youtube.com/watch?v=DGiJoibF9bI",
+                        "thumbnail": "https://i1.ytimg.com/vi/DGiJoibF9bI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 31 Mar 2026 | Alam Cukup untuk Kebutuhan bukan untuk Keserakahan",
+                        "date": "2026-03-30",
+                        "desc": "Dibawakan oleh Sdr. Septe Adrianus Huke",
+                        "link": "https://www.youtube.com/watch?v=1197g7K06-A",
+                        "thumbnail": "https://i2.ytimg.com/vi/1197g7K06-A/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Mar 2026 | Warisan Bagi Anak Cucu",
                         "date": "2026-03-29",
@@ -68,13 +82,6 @@
                         "desc": "Dibawakan oleh Bpk. Pramudya",
                         "link": "https://www.youtube.com/watch?v=OiNF2DF-ucE",
                         "thumbnail": "https://i4.ytimg.com/vi/OiNF2DF-ucE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Mar 2026 | Tindakan Kecil Yang Berdampak Besar",
-                        "date": "2026-03-20",
-                        "desc": "Dibawakan oleh Sdri. Claudia Sing",
-                        "link": "https://www.youtube.com/watch?v=_0DYWdTUhOA",
-                        "thumbnail": "https://i4.ytimg.com/vi/_0DYWdTUhOA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
