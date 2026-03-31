@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5561,
-        "last-update": 1774957138,
-        "last-updated-item": "yt",
+        "update-count": 5562,
+        "last-update": 1774958712,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6374,6 +6374,20 @@
                 "pic": "Sasa dan Icha",
                 "status": "w",
                 "note": "Latihan perdana (mengganti tanggal 1 April)"
+            },
+            {
+                "name": "Latihan mini drama Jumat Agung",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-04-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Gita",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
