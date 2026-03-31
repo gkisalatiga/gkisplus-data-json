@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5559,
-        "last-update": 1774947133,
+        "update-count": 5560,
+        "last-update": 1774951269,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6346,6 +6346,20 @@
                 "pic": "Caleb ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan Perdana Fellowship Paskah KRKP",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-04-06",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Sasa dan Icha",
+                "status": "w",
+                "note": "Latihan perdana (mengganti tanggal 1 April)"
             },
             {
                 "name": "PA Wilayah 5",
