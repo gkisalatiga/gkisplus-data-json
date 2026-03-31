@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5558,
-        "last-update": 1774946641,
-        "last-updated-item": "yt",
+        "update-count": 5559,
+        "last-update": 1774947133,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5753,10 +5753,10 @@
                 "date": "2026-04-07",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Catur Winarno",
-                "status": "w",
+                "status": "y",
                 "note": "Minta dibuatkan minum Teh"
             },
             {
@@ -6332,6 +6332,20 @@
                 "pic": "Van Gouh Arimatea",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan band paskah ceria tanggal 5 April 2026",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-04-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Caleb ",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
