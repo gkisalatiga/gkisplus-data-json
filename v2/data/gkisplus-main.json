@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5563,
-        "last-update": 1774965965,
-        "last-updated-item": "agenda",
+        "update-count": 5564,
+        "last-update": 1774979112,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -1534,6 +1534,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN WILLIAM & NADYA | 11 APRIL 2026",
+                        "date": "2026-03-31",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. William Jonathan Handoko dengan Sdri. Nadya Margareth Angkawijaya\n\nSabtu, 11 April 2026 pukul 08.00 WIB di GKI Salatiga\n\nDilayani oleh : -\nMJ : -\nPemusik : Tommy\nPNK : Samuel\nMultimedia : Jeffrey, Joaquim, Neria, Samarthya, Iwandi, Bobby",
+                        "link": "https://www.youtube.com/watch?v=KbKy7bUmuqE",
+                        "thumbnail": "https://i.ytimg.com/vi/KbKy7bUmuqE/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN HENNIE & PRISILIA | 6 MARET 2026",
                         "date": "2026-03-04",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Hennie Tuhuteru dengan Sdri. Prisilia Trusdy Pattiata\n\nJumat, 6 Maret 2026 pukul 14.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Catur Winarno & Pnt. Sri Yuniwati\nPemusik : Adriel\nPNK : Eriyani\nMultimedia : I Made Satya, Joshua, Enrico, Iwandi",
@@ -1735,13 +1742,6 @@
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. Megi Prakoso dan  Gloria Roslin Polak\n\nRabu,  19 Oktober 2022 pukul 10.00 WIB\nPelayan firman : Pdt. Helen Ruth Manurung\nPetugas MJ : Pnt. Nadia Sitaresmi ; Pnt. Ester Juliawati\nPemusik : Samuel Arief | PNK : Jeffrey Nugroho | Tata Suara : Bayu Octariyanto\nOBS : Joshua | PPT : I Made Satya | Kamerawan : Iwandi",
                         "link": "https://www.youtube.com/watch?v=xvsy9lxSMw4",
                         "thumbnail": "https://i.ytimg.com/vi/xvsy9lxSMw4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN  JANUAR & INDRIKA |  1 Oktober 2022",
-                        "date": "2022-09-28",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. Aholiab Januar Sanjaya dan  Indrika Dermadibyo Tiranda\n\nSabtu, 1 Oktober 2022 pukul 09.00 WIB",
-                        "link": "https://www.youtube.com/watch?v=AKeWN9xKkiw",
-                        "thumbnail": "https://i.ytimg.com/vi/AKeWN9xKkiw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
