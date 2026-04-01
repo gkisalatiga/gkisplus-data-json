@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5571,
-        "last-update": 1775043675,
+        "update-count": 5572,
+        "last-update": 1775076784,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5118,6 +5118,24 @@
             }
         ],
         "carousel": [
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_23.webp",
+                "title": "Himbauan Parkir",
+                "type": "poster",
+                "date-created": "2026-04-02",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_23.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_24.webp",
+                "title": "Himbauan Parkir",
+                "type": "poster",
+                "date-created": "2026-04-02",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_23.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_14.webp",
                 "title": "Ibadah Kamis Putih",
