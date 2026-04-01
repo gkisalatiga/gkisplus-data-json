@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5569,
-        "last-update": 1775024401,
+        "update-count": 5570,
+        "last-update": 1775039702,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2942,6 +2942,24 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Jumat Agung 3 April 2026",
+                    "date": "2026-04-01",
+                    "link": "https://drive.google.com/file/d/1OpW2J1FT7KeBY4-BTKEhJ7J0jNCrgxOo/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-jumat-agung-3-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1OpW2J1FT7KeBY4-BTKEhJ7J0jNCrgxOo",
+                    "id": "1OpW2J1FT7KeBY4-BTKEhJ7J0jNCrgxOo",
+                    "size": "0.99 MB"
+                },
+                {
+                    "title": "Tata Ibadah Kamis Putih 2 April 2026",
+                    "date": "2026-04-01",
+                    "link": "https://drive.google.com/file/d/1aBPLMnmzoqP1_POGIyRXQjL-9f8OHYm6/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-kamis-putih-2-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1aBPLMnmzoqP1_POGIyRXQjL-9f8OHYm6",
+                    "id": "1aBPLMnmzoqP1_POGIyRXQjL-9f8OHYm6",
+                    "size": "0.78 MB"
+                },
                 {
                     "title": "Tata Ibadah 29 Maret 2026 - Prapaskah VI/Palmarum",
                     "date": "2026-03-28",
