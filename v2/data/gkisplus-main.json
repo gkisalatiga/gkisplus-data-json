@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5572,
-        "last-update": 1775076784,
-        "last-updated-item": "yt",
+        "update-count": 5573,
+        "last-update": 1775109349,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5707,7 +5707,7 @@
             {
                 "name": "Latihan band paskah ceria tanggal 5 April 2026",
                 "time": "09:00",
-                "time-to": "12:00",
+                "time-to": "13:00",
                 "timezone": "WIB",
                 "date": "2026-04-04",
                 "weekday": "sat",
@@ -5715,7 +5715,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Caleb ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5775,20 +5775,6 @@
                 "note": ""
             },
             {
-                "name": "Ibadah Paskah",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-04-06",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Supriyadi",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "Gladi Bersih Ibadah Paskah Krisdusa",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5799,7 +5785,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Supriyadi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5813,7 +5799,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Van Gouh Arimatea",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -5827,22 +5813,8 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Panitia",
                 "pic": "Sasa dan Icha",
-                "status": "w",
-                "note": "Latihan perdana (mengganti tanggal 1 April)"
-            },
-            {
-                "name": "Perayaan Paskah SMP Kristen 2 Salatiga",
-                "time": "06:00",
-                "time-to": "08:00",
-                "timezone": "WIB",
-                "date": "2026-04-07",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Supriyadi",
                 "status": "y",
-                "note": ""
+                "note": "Latihan perdana (mengganti tanggal 1 April)"
             },
             {
                 "name": "PA wilayah 11",
@@ -5897,7 +5869,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Supriyadi",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5953,7 +5925,7 @@
                 "place": "Gedung Gereja",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Roosye Rice Irene Supit. S.Th",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
