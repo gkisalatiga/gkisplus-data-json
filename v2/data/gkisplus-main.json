@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5576,
-        "last-update": 1775149907,
-        "last-updated-item": "yt",
+        "update-count": 5577,
+        "last-update": 1775181338,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6464,6 +6464,20 @@
                 "pic": "Bu Djini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan mini drama Jalan Salib",
+                "time": "12:01",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-04-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Gita",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
