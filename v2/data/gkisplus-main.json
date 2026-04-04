@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5583,
-        "last-update": 1775275532,
-        "last-updated-item": "yt",
+        "update-count": 5584,
+        "last-update": 1775275978,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5612,6 +5612,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan mini drama Jalan Salib",
+                "time": "12:01",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-04-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Gita",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Persiapan musik dan gladi keb.Minggu Paskah",
                 "time": "09:00",
                 "time-to": "11:30",
@@ -5794,6 +5808,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Petugas paskah KA",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-04-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
                 "time": "09:00",
                 "time-to": "11:00",
@@ -5848,6 +5876,20 @@
                 "pic": "Roosye Rice Irene Supit. S.Th",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Paskah KA",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": "Sudah konfirmasi ke kak Eri"
             },
             {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
@@ -6242,6 +6284,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-05",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6254,6 +6310,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-12",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6270,6 +6340,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-19",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6282,6 +6366,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-26",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6337,104 +6435,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-05",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum, Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-12",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-19",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-26",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan mini drama Jalan Salib",
-                "time": "12:01",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-04-03",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Panitia",
-                "pic": "Gita",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Paskah KA",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-04-08",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
-                "note": "Sudah konfirmasi ke kak Eri"
-            },
-            {
-                "name": "Latihan Petugas paskah KA",
-                "time": "20:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-04-07",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
                 "note": ""
             },
             {
