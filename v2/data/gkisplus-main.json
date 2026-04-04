@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5585,
-        "last-update": 1775285678,
+        "update-count": 5586,
+        "last-update": 1775288436,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2117,6 +2117,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 5 April 2026",
+                    "date": "2026-04-04",
+                    "link": "https://drive.google.com/file/d/12VkUFD0dg_W_ocQkdC7SNDNf0m_fQNeg/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-5-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=12VkUFD0dg_W_ocQkdC7SNDNf0m_fQNeg",
+                    "id": "12VkUFD0dg_W_ocQkdC7SNDNf0m_fQNeg",
+                    "size": "2.08 MB"
+                },
+                {
                     "title": "Warta Jemaat 29 Maret 2026",
                     "date": "2026-03-28",
                     "link": "https://drive.google.com/file/d/10Bab2yMt628MWhTJF44CyeUlL5JVDvAX/view",
@@ -2892,6 +2901,24 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah 5 April 2026 (Siang-Sore)",
+                    "date": "2026-04-04",
+                    "link": "https://drive.google.com/file/d/1O1EZ78AQ05lHAIFweRd5UqaNKe4bMoF_/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-siang-sore-5-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1O1EZ78AQ05lHAIFweRd5UqaNKe4bMoF_",
+                    "id": "1O1EZ78AQ05lHAIFweRd5UqaNKe4bMoF_",
+                    "size": "0.72 MB"
+                },
+                {
+                    "title": "Tata Ibadah Sabtu Sunyi 4 April 2026",
+                    "date": "2026-04-04",
+                    "link": "https://drive.google.com/file/d/1KHESU9jjiOyNwGcEyJ26vcQHv9k6FNuX/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-sabtu-sunyi-4-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1KHESU9jjiOyNwGcEyJ26vcQHv9k6FNuX",
+                    "id": "1KHESU9jjiOyNwGcEyJ26vcQHv9k6FNuX",
+                    "size": "0.59 MB"
+                },
                 {
                     "title": "Tata Ibadah Jumat Agung 3 April 2026",
                     "date": "2026-04-01",
