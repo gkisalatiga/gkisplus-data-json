@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5587,
-        "last-update": 1775291247,
+        "update-count": 5588,
+        "last-update": 1775295430,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2959,6 +2959,15 @@
                     "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1O1EZ78AQ05lHAIFweRd5UqaNKe4bMoF_",
                     "id": "1O1EZ78AQ05lHAIFweRd5UqaNKe4bMoF_",
                     "size": "0.72 MB"
+                },
+                {
+                    "title": "Tata Ibadah Minggu Paskah Subuh 5 April 2026",
+                    "date": "2026-04-04",
+                    "link": "https://drive.google.com/file/d/1G7ckXpUwBADfkWgyW8Nz7ckT_TADkEF_/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-subuh-5-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1G7ckXpUwBADfkWgyW8Nz7ckT_TADkEF_",
+                    "id": "1G7ckXpUwBADfkWgyW8Nz7ckT_TADkEF_",
+                    "size": "0.67 MB"
                 },
                 {
                     "title": "Tata Ibadah Sabtu Sunyi 4 April 2026",
