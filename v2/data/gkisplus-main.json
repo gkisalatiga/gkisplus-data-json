@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5589,
-        "last-update": 1775301533,
+        "update-count": 5590,
+        "last-update": 1775329986,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5171,42 +5171,6 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_16.webp",
-                "title": "Ibadah Sabtu Sunyi",
-                "type": "poster",
-                "date-created": "2026-04-04",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_16.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Informasi Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2026-04-04",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_9.webp",
-                "title": "Amplop Aksi Puasa Prapaskah",
-                "type": "poster",
-                "date-created": "2026-04-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_9.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_19.webp",
-                "title": "Persembahan Aksi Puasa Prapaskah",
-                "type": "poster",
-                "date-created": "2026-04-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_19.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_17.webp",
                 "title": "Ibadah Minggu Paskah",
                 "type": "poster",
@@ -5221,6 +5185,33 @@
                 "type": "poster",
                 "date-created": "2026-03-28",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_18.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_9.webp",
+                "title": "Amplop Aksi Puasa Prapaskah",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_9.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_19.webp",
+                "title": "Persembahan Aksi Puasa Prapaskah",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_19.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_25.webp",
+                "title": "Selamat Paskah",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_25.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5252,6 +5243,15 @@
                 "is_shown_ios": 1
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
+                "title": "Persekutuan Kambium",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_pernikahan_wn.webp",
                 "title": "Pemberkatan dan Peneguhan Pernikahan",
                 "type": "poster",
@@ -5266,6 +5266,42 @@
                 "type": "poster",
                 "date-created": "2026-03-21",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_13.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
+                "title": "Persekutuan SoDa",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi_2.webp",
+                "title": "Sunday School",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
+                "title": "Kebaktian Berbahasa Inggris",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppi.webp",
+                "title": "Pemahaman Alkitab Intergenerasional",
+                "type": "poster",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppi.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5288,29 +5324,11 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_7.webp",
-                "title": "Gerakan 40 Hari Niat Baik",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
+                "title": "Kartinian 2026 GKI Salatiga",
                 "type": "poster",
-                "date-created": "2026-02-08",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_7.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_10.webp",
-                "title": "Dapat Dilakukan Melalui",
-                "type": "poster",
-                "date-created": "2026-03-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_10.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_1.webp",
-                "title": "Makna Puasa Dalam Masa Prapaskah",
-                "type": "poster",
-                "date-created": "2026-03-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_1.webp",
+                "date-created": "2026-04-05",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
