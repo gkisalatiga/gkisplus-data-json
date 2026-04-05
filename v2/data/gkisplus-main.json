@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5598,
-        "last-update": 1775409603,
+        "update-count": 5599,
+        "last-update": 1775420298,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 7 Apr 2026 | Kebangkitan Kristus Membawa Pembaruan Dalam Hidup Kita",
-                        "date": "2026-04-05",
-                        "desc": "Dibawakan oleh Pnt. Rodiana",
-                        "link": "https://www.youtube.com/watch?v=naFJpas1Tng",
-                        "thumbnail": "https://i3.ytimg.com/vi/naFJpas1Tng/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 6 Apr 2026 | Kemenangan Sejati di Balik Kekalahan",
                         "date": "2026-04-05",
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=8DdVqzTnyCs",
                         "thumbnail": "https://i1.ytimg.com/vi/8DdVqzTnyCs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Apr 2026 | Kebangkitan Kristus Membawa Pembaruan Dalam Hidup Kita",
+                        "date": "2026-04-05",
+                        "desc": "Dibawakan oleh Pnt. Rodiana",
+                        "link": "https://www.youtube.com/watch?v=naFJpas1Tng",
+                        "thumbnail": "https://i3.ytimg.com/vi/naFJpas1Tng/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 1 Apr 2026 | Memelihara Ciptaan Allah",
