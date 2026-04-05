@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5595,
-        "last-update": 1775377823,
-        "last-updated-item": "yt",
+        "update-count": 5596,
+        "last-update": 1775397104,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6266,6 +6266,34 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik ibadah 12 april ",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan tim musik ibadah 12 april",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
                 "note": ""
             },
             {
