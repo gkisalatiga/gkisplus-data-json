@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5592,
-        "last-update": 1775344680,
+        "update-count": 5593,
+        "last-update": 1775363226,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -61,13 +61,6 @@
                         "desc": "Dibawakan oleh Ibu RIni Hari Adi",
                         "link": "https://www.youtube.com/watch?v=5VQo5rS-u3M",
                         "thumbnail": "https://i2.ytimg.com/vi/5VQo5rS-u3M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Mar 2026 | Let Save The Earth",
-                        "date": "2026-03-24",
-                        "desc": "Dibawakan oleh Pdt. Irene Ludji",
-                        "link": "https://www.youtube.com/watch?v=4QlBYKioZJg",
-                        "thumbnail": "https://i1.ytimg.com/vi/4QlBYKioZJg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1255,9 +1248,16 @@
                     {
                         "title": "Puisi Jumat Agung | Komisi Anak GKI Salatiga | 3 April 2026",
                         "date": "2026-04-03",
-                        "desc": "PUISI JUMAT AGUNG\nDibawakan pada Fragmen Jumat Agung Komisi Anak GKI Salatiga\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nDibacakan oleh Adik Carol\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "desc": "PUISI JUMAT AGUNG\nDibawakan pada Fragmen Jumat Agung Komisi Anak GKI Salatiga\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nDibacakan oleh Adik Carel\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=rqDa8smYJ_o",
                         "thumbnail": "https://i.ytimg.com/vi/rqDa8smYJ_o/hqdefault.jpg"
+                    },
+                    {
+                        "title": "Kebaktian Jumat Agung Komisi Anak | 3 April 2026 | Salib: Tanda Kasih Terbesar Allah",
+                        "date": "2026-04-01",
+                        "desc": "KEBAKTIAN JUMAT AGUNG KOMISI ANAK GKI SALATIGA\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nRefleksi: Pdt. Helen Ruth Manurung\nPemusik: Kak Naldi, Kak Dian Malaikosa, Kak Maureen\nSinger: Kak Yunita\nMC: Kak Femi\nTim Multimedia: Kak Sam, Kak Nila, & Kak Joa\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\n\u2022 Kidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\n\u2022 Nyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\n\u2022 Pelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=kk3NF3Jy9wY",
+                        "thumbnail": "https://i.ytimg.com/vi/kk3NF3Jy9wY/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga (HARI ANAK NASIONAL) | 21 Juli 2024",
@@ -2050,6 +2050,13 @@
             {
                 "content": [
                     {
+                        "title": "Kebaktian Jumat Agung Komisi Anak | 3 April 2026 | Salib: Tanda Kasih Terbesar Allah",
+                        "date": "2026-04-05",
+                        "desc": "KEBAKTIAN JUMAT AGUNG KOMISI ANAK GKI SALATIGA\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nRefleksi: Pdt. Helen Ruth Manurung\nPemusik: Kak Naldi, Kak Dian Malaikosa, Kak Maureen\nSinger: Kak Yunita\nMC: Kak Femi\nTim Multimedia: Kak Sam, Kak Nila, & Kak Joa\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\n\u2022 Kidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\n\u2022 Nyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\n\u2022 Pelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=kk3NF3Jy9wY",
+                        "thumbnail": "https://i.ytimg.com/vi/kk3NF3Jy9wY/hqdefault.jpg"
+                    },
+                    {
                         "title": "Ibadah Sabtu Sunyi GKI Salatiga | 4 April 2026 | \"Tetap Mencinta Saat Semua Pergi\"",
                         "date": "2026-03-28",
                         "desc": "Ibadah Sabtu Sunyi GKI Salatiga | 4 April 2026 | Pukul 17:00 WIB\n\nTema: \"Tetap Mencinta Saat Semua Pergi\"\n\nNyanyian: Tinggallah Bersama Aku; KK 456 / KJ 368; Yesus, Ingat Aku; KK 533 / KJ 410; KK 236 / KJ 183; Tuhanlah Cinta\n\nBacaan Injil: Yohanes 19:38-42\n\nPelayan Firman: Pdt. Mariska Lauterboom (Fakultas Teologi UKSW)\nKoordinator Ibadah: Pnt. Gita Hastuti\nKredo dan Warta: Pnt. Santoso Adi P.\n\nPemusik: BenKa\nPNK / Pemazmur: Eriyani, Yohana, Itok, Samuel\nTim Multimedia: Derryl, Bethrys, Ernest, Jeffrey, Benaya, Tora\nDokumentasi: Erio / Derryl / Judica / Jeffrey\nFlorist: Tim Lotus\nUsher & Kolektan: Panitia MRP\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
@@ -2066,7 +2073,7 @@
                     {
                         "title": "Puisi Jumat Agung | Komisi Anak GKI Salatiga | 3 April 2026",
                         "date": "2026-04-03",
-                        "desc": "PUISI JUMAT AGUNG\nDibawakan pada Fragmen Jumat Agung Komisi Anak GKI Salatiga\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nDibacakan oleh Adik Carol\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "desc": "PUISI JUMAT AGUNG\nDibawakan pada Fragmen Jumat Agung Komisi Anak GKI Salatiga\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nDibacakan oleh Adik Carel\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=rqDa8smYJ_o",
                         "thumbnail": "https://i.ytimg.com/vi/rqDa8smYJ_o/hqdefault.jpg"
                     },
