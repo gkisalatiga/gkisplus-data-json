@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 75,
-        "last-update": 1774832963,
+        "update-count": 76,
+        "last-update": 1775504562,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -29137,11 +29137,51 @@
                 {
                     "folder_id": "1R8dW23DJxw3OCQbtYVemMxOeGY_b_AIT",
                     "last_update": "2026-03-30",
-                    "featured_photo_id": "1J6MCitaR6LhgzLW0Az7ISjpl8hkPoEaZ",
+                    "featured_photo_id": "1zhMr55D9_O9pMSeTCJvOtjskLFM517JX",
                     "story": "Foto-foto dokumentasi Ibadah Minggu Palmarum [MRP 2026] yang dilaksanakan pada 29 Maret 2026.",
                     "title": "Ibadah Minggu Palmarum [MRP 2026]",
                     "event_date": "2026.03.29",
                     "photos": [
+                        {
+                            "id": "1Z7rgbUfchaDlTRYir2ci1ci-A2sl0cxl",
+                            "name": "GKIS 290326 (24).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1HK9BkQP0b9Y2UsLinQ6yfbe3amXS2tBC",
+                            "name": "GKIS 290326 (3).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1Diycaxnl1LydkfXhFWHZsNmPBiQmRhaV",
+                            "name": "GKIS 290326 (17).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1rlsSA7OylC_ud1mw4VyPQ79rFn2hPCt-",
+                            "name": "GKIS 290326 (18).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1TJXf7yjdDan9C_PYf8NgXgEyjQisWJQu",
+                            "name": "GKIS 290326 (34).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ozC772vOLf2Wwis8xV_vDS2pH-UTL14q",
+                            "name": "GKIS 290326 (32).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1_B9RrPu7w6HGsceYf8KfIUVigkWOgGj8",
+                            "name": "GKIS 290326 (15).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1T2Wogz8CW9yMdQnI0Q2E5iDYcOENXoiE",
+                            "name": "GKIS 290326 (21).JPG",
+                            "date": "2026-04-06"
+                        },
                         {
                             "id": "165aQmdlxhaR2XCLhdld2NEbmcLGxs5cS",
                             "name": "IMG_20260329_164939.HEIC",
@@ -29176,6 +29216,856 @@
                             "id": "1Zl7AusfnUhQmOpms-dhgAGU3W4xEDTGM",
                             "name": "IMG_20260329_164905.jpg",
                             "date": "2026-03-30"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1aawUw3jp6SlQ-co3rZJyw_wm33jjSW9i",
+                    "last_update": "2026-04-06",
+                    "featured_photo_id": "1lsIJuct2OkOq5gCW75YtLMWAP3zqWF7X",
+                    "story": "Foto-foto dokumentasi Ibadah Kamis Putih [MRP 2026] yang dilaksanakan pada 2 April 2026.",
+                    "title": "Ibadah Kamis Putih [MRP 2026]",
+                    "event_date": "2026.04.02",
+                    "photos": [
+                        {
+                            "id": "1ha9RLJYEvn9H0Zg7A3JETH8uGVDEdoU-",
+                            "name": "DSCF0318.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1RdOr-mrIxPIepGlb_Qm3hHYd1mK_d8ip",
+                            "name": "DSCF0303.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "13U78Hqaz5pJ46OBtlz6_LhMymt184htO",
+                            "name": "DSCF0322.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1Uu4PyjBk3XK5lHWk-lpdQJiKWhoTnnM1",
+                            "name": "DSCF0395.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1k860TvgFSjv1d9_B5xTU5B9Zxg3TJ69i",
+                            "name": "DSCF0326.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1jMfZbpjG8lbWsyrRUDNTUOdkqFld0-nQ",
+                            "name": "DSCF0386.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1oZ9Q08u32n03sFaPNOxWzT2atuYaGvU1",
+                            "name": "DSCF0356.MOV",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1PzjU2i-_zW1XbXsqoTUpZBQ_F_rnL-CL",
+                            "name": "DSCF0336.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1_HSlR5gl7hUD74Uid6o74jEZ7Tz5Lt8X",
+                            "name": "DSCF0438.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1I5GHwzzeA59Hsb1lwylBf5y1UyjNsHbx",
+                            "name": "DSCF0427.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "11E7AFuZnmOOfw6Iil4HcbPvS3aWxjEPl",
+                            "name": "GKI Kamis Putih 020426-4-00004.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1wfij6Qeq0ZluARX2ZgQu7gR1FmuGi0sI",
+                            "name": "GKI Kamis Putih 020426-4-00002.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1anzOlb9KBDraLgd2no3H1b9Jzb-bjvOp",
+                            "name": "GKI Kamis Putih 020426-4-00012.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1-XGxm4Ff9V_oZAxNMhMS__Uj_HeaVrjX",
+                            "name": "GKI Kamis Putih 020426-4-00022.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1gjS_d9TMHORytaheTuod60wU-fY3S_h-",
+                            "name": "GKI Kamis Putih 020426-4-00042.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ZgpuhXY8VKXSQiUEW4ZD_nqHFGbiEzmr",
+                            "name": "GKI Kamis Putih 020426-4-00053.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1P8U88gGMv0pQFzpP9X9ECipN1ta02J0I",
+                            "name": "GKI Kamis Putih 020426-4-00083.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1jZk6Q5vX0nA7V-4evICEjlU2OCEZgKYB",
+                            "name": "GKI Kamis Putih 020426-4-00037.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1mOfdT0sU2YjbyDH_A_kwUrqirencCYS2",
+                            "name": "GKI Kamis Putih 020426-4-00132.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1FO1V6i0F2_l0On2o7OMdsxd8ihFU2I0Z",
+                            "name": "GKI Kamis Putih 020426-4-00072.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1RUezNnHi42Uyre_rpgmay-PLp5Pq8Men",
+                            "name": "GKI Kamis Putih 020426-4-00130.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "18ymIW70iN2XB2baTg3fJzR6BU3YsNoeN",
+                            "name": "GKI Kamis Putih 020426-4-00102.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1oJajKD69eeX5L7CU6rR-o6fLYeNHWQhd",
+                            "name": "GKI Kamis Putih 020426-4-00104.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1x72axznfYVSTKYJ3ZmV9r-obQNeycla6",
+                            "name": "GKI Kamis Putih 020426-4-00112.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1geQNrzUBq7akIlcCPp14RjKdBcAy0C_f",
+                            "name": "GKI Kamis Putih 020426-4-00151.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "12hS1x1vl3VPzRJPZj2MLNHlO2QCgqO38",
+                            "name": "GKI Kamis Putih 020426-4-00065.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1klchMbpbfNi9jKCw2NN_ZwRQIhSextAu",
+                            "name": "GKI Kamis Putih 020426-4-00173.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "11iPfDfXm5V3nKVLI2FSUNPdwEDs4WViY",
+                            "name": "GKI Kamis Putih 020426-4-00179.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "18OPpvsaab2xNLzdl2nuD1p4Vsc19gScK",
+                            "name": "GKI Kamis Putih 020426-4-00191.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1okvN7K1xSb7dN4DEpQk78I_TwLD0ZS0c",
+                            "name": "GKI Kamis Putih 020426-4-00198.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1gvhOBueD2Mbpm8PsoY4JiNWycy7TZtVt",
+                            "name": "GKI Kamis Putih 020426-4-00224.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1Lyac2F7NRKXOeykQcgTJOZv5Sxi1p3l_",
+                            "name": "GKI Kamis Putih 020426-4-00211.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1XuSq9CCwUhc8lKa0EQ7nvtdCMWd92n9R",
+                            "name": "GKI Kamis Putih 020426-4-00186.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1KWM53ab9VSGqXTlkGIdAaea6UnwkFUCQ",
+                            "name": "GKI Kamis Putih 020426-4-00221.JPG",
+                            "date": "2026-04-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1k_EI9j0vTWkJZk2FlCfVAD_fKDY524Y1",
+                    "last_update": "2026-04-06",
+                    "featured_photo_id": "15lcrj-y5DQe7Bpnamc_4_Rq1WXr9O1b2",
+                    "story": "Foto-foto dokumentasi Ibadah Jumat Agung [MRP 2026] yang dilaksanakan pada 3 April 2026.",
+                    "title": "Ibadah Jumat Agung [MRP 2026]",
+                    "event_date": "2026.04.03",
+                    "photos": [
+                        {
+                            "id": "1lszyZK8SuGlt-6dVxx2b0YDiK0tnHUnj",
+                            "name": "GKI Jumat Agung 030426-5-00167.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1dkMNUyLEIOGr9jxq3D8t7-5IZPYeglH_",
+                            "name": "GKI Jumat Agung 030426-5-00027.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1TqbqhkIxtbOig7Ni5XxVi_ovnHqTlh_B",
+                            "name": "GKI Jumat Agung 030426-5-00152.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1trr4Jp4A5E7CP_J6-Oxb4fV3QSfr9cWX",
+                            "name": "GKI Jumat Agung 030426-5-00006.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1MjCEKenXOpe81YTw8M8p2B3Q4JBh_c-z",
+                            "name": "GKI Jumat Agung 030426-5-00023.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1_jYVA6urOexRXZFm89e6Ns2ZXQgqQAlV",
+                            "name": "GKI Jumat Agung 030426-5-00056.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1gcYTjD2fk1Xy2zHIKISk_JY_9W7gI9pd",
+                            "name": "GKI Jumat Agung 030426-5-00090.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1YuC3lspj2wy9seBUVSC4co6646majj5j",
+                            "name": "GKI Jumat Agung 030426-5-00049.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1kxe9JhmBKh4qvQgddrueaJVP7f_9f0ql",
+                            "name": "GKI Jumat Agung 030426-5-00146.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1CIlNTpe_WIkmEXR2FMA9x2o0YLmOtFgy",
+                            "name": "GKI Jumat Agung 030426-5-00126.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1G9rLHGo6uY29S6lO4FnuJGo182eO87zR",
+                            "name": "GKI Jumat Agung 030426-5-00161.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1nhviVtQhM3VXLzIgJg7WpK3iXWG45oHz",
+                            "name": "GKI Jumat Agung 030426-5-00119.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1IeXXbvpS-kxMkbmZc_pRT-zbr0fG5lu1",
+                            "name": "GKI Jumat Agung 030426-5-00136.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1DYJb_FksV1DmIgl3PtKgLduQYFUlnzWH",
+                            "name": "GKI Jumat Agung 030426-5-00181.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1LDH-iGs1UUoe0WMUkpPxPXNOZFoJtlZn",
+                            "name": "IMG_20260403_122916.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1a0-tHmr_vr-i3uQbv6N7lSAiDH9CkrVv",
+                            "name": "IMG_20260403_154001.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1VQ-NSpHWWlUau4Ce7Xw_RF_BFnyzTxhy",
+                            "name": "IMG_20260403_193856.jpg",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "13JeUUDRV1ZDuKsQxsWj7ddvPpw4FpojB",
+                            "name": "MVIMG_20260403_164213.jpg",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1sd3ICI6yTg0geFzgp9R5-cwY83vrqsER",
+                            "name": "IMG_20260403_194900.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1hPMB11wkaCozWFiTTQBz-N93ZPAK5xIE",
+                            "name": "Jumat Agung 3.4.26. (39).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ktmz9OakT2GYmfhMf4LGMKFvRhDVt-tm",
+                            "name": "Jumat Agung 3.4.26. (12).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1bOWDAwczd8MagGSk3dsMac8l4IKCPUJ8",
+                            "name": "Jumat Agung 3.4.26. (97).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1DAmm34RfumF0rr3hSjLU3RKSU8f4rKKD",
+                            "name": "Jumat Agung 3.4.26. (170).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1k7-2IdaYwaEK86g_pbyYumOh2RhrCblx",
+                            "name": "Jumat Agung 3.4.26. (102).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1nsFPkpgv4N-mYlPJuv42eCtvyF88aUgi",
+                            "name": "Jumat Agung 3.4.26. (137).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1giOIXKPuKKkF-GpJo3YF2iXEU0yTz9Oa",
+                            "name": "Jumat Agung 3.4.26. (156).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "15c7a5tg_rBDal0h70VqHxQoSRSkAZBDC",
+                            "name": "Jumat Agung 3.4.26. (166).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "154SRjeKsd1MUgGJI7bl-6FJ7Prc22gF5",
+                            "name": "Jumat Agung 3.4.26. (178).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1UWAE5a5jSoJ40wpQmqbhB11VduZSlrgR",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (5).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1MHLSr_FKvef-PxLNwzmaUZ39qzwMfM0s",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (37).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "19vWGVwa63Z9iB3bPMxlxUSzSS9WSL9no",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (139).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1MTQLDC0ITT3WMkrtBFwwCx0DHnylu79v",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (130).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "16GgO3p9jYd0eYx_EUdq4oxrDCkFxr-6b",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (96).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1WzVvnsoB07Ks2pho_2eTIUrJmF8gk25W",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (75).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1BHtRE9NE8kfAHHxocO70mOZitlnwF4bB",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (121).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1xiHN43AMnXeaUgj61Ln0hom_Oh1OWT_s",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (106).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1op66eYxkju-OUD-KrrTW_LTiEEVBhuTF",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (160).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1t_paSCjYfZMKKevAkEWwWmNY9M8yqIlQ",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (184).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1-Bn-iAxJbjBFdCcOOyNSTSZWb_JTjfKM",
+                            "name": "20260403 - JUMAT AGUNG - UMUM (195).JPG",
+                            "date": "2026-04-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1ZfjUnYoBIFGWfpn4cuuRRDRE2Tp1nzU6",
+                    "last_update": "2026-04-06",
+                    "featured_photo_id": "1OAxfMPGW3Sol-O69pTZMLLlGUpbfpfQP",
+                    "story": "Foto-foto dokumentasi Jumat Agung KA [MRP 2026] yang dilaksanakan pada 3 April 2026.",
+                    "title": "Jumat Agung KA [MRP 2026]",
+                    "event_date": "2026.04.03",
+                    "photos": [
+                        {
+                            "id": "1cN7_ajH7C7oot9pYHwkmvPf0TdTqu2BV",
+                            "name": "Jumat Agung KA (56).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "144RyiBPPyMDlxpnfLWJjDVrKohazCSlS",
+                            "name": "Jumat Agung KA (33).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "16aoF4fuymp9dbQASFCeOM8agdGYxJnTq",
+                            "name": "Jumat Agung KA (20).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "10LCwhBsaTk1pgZDgKgTY2xvH_QTDJ3lZ",
+                            "name": "Jumat Agung KA (46).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1jRrzPPvMs_bMkPxZThI83noTu8P7FaaI",
+                            "name": "Jumat Agung KA (36).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1HLulvnp-dnX4XIRmEUzLFSa9QVcZkFly",
+                            "name": "Jumat Agung KA (71).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1DLo-ViHk0Bsfg_7KhWT2WiwZ-k0AKIki",
+                            "name": "Jumat Agung KA (86).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ANf8gmKAoyNlIqmSHrNzFqnqsnx2_Ygq",
+                            "name": "Jumat Agung KA (94).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1np7OJzL-jyLLCZApyWL27EPcMTDNQFwM",
+                            "name": "Jumat Agung KA (66).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1_YfSKC1h3gq34bzEThtYls3LA8ffWV6z",
+                            "name": "Jumat Agung KA (100).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1IkAfEHhjBUdfHmXEeq3duWGxzI4A0KUd",
+                            "name": "Jumat Agung KA (114).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1bC-OZgAJhk-KgTS9Bumiol72TkBw8VUG",
+                            "name": "Jumat Agung KA (106).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1LVGFliGdLG5a_DqVsvQDA8DdXhKcw6hG",
+                            "name": "Jumat Agung KA (112).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ZLUr7x-0DO2teU_yUdVKEsEErAcCi8Qt",
+                            "name": "IMG_20260403_092136.jpg",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ezUq_2R2tU8DP05Ts-PbQGxTgPjArK5w",
+                            "name": "IMG_20260403_092027.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1Ekmu-iqupmJcUouQVF2nOjqs3MnVNaHR",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (2).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1eE1n6LxoSlHwUrkjTim3G4YP8CqTrq-P",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (12).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1YJOJNKeKQWIdd5uIzTaQHuB1I31TNyXF",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (36).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1qnXCQt5bfRUbLyCQ0lQTuQgK8I0h2nUf",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (44).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1rCjKhgFpe_-0DMA1SveDu0mOpBIC6kBn",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (127).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1YofnyGHfdvK1iGB6R-t32mcAA_Dujlwi",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (73).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "13F3Y7YJyCHkbhArVKfUAx-DcA8k10otU",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (124).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1WDOm-WHvzZl8UjsdJm6TQ6Hd-VA0nS6j",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (103).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1H_98MV8PQVMKECI7k9yGsOQiYVejNwGv",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (115).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1F693P_sLlXJO-NGteghq524G93nf5nwd",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (52).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1YJciOUg99mWVACXHJ-QRd585B36ogQGU",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (118).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1n8xKRIScM5Dl1AyZxC6nri-z27iSC1M5",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (123).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1MU35M2i58-vHog7cSowWg5zgWEJ_dypw",
+                            "name": "20260403 - JUMAT AGUNG KOMISI ANAK (92).JPG",
+                            "date": "2026-04-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1qfXf9o4fQK-gX1JwcZmrH57efoeeyPEo",
+                    "last_update": "2026-04-06",
+                    "featured_photo_id": "1szdalicVraLZogEdrGmdIOGoDw6f9cFo",
+                    "story": "Foto-foto dokumentasi Ibadah Sabtu Sunyi [MRP 2026] yang dilaksanakan pada 4 April 2026.",
+                    "title": "Ibadah Sabtu Sunyi [MRP 2026]",
+                    "event_date": "2026.04.04",
+                    "photos": [
+                        {
+                            "id": "1lgvW7ExWUpwydF2DmsbH1qNoiJaUcVkO",
+                            "name": "GKI Sabtu Sunyi 040426-6-00007.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1yGStYHwJkoY-Mo4aiAMtP7nhU2h7xHyz",
+                            "name": "GKI Sabtu Sunyi 040426-6-00008.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1aU-hdhgiqyeGMH-3sDVRYqN2T2M3glX8",
+                            "name": "GKI Sabtu Sunyi 040426-6-00027.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1aEydvzIkx6eLselOLuKvMtihQLxmR7bj",
+                            "name": "GKI Sabtu Sunyi 040426-6-00033.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1l-rb_KnMY6LYzB02kMpucVg86AfLhh29",
+                            "name": "GKI Sabtu Sunyi 040426-6-00015.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ctukwd3dLw95Em8haMVsUjHhTgaoWfc1",
+                            "name": "GKI Sabtu Sunyi 040426-6-00013.JPG",
+                            "date": "2026-04-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1GebLAgK-3wxI1EX1IhdJFgg_qzs-uk5Q",
+                    "last_update": "2026-04-06",
+                    "featured_photo_id": "16bknLPHfCKu4m-vt_iKPxrRxL_dj00Bx",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah [MRP 2026] yang dilaksanakan pada 5 April 2026.",
+                    "title": "Ibadah Minggu Paskah [MRP 2026]",
+                    "event_date": "2026.04.05",
+                    "photos": [
+                        {
+                            "id": "1jATLZG-PSWUmQocdc993vsUyCWJQZWxn",
+                            "name": "GKI Minggu Paskah 050426-7-00291.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1io-HV-Kdihgy3KScpoBHerpInUw_81G1",
+                            "name": "GKI Minggu Paskah 050426-7-00161.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ZnjOJu8beAsV54fckFM8zOe5py4Kw0-B",
+                            "name": "GKI Minggu Paskah 050426-7-00333.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1K1jhPmb-DWowdhYtu9tqgNqLziPvTLfX",
+                            "name": "GKI Minggu Paskah 050426-7-00318.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1AFG7Lp3l3WcUINwfKtRc36iY-3_ffeEU",
+                            "name": "GKI Minggu Paskah 050426-7-00142.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "170vZJrJ18Q_NPq1L4fmdqjLDgxPAAZMS",
+                            "name": "GKI Minggu Paskah 050426-7-00299.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "17DyKo1RXtsPIsGswU_rHcyMzRp2V4L4d",
+                            "name": "GKI Minggu Paskah 050426-7-00306.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1D90qkRJFuci9zf03_og2Z3QqtuCrLqyS",
+                            "name": "GKI Minggu Paskah 050426-7-00173.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1EVVAFY-16VDNWlM3nlH6-tsEvoCwUVCx",
+                            "name": "GKI Minggu Paskah 050426-7-00128.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1mMQyK4EwSIRCZ0rqXZTqXLWgPnEIgQ8U",
+                            "name": "GKI Minggu Paskah 050426-7-00198.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "17hB5vBpu_04fSBYBKjICqUIez4Pl27H4",
+                            "name": "GKI Minggu Paskah 050426-7-00182.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1fzTTU7nqHHjs67Q_GgY6obQSAgovb1FN",
+                            "name": "GKI Minggu Paskah 050426-7-00170.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "11Po2pLt13Yd8rzyQ0FvNjrHCNMFjqDXz",
+                            "name": "GKI Minggu Paskah 050426-7-00221.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1yrRMKNM3DM_kqr0M--OBp35KAgfWvTNf",
+                            "name": "GKI Minggu Paskah 050426-7-00249.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "10T15sv2tKm9ofCxD66DQYhDKX4XJ7re9",
+                            "name": "GKI Minggu Paskah 050426-7-00166.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "14A9whY2EUHRK9M2n8NAXMgKtTlzCmALG",
+                            "name": "IMG_20260405_181416.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1zUcoTjdys0NfxopTAFlJoa9OtIrvLvzO",
+                            "name": "GKI Minggu Paskah 050426-7-00041.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1ThFpeIivImYBZha6m4oF5anho2JQeNGV",
+                            "name": "GKI Minggu Paskah 050426-7-00033.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1dd00lyrgVQkPcXwcF1te3Z_HcEJtC1vS",
+                            "name": "GKI Minggu Paskah 050426-7-00012.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1EYLXLBDlT_Yr_nHz77TvFArxO2nlXvUI",
+                            "name": "GKI Minggu Paskah 050426-7-00053.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1EmQvnJKq4T7N7-4BVTodD3ryyPR0omQT",
+                            "name": "GKI Minggu Paskah 050426-7-00050.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1YeyDRfnAc-F7dfLB0el9m_B7MwURjBIC",
+                            "name": "GKI Minggu Paskah 050426-7-00003.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1AGbDJ0UMnbOjaDs8ryqjV02r7h4PdZxD",
+                            "name": "Ibadah Paskah 5.4.26. (14).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1PYSadfq_Mk1RSw-kfeF8tk-oGXqY35qL",
+                            "name": "Ibadah Paskah 5.4.26. (67).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1HVbE2dXNh-ZPPQf6x3B42h091bUFn07j",
+                            "name": "Ibadah Paskah 5.4.26. (64).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1eEx4ifAlCSaiRxHDLucP06urGCGmGGrO",
+                            "name": "Ibadah Paskah 5.4.26. (32).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1AsrGHA1CxOgwh7jlIlV_T3PN-9B1Gbz6",
+                            "name": "Ibadah Paskah 5.4.26. (19).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1oHzMEZ2eg2iaOfy9FxozESc318EDTeYm",
+                            "name": "Ibadah Paskah 5.4.26. (36).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1wUN_WCwZgPMyZpH6rQM7a2Kx4XPbaXn9",
+                            "name": "Ibadah Paskah 5.4.26. (68).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1jF6hXri5VtSk0eDG32omP4O82VqhhtEI",
+                            "name": "Ibadah Paskah 5.4.26. (39).JPG",
+                            "date": "2026-04-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "10kHHlgNkubfTYI7-hkp1OxCrtWsfcFtG",
+                    "last_update": "2026-04-06",
+                    "featured_photo_id": "1U6WWLMOxnqjEbXWjhfnxHcRuN4ugsaN8",
+                    "story": "Foto-foto dokumentasi Paskah Ceria [MRP 2026] yang dilaksanakan pada 5 April 2026.",
+                    "title": "Paskah Ceria [MRP 2026]",
+                    "event_date": "2026.04.05",
+                    "photos": [
+                        {
+                            "id": "1yauGc3KOfZGanvhA-E4NBgZHbxEc0A1l",
+                            "name": "Ibadah Paskah 5.4.26. (98).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1GoqWFwo_f-LQMGODCrrbgEdAoX5ChZq4",
+                            "name": "Ibadah Paskah 5.4.26. (173).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1sP6hJt3P2o5d3cEkga0wePayURXmwQn5",
+                            "name": "Ibadah Paskah 5.4.26. (258).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1LwV3yU_KQIl5FBkvd4QwzJ2Ygd1nn-1H",
+                            "name": "Ibadah Paskah 5.4.26. (133).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1_11IqxEhvF-HXkvWlnqS4jW7hprH6pyo",
+                            "name": "Ibadah Paskah 5.4.26. (125).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1yV4O4ZR5_Y1AQTE1WpibNQTH4lu4Nua7",
+                            "name": "Ibadah Paskah 5.4.26. (194).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1RwctRDaHAStj-b7Wm1e2h8aWJlsr31nc",
+                            "name": "Ibadah Paskah 5.4.26. (272).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1AfjEzg9l04hA3tMUmT4ZE9m6VUJwYGgZ",
+                            "name": "Ibadah Paskah 5.4.26. (280).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "18YiN1j0KDx2GbUL2yR-Qcl7UPCWkYl5h",
+                            "name": "Ibadah Paskah 5.4.26. (282).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1TU09CiHhoAeDYl-hZU0a64-YNllaN5A4",
+                            "name": "Ibadah Paskah 5.4.26. (225).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1rf4GxzaL284hjBOABUAUqeqVG21cQRO3",
+                            "name": "Ibadah Paskah 5.4.26. (198).JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1oOvngIxqFY1u3JbYg4ecHRJoIy77iBmQ",
+                            "name": "GKI Minggu Paskah 050426-7-00086.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1dOpZ_TpCCdHvrJC6oBbPKiHBCW250q-g",
+                            "name": "GKI Minggu Paskah 050426-7-00078.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1Nu_LuExxKaVUzvJYRUPqvgTsKZg_Qx46",
+                            "name": "GKI Minggu Paskah 050426-7-00099.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1UWoy9_x_7W58K01XZ4CvLPnUwzJn_mrt",
+                            "name": "GKI Minggu Paskah 050426-7-00076.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1-6GqYhb0AwMeHNElLBWMgi61k0vc8VJD",
+                            "name": "GKI Minggu Paskah 050426-7-00075.JPG",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "18rF6OhVksSpHRt4h2pxNSs-Lfs7QeaQp",
+                            "name": "IMG_20260405_074109.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1pQU-bp-7WCQNr4-jPZcgY0RwkYNv4Wld",
+                            "name": "IMG_20260405_072750.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "16JNR5df_V4z7R4L1ljZtdti4_GshhNvA",
+                            "name": "IMG_20260405_085505.HEIC",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1EKGzJeISfmmcHhW8k1ekI1U2hjHGKMYb",
+                            "name": "IMG_20260405_080834.jpg",
+                            "date": "2026-04-06"
+                        },
+                        {
+                            "id": "1jT4d8hvPUCJAxswP_8TZ-gGIaImwHOKk",
+                            "name": "IMG_20260405_081718.jpg",
+                            "date": "2026-04-06"
                         }
                     ]
                 }
