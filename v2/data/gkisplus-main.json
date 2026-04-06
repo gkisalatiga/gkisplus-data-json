@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5600,
-        "last-update": 1775450019,
-        "last-updated-item": "yt",
+        "update-count": 5601,
+        "last-update": 1775452118,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5582,6 +5582,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah 12 april ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih Perayaan Paskah SD Kristen 04 Eben Haezer",
                 "time": "09:00",
                 "time-to": "11:00",
@@ -5636,6 +5650,20 @@
                 "pic": "Vicha",
                 "status": "y",
                 "note": "Sudah konfirmasi ke kak Eri"
+            },
+            {
+                "name": "Latihan tim musik ibadah 12 april",
+                "time": "20:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-04-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
@@ -6226,30 +6254,30 @@
                 "note": ""
             },
             {
-                "name": "Latihan musik ibadah 12 april ",
-                "time": "18:30",
-                "time-to": "20:30",
+                "name": "Ibadah persiapan TKA",
+                "time": "08:00",
+                "time-to": "10:00",
                 "timezone": "WIB",
-                "date": "2026-04-07",
-                "weekday": "tue",
+                "date": "2026-04-16",
+                "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Paklik Vidra",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Natalia Setiawati Br T",
                 "status": "w",
                 "note": ""
             },
             {
-                "name": "Latihan tim musik ibadah 12 april",
-                "time": "18:30",
-                "time-to": "20:30",
+                "name": "Ibadah Paskah & Fellowship SEH",
+                "time": "10:30",
+                "time-to": "13:30",
                 "timezone": "WIB",
-                "date": "2026-04-08",
-                "weekday": "wed",
+                "date": "2026-04-17",
+                "weekday": "fri",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
+                "representative": "YPE",
+                "pic": "Natalia Setiawati Br T",
                 "status": "w",
                 "note": ""
             },
