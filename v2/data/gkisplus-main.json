@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5603,
-        "last-update": 1775483405,
+        "update-count": 5604,
+        "last-update": 1775490073,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6351,6 +6351,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat koordinator Panitia MRP 2026",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-04-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Setiadhy ",
+                "status": "w",
+                "note": "Tolong disediakan teh tawar dan air mineral galon (dispenser)."
             },
             {
                 "name": "PA Wilayah 5",
