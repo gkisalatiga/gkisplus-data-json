@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5616,
-        "last-update": 1775638200,
-        "last-updated-item": "yt",
+        "update-count": 5617,
+        "last-update": 1775649069,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6277,6 +6277,20 @@
                 "pic": "Dorema",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat pleno Paskah KR KP",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-04-12",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Sam",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
