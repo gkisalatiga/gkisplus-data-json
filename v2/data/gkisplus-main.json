@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5617,
-        "last-update": 1775649069,
-        "last-updated-item": "agenda",
+        "update-count": 5618,
+        "last-update": 1775660381,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Apr 2026 | Kebangkitan Kristus Menjadikan Hidup Yang Baru",
+                        "date": "2026-04-08",
+                        "desc": "Dibawakan oleh Bpk. Joko Suyono",
+                        "link": "https://www.youtube.com/watch?v=yxr23wb3Xpo",
+                        "thumbnail": "https://i2.ytimg.com/vi/yxr23wb3Xpo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Apr 2026 | Menghidupi Makna Kebangkitan Nya di Tengah Realitas Kehidupan",
                         "date": "2026-04-07",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=WoZ7RyetrAs",
                         "thumbnail": "https://i4.ytimg.com/vi/WoZ7RyetrAs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Mar 2026 | Kita Penjaga, Bukan Pemilik",
-                        "date": "2026-03-27",
-                        "desc": "Dibawakan oleh Sdr. Stephanus Egy Pratama",
-                        "link": "https://www.youtube.com/watch?v=VxSlrh0wD9c",
-                        "thumbnail": "https://i3.ytimg.com/vi/VxSlrh0wD9c/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
