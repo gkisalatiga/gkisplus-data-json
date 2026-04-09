@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5622,
-        "last-update": 1775708542,
-        "last-updated-item": "yt",
+        "update-count": 5623,
+        "last-update": 1775709018,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5632,20 +5632,6 @@
                 "note": ""
             },
             {
-                "name": "Paskah KD",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-04-10",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "c",
-                "note": ""
-            },
-            {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5672,6 +5658,20 @@
                 "pic": "Gloria",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat BPH KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "MInta disiapkan teh untuk 8 org"
             },
             {
                 "name": "Paskah Komisi Anak",
@@ -5714,6 +5714,20 @@
                 "pic": "Caleb",
                 "status": "y",
                 "note": "Sudah koord dg PSDC"
+            },
+            {
+                "name": "Rapat pleno Paskah KR KP",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-04-12",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Sam",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
@@ -5884,6 +5898,20 @@
                 "note": ""
             },
             {
+                "name": "Pra LDKS SMP Kristen 2 Salatiga",
+                "time": "11:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dorema",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "evaluasi latihan ibadah paskah KRKP 2026",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5910,6 +5938,34 @@
                 "pic": "Natalia Setiawati Br T",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pra LDKS",
+                "time": "08:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-04-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dorema",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Program Komkes",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Pak Sutomo",
+                "status": "y",
+                "note": "--"
             },
             {
                 "name": "Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
@@ -6190,62 +6246,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Pra LDKS SMP Kristen 2 Salatiga",
-                "time": "11:00",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2026-04-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dorema",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pra LDKS",
-                "time": "08:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-04-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dorema",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat pleno Paskah KR KP",
-                "time": "11:30",
-                "time-to": "14:30",
-                "timezone": "WIB",
-                "date": "2026-04-12",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Sam",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Program Komkes",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-04-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Kesejahteraan",
-                "pic": "Pak Sutomo",
-                "status": "w",
-                "note": "--"
             },
             {
                 "name": "PA Wilayah 5",
