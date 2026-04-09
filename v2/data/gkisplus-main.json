@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5620,
-        "last-update": 1775670987,
-        "last-updated-item": "yt",
+        "update-count": 5621,
+        "last-update": 1775699481,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6282,6 +6282,20 @@
                 "pic": "Sam",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Program Komkes",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Pak Sutomo",
+                "status": "w",
+                "note": "--"
             },
             {
                 "name": "PA Wilayah 5",
