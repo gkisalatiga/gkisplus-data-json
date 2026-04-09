@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5625,
-        "last-update": 1775725025,
+        "update-count": 5626,
+        "last-update": 1775734967,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Apr 2026 | Orang Yang Paling Malang Di Dunia",
+                        "date": "2026-04-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=kQv1dYTkDc8",
+                        "thumbnail": "https://i4.ytimg.com/vi/kQv1dYTkDc8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Apr 2026 | Kebangkitan Kristus Menjadikan Hidup Yang Baru",
                         "date": "2026-04-08",
