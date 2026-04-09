@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5623,
-        "last-update": 1775709018,
+        "update-count": 5624,
+        "last-update": 1775721587,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5672,6 +5672,20 @@
                 "pic": "Alia Katharina",
                 "status": "y",
                 "note": "MInta disiapkan teh untuk 8 org"
+            },
+            {
+                "name": "Rapat Tim Pembimbing Calon Pdt",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono",
+                "status": "y",
+                "note": "Minta tolong untuk menyiapkan 5 pack snack ( + teh manis )"
             },
             {
                 "name": "Paskah Komisi Anak",
