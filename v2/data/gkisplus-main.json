@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5628,
-        "last-update": 1775795749,
-        "last-updated-item": "yt",
+        "update-count": 5629,
+        "last-update": 1775804744,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5744,6 +5744,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Pleno KD",
+                "time": "11:30",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-04-12",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5868,6 +5882,20 @@
                 "pic": "Sasa dan Icha ",
                 "status": "y",
                 "note": "Latihan terakhir untuk acara Fellowship Paskah KRKP"
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-04-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Gladi Kotor Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
