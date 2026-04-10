@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5629,
-        "last-update": 1775804744,
-        "last-updated-item": "agenda",
+        "update-count": 5630,
+        "last-update": 1775811472,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,57 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Apr 2026 | Orang Yang Paling Malang Di Dunia",
+                        "date": "2026-04-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=kQv1dYTkDc8",
+                        "thumbnail": "https://i4.ytimg.com/vi/kQv1dYTkDc8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Apr 2026 | Kebangkitan Kristus Menjadikan Hidup Yang Baru",
+                        "date": "2026-04-08",
+                        "desc": "Dibawakan oleh Bpk. Joko Suyono",
+                        "link": "https://www.youtube.com/watch?v=yxr23wb3Xpo",
+                        "thumbnail": "https://i2.ytimg.com/vi/yxr23wb3Xpo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Apr 2026 | Menghidupi Makna Kebangkitan Nya di Tengah Realitas Kehidupan",
+                        "date": "2026-04-07",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=hTsfAp85SLg",
+                        "thumbnail": "https://i1.ytimg.com/vi/hTsfAp85SLg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Apr 2026 | Kebangkitan Kristus Membawa Pembaruan Dalam Hidup Kita",
+                        "date": "2026-04-06",
+                        "desc": "Dibawakan oleh Pnt. Rodiana",
+                        "link": "https://www.youtube.com/watch?v=naFJpas1Tng",
+                        "thumbnail": "https://i3.ytimg.com/vi/naFJpas1Tng/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Apr 2026 | Kemenangan Sejati di Balik Kekalahan",
+                        "date": "2026-04-05",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=8DdVqzTnyCs",
+                        "thumbnail": "https://i1.ytimg.com/vi/8DdVqzTnyCs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Apr 2026 | Memelihara Ciptaan Allah",
+                        "date": "2026-03-31",
+                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
+                        "link": "https://www.youtube.com/watch?v=DGiJoibF9bI",
+                        "thumbnail": "https://i1.ytimg.com/vi/DGiJoibF9bI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 31 Mar 2026 | Alam Cukup untuk Kebutuhan bukan untuk Keserakahan",
+                        "date": "2026-03-30",
+                        "desc": "Dibawakan oleh Sdr. Septe Adrianus Huke",
+                        "link": "https://www.youtube.com/watch?v=1197g7K06-A",
+                        "thumbnail": "https://i2.ytimg.com/vi/1197g7K06-A/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
