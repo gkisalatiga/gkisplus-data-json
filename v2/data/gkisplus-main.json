@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5630,
-        "last-update": 1775811472,
+        "update-count": 5631,
+        "last-update": 1775821103,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Apr 2026 | Bersyukur Atas Segala Hal",
+                        "date": "2026-04-10",
+                        "desc": "Dibawakan oleh Pnt. Henri Kristanto",
+                        "link": "https://www.youtube.com/watch?v=JSK8Heg4_f4",
+                        "thumbnail": "https://i3.ytimg.com/vi/JSK8Heg4_f4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Apr 2026 | Orang Yang Paling Malang Di Dunia",
                         "date": "2026-04-09",
@@ -54,20 +61,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=8DdVqzTnyCs",
                         "thumbnail": "https://i1.ytimg.com/vi/8DdVqzTnyCs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Apr 2026 | Memelihara Ciptaan Allah",
-                        "date": "2026-03-31",
-                        "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
-                        "link": "https://www.youtube.com/watch?v=DGiJoibF9bI",
-                        "thumbnail": "https://i1.ytimg.com/vi/DGiJoibF9bI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Mar 2026 | Alam Cukup untuk Kebutuhan bukan untuk Keserakahan",
-                        "date": "2026-03-30",
-                        "desc": "Dibawakan oleh Sdr. Septe Adrianus Huke",
-                        "link": "https://www.youtube.com/watch?v=1197g7K06-A",
-                        "thumbnail": "https://i2.ytimg.com/vi/1197g7K06-A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1253,6 +1246,13 @@
             {
                 "content": [
                     {
+                        "title": "Ibadah Paskah Komisi Anak | 11 April 2026 | Kebangkitan Kristus Memperbaiki Kehidupan",
+                        "date": "2026-04-10",
+                        "desc": "KEBAKTIAN PASKAH KOMISI ANAK GKI SALATIGA\nSabtu, 11 April 2026; Pukul 15:30 WIB\n\nTema: \"Kebangkitan Kristus Memperbaiki Kehidupan\"\nRefleksi dibawakan oleh: Pdt. Helen Aramada Setyoputri (GKI Peterongan)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\n\u2022 Kidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\n\u2022 Nyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\n\u2022 Pelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=au4tmQnZ2U8",
+                        "thumbnail": "https://i.ytimg.com/vi/au4tmQnZ2U8/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "Puisi Jumat Agung | Komisi Anak GKI Salatiga | 3 April 2026",
                         "date": "2026-04-03",
                         "desc": "PUISI JUMAT AGUNG\nDibawakan pada Fragmen Jumat Agung Komisi Anak GKI Salatiga\nJumat, 3 April 2026; Pukul 08:00 WIB\n\nTema: \"Salib: Tanda Kasih Terbesar Allah\"\n\nDibacakan oleh Adik Carel\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
@@ -1451,13 +1451,6 @@
                     {
                         "title": "IBADAH KOMISI ANAK (15 MEI 2022) \"\"BERHARAP PADA JANJI TUHAN\"\"",
                         "date": "2022-06-11",
-                        "desc": "Tema: Berharap pada janji Tuhan\"\nAyat: Kisah Para Rasul 1 : 1 - 8\nPelayan Firman: Kak Damara\nMC: Kak Asputri dan Kak Irene\nSinger: Kak Vickha dan Kak Jo\nPPT: Kak Keiko\nObs: Kak Diaz dan Kak Jo\nPemusik : Kak Joanda\nKamera:: Kak David\nSound Sistem: Mas Bayu & Mas Adit\nRegister dan Cek Suhu: Kak Ika dan Kakak-kakak lainnya\nKorlab: KaK Wur",
-                        "link": "https://www.youtube.com/watch?v=EgceOT81LQ8",
-                        "thumbnail": "https://i.ytimg.com/vi/EgceOT81LQ8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "IBADAH KOMISI ANAK (15 MEI 2022) \"\"BERHARAP PADA JANJI TUHAN\"\"",
-                        "date": "2022-05-15",
                         "desc": "Tema: Berharap pada janji Tuhan\"\nAyat: Kisah Para Rasul 1 : 1 - 8\nPelayan Firman: Kak Damara\nMC: Kak Asputri dan Kak Irene\nSinger: Kak Vickha dan Kak Jo\nPPT: Kak Keiko\nObs: Kak Diaz dan Kak Jo\nPemusik : Kak Joanda\nKamera:: Kak David\nSound Sistem: Mas Bayu & Mas Adit\nRegister dan Cek Suhu: Kak Ika dan Kakak-kakak lainnya\nKorlab: KaK Wur",
                         "link": "https://www.youtube.com/watch?v=EgceOT81LQ8",
                         "thumbnail": "https://i.ytimg.com/vi/EgceOT81LQ8/hqdefault.jpg"
@@ -2056,6 +2049,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Paskah Komisi Anak | 11 April 2026 | Kebangkitan Kristus Memperbaiki Kehidupan",
+                        "date": "2026-04-10",
+                        "desc": "KEBAKTIAN PASKAH KOMISI ANAK GKI SALATIGA\nSabtu, 11 April 2026; Pukul 15:30 WIB\n\nTema: \"Kebangkitan Kristus Memperbaiki Kehidupan\"\nRefleksi dibawakan oleh: Pdt. Helen Aramada Setyoputri (GKI Peterongan)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\n\u2022 Kidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\u2022 Kumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\n\u2022 Nyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\n\u2022 Pelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=au4tmQnZ2U8",
+                        "thumbnail": "https://i.ytimg.com/vi/au4tmQnZ2U8/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu Paskah GKI Salatiga | 5 April 2026 | \"Kebangkitan Kristus Memperbarui Ciptaan\"",
                         "date": "2026-03-31",
