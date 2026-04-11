@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5632,
-        "last-update": 1775859880,
+        "update-count": 5633,
+        "last-update": 1775877615,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2181,6 +2181,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 12 April 2026",
+                    "date": "2026-04-11",
+                    "link": "https://drive.google.com/file/d/1wS4oPLJ-O_YyZJIQaDbndtA5PUkt4jnz/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-12-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1wS4oPLJ-O_YyZJIQaDbndtA5PUkt4jnz",
+                    "id": "1wS4oPLJ-O_YyZJIQaDbndtA5PUkt4jnz",
+                    "size": "2.65 MB"
+                },
+                {
                     "title": "Warta Jemaat 5 April 2026",
                     "date": "2026-04-04",
                     "link": "https://drive.google.com/file/d/12VkUFD0dg_W_ocQkdC7SNDNf0m_fQNeg/view",
@@ -2965,6 +2974,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah II - 12 April 2026",
+                    "date": "2026-04-11",
+                    "link": "https://drive.google.com/file/d/1TEj3ztd6ek95FUUexpFjOevH168VWjm-/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-ii-12-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1TEj3ztd6ek95FUUexpFjOevH168VWjm-",
+                    "id": "1TEj3ztd6ek95FUUexpFjOevH168VWjm-",
+                    "size": "0.72 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Paskah 5 April 2026 (Siang-Sore)",
                     "date": "2026-04-04",
@@ -5181,15 +5199,6 @@
                 "type": "poster",
                 "date-created": "2026-04-08",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_13.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_pernikahan_wn.webp",
-                "title": "Pemberkatan dan Peneguhan Pernikahan",
-                "type": "poster",
-                "date-created": "2026-04-11",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_pernikahan_wn.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
