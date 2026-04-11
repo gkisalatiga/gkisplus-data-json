@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5636,
-        "last-update": 1775893616,
+        "update-count": 5637,
+        "last-update": 1775900111,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5976,6 +5976,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pleno KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "w",
+                "note": "Minta disiapkan LCD"
             },
             {
                 "name": "PA Wilayah 5",
