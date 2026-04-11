@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5633,
-        "last-update": 1775877615,
-        "last-updated-item": "yt",
+        "update-count": 5634,
+        "last-update": 1775881078,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5803,7 +5803,7 @@
                 "note": "-"
             },
             {
-                "name": "Rapat Pleno KD",
+                "name": "Pertemuan dg Mahasiswa PPL",
                 "time": "11:30",
                 "time-to": "13:30",
                 "timezone": "WIB",
@@ -5811,8 +5811,8 @@
                 "weekday": "sun",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
             },
