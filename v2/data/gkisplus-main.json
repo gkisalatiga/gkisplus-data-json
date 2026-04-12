@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5644,
-        "last-update": 1776025237,
+        "update-count": 5645,
+        "last-update": 1776036694,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Apr 2026 | Kebangkitan Yang Mengubah Hidup",
+                        "date": "2026-04-12",
+                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
+                        "link": "https://www.youtube.com/watch?v=hwNjSXVpBNc",
+                        "thumbnail": "https://i1.ytimg.com/vi/hwNjSXVpBNc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Apr 2026 | Sepotong Ikan Bakar Untuk Yesus",
                         "date": "2026-04-12",
