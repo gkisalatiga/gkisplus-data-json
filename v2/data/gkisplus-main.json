@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5643,
-        "last-update": 1776014692,
+        "update-count": 5644,
+        "last-update": 1776025237,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Apr 2026 | Sepotong Ikan Bakar Untuk Yesus",
+                        "date": "2026-04-12",
+                        "desc": "Dibawakan oleh Sdr. Joe Elliot Magang Sau",
+                        "link": "https://www.youtube.com/watch?v=I8v95lcR9QA",
+                        "thumbnail": "https://i2.ytimg.com/vi/I8v95lcR9QA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Apr 2026 | Bersyukur Atas Segala Hal",
                         "date": "2026-04-10",
