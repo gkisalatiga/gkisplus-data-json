@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5648,
-        "last-update": 1776065118,
+        "update-count": 5649,
+        "last-update": 1776089595,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5525,6 +5525,20 @@
                 "note": "Minta disiapkan LCD"
             },
             {
+                "name": "Latihan paduan suara",
+                "time": "13:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-04-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5579,6 +5593,34 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan Paduan Suara",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Zoom Meeting Antara Panitia Paskah KR KP dengan Pak Pdt Guratan (PF Ibadah Paskah KR KP). ",
+                "time": "17:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Ernest Ardian Juliano",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Gladi Kotor Ibadah Paskah KRKP GKI Salatiga",
@@ -5733,6 +5775,20 @@
                 "pic": "Pak Sutomo",
                 "status": "y",
                 "note": "--"
+            },
+            {
+                "name": "Ibadah Persiapan TKA",
+                "time": "07:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2026-04-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
@@ -6012,48 +6068,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan paduan suara",
-                "time": "13:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-04-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Endah",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Paduan Suara",
-                "time": "13:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-04-14",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Ibadah Persiapan TKA",
-                "time": "07:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2026-04-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
                 "note": ""
             },
             {
