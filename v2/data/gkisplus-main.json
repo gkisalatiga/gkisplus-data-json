@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5645,
-        "last-update": 1776036694,
-        "last-updated-item": "yt",
+        "update-count": 5646,
+        "last-update": 1776046223,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5511,6 +5511,20 @@
                 "note": "Minta disiapkan LCD dan layar"
             },
             {
+                "name": "Rapat Pleno KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "w",
+                "note": "Minta disiapkan LCD"
+            },
+            {
                 "name": "Latihan Ibadah Paskah Remaja Pemuda GKI Salatiga",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5999,20 +6013,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat Pleno KD",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-04-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "w",
-                "note": "Minta disiapkan LCD"
             },
             {
                 "name": "PA Wilayah 5",
