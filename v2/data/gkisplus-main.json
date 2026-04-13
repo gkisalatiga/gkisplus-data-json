@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5646,
-        "last-update": 1776046223,
+        "update-count": 5647,
+        "last-update": 1776057944,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5521,7 +5521,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
-                "status": "w",
+                "status": "y",
                 "note": "Minta disiapkan LCD"
             },
             {
@@ -6013,6 +6013,34 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan paduan suara",
+                "time": "13:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-04-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Paduan Suara",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wilayah 5",
