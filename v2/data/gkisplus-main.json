@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5649,
-        "last-update": 1776089595,
+        "update-count": 5650,
+        "last-update": 1776095659,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5623,6 +5623,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan PS. GKI",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Anti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kotor Ibadah Paskah KRKP GKI Salatiga",
                 "time": "18:00",
                 "time-to": "21:00",
@@ -6068,6 +6082,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik ibadah Minggu",
+                "time": "15:00",
+                "time-to": "16:40",
+                "timezone": "WIB",
+                "date": "2026-04-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adriel Pranawa Adi",
+                "status": "w",
                 "note": ""
             },
             {
