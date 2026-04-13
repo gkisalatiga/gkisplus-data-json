@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5650,
-        "last-update": 1776095659,
-        "last-updated-item": "agenda",
+        "update-count": 5651,
+        "last-update": 1776112802,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -22,7 +22,7 @@
                 "content": [
                     {
                         "title": "SaRen Pagi | 15 Apr 2026 | Kebangkitan Yang Mengubah Hidup",
-                        "date": "2026-04-12",
+                        "date": "2026-04-13",
                         "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
                         "link": "https://www.youtube.com/watch?v=hwNjSXVpBNc",
                         "thumbnail": "https://i1.ytimg.com/vi/hwNjSXVpBNc/hqdefault.jpg"
@@ -2063,6 +2063,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "PEMAHAMAN ALKITAB GABUNGAN GKI Salatiga | 14 April 2025 | MARI MELANJUTKAN NIAT BAIK MERAWAT BUMI",
+                        "date": "2026-04-13",
+                        "desc": "Pemahaman Alkitab Gabungan GKI Salatiga 14 April 2025\nPukul 17.00 WIB\n\nTema: Mari Melanjutkan Niat Baik Merawat Bumi\n\nPemateri: Pdt. Helen Ruth Manurung & Sdr. Melvern Kenny Cahyadi\nMusik:\nMC:\nSinger:\nMJ :\nMultimedia : Budi S. , Judica, Susan, Iwandi\n\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "link": "https://www.youtube.com/watch?v=WiE4vKwyUPo",
+                        "thumbnail": "https://i.ytimg.com/vi/WiE4vKwyUPo/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Paskah II | 12 April 2026 | \"Mengikut Kristus yang Bangkit, Ikut dalam Karya Pemulihan Allah\"",
                         "date": "2026-04-11",
