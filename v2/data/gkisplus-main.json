@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5653,
-        "last-update": 1776132312,
+        "update-count": 5654,
+        "last-update": 1776150361,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6103,6 +6103,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
+                "status": "w",
                 "note": ""
             },
             {
