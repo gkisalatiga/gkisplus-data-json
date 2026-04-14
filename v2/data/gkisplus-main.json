@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5656,
-        "last-update": 1776161965,
+        "update-count": 5657,
+        "last-update": 1776172564,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5700,6 +5700,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan untuk tugas hari minggu",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-04-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Gladi Kotor Ibadah Paskah Komisi Remaja dan Pemuda GKI Salatiga",
                 "time": "16:00",
                 "time-to": "21:00",
@@ -5752,6 +5766,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Dorema",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Atiek Widyati",
                 "status": "y",
                 "note": ""
             },
@@ -5838,6 +5866,20 @@
                 "pic": "Caleb Tito",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pertemuan dengan mhs PPL III",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-04-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6078,6 +6120,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6103,62 +6159,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-04-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Atiek Widyati",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan dengan mhs PPL III",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-04-19",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Lainnya",
-                "pic": "Lukas Sukan",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-06-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan untuk tugas hari minggu",
-                "time": "14:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-04-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Michele",
-                "status": "w",
                 "note": ""
             },
             {
