@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5655,
-        "last-update": 1776157152,
+        "update-count": 5656,
+        "last-update": 1776161965,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6130,6 +6130,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Lukas Sukan",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 9 ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan untuk tugas hari minggu",
+                "time": "14:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-04-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
                 "status": "w",
                 "note": ""
             },
