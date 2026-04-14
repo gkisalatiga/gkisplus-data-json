@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5657,
-        "last-update": 1776172564,
-        "last-updated-item": "agenda",
+        "update-count": 5658,
+        "last-update": 1776179087,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Apr 2026 | Sebab Yesus Hidup",
+                        "date": "2026-04-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=BCN-5y9PlfY",
+                        "thumbnail": "https://i3.ytimg.com/vi/BCN-5y9PlfY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Apr 2026 | Kebangkitan Yang Mengubah Hidup",
                         "date": "2026-04-13",
