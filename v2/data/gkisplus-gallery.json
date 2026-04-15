@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 76,
-        "last-update": 1775504562,
+        "update-count": 77,
+        "last-update": 1776224490,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -30066,6 +30066,301 @@
                             "id": "1jT4d8hvPUCJAxswP_8TZ-gGIaImwHOKk",
                             "name": "IMG_20260405_081718.jpg",
                             "date": "2026-04-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1d70NLg7sZM9R8yOZnhTW-aaQlpDjrqjO",
+                    "last_update": "2026-04-15",
+                    "featured_photo_id": "1wQkP7F4C13RncmYwy9YFQdV-BSmV9OlG",
+                    "story": "Foto-foto dokumentasi Paskah KA [MRP 2026] yang dilaksanakan pada 11 April 2026.",
+                    "title": "Paskah KA [MRP 2026]",
+                    "event_date": "2026.04.11",
+                    "photos": [
+                        {
+                            "id": "1PL23Ck0752iKGPzkhyPokUJuJ17HNwr0",
+                            "name": "WhatsApp Image 2026-04-11 at 10.16.44 PM.jpeg",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1xsWofG18AKauGzYvMYv-T-PTPftDpjwp",
+                            "name": "WhatsApp Image 2026-04-11 at 6.19.53 PM (1).jpeg",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1MqWYtTyy2TKn_JV3L9UFmkEJnneXcYnJ",
+                            "name": "WhatsApp Image 2026-04-11 at 10.16.38 PM.jpeg",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1sa4YOZ8oOWw8IB7mC2Ed0CUGGCU52tSU",
+                            "name": "WhatsApp Image 2026-04-11 at 10.16.48 PM.jpeg",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1DAcHnQeArKbddZxI3JIhdZr11169niR0",
+                            "name": "20260411 - PASKAH KOMISI ANAK (436).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1LYr49yyFzaGLKi_U6MUzbRdvD-a0baTi",
+                            "name": "20260411 - PASKAH KOMISI ANAK (3).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1lTMaA4BlCT88XGA8Misa3r4oUmrmOm46",
+                            "name": "20260411 - PASKAH KOMISI ANAK (433).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1zeFKFVawoSagj9tQU_gD5t8DUjQbs4Ja",
+                            "name": "20260411 - PASKAH KOMISI ANAK (370).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1Qu7fs6mMcxIO-6vDDqGo7VpE-E1pHIo5",
+                            "name": "20260411 - PASKAH KOMISI ANAK (285).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1S25Y-wJJ8Y_rwyb6C8zFPmrN1F2v39nF",
+                            "name": "20260411 - PASKAH KOMISI ANAK (402).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1AQVFDZ8y5yDUQsmbSvGCD-rOOghtaBTB",
+                            "name": "20260411 - PASKAH KOMISI ANAK (346).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1pWdyuD6cU8t1mx_rBIDEaWJW0ZDXU8rw",
+                            "name": "20260411 - PASKAH KOMISI ANAK (375).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1YtIXdwjDOezAXnoucN7a9vY6bLitKSGA",
+                            "name": "20260411 - PASKAH KOMISI ANAK (416).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1b0DaoVA_8bNG1ptz7S6vY4iEyMcNpEY6",
+                            "name": "20260411 - PASKAH KOMISI ANAK (349).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1O_OKwGcX4AvW3ebfp9ZcKvw1vkzEmiKT",
+                            "name": "20260411 - PASKAH KOMISI ANAK (392).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1T6WDbaQ99llB9KEjYv1O95ILFrfMg1ae",
+                            "name": "20260411 - PASKAH KOMISI ANAK (276).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1GIR4EEuDcPVYPsFpBBvEGBRoH5bvOjIJ",
+                            "name": "20260411 - PASKAH KOMISI ANAK (254).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1mcDBaYrt4AUcktJUz3EX2tSj-Lug46AY",
+                            "name": "20260411 - PASKAH KOMISI ANAK (210).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1Ymx_Q97qid19N47nwSlRuCml7fxwkt70",
+                            "name": "20260411 - PASKAH KOMISI ANAK (250).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "15YWGYam2ziipevisKfSvQRLMiZj9n8zX",
+                            "name": "20260411 - PASKAH KOMISI ANAK (238).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1I8T1mdTvACm69Seu_ZSb7m0WQ7pWR-fv",
+                            "name": "20260411 - PASKAH KOMISI ANAK (228).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1Ee2ZTIWDvDzauGzwi82K00WUtCfoWlM4",
+                            "name": "20260411 - PASKAH KOMISI ANAK (225).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1BCML-3HNN-KNfKImdXMbxcoIuRGAigWs",
+                            "name": "20260411 - PASKAH KOMISI ANAK (183).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1eJ_4RjUZSl6b7x1LJ40LDMh_KhsdNZa-",
+                            "name": "20260411 - PASKAH KOMISI ANAK (241).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1K3ZztgHzP331OKhWEpiDgyBlvA1hCRi6",
+                            "name": "20260411 - PASKAH KOMISI ANAK (207).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1FDhojbcTh_islpkzeprwNPiLfoPXOS1h",
+                            "name": "20260411 - PASKAH KOMISI ANAK (160).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "10XOoCo5PYlXgS3xeqY_jgoRJAsfMf-k5",
+                            "name": "20260411 - PASKAH KOMISI ANAK (165).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1OVwD-iQkIkh9x4bwP1D5Uhfn9HhscD32",
+                            "name": "20260411 - PASKAH KOMISI ANAK (152).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1S_Kctf2U0p-Qo6HS5XKoxAbvWkK6wBQB",
+                            "name": "20260411 - PASKAH KOMISI ANAK (141).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "18Wk6evNUYBtaYCKVnx1eDwF9zS6M3Qx-",
+                            "name": "20260411 - PASKAH KOMISI ANAK (131).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1fghcSuBXjKRMukg9LMH3DxT8-f1n4Z5X",
+                            "name": "20260411 - PASKAH KOMISI ANAK (120).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1QjyFQpISocNMpv4cpattaogqBO8GlOg8",
+                            "name": "20260411 - PASKAH KOMISI ANAK (92).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1dTiFKrI-ddTUgSYPEtjr96r-GTWlb-5Q",
+                            "name": "20260411 - PASKAH KOMISI ANAK (102).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "15ohGqQjL8ATB6NIeHXpP6aeXgZlJnSCE",
+                            "name": "20260411 - PASKAH KOMISI ANAK (113).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1ulYqv7Oe8GC6vuiqFF0ownUzvInsSoox",
+                            "name": "20260411 - PASKAH KOMISI ANAK (105).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1vFEH_OzxSC0nRN0Z8wCwQcjmowcox7l4",
+                            "name": "20260411 - PASKAH KOMISI ANAK (78).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1Ky6NZVoufUXabgH9OmKioYTPcRFeuO38",
+                            "name": "20260411 - PASKAH KOMISI ANAK (71).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "10OhOdlN1GxevSgv5y13eKH9XpfwUoDrI",
+                            "name": "20260411 - PASKAH KOMISI ANAK (88).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "10bhT3qbJprgXgjWpAvtSSs6LG60-WcTJ",
+                            "name": "20260411 - PASKAH KOMISI ANAK (30).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1fj_s3hjiT2IYr-SW38P6buiLMvuevn7Q",
+                            "name": "20260411 - PASKAH KOMISI ANAK (67).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1snYtJkf3llwBm-qB8cmgBLSQ08zt2C03",
+                            "name": "20260411 - PASKAH KOMISI ANAK (45).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1f37vztSDecLuIjfBLtTMUDZK4M84-u3c",
+                            "name": "20260411 - PASKAH KOMISI ANAK (48).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1KR4_O3hgqLx7EH_nygdLaxdHMeVNt6Q_",
+                            "name": "20260411 - PASKAH KOMISI ANAK (82).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1jShExE5P23fmpdSNpNywDD2-GDm7UCoF",
+                            "name": "20260411 - PASKAH KOMISI ANAK (62).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1mrdQ2A4ERbf0ORUyGJGNfrUf8dr4Kggd",
+                            "name": "20260411 - PASKAH KOMISI ANAK (37).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1zMppULp3j8BG4_Xlp8pgSgaGM5Gir_QQ",
+                            "name": "20260411 - PASKAH KOMISI ANAK (22).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1gWFDrfq9EDzb9M3OoMttpOEyB9dpd5II",
+                            "name": "20260411 - PASKAH KOMISI ANAK (18).JPG",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "109zbQA8u-oFECZ3vvONG-uqXyE4ZLr8e",
+                            "name": "IMG_20260411_174556.jpg",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "15AQTtHuTooU8yxgPiHGRibS9gH4MB-50",
+                            "name": "IMG_20260411_163524.HEIC",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1G0yg0NFF8Jf0yhg04VwbmqZCUMBLbhcR",
+                            "name": "IMG_20260411_174513.jpg",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "11QtEidce9c_nraUrTSdZyYfuvrFMxLzj",
+                            "name": "IMG_20260411_164120.HEIC",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1_H5QgWzBOkEuJSjrRP9Rzr9ipsPhJ4Xe",
+                            "name": "IMG_20260411_164200.HEIC",
+                            "date": "2026-04-15"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1B9WsWPdCE9SouP-PLmJbdKnDacWBmAQP",
+                    "last_update": "2026-04-15",
+                    "featured_photo_id": "1iJtRpgROZU4Gap6u9exALowMCwVYXQ-P",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah II [MRP 2026] yang dilaksanakan pada 12 April 2026.",
+                    "title": "Ibadah Minggu Paskah II [MRP 2026]",
+                    "event_date": "2026.04.12",
+                    "photos": [
+                        {
+                            "id": "1d1UiFTCEyBLKeaZaOHFMaYL5Z0XdEJC-",
+                            "name": "IMG_20260412_111410.HEIC",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1HZB9JxyJYj23eH4ZmIM_GjZRteT6bogB",
+                            "name": "IMG_20260412_104715.HEIC",
+                            "date": "2026-04-15"
+                        },
+                        {
+                            "id": "1bkwy1JRspFZYITJrASM12VxKOQbWF65y",
+                            "name": "IMG_20260412_111613.HEIC",
+                            "date": "2026-04-15"
                         }
                     ]
                 }
