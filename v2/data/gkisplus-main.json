@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5667,
-        "last-update": 1776292224,
+        "update-count": 5668,
+        "last-update": 1776296047,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5165,15 +5165,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "title": "Persekutuan Kambium",
-                "type": "poster",
-                "date-created": "2026-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
                 "title": "Kartinian 2026 GKI Salatiga",
                 "type": "poster",
@@ -5215,15 +5206,6 @@
                 "type": "poster",
                 "date-created": "2026-04-12",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_26.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mhs_ppl.webp",
-                "title": "Mahasiswa PPL Fakultas Teologi UKSW",
-                "type": "poster",
-                "date-created": "2026-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mhs_ppl.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
