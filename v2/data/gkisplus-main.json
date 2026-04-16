@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5669,
-        "last-update": 1776305390,
+        "update-count": 5670,
+        "last-update": 1776316539,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5434,6 +5434,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan tugas hari minggu",
+                "time": "16:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan hari minggu",
+                "time": "14:30",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi bersih paskah YPE",
+                "time": "13:00",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "YPE",
+                "pic": "Natalia Setiawati Br Tarigan ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "evaluasi latihan ibadah paskah KRKP 2026",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5600,6 +5642,20 @@
                 "pic": "Dwi Handari",
                 "status": "y",
                 "note": "Kalau Kapernaum kosong, minta dialihkan diruang kapernaum"
+            },
+            {
+                "name": "Latihan Paduan Suara",
+                "time": "01:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-04-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "Pemakaian rutin dari bulan April sampai nanti bulan November 2026 "
             },
             {
                 "name": "PA wilayah 11",
@@ -5823,34 +5879,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan tugas hari minggu",
-                "time": "16:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-04-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Michele",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan hari minggu",
-                "time": "13:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-04-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Michele",
-                "status": "w",
                 "note": ""
             },
             {
