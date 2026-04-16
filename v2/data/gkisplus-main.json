@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5668,
-        "last-update": 1776296047,
-        "last-updated-item": "yt",
+        "update-count": 5669,
+        "last-update": 1776305390,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5823,6 +5823,34 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan tugas hari minggu",
+                "time": "16:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan hari minggu",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-04-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "w",
                 "note": ""
             },
             {
