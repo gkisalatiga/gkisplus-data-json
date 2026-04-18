@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5681,
-        "last-update": 1776492631,
+        "update-count": 5682,
+        "last-update": 1776500969,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2173,6 +2173,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 19 April 2026",
+                    "date": "2026-04-18",
+                    "link": "https://drive.google.com/file/d/1PkZVgbLYYdTWvHaagYcpiaER_eEH4UUY/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-19april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1PkZVgbLYYdTWvHaagYcpiaER_eEH4UUY",
+                    "id": "1PkZVgbLYYdTWvHaagYcpiaER_eEH4UUY",
+                    "size": "2.28 MB"
+                },
+                {
                     "title": "Warta Jemaat 12 April 2026",
                     "date": "2026-04-11",
                     "link": "https://drive.google.com/file/d/1wS4oPLJ-O_YyZJIQaDbndtA5PUkt4jnz/view",
@@ -2966,6 +2975,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah III - 19 April 2026",
+                    "date": "2026-04-18",
+                    "link": "https://drive.google.com/file/d/1majv8MgGcZGz8gLeVpD1nYBTwkWr16xM/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-iii-19-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1majv8MgGcZGz8gLeVpD1nYBTwkWr16xM",
+                    "id": "1majv8MgGcZGz8gLeVpD1nYBTwkWr16xM",
+                    "size": "0.68 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Paskah II - 12 April 2026",
                     "date": "2026-04-11",
@@ -5186,15 +5204,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
-                "title": "Kartinian 2026 GKI Salatiga",
-                "type": "poster",
-                "date-created": "2026-04-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_21.webp",
                 "title": "Paskah Komisi Remaja dan Pemuda",
                 "type": "poster",
@@ -5218,6 +5227,15 @@
                 "type": "poster",
                 "date-created": "2026-04-12",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
+                "title": "Kartinian 2026 GKI Salatiga",
+                "type": "poster",
+                "date-created": "2026-04-18",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kd_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
