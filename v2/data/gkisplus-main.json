@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5679,
-        "last-update": 1776477421,
+        "update-count": 5680,
+        "last-update": 1776486717,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5619,6 +5619,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Nofi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Musik Ibadah Minggu",
+                "time": "10:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-04-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adriel Pranawa Adi",
                 "status": "w",
                 "note": ""
             },
