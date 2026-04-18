@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5678,
-        "last-update": 1776470333,
-        "last-updated-item": "yt",
+        "update-count": 5679,
+        "last-update": 1776477421,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5595,6 +5595,34 @@
                 "note": "-"
             },
             {
+                "name": "Blocking pantomim untuk Paskah KR-KP",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-04-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Nofi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Blocking pantomim untuk Paskah KR-KP",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-04-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Nofi",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dengan mhs PPL III",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5900,34 +5928,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Blocking pantomim untuk Paskah KR-KP",
-                "time": "11:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-04-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "Nofi",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Blocking pantomim untuk Paskah KR-KP",
-                "time": "11:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-04-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "Nofi",
-                "status": "w",
                 "note": ""
             },
             {
