@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5680,
-        "last-update": 1776486717,
+        "update-count": 5681,
+        "last-update": 1776492631,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5942,6 +5942,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan VG Pengurus KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-04-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "w",
                 "note": ""
             },
             {
