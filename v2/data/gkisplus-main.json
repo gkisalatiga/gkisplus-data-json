@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5695,
-        "last-update": 1776669972,
+        "update-count": 5696,
+        "last-update": 1776682924,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5795,6 +5795,20 @@
                 "representative": "Wilayah",
                 "pic": "Elibert ",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat KD",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-04-20",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
                 "note": ""
             },
             {
