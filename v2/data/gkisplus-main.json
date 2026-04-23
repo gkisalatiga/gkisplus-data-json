@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5711,
-        "last-update": 1776900922,
-        "last-updated-item": "yt",
+        "update-count": 5712,
+        "last-update": 1776921261,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6004,6 +6004,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Pernikahan 25 April",
+                "time": "15:00",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2026-04-24",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
                 "note": ""
             }
         ],
