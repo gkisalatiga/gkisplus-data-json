@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5715,
-        "last-update": 1776957955,
-        "last-updated-item": "agenda",
+        "update-count": 5716,
+        "last-update": 1776976849,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Apr 2026 | Habis Gelap Terbitlah Terang",
+                        "date": "2026-04-23",
+                        "desc": "Dibawakan oleh Ibu Monika Manuella",
+                        "link": "https://www.youtube.com/watch?v=bFozSE6E7lg",
+                        "thumbnail": "https://i3.ytimg.com/vi/bFozSE6E7lg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Apr 2026 | A New Day Has Come",
                         "date": "2026-04-22",
