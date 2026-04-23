@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5714,
-        "last-update": 1776935790,
-        "last-updated-item": "yt",
+        "update-count": 5715,
+        "last-update": 1776957955,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5612,6 +5612,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Nari Ibadah Pentakosta",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-04-24",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Sriwati-Giok",
                 "status": "y",
                 "note": ""
             },
