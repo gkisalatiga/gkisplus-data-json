@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5719,
-        "last-update": 1777022457,
+        "update-count": 5720,
+        "last-update": 1777090803,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2265,6 +2265,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 26 April 2026",
+                    "date": "2026-04-25",
+                    "link": "https://drive.google.com/file/d/1fUzisUMv9Qsh197pY4PzTXILGRDCmIg0/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-26-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1fUzisUMv9Qsh197pY4PzTXILGRDCmIg0",
+                    "id": "1fUzisUMv9Qsh197pY4PzTXILGRDCmIg0",
+                    "size": "2.04 MB"
+                },
+                {
                     "title": "Warta Jemaat 19 April 2026",
                     "date": "2026-04-18",
                     "link": "https://drive.google.com/file/d/1PkZVgbLYYdTWvHaagYcpiaER_eEH4UUY/view",
@@ -3067,6 +3076,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah IV - 26 April 2026",
+                    "date": "2026-04-25",
+                    "link": "https://drive.google.com/file/d/1i7k4XIfPFj79hBweBYzEjeZL0OLwkaBz/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-iv-26-april-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1i7k4XIfPFj79hBweBYzEjeZL0OLwkaBz",
+                    "id": "1i7k4XIfPFj79hBweBYzEjeZL0OLwkaBz",
+                    "size": "0.65 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Paskah III - 19 April 2026",
                     "date": "2026-04-18",
@@ -5295,15 +5313,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_28.webp",
-                "title": "Paskah KUL & KPPK",
-                "type": "poster",
-                "date-created": "2026-04-18",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_28.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa",
