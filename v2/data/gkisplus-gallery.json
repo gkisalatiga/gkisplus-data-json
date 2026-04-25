@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 77,
-        "last-update": 1776224490,
+        "update-count": 78,
+        "last-update": 1777080518,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -30361,6 +30361,296 @@
                             "id": "1bkwy1JRspFZYITJrASM12VxKOQbWF65y",
                             "name": "IMG_20260412_111613.HEIC",
                             "date": "2026-04-15"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "13W6f1OM9iW6Kak-oxhiNB3XAZ-X4qRMu",
+                    "last_update": "2026-04-25",
+                    "featured_photo_id": "10mkkAUgWfYmpMmOlOLadP-c1qL-4NTsr",
+                    "story": "Foto-foto dokumentasi Paskah KR & KP [MRP 2026] yang dilaksanakan pada 18 April 2026.",
+                    "title": "Paskah KR & KP [MRP 2026]",
+                    "event_date": "2026.04.18",
+                    "photos": [
+                        {
+                            "id": "1H8w3dABYY3Ox43a2Us9LJf5Qdp28kNu3",
+                            "name": "IMG_9947.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1oAqMygmHUKloCi-Ycb4ByIqvfMzxo5Rx",
+                            "name": "IMG_9940.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1vMEdY7mfZpaqkdfX7KsOsFmkCiYD-Uuo",
+                            "name": "IMG_9937.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1YyCRHRSoj77r6_uVjO8HXMXNqQ09WS1D",
+                            "name": "IMG_9742.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1BoSIo_xQAlmwzvlC3kQao5OoMzxk_cns",
+                            "name": "IMG_9747.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1VcHRPD2XWt5RuUfk4bd2bFZnyrfOUiZu",
+                            "name": "DSCF2018.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1g-gcQCVoQD3Hrf_fYofioyqr1x_NRvYM",
+                            "name": "DSCF2001.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1EkAXroubfJJkF-EdurtiV3ua0TYquIf4",
+                            "name": "IMG_9135.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "11KRzlpQpi94GgqHVMKzjU5eBc4sTNfih",
+                            "name": "IMG_9156.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1mz3ctgILadiaah1Fiug0s-datnua5rs2",
+                            "name": "IMG_9218.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "17H_gw4-kBmRdasyGtRP9xhrHO3t4AlI-",
+                            "name": "IMG_9227.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1vPr27l3sd7DxrSFm_D31fHE268tiU2Ar",
+                            "name": "IMG_9205.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1LfST5cWbRIINBJHJhVHvDS0nypQ8hWa9",
+                            "name": "IMG_9292.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1tQfO0jc4dkvq1PD8srBKopblQXo1rWSo",
+                            "name": "IMG_9296.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1l3QwQMyaPzui2F_xcAArkRgnB43rHfXY",
+                            "name": "IMG_9341.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1aRW4pVu16dzlBb9bnj9-yixZfXzdauya",
+                            "name": "IMG_9375.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1nvRBczYa-bSVSz72KD6TwknEf4gytHIi",
+                            "name": "IMG_9380.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1TZRP-Ta70mhU05GSs8WU4z-3OI_1dUOv",
+                            "name": "IMG_9570.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1GYbRdF17RZXJv6LIfIdIsK4hUyorPnZH",
+                            "name": "IMG_9654.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1V_bwgNdfd1o5cWUDxys6eyfQsXcOUGrO",
+                            "name": "IMG_9515.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1mVPeMqcrW4o8E-LzrqcS8_mudpJIG815",
+                            "name": "IMG_9452.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1dyZ6IPq0L_jhk4yISq3euUvou8YJx0Xj",
+                            "name": "IMG_9644.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1cZQb3rsD8oQnl5CSLvS0atAkd8d4Fpxg",
+                            "name": "IMG_9677.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1WnbHjcze4zASs6n444fOn4d8LPnGIntN",
+                            "name": "IMG_9706.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1bLM74OB0g3odUxOsuApwQd2Jr39nKFuB",
+                            "name": "IMG_9618.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1WRVXo1Ruipg-Af8Y04VOHnRvPiEfX-_n",
+                            "name": "IMG_9401.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1hwFXbGNv4Mv3RElKF4Uo9D-B1LimPQvu",
+                            "name": "IMG_9593.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1hlfm6_TBF3wSbpD1kxe_dA0cLgKyETeW",
+                            "name": "IMG_9625.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1fTucp6hc4HE-5a8NTtSbwJAGJoEDdXTM",
+                            "name": "IMG_9688.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1SG9rVxrdF0sJXskEJwABMB2SMRs2uFFG",
+                            "name": "IMG_9642.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1O2wnEo9iPsJHyDfw5Vi_VSZ_VJg1P4sP",
+                            "name": "IMG_9675.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1avOvFyJzr5FR9VaMucEHOUdCQnYHfvvk",
+                            "name": "IMG_9684.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "14vqg0cOAHFh2RzT5GQhcw82N7RRyQlOh",
+                            "name": "DSCF2041.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "16STBSzKCArgX6N7wOKfWow2Er6CvyMoW",
+                            "name": "DSCF2061.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1QHK2wUYNR5mHv2K2v9uAzq0m2RQjI-Fg",
+                            "name": "DSCF2072.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1aCwo-RA20d2Sja_QuC1H5mLy7Zi4V6g5",
+                            "name": "DSCF2073.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1cDBm25in6cRc6Xr6drxy7ExeaXKWVxnw",
+                            "name": "DSCF2045.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1B_31G3Kb2fq6KdZW2ocAWk724d5vN6OJ",
+                            "name": "DSCF2086.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1yj0CeM6whYm__WHylj8-2LRLTN2vSQXF",
+                            "name": "DSCF2158.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "13kc4hm-ahYbkYa7F6qQT7lRdWED_q-EA",
+                            "name": "DSCF2107.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1S4gTewE8OYmw85rP9SMfswuFqWifUnxC",
+                            "name": "DSCF2188.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1LkrApDrfXBNrD3SdgzYDTFTv-oUA3GgG",
+                            "name": "DSCF2142.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1RniyeWIonc-liWtYrv3ox2bFISOxbtUK",
+                            "name": "DSCF2224.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1GHYXWd1c7dqXQKMG5d3Zsp65rqguRfSG",
+                            "name": "DSCF2118.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1Te6kX6OrdJls66QZ4hVHt3JRVpfmgL0H",
+                            "name": "DSCF2179.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1Z8Bi-tKTN3dM_2cYYyRyE8Oekn57NRP9",
+                            "name": "DSCF2122.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "188FzSijMkwZTJrnQBSkHnHuca0t2ScIz",
+                            "name": "DSCF2152.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1xDehJgDb7R82YVH4XSvNE86sej1nnukY",
+                            "name": "DSCF2223.JPG",
+                            "date": "2026-04-25"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1Ihq8uUPzIoRbjwnDHgtLRIpBXLmdwZa3",
+                    "last_update": "2026-04-25",
+                    "featured_photo_id": "1wYQL6a9VYsCwyZw6sYJiN1VA8x2xX-IX",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah III [MRP 2026] yang dilaksanakan pada 19 April 2026.",
+                    "title": "Ibadah Minggu Paskah III [MRP 2026]",
+                    "event_date": "2026.04.19",
+                    "photos": [
+                        {
+                            "id": "1Icpc-gPUIG0j6xRym5TOZBcZiDuInwsc",
+                            "name": "DSCF2249.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "17Ui7ynJhT9_2s0OAn-Q732X3IXel4_cn",
+                            "name": "DSCF2259.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "15jbbyULAU_98HzElayMTL92ejoszdnpE",
+                            "name": "DSCF2262.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1uVFW5OXn2LdL9Jum0lkiH-YekmDJGyjO",
+                            "name": "DSCF2247.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1gptgi3OFiUtbC1Zcyzsn9XUqvUMeJDjs",
+                            "name": "DSCF2268.JPG",
+                            "date": "2026-04-25"
+                        },
+                        {
+                            "id": "1CYEg-hIUNQ_1wZUL6LHfvvdnVzOQOVYN",
+                            "name": "DSCF2241.JPG",
+                            "date": "2026-04-25"
                         }
                     ]
                 }
