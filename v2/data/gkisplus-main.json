@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5721,
-        "last-update": 1777095045,
-        "last-updated-item": "yt",
+        "update-count": 5722,
+        "last-update": 1777106706,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5725,6 +5725,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan VG Paskah KD",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-04-25",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim Informatika",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5735,7 +5749,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
