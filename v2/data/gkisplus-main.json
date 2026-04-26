@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5728,
-        "last-update": 1777186354,
+        "update-count": 5729,
+        "last-update": 1777193253,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,92 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Apr 2026 | Keberanian yang Membebaskan",
+                        "date": "2026-04-24",
+                        "desc": "Dibawakan oleh Pdt. Merry K. Rungkat",
+                        "link": "https://www.youtube.com/watch?v=wao1QVNkUQ8",
+                        "thumbnail": "https://i4.ytimg.com/vi/wao1QVNkUQ8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Apr 2026 | Habis Gelap Terbitlah Terang",
+                        "date": "2026-04-23",
+                        "desc": "Dibawakan oleh Ibu Monika Manuella",
+                        "link": "https://www.youtube.com/watch?v=bFozSE6E7lg",
+                        "thumbnail": "https://i3.ytimg.com/vi/bFozSE6E7lg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Apr 2026 | A New Day Has Come",
+                        "date": "2026-04-22",
+                        "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
+                        "link": "https://www.youtube.com/watch?v=PP-L0XYGi8M",
+                        "thumbnail": "https://i1.ytimg.com/vi/PP-L0XYGi8M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Apr 2026 | Emansipasi Perempuan",
+                        "date": "2026-04-21",
+                        "desc": "Dibawakan oleh Ibu Celly Murniningsih",
+                        "link": "https://www.youtube.com/watch?v=sEDnV7-DDIo",
+                        "thumbnail": "https://i4.ytimg.com/vi/sEDnV7-DDIo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Apr 2026 | Perkataan Berhikmat",
+                        "date": "2026-04-20",
+                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
+                        "link": "https://www.youtube.com/watch?v=F-RuAFIxHXI",
+                        "thumbnail": "https://i3.ytimg.com/vi/F-RuAFIxHXI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Apr 2026 | Paskah di Tengah Dunia yang Lelah",
+                        "date": "2026-04-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=J3TP5zUGFWk",
+                        "thumbnail": "https://i3.ytimg.com/vi/J3TP5zUGFWk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 18 Apr 2026 | Berani Bersaksi Di Tengah Dunia",
+                        "date": "2026-04-17",
+                        "desc": "Dibawakan oleh Pnt. Adita Sutresno",
+                        "link": "https://www.youtube.com/watch?v=0TBFMu5dgI8",
+                        "thumbnail": "https://i1.ytimg.com/vi/0TBFMu5dgI8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 17 Apr 2026 | Cukuplah Anugrahku",
+                        "date": "2026-04-16",
+                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
+                        "link": "https://www.youtube.com/watch?v=E2pGZvGrObg",
+                        "thumbnail": "https://i2.ytimg.com/vi/E2pGZvGrObg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 16 Apr 2026 | Bangun Tidur Ku Terus Doa",
+                        "date": "2026-04-15",
+                        "desc": "Dibawakan oleh Pnt. Paul A.W. Gulo",
+                        "link": "https://www.youtube.com/watch?v=cQrtm8vCdA8",
+                        "thumbnail": "https://i4.ytimg.com/vi/cQrtm8vCdA8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Apr 2026 | Sebab Yesus Hidup",
+                        "date": "2026-04-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=BCN-5y9PlfY",
+                        "thumbnail": "https://i3.ytimg.com/vi/BCN-5y9PlfY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Apr 2026 | Kebangkitan Yang Mengubah Hidup",
+                        "date": "2026-04-13",
+                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
+                        "link": "https://www.youtube.com/watch?v=hwNjSXVpBNc",
+                        "thumbnail": "https://i1.ytimg.com/vi/hwNjSXVpBNc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Apr 2026 | Sepotong Ikan Bakar Untuk Yesus",
+                        "date": "2026-04-12",
+                        "desc": "Dibawakan oleh Sdr. Joe Elliot Magang Sau",
+                        "link": "https://www.youtube.com/watch?v=I8v95lcR9QA",
+                        "thumbnail": "https://i2.ytimg.com/vi/I8v95lcR9QA/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
