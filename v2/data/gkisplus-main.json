@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5734,
-        "last-update": 1777265846,
-        "last-updated-item": "yt",
+        "update-count": 5735,
+        "last-update": 1777268277,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5654,6 +5654,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Pemusik Ibadah Minggu",
+                "time": "17:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Andre Cristiano Sahertian",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KUL",
                 "time": "11:00",
                 "time-to": "13:00",
@@ -5664,6 +5678,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik ibadah minggu",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-04-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Andre Cristiano Sahertian",
                 "status": "y",
                 "note": ""
             },
@@ -6074,30 +6102,16 @@
                 "note": ""
             },
             {
-                "name": "Latihan Pemusik Ibadah Minggu",
-                "time": "17:30",
-                "time-to": "20:30",
+                "name": "Rapat Tim BKJ",
+                "time": "18:30",
+                "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2026-04-28",
-                "weekday": "tue",
+                "date": "2026-04-27",
+                "weekday": "mon",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Andre Cristiano Sahertian",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan pemusik ibadah minggu",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-04-30",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Andre Cristiano Sahertian",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
                 "status": "w",
                 "note": ""
             }
