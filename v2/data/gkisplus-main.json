@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5741,
-        "last-update": 1777355663,
+        "update-count": 5742,
+        "last-update": 1777364187,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5742,6 +5742,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wil. 5",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-05-19",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Pnt. Ervien Dian W",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
