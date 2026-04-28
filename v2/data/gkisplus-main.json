@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5743,
-        "last-update": 1777370604,
-        "last-updated-item": "yt",
+        "update-count": 5744,
+        "last-update": 1777372141,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5631,6 +5631,20 @@
                 "pic": "KPPI",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Bulanan",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-04-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "y",
+                "note": "Minta tambahan TEH"
             },
             {
                 "name": "Latihan pemusik ibadah minggu",
