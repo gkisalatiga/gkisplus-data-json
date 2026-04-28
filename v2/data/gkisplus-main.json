@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5744,
-        "last-update": 1777372141,
-        "last-updated-item": "agenda",
+        "update-count": 5745,
+        "last-update": 1777392154,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Apr 2026 | Makna Kebangkitan Kristus",
+                        "date": "2026-04-28",
+                        "desc": "Dibawakan oleh Ibu Damara Laksmi Dewi",
+                        "link": "https://www.youtube.com/watch?v=yyBnKyNkLWA",
+                        "thumbnail": "https://i2.ytimg.com/vi/yyBnKyNkLWA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Apr 2026 | Hidup Dalam Kepastian Kebangkitan Kristus",
                         "date": "2026-04-27",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Paul A.W. Gulo",
                         "link": "https://www.youtube.com/watch?v=cQrtm8vCdA8",
                         "thumbnail": "https://i4.ytimg.com/vi/cQrtm8vCdA8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Apr 2026 | Sebab Yesus Hidup",
-                        "date": "2026-04-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=BCN-5y9PlfY",
-                        "thumbnail": "https://i3.ytimg.com/vi/BCN-5y9PlfY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
