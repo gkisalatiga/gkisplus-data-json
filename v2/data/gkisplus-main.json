@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5740,
-        "last-update": 1777353574,
-        "last-updated-item": "yt",
+        "update-count": 5741,
+        "last-update": 1777355663,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5562,6 +5562,62 @@
                 "note": ""
             },
             {
+                "name": "Gladi Kotor English Service",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-04-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya+Gita Kartika",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Bahan KUL SW Jateng",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-04-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Em. Iman Santoso",
+                "status": "y",
+                "note": "Minta disiapkan teh, 6 org"
+            },
+            {
+                "name": "Gladi Bersih English Service",
+                "time": "09:30",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-05-02",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya+Gita Kartika",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Seleksi guru ",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-05-04",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5966,48 +6022,6 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Gladi Kotor English Service",
-                "time": "18:00",
-                "time-to": "21:30",
-                "timezone": "WIB",
-                "date": "2026-04-30",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya+Gita Kartika",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Bersih English Service",
-                "time": "09:30",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2026-05-02",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya+Gita Kartika",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Seleksi guru ",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-05-04",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
             }
         ],
         "backend": {
