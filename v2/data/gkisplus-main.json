@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5748,
-        "last-update": 1777479050,
-        "last-updated-item": "agenda",
+        "update-count": 5749,
+        "last-update": 1777495602,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Apr 2026 | Mata dan Pikiran yang Tertuju kepada Yesus",
+                        "date": "2026-04-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=Pci2-XF7cnM",
+                        "thumbnail": "https://i1.ytimg.com/vi/Pci2-XF7cnM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Apr 2026 | Makna Kebangkitan Kristus",
                         "date": "2026-04-28",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
                         "link": "https://www.youtube.com/watch?v=E2pGZvGrObg",
                         "thumbnail": "https://i2.ytimg.com/vi/E2pGZvGrObg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Apr 2026 | Bangun Tidur Ku Terus Doa",
-                        "date": "2026-04-15",
-                        "desc": "Dibawakan oleh Pnt. Paul A.W. Gulo",
-                        "link": "https://www.youtube.com/watch?v=cQrtm8vCdA8",
-                        "thumbnail": "https://i4.ytimg.com/vi/cQrtm8vCdA8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
