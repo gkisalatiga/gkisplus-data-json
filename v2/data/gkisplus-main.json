@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5746,
-        "last-update": 1777441783,
-        "last-updated-item": "agenda",
+        "update-count": 5747,
+        "last-update": 1777477817,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -1583,6 +1583,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN DAVID & FRANCISCA | 2 MEI 2026",
+                        "date": "2026-04-29",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. DAVID PATRICK SELFE  dengan Sdri. FRANCISCA SETIAWATI LOEKITO\n\nSabtu, 2 Mei 2026 pukul 14.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Em. Iman Santoso\nMJ : Pnt. Nadia Sitaresmi & Pnt. Samuel Martono\nPemusik : Tommy\nPNK : Samuel \nMultimedia : Jeffry, Joshua, Budi, Joaquim, Derryl",
+                        "link": "https://www.youtube.com/watch?v=tsIR669AdBA",
+                        "thumbnail": "https://i.ytimg.com/vi/tsIR669AdBA/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN YOHAN & RIANA | 25 APRIL 2026",
                         "date": "2026-04-04",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. Yohan Saputro dengan Sdri. Riana Liza Songupnuan\n\nSabtu, 25 April 2026 pukul 10.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ : Pnt. Natalis Sidanta & Pnt. Santoso Adi Pribadi\nPemusik : Lamentations\nPNK : Dio Adhara\nMultimedia : I Made Satya, Joshua, Caitleen, Iwandi, Bobby",
@@ -1784,13 +1791,6 @@
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. Aswindo Kristian Wibowo dan Sdri. Chelsea Gracia Diandra Suoth\n\nSabtu, 4 Maret 2023 pukul 09.00 WIB\nPelayan Firman : Pdt. Helen Ruth Manurung\nMJ : Pnt. Desemy Ch. Natalia Ballo ; Pnt. Johnson Umbu Radda\nPemusik : Ecclesiastes \u2502PNK : Diodhara\u2502Kamerawan : Iwandi; Bobby Willianto\nPPT : I Made Satya Arnawa \u2502 OBS : Tunggul Laras \u2502Sound : Budi Santoso",
                         "link": "https://www.youtube.com/watch?v=bxl5wS6A2aM",
                         "thumbnail": "https://i.ytimg.com/vi/bxl5wS6A2aM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN DAVID & RAFAELA | 11 Desember 2022",
-                        "date": "2022-12-06",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. David Kurniawan dan Sdri. Rafaela Marcellyna Fitriani\n\nMinggu, 11 Desember 2022 pukul 12.00 WIB\nPelayan Firman : Pdt. Yefta Setiawan Krisgunadi\nPetugas MJ : Pnt.  Paul Arotonafo W. Gulo ; Pnt. Danang Purnomo\nOrganis: Samuel| PNK : Jeffrey | Tata Suara : Arlianto Aliambar\nOBS :  Tunggul Laras | PPT : I  Made Satya Arnawa | Kamerawan : Iwandi, Bobby",
-                        "link": "https://www.youtube.com/watch?v=Dn-xMNy-WpA",
-                        "thumbnail": "https://i.ytimg.com/vi/Dn-xMNy-WpA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
