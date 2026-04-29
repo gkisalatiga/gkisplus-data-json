@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 78,
-        "last-update": 1777080518,
+        "update-count": 79,
+        "last-update": 1777447826,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -30651,6 +30651,166 @@
                             "id": "1CYEg-hIUNQ_1wZUL6LHfvvdnVzOQOVYN",
                             "name": "DSCF2241.JPG",
                             "date": "2026-04-25"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1xV6PkZJ5rmbUHubUKWBoKLgr-sg7R_FL",
+                    "last_update": "2026-04-29",
+                    "featured_photo_id": "1QxtGusE32_zxlmpK4-8WLYC3jkayMACk",
+                    "story": "Foto-foto dokumentasi Bakti Sosial Gereja ABK [MRP 2026] yang dilaksanakan pada 26 April 2026.",
+                    "title": "Bakti Sosial Gereja ABK [MRP 2026]",
+                    "event_date": "2026.04.26",
+                    "photos": [
+                        {
+                            "id": "1Q-p68FWD0sfMQeXSfI8CLR2Wnt_E1UEr",
+                            "name": "IMG-20260429-WA0007.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1idJqGVZQhtabQ2yXNtWQzpfVDK4L50Ts",
+                            "name": "20260426_163853.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1MVuKrH5udg8VNauMvgiPaqZGBGvJDdqz",
+                            "name": "IMG-20260426-WA0055.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1SDzcWk4oGqz_tXSakJWZ4aulXs51pQ_p",
+                            "name": "IMG-20260426-WA0042.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1fNn7QmHC-UHW9bTOVGINu9HvumRTLTA-",
+                            "name": "20260426_152430.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1wG0vGZiC-ieAatmGnlmQ6-Nmu5gnSYDJ",
+                            "name": "20260426_150538.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1P4tW07P40xTwMk3fj_cuOgPDf2XRz7Fy",
+                            "name": "20260426_145100.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1ec-5s6kFgMJZkjJjztwhZGBErVANYsB4",
+                            "name": "20260426_151904.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "18aJtJ79myNeYXc5V7_nLbeGdTXzlqW-0",
+                            "name": "20260426_145120.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1Anb_W0dgoxAOwVftWk17MvhLkcVf4FIX",
+                            "name": "IMG-20260429-WA0013.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1WwqlNcpd-I05QzMRW_67egH0QFdMASdc",
+                            "name": "20260426_152611.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1Ypisej_GV6bNH1UWhC9KANjS2tgF89H1",
+                            "name": "20260426_153339.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "17EV9Adx7hgS5Bkj22MK-ggBu-iHg7w-n",
+                            "name": "20260426_151211.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1xOOhhATk3E5Yd-aDEJM4F2HQYRchWncE",
+                            "name": "20260426_150221.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1yDbmoLg-cQN1cU_MpXrOU0kFNqJAN7v0",
+                            "name": "PXL_20260426_162619316.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1N8p2mTa-mfw3EFMzyF4C-IOzZrf-wY3-",
+                            "name": "20260426_165630.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1ETxI8LYF4AaBshcMzTrQkYdjWfiMl2-p",
+                            "name": "20260426_170033.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "14Sg97v8d6t94qfpOnL-VsZ5mQGX01YtG",
+                            "name": "PXL_20260426_160241498.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1DrAhsgbnfVGhGidLGQfQQQpm8YiYXyyO",
+                            "name": "20260426_164233.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1l9FXm9aFpUxXcm4vKeG3WZHxX9_N00ol",
+                            "name": "PXL_20260426_155806226.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1pq12GIrW0YU5Vlc3se6RogE0IJbf8jbm",
+                            "name": "20260426_155030.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1rU_I3UTLx6tEtpa1W6zEdrQ83DRk-Q-0",
+                            "name": "PXL_20260426_163217713.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1kBWcJHszRzuD-LFvn0phg_6j0f1TdAog",
+                            "name": "20260426_154915.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1RnPPNAPV_zBrbQUd4LosniJviFuRuNzz",
+                            "name": "20260426_161926.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "15--mEkc8dFhHa-_2FanDt8tOvNsLkTWj",
+                            "name": "20260426_153623.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1Te8f9g6KJ4z2nH1sZ8gLTf83kqOQpTLb",
+                            "name": "20260426_162735.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1MqROvGAndxI8A1DZZjVsBcn6jogK4PPR",
+                            "name": "PXL_20260426_160231532.jpg",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1KfhG0dp1VSMG1Tp10YrPfRrjgGruDE19",
+                            "name": "20260426_154005.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1VyABSW4WjgY9_HHf7XHtSP5hPlt3CXaq",
+                            "name": "20260426_163356.heic",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "13ZOxzZgMRTB39ObPgDgaPEbsa8d8Et04",
+                            "name": "20260426_161722.heic",
+                            "date": "2026-04-29"
                         }
                     ]
                 }
