@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 79,
-        "last-update": 1777447826,
+        "update-count": 80,
+        "last-update": 1777448758,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -30617,11 +30617,76 @@
                 {
                     "folder_id": "1Ihq8uUPzIoRbjwnDHgtLRIpBXLmdwZa3",
                     "last_update": "2026-04-25",
-                    "featured_photo_id": "1wYQL6a9VYsCwyZw6sYJiN1VA8x2xX-IX",
+                    "featured_photo_id": "1X0YV4wNDEhsdCHMNTabBlyrzY8tvTPO1",
                     "story": "Foto-foto dokumentasi Ibadah Minggu Paskah III [MRP 2026] yang dilaksanakan pada 19 April 2026.",
                     "title": "Ibadah Minggu Paskah III [MRP 2026]",
                     "event_date": "2026.04.19",
                     "photos": [
+                        {
+                            "id": "17ZruH0UPLZOt1abRGZpL5zQyC1Vh8HCU",
+                            "name": "KARTINI DAY @ GKIS (122).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "13E4Y0Wz8g9H5p9Kxw1RBeN0AQHVgA7Ou",
+                            "name": "KARTINI DAY @ GKIS (188).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "12xI2U5QooKbUt11clVCsCjpYJNIDqWHb",
+                            "name": "KARTINI DAY @ GKIS (149).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1ty-0r9f_u8HfbpUgb77dRljhJkN8b9ln",
+                            "name": "KARTINI DAY @ GKIS (109).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1yjW489nMGNvTWENrctQLHxgMQjEMqGHb",
+                            "name": "KARTINI DAY @ GKIS (97).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1c3k-ezgA-OSXhhWYtmiUJG5ZBELKEveK",
+                            "name": "KARTINI DAY @ GKIS (63).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "151MbFeZDsju9zRcg2pKCk_xjJ2tkM9SQ",
+                            "name": "KARTINI DAY @ GKIS (18).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1PGmWsZEe_kts7EQJLY9jO65FChVoGVlO",
+                            "name": "KARTINI DAY @ GKIS (64).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "18Ydo6hjtfY1COfb_zIjz_THjUecVHkA2",
+                            "name": "KARTINI DAY @ GKIS (69).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1wm6OY-lSkti8IA0uW7RjgD7LEHonSDJ0",
+                            "name": "KARTINI DAY @ GKIS (195).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1yfUYU6fx9o88Mu47q06157kuywhdUVnv",
+                            "name": "KARTINI DAY @ GKIS (41).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1sDnMWiyb8ieEHvx3UO1mnOsPHS8YtFT9",
+                            "name": "KARTINI DAY @ GKIS (32).JPG",
+                            "date": "2026-04-29"
+                        },
+                        {
+                            "id": "1CR2yeNpMInwgbVc-T8eHvjSeksHkyYzU",
+                            "name": "KARTINI DAY @ GKIS (52).JPG",
+                            "date": "2026-04-29"
+                        },
                         {
                             "id": "1Icpc-gPUIG0j6xRym5TOZBcZiDuInwsc",
                             "name": "DSCF2249.JPG",
