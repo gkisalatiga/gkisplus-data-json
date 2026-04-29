@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5747,
-        "last-update": 1777477817,
-        "last-updated-item": "yt",
+        "update-count": 5748,
+        "last-update": 1777479050,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6149,6 +6149,20 @@
                 "pic": "Ibu Iryatun",
                 "status": "w",
                 "note": "--"
+            },
+            {
+                "name": "Pelatihan Internal Pengurus SODA",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-05-03",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya+Mario",
+                "status": "w",
+                "note": "Minta tolong disiapkan LCD/Proyektor dan layarnya. Terima kasih."
             }
         ],
         "backend": {
