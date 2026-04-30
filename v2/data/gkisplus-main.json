@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5755,
-        "last-update": 1777544577,
-        "last-updated-item": "agenda",
+        "update-count": 5756,
+        "last-update": 1777563723,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Mei 2026 | Buruh di Era Digital",
+                        "date": "2026-04-30",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
+                        "link": "https://www.youtube.com/watch?v=zn_eV9qtIgI",
+                        "thumbnail": "https://i3.ytimg.com/vi/zn_eV9qtIgI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Apr 2026 | Mata dan Pikiran yang Tertuju kepada Yesus",
                         "date": "2026-04-29",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Adita Sutresno",
                         "link": "https://www.youtube.com/watch?v=0TBFMu5dgI8",
                         "thumbnail": "https://i1.ytimg.com/vi/0TBFMu5dgI8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Apr 2026 | Cukuplah Anugrahku",
-                        "date": "2026-04-16",
-                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
-                        "link": "https://www.youtube.com/watch?v=E2pGZvGrObg",
-                        "thumbnail": "https://i2.ytimg.com/vi/E2pGZvGrObg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
