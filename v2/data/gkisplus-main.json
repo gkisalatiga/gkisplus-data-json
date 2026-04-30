@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5749,
-        "last-update": 1777495602,
-        "last-updated-item": "yt",
+        "update-count": 5750,
+        "last-update": 1777516331,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5703,6 +5703,20 @@
                 "note": ""
             },
             {
+                "name": "Pelatihan Internal Pengurus SODA",
+                "time": "18:00",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-05-03",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya+Mario",
+                "status": "w",
+                "note": "Minta tolong disiapkan LCD/Proyektor dan layarnya. Terima kasih."
+            },
+            {
                 "name": "Seleksi guru ",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -5715,6 +5729,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": "Terima kasih "
+            },
+            {
+                "name": "Seleksi Guru Matematika",
+                "time": "07:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-05-04",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Ibu Iryatun",
+                "status": "w",
+                "note": "--"
             },
             {
                 "name": "PA wilayah 11",
@@ -5883,6 +5911,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pembinaan GSM",
+                "time": "08:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-01",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2), Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6135,34 +6177,6 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Seleksi Guru Matematika",
-                "time": "07:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-05-04",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "YPE",
-                "pic": "Ibu Iryatun",
-                "status": "w",
-                "note": "--"
-            },
-            {
-                "name": "Pelatihan Internal Pengurus SODA",
-                "time": "18:00",
-                "time-to": "21:30",
-                "timezone": "WIB",
-                "date": "2026-05-03",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betania ( Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Samarthya+Mario",
-                "status": "w",
-                "note": "Minta tolong disiapkan LCD/Proyektor dan layarnya. Terima kasih."
             }
         ],
         "backend": {
