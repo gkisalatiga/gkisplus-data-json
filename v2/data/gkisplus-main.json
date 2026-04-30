@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5756,
-        "last-update": 1777563723,
-        "last-updated-item": "yt",
+        "update-count": 5757,
+        "last-update": 1777563908,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6126,6 +6126,20 @@
                 "pic": "Samuel",
                 "status": "w",
                 "note": "tambah teh untuk minum "
+            },
+            {
+                "name": "Pembubaran Panitia Paskah KR-KP",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-05-03",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "w",
+                "note": "Meminta Teh"
             }
         ],
         "backend": {
