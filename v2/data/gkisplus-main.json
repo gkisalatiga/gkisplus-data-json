@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5768,
-        "last-update": 1777743304,
+        "update-count": 5769,
+        "last-update": 1777745407,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5365,15 +5365,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
-                "title": "Persekutuan SoDa 2 Mei",
-                "type": "poster",
-                "date-created": "2026-04-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
                 "title": "Ibadah Minggu Paskah V",
