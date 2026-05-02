@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5760,
-        "last-update": 1777646681,
+        "update-count": 5761,
+        "last-update": 1777692247,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2272,6 +2272,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 3 Mei 2026",
+                    "date": "2026-05-02",
+                    "link": "https://drive.google.com/file/d/1cv5Yf2KowRPfQsqxizfv4IMefVSKw95H/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-3-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1cv5Yf2KowRPfQsqxizfv4IMefVSKw95H",
+                    "id": "1cv5Yf2KowRPfQsqxizfv4IMefVSKw95H",
+                    "size": "2.06 MB"
+                },
+                {
                     "title": "Warta Jemaat 26 April 2026",
                     "date": "2026-04-25",
                     "link": "https://drive.google.com/file/d/1fUzisUMv9Qsh197pY4PzTXILGRDCmIg0/view",
@@ -3083,6 +3092,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah V - 3 Mei 2026",
+                    "date": "2026-05-02",
+                    "link": "https://drive.google.com/file/d/1gM4ERYh0z_vjztey1lRbD3ZcC62k-J6O/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-v-3-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1gM4ERYh0z_vjztey1lRbD3ZcC62k-J6O",
+                    "id": "1gM4ERYh0z_vjztey1lRbD3ZcC62k-J6O",
+                    "size": "0.72 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Paskah IV - 26 April 2026",
                     "date": "2026-04-25",
