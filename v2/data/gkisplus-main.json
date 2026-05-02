@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5765,
-        "last-update": 1777712134,
-        "last-updated-item": "yt",
+        "update-count": 5766,
+        "last-update": 1777715737,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6220,6 +6220,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "percakapan ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-02",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "w",
                 "note": ""
             }
         ],
