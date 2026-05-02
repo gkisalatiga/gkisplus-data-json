@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5763,
-        "last-update": 1777699922,
-        "last-updated-item": "yt",
+        "update-count": 5764,
+        "last-update": 1777711656,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5620,6 +5620,34 @@
                 "note": "-"
             },
             {
+                "name": "rapat evaluasi paskah krkp",
+                "time": "11:30",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-05-03",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel",
+                "status": "y",
+                "note": "tambah teh untuk minum "
+            },
+            {
+                "name": "Pembubaran Panitia Paskah KR-KP",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-05-03",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Dian Aprilia",
+                "status": "y",
+                "note": "Meminta Teh"
+            },
+            {
                 "name": "Seleksi guru ",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -6108,34 +6136,6 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "rapat evaluasi paskah krkp",
-                "time": "11:30",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2026-05-03",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel",
-                "status": "w",
-                "note": "tambah teh untuk minum "
-            },
-            {
-                "name": "Pembubaran Panitia Paskah KR-KP",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-05-03",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Pemuda",
-                "pic": "Dian Aprilia",
-                "status": "w",
-                "note": "Meminta Teh"
             }
         ],
         "backend": {
