@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5776,
-        "last-update": 1777829400,
-        "last-updated-item": "agenda",
+        "update-count": 5777,
+        "last-update": 1777829826,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Mei  2026 | Menguatkan Kolaborasi Pendidikan",
+                        "date": "2026-05-03",
+                        "desc": "Dibawakan oleh Ibu Natalia Setyawati",
+                        "link": "https://www.youtube.com/watch?v=2SVFLfMQiAI",
+                        "thumbnail": "https://i3.ytimg.com/vi/2SVFLfMQiAI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Mei 2026 | Hikmat Yang Mengubah Hidup",
                         "date": "2026-05-01",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Sintarini Utomo",
                         "link": "https://www.youtube.com/watch?v=F-RuAFIxHXI",
                         "thumbnail": "https://i3.ytimg.com/vi/F-RuAFIxHXI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Apr 2026 | Paskah di Tengah Dunia yang Lelah",
-                        "date": "2026-04-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=J3TP5zUGFWk",
-                        "thumbnail": "https://i3.ytimg.com/vi/J3TP5zUGFWk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
