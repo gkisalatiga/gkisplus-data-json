@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5774,
-        "last-update": 1777819386,
+        "update-count": 5775,
+        "last-update": 1777822887,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6260,6 +6260,20 @@
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Uncle Vidra",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-04",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
                 "note": ""
             }
         ],
