@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5773,
-        "last-update": 1777819192,
-        "last-updated-item": "yt",
+        "update-count": 5774,
+        "last-update": 1777819386,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6231,6 +6231,34 @@
                 "place": "Ruang Konsistori",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "latihan tim musik untuk ibadah",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": "6"
+            },
+            {
+                "name": "Latihan tim musik untuk ibadah minggu",
+                "time": "19:45",
+                "time-to": "21:15",
+                "timezone": "WIB",
+                "date": "2026-05-07",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
                 "status": "w",
                 "note": ""
             }
