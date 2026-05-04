@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5779,
-        "last-update": 1777872135,
-        "last-updated-item": "yt",
+        "update-count": 5780,
+        "last-update": 1777873690,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6127,6 +6127,34 @@
                 "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-12",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Mike",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Rapat",
+                "time": "09:30",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-05-05",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Bu Widia",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
