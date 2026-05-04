@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5782,
-        "last-update": 1777889026,
-        "last-updated-item": "yt",
+        "update-count": 5783,
+        "last-update": 1777890641,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6240,6 +6240,48 @@
                 "pic": "Bu Widia",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Koordinasi MJP KR dengan Pembimbing KR",
+                "time": "11:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-05-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Tim BKJ",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-05-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan angklung",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-05-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Pak Tomo",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
