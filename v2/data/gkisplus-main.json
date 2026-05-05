@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5785,
-        "last-update": 1777956694,
-        "last-updated-item": "yt",
+        "update-count": 5786,
+        "last-update": 1777958793,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -4346,6 +4346,16 @@
                     "note": "Rutin sampai dengan 14 Juni 2026"
                 },
                 {
+                    "name": "Kambium",
+                    "time": "18:00",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kapernaum",
+                    "representative": "Komisi Dewasa",
+                    "note": ""
+                },
+                {
                     "name": "Latihan PSP, Pesparawi Kota Salatiga",
                     "time": "18:00",
                     "time-to": "19:00",
@@ -5527,6 +5537,34 @@
                 "note": "-"
             },
             {
+                "name": "latihan Pesparawi",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Eriyani Tenga Lunga",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Nari Pentakosta",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-05-06",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Cik Giok",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5567,6 +5605,20 @@
                 "pic": "Bambang Setiady",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Seleksi staf admin YPE",
+                "time": "10:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-05-07",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorinj",
+                "status": "y",
+                "note": "Terimakasih"
             },
             {
                 "name": "Rapat Tim BKJ",
