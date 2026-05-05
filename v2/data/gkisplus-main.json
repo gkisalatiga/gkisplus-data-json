@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5788,
-        "last-update": 1777966196,
-        "last-updated-item": "agenda",
+        "update-count": 5789,
+        "last-update": 1777994807,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Mei 2026 | Menjadi Terang di Dunia Pendidikan",
+                        "date": "2026-05-05",
+                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
+                        "link": "https://www.youtube.com/watch?v=XyZYB5nPwRc",
+                        "thumbnail": "https://i1.ytimg.com/vi/XyZYB5nPwRc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Mei  2026 | Eling!",
                         "date": "2026-05-04",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
                         "link": "https://www.youtube.com/watch?v=PP-L0XYGi8M",
                         "thumbnail": "https://i1.ytimg.com/vi/PP-L0XYGi8M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Apr 2026 | Emansipasi Perempuan",
-                        "date": "2026-04-21",
-                        "desc": "Dibawakan oleh Ibu Celly Murniningsih",
-                        "link": "https://www.youtube.com/watch?v=sEDnV7-DDIo",
-                        "thumbnail": "https://i4.ytimg.com/vi/sEDnV7-DDIo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
