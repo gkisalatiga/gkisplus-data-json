@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5792,
-        "last-update": 1778046121,
+        "update-count": 5793,
+        "last-update": 1778055462,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6050,7 +6050,7 @@
                 "type": "proposal",
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah 5",
-                "pic": "nan",
+                "pic": "Bp. Maruli Sirait",
                 "status": "w",
                 "note": ""
             },
