@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5796,
-        "last-update": 1778080686,
-        "last-updated-item": "agenda",
+        "update-count": 5797,
+        "last-update": 1778082955,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Mei 2026 | Mendidik dengan Kasih Menerangi Generasi Masa Depan",
+                        "date": "2026-05-06",
+                        "desc": "Dibawakan oleh Bpk. Yahya Kristianto",
+                        "link": "https://www.youtube.com/watch?v=DyTuJp_evfk",
+                        "thumbnail": "https://i1.ytimg.com/vi/DyTuJp_evfk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Mei 2026 | Menjadi Terang di Dunia Pendidikan",
                         "date": "2026-05-05",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Monika Manuella",
                         "link": "https://www.youtube.com/watch?v=bFozSE6E7lg",
                         "thumbnail": "https://i3.ytimg.com/vi/bFozSE6E7lg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Apr 2026 | A New Day Has Come",
-                        "date": "2026-04-22",
-                        "desc": "Dibawakan oleh Sdri. Diane Nuhamara",
-                        "link": "https://www.youtube.com/watch?v=PP-L0XYGi8M",
-                        "thumbnail": "https://i1.ytimg.com/vi/PP-L0XYGi8M/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
