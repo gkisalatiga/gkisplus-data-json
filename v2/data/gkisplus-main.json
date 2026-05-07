@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5799,
-        "last-update": 1778120923,
+        "update-count": 5800,
+        "last-update": 1778132736,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5626,6 +5626,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ Bidang 2",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-07",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim BKJ",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -5843,11 +5857,25 @@
                 "date": "2026-06-02",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-06-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Bp. Hari Budicahyono",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
