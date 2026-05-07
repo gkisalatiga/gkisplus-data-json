@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5800,
-        "last-update": 1778132736,
+        "update-count": 5801,
+        "last-update": 1778142401,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5650,6 +5650,34 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Samuel Martono",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Atap Gedung Gereja",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": "Minta disiapkan LCD Proyektor, layar dan teh untuk 8 orang"
+            },
+            {
+                "name": "Persekutuan KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-05-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
             },
