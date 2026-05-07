@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5804,
-        "last-update": 1778166670,
+        "update-count": 5805,
+        "last-update": 1778169390,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6414,8 +6414,8 @@
                 "about_changelog_url": "https://github.com/gkisalatiga/gkisalatiga-foss/blob/main/CHANGELOG.md",
                 "about_google_play_listing_url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus",
                 "about_source_code_url": "https://github.com/gkisalatiga/gkisalatiga-foss",
-                "greetings_top": "Hosiana!",
-                "greetings_bottom": "Selamat menghayati Masa Prapaskah 2026!",
+                "greetings_top": "Syalom!",
+                "greetings_bottom": "Jemaat dan simpatisan GKIS terkasih",
                 "youtube_player_origin": "https://gkisalatiga.org"
             }
         }
