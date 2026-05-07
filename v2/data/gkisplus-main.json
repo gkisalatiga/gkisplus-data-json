@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5798,
-        "last-update": 1778110679,
-        "last-updated-item": "yt",
+        "update-count": 5799,
+        "last-update": 1778120923,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5610,6 +5610,20 @@
                 "pic": "Iryatun Trikorinj",
                 "status": "y",
                 "note": "Terimakasih"
+            },
+            {
+                "name": "Latihan vokal",
+                "time": "12:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-05-07",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat Tim BKJ",
