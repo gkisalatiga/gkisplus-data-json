@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5803,
-        "last-update": 1778150366,
+        "update-count": 5804,
+        "last-update": 1778166670,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6372,6 +6372,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik untuk ibadah minggu",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
                 "note": ""
             }
         ],
