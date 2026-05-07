@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5807,
-        "last-update": 1778174064,
-        "last-updated-item": "agenda",
+        "update-count": 5808,
+        "last-update": 1778177799,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Mei 2026 | Menjadi Murid di Sekolah Tuhan",
+                        "date": "2026-05-07",
+                        "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
+                        "link": "https://www.youtube.com/watch?v=-SitACF3sSM",
+                        "thumbnail": "https://i2.ytimg.com/vi/-SitACF3sSM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Mei 2026 | Mendidik dengan Kasih Menerangi Generasi Masa Depan",
                         "date": "2026-05-06",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry K. Rungkat",
                         "link": "https://www.youtube.com/watch?v=wao1QVNkUQ8",
                         "thumbnail": "https://i4.ytimg.com/vi/wao1QVNkUQ8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Apr 2026 | Habis Gelap Terbitlah Terang",
-                        "date": "2026-04-23",
-                        "desc": "Dibawakan oleh Ibu Monika Manuella",
-                        "link": "https://www.youtube.com/watch?v=bFozSE6E7lg",
-                        "thumbnail": "https://i3.ytimg.com/vi/bFozSE6E7lg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
