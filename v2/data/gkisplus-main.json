@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5806,
-        "last-update": 1778171445,
+        "update-count": 5807,
+        "last-update": 1778174064,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6387,6 +6387,20 @@
                 "pic": "Uncle Vidra",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Ibadah Persiapan menjelang ujian untuk kelas 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
+                "status": "w",
+                "note": "Minta tolong disediakan teh ya"
             }
         ],
         "backend": {
