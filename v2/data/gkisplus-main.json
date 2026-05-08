@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5810,
-        "last-update": 1778217979,
+        "update-count": 5811,
+        "last-update": 1778230435,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5632,6 +5632,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik untuk ibadah minggu",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-08",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KDT",
                 "time": "19:00",
                 "time-to": "20:30",
@@ -5642,6 +5656,48 @@
                 "place": "Ruang Konsistori",
                 "representative": "Komisi Diakonia The Koen Bik",
                 "pic": "Rodiana",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Persiapan menjelang ujian untuk kelas 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
+                "status": "y",
+                "note": "Minta tolong disediakan teh ya"
+            },
+            {
+                "name": "Rapat tim florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-05-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Nari Pentakosta",
+                "time": "08:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2026-05-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Cik Giok",
                 "status": "y",
                 "note": ""
             },
@@ -6287,62 +6343,6 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik untuk ibadah minggu",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-08",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Uncle Vidra",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Ibadah Persiapan menjelang ujian untuk kelas 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-09",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Asputri Kaat",
-                "status": "w",
-                "note": "Minta tolong disediakan teh ya"
-            },
-            {
-                "name": "Rapat tim florist",
-                "time": "12:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-05-09",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Atiek Widyati",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Nari Pentakosta",
-                "time": "08:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2026-05-09",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Cik Giok",
-                "status": "w",
                 "note": ""
             }
         ],
