@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5809,
-        "last-update": 1778215565,
-        "last-updated-item": "yt",
+        "update-count": 5810,
+        "last-update": 1778217979,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6316,6 +6316,34 @@
                 "pic": "Asputri Kaat",
                 "status": "w",
                 "note": "Minta tolong disediakan teh ya"
+            },
+            {
+                "name": "Rapat tim florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-05-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Nari Pentakosta",
+                "time": "08:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2026-05-09",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Cik Giok",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
