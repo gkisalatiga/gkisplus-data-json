@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5812,
-        "last-update": 1778230932,
+        "update-count": 5813,
+        "last-update": 1778241770,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Mei 2026 | Didikan Yang Membawa Hidup Bagi Sesama",
+                        "date": "2026-05-08",
+                        "desc": "Dibawakan oleh Bpk Petrus Sutomo",
+                        "link": "https://www.youtube.com/watch?v=IPPZoUq_8AQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/IPPZoUq_8AQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Mei 2026 | Menjadi Murid di Sekolah Tuhan",
                         "date": "2026-05-07",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Hananto Seno",
                         "link": "https://www.youtube.com/watch?v=stttVoxrSi4",
                         "thumbnail": "https://i4.ytimg.com/vi/stttVoxrSi4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Apr 2026 | Keberanian yang Membebaskan",
-                        "date": "2026-04-24",
-                        "desc": "Dibawakan oleh Pdt. Merry K. Rungkat",
-                        "link": "https://www.youtube.com/watch?v=wao1QVNkUQ8",
-                        "thumbnail": "https://i4.ytimg.com/vi/wao1QVNkUQ8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
