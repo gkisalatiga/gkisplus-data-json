@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5814,
-        "last-update": 1778256555,
+        "update-count": 5815,
+        "last-update": 1778293060,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2279,6 +2279,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 10 Mei 2026",
+                    "date": "2026-05-09",
+                    "link": "https://drive.google.com/file/d/1rFMDpNbIYxv_dvm8SrPS5KFRMQ1D5LwT/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-10-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1rFMDpNbIYxv_dvm8SrPS5KFRMQ1D5LwT",
+                    "id": "1rFMDpNbIYxv_dvm8SrPS5KFRMQ1D5LwT",
+                    "size": "1.79 MB"
+                },
+                {
                     "title": "Warta Jemaat 3 Mei 2026",
                     "date": "2026-05-02",
                     "link": "https://drive.google.com/file/d/1cv5Yf2KowRPfQsqxizfv4IMefVSKw95H/view",
@@ -3099,6 +3108,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah VI - 10 Mei 2026",
+                    "date": "2026-05-09",
+                    "link": "https://drive.google.com/file/d/1Ct8EOkQjEHvWwFR0XXwnqv4KJkcKLpLM/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-paskah-vi-10-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Ct8EOkQjEHvWwFR0XXwnqv4KJkcKLpLM",
+                    "id": "1Ct8EOkQjEHvWwFR0XXwnqv4KJkcKLpLM",
+                    "size": "0.80 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Paskah V - 3 Mei 2026",
                     "date": "2026-05-02",
@@ -5331,15 +5349,6 @@
                 "type": "poster",
                 "date-created": "2026-05-02",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk_4.webp",
-                "title": "Workshop Multimedia dan Tata Suara",
-                "type": "poster",
-                "date-created": "2026-05-08",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_info_apk_4.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
