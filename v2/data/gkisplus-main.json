@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5816,
-        "last-update": 1778302703,
-        "last-updated-item": "yt",
+        "update-count": 5817,
+        "last-update": 1778304886,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5734,6 +5734,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat KPPI",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "A. M. Widiatmoko",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6361,6 +6375,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu PA",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "A.M. Widiatmoko",
+                "status": "w",
                 "note": ""
             }
         ],
