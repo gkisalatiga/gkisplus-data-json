@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5823,
-        "last-update": 1778447055,
+        "update-count": 5824,
+        "last-update": 1778448926,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Mei 2026 | Roh Kudus Beserta KIta",
+                        "date": "2026-05-10",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=n4cG2NbXmoE",
+                        "thumbnail": "https://i3.ytimg.com/vi/n4cG2NbXmoE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Mei 2026 | Didikan Yang Membawa Hidup Bagi Sesama",
                         "date": "2026-05-08",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Melia Aditya",
                         "link": "https://www.youtube.com/watch?v=Lz0a4Ng-JFM",
                         "thumbnail": "https://i1.ytimg.com/vi/Lz0a4Ng-JFM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Apr 2026 | Perempuan yang Dimerdekakan untuk Berkarya",
-                        "date": "2026-04-26",
-                        "desc": "Dibawakan oleh Pnt. Hananto Seno",
-                        "link": "https://www.youtube.com/watch?v=stttVoxrSi4",
-                        "thumbnail": "https://i4.ytimg.com/vi/stttVoxrSi4/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
