@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5829,
-        "last-update": 1778496653,
+        "update-count": 5830,
+        "last-update": 1778506522,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Mei 2026 | Menjadi Saksi",
+                        "date": "2026-05-11",
+                        "desc": "Dibawakan oleh Pnt. Paul A. Gulo",
+                        "link": "https://www.youtube.com/watch?v=XK6YWsXRz3M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XK6YWsXRz3M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Mei 2026 | Roh Kudus Beserta KIta",
                         "date": "2026-05-10",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=Pci2-XF7cnM",
                         "thumbnail": "https://i1.ytimg.com/vi/Pci2-XF7cnM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Apr 2026 | Makna Kebangkitan Kristus",
-                        "date": "2026-04-28",
-                        "desc": "Dibawakan oleh Ibu Damara Laksmi Dewi",
-                        "link": "https://www.youtube.com/watch?v=yyBnKyNkLWA",
-                        "thumbnail": "https://i2.ytimg.com/vi/yyBnKyNkLWA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
