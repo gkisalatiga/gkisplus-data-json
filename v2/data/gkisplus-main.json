@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5826,
-        "last-update": 1778478493,
-        "last-updated-item": "yt",
+        "update-count": 5827,
+        "last-update": 1778481263,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5808,6 +5808,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Evaluasi KP",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Galile (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Pleno KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6492,6 +6520,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "rapat evaluasi proker",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa ",
+                "status": "w",
+                "note": "tambah teh"
             }
         ],
         "backend": {
