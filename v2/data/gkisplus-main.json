@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5824,
-        "last-update": 1778448926,
-        "last-updated-item": "yt",
+        "update-count": 5825,
+        "last-update": 1778467291,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5879,6 +5879,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan vokal",
+                "time": "12:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-05-11",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5931,6 +5945,20 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Pak Tomo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi masuk",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paul",
                 "status": "y",
                 "note": ""
             },
@@ -5991,6 +6019,20 @@
                 "note": ""
             },
             {
+                "name": "Bincang2 Urban Farming",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-05-25",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Kursi setting U"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6031,6 +6073,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pelatihan Tata Suara GKI Salatiga",
+                "time": "11:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-05-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kana (Lantai 2)",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya, Jeffrey",
+                "status": "y",
+                "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS. Gedung gereja dipakai untuk pemaparan materi dan praktik mixer digital. Sedangkan Ruang Kana dipakai untuk praktik mixer analog."
             },
             {
                 "name": "Pembinaan GSM",
@@ -6087,6 +6143,20 @@
                 "pic": "Bp. Hari Budicahyono",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pelatihan Multimedia (OBS) GKI Salatiga",
+                "time": "11:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-06-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya, Jeffrey",
+                "status": "y",
+                "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS."
             },
             {
                 "name": "PA wilayah 11",
@@ -6507,20 +6577,6 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Bincang2 Urban Farming",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-05-25",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "w",
-                "note": "Kursi setting U"
             }
         ],
         "backend": {
