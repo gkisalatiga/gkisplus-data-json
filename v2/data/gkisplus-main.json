@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5834,
-        "last-update": 1778581272,
+        "update-count": 5835,
+        "last-update": 1778610516,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaREn Pagi | 13 Mei 2026 | Kebesaran Kristus Setelah Kebangkitan-Nya",
+                        "date": "2026-05-12",
+                        "desc": "Dibawakan oleh Bpk. Priyo Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=nU73VUAFUSc",
+                        "thumbnail": "https://i3.ytimg.com/vi/nU73VUAFUSc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Mei 2026 | Menjadi Saksi",
                         "date": "2026-05-11",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
                         "link": "https://www.youtube.com/watch?v=zn_eV9qtIgI",
                         "thumbnail": "https://i3.ytimg.com/vi/zn_eV9qtIgI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Apr 2026 | Mata dan Pikiran yang Tertuju kepada Yesus",
-                        "date": "2026-04-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=Pci2-XF7cnM",
-                        "thumbnail": "https://i1.ytimg.com/vi/Pci2-XF7cnM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
