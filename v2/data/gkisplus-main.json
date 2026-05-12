@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5833,
-        "last-update": 1778577396,
-        "last-updated-item": "agenda",
+        "update-count": 5834,
+        "last-update": 1778581272,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Mei 2026 | Menjadi Saksi",
+                        "date": "2026-05-11",
+                        "desc": "Dibawakan oleh Pnt. Paul A. Gulo",
+                        "link": "https://www.youtube.com/watch?v=XK6YWsXRz3M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XK6YWsXRz3M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 11 Mei 2026 | Roh Kudus Beserta KIta",
+                        "date": "2026-05-10",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=n4cG2NbXmoE",
+                        "thumbnail": "https://i3.ytimg.com/vi/n4cG2NbXmoE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Mei 2026 | Didikan Yang Membawa Hidup Bagi Sesama",
+                        "date": "2026-05-08",
+                        "desc": "Dibawakan oleh Bpk Petrus Sutomo",
+                        "link": "https://www.youtube.com/watch?v=IPPZoUq_8AQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/IPPZoUq_8AQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Mei 2026 | Menjadi Murid di Sekolah Tuhan",
+                        "date": "2026-05-07",
+                        "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
+                        "link": "https://www.youtube.com/watch?v=-SitACF3sSM",
+                        "thumbnail": "https://i2.ytimg.com/vi/-SitACF3sSM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Mei 2026 | Mendidik dengan Kasih Menerangi Generasi Masa Depan",
+                        "date": "2026-05-06",
+                        "desc": "Dibawakan oleh Bpk. Yahya Kristianto",
+                        "link": "https://www.youtube.com/watch?v=DyTuJp_evfk",
+                        "thumbnail": "https://i1.ytimg.com/vi/DyTuJp_evfk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Mei 2026 | Menjadi Terang di Dunia Pendidikan",
+                        "date": "2026-05-05",
+                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
+                        "link": "https://www.youtube.com/watch?v=XyZYB5nPwRc",
+                        "thumbnail": "https://i1.ytimg.com/vi/XyZYB5nPwRc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Mei  2026 | Eling!",
+                        "date": "2026-05-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=x2Y5aHv-Pgs",
+                        "thumbnail": "https://i1.ytimg.com/vi/x2Y5aHv-Pgs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Mei  2026 | Menguatkan Kolaborasi Pendidikan",
+                        "date": "2026-05-03",
+                        "desc": "Dibawakan oleh Ibu Natalia Setyawati",
+                        "link": "https://www.youtube.com/watch?v=2SVFLfMQiAI",
+                        "thumbnail": "https://i3.ytimg.com/vi/2SVFLfMQiAI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Mei 2026 | Hikmat Yang Mengubah Hidup",
+                        "date": "2026-05-01",
+                        "desc": "Dibawakan oleh Pnt. Desy Ballo",
+                        "link": "https://www.youtube.com/watch?v=fqyAOEVvNH8",
+                        "thumbnail": "https://i3.ytimg.com/vi/fqyAOEVvNH8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Mei 2026 | Buruh di Era Digital",
+                        "date": "2026-04-30",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
+                        "link": "https://www.youtube.com/watch?v=zn_eV9qtIgI",
+                        "thumbnail": "https://i3.ytimg.com/vi/zn_eV9qtIgI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Apr 2026 | Mata dan Pikiran yang Tertuju kepada Yesus",
+                        "date": "2026-04-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=Pci2-XF7cnM",
+                        "thumbnail": "https://i1.ytimg.com/vi/Pci2-XF7cnM/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -473,6 +551,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN Usia Lanjut GKI Salatiga | 21 Mei 2026 | \u201cPerkataan yang Membangun\u201d",
+                        "date": "2026-05-12",
+                        "desc": "PERSEKUTUAN  USIA LANJUT GKI Salatiga\nKamis, 21 Mei  2026 | Pukul 16.00 WIB\n\nTema : \u201cPerkataan yang Membangun\u201d\nPelayan Firman : Pdt. Merry K Rungkat\nMJP: Pnt. Nathanael Hardjono\nPL: \nMusik: Ibu Retty & kak Samarthya\nVoice: Ibu Hana Ch Laihad\nMultimedia : kak Joaquim, Mario dan pak Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=ial17u6OApg",
+                        "thumbnail": "https://i.ytimg.com/vi/ial17u6OApg/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "PERSEKUTUAN Usia Lanjut GKI Salatiga | 26 Maret 2026 | \u201cMemento Mori (Ingatlah, Anda akan mati)\u201d",
                         "date": "2026-03-25",
                         "desc": "PERSEKUTUAN  USIA LANJUT GKI Salatiga\nKamis, 26 Maret 2026 | Pukul 16.00 WIB\n\nTema : \u201cMemento Mori (Ingatlah, Anda akan mati)\u201d\nPelayan Firman : Pdt. Helen Ruth Manurung\nMJP: Pnt Shielly\nPL: Bp. Santoso Adi Pribadi\nMusik: Ibu Retty & kak Samarthya\nVoice: Ibu Hana Ch Laihad\nMultimedia : kak Judica, kak Risti, kak Mario dan pak Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -674,13 +759,6 @@
                         "desc": "*PERSEKUTUAN  USIA LANJUT GKI SALATIGA \n21  September 2023 | Pukul 16.00 WIB\n\nTema : \u201cTetap Ramah di Tengah Amarah\"\nDilayani oleh Pdt. Merry Kristina Rungkat\nMJ : Pnt. July Silooy\nPemusik : Ibu Retty \u2502PNK : Ibu Hana \u2502Tata Suara : Tonny Harnoto\nPPT : Joaquim \u2502 OBS : Ryan Bagas \u2502 Kamerawan : Iwandi/Atma\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
                         "link": "https://www.youtube.com/watch?v=CSneXsrm0o8",
                         "thumbnail": "https://i.ytimg.com/vi/CSneXsrm0o8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "PERSEKUTUAN  USIA LANJUT GKI SALATIGA | \u201cMelayani Dengan Hati\"",
-                        "date": "2023-08-22",
-                        "desc": "*PERSEKUTUAN  USIA LANJUT GKI SALATIGA \n24 Agustus 2023 | Pukul 16.00 WIB\n\nTema : \u201cMelayani Dengan Hat\"\nDilayani oleh Yefta Setiawan Krisgunadi\nMJ : Pnt. Sri Yuniwati Retnoningsih\nPemusik : Ibu Retty \u2502PNK : Ibu Hana \u2502Tata Suara : Tonny Harnoto\nPPT : Deny Jaya\u2502 OBS : Joshua Abdi Gracia \u2502 Kamerawan : Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
-                        "link": "https://www.youtube.com/watch?v=GhiCYCvjWkA",
-                        "thumbnail": "https://i.ytimg.com/vi/GhiCYCvjWkA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
