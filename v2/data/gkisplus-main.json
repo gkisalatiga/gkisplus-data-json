@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5837,
-        "last-update": 1778650751,
-        "last-updated-item": "yt",
+        "update-count": 5838,
+        "last-update": 1778653390,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5521,7 +5521,7 @@
                 "date": "2026-05-13",
                 "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Galilea (lantai 2) ",
+                "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paul",
                 "status": "y",
@@ -5563,11 +5563,25 @@
                 "date": "2026-05-13",
                 "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
+                "place": "Ruang Galilea (lantai 2) ",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Dessy",
                 "status": "y",
                 "note": "Minta disiapkan LCD"
+            },
+            {
+                "name": "Latihan vokal dan setting tempat",
+                "time": "12:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-05-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sosialisasi Ke Bapel, Mekanisme Penilaian Capen",
@@ -6267,20 +6281,6 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan vokal dan setting tempat",
-                "time": "12:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-05-13",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Endah",
-                "status": "w",
                 "note": ""
             }
         ],
