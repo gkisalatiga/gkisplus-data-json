@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5839,
-        "last-update": 1778667050,
+        "update-count": 5840,
+        "last-update": 1778687496,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -3116,6 +3116,15 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah Kenaikan Tuhan Yesus - 14 Mei 2026",
+                    "date": "2026-05-13",
+                    "link": "https://drive.google.com/file/d/1v2d0lUbyM8Qx3NV6kwshkTfxJ1FcrEI_/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-kenaikan-tuhan-yesus-14-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1v2d0lUbyM8Qx3NV6kwshkTfxJ1FcrEI_",
+                    "id": "1v2d0lUbyM8Qx3NV6kwshkTfxJ1FcrEI_",
+                    "size": "0.81 MB"
+                },
+                {
                     "title": "Tata Ibadah Minggu Paskah VI - 10 Mei 2026",
                     "date": "2026-05-09",
                     "link": "https://drive.google.com/file/d/1Ct8EOkQjEHvWwFR0XXwnqv4KJkcKLpLM/view",
@@ -5351,15 +5360,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "title": "Persekutuan Kambium",
-                "type": "poster",
-                "date-created": "2026-05-11",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_30.webp",
                 "title": "Kebaktian Kenaikan Tuhan Yesus",
                 "type": "poster",
@@ -5401,6 +5401,24 @@
                 "type": "poster",
                 "date-created": "2026-05-11",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_1.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
+                "title": "Persekutuan KUL",
+                "type": "poster",
+                "date-created": "2026-05-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk_4.webp",
+                "title": "Workshop Multimedia dan Tata Suara",
+                "type": "poster",
+                "date-created": "2026-05-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_info_apk_4.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
