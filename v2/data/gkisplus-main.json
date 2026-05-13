@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5835,
-        "last-update": 1778610516,
-        "last-updated-item": "yt",
+        "update-count": 5836,
+        "last-update": 1778640064,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5599,7 +5599,7 @@
                 "date": "2026-05-13",
                 "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
+                "place": "Ruang Galilea (lantai 2) ",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Paul",
                 "status": "y",
@@ -5632,6 +5632,20 @@
                 "pic": "Eriyani Tenga Lunga",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat MJ. Bidang 1",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-13",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
             },
             {
                 "name": "Sosialisasi Ke Bapel, Mekanisme Penilaian Capen",
@@ -6026,6 +6040,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan Perjamuan Kudus Wil. 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6250,6 +6278,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 5 ( Bu Titik)",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "nan",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6260,6 +6302,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 5 (Triwibowo)",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "nan",
                 "status": "y",
                 "note": ""
             },
@@ -6292,18 +6348,18 @@
                 "note": ""
             },
             {
-                "name": "Persiapan Perjamuan Kudus Wil. 7",
-                "time": "17:00",
-                "time-to": "19:00",
+                "name": "Latihan vokal dan setting tempat",
+                "time": "12:00",
+                "time-to": "13:00",
                 "timezone": "WIB",
-                "date": "2026-06-30",
-                "weekday": "tue",
+                "date": "2026-05-13",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
                 "status": "w",
-                "note": "-"
+                "note": ""
             }
         ],
         "backend": {
