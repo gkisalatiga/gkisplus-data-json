@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5841,
-        "last-update": 1778737086,
-        "last-updated-item": "yt",
+        "update-count": 5842,
+        "last-update": 1778739600,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6299,6 +6299,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Take video untuk lomba solo vocal ",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-05-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "w",
                 "note": ""
             }
         ],
