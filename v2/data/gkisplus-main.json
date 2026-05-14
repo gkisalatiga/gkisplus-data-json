@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5845,
-        "last-update": 1778773154,
-        "last-updated-item": "agenda",
+        "update-count": 5846,
+        "last-update": 1778783195,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaREn Pagi | 15 Mei 2026 | Menjadi Tangan Kristus",
+                        "date": "2026-05-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=95KcPQS0hk4",
+                        "thumbnail": "https://i2.ytimg.com/vi/95KcPQS0hk4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaREn Pagi | 13 Mei 2026 | Kebesaran Kristus Setelah Kebangkitan-Nya",
                         "date": "2026-05-12",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Desy Ballo",
                         "link": "https://www.youtube.com/watch?v=fqyAOEVvNH8",
                         "thumbnail": "https://i3.ytimg.com/vi/fqyAOEVvNH8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Mei 2026 | Buruh di Era Digital",
-                        "date": "2026-04-30",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
-                        "link": "https://www.youtube.com/watch?v=zn_eV9qtIgI",
-                        "thumbnail": "https://i3.ytimg.com/vi/zn_eV9qtIgI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -113,7 +113,7 @@
                         "date": "2026-05-11",
                         "desc": "Ibadah Kenaikan Yesus Kristus GKI Salatiga | 14 Mei 2026 | Pukul 09.00 WIB\n\nTema: \"Kristus Naik, Nama-Nya Kita Beritakan\"\n\nNyanyian: PKJ 2; KK 751; KAU 1 2 3; KJ 427; KJ 426 :1, 3&4\n\nBacaan 1: Kisah Para Rasul 1:1-11\nTanggapan: Mazmur 93\nBacaan 2: Efesus 1:15-23\nBacaan Injil: Lukas 24:44-53\nBerita Anugrah: Kolose 1:27\nPersembahan: 1 Tesalonika 5:18\n\nPelayan Firman: Pdt. Em. Iman Santoso\nKoordinator Ibadah dan Persembahan: Pnt. Samuel Martono\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Gita Hastuti, Pnt. Santoso Adi P.\nPemandu Liturgi: Lukas Sukan\nLektor 1: Dewi Retnowati\nLektor 2: Anggraeni C.Yiwa\n\nPemusik: Psalm + Gloria\nPNK: Budhi Prasetyo\nPemazmur: Eriyani\nPaduan Suara : -\nTim Multimedia: Mario, Joshua A. Gracia, Sabatdini, Benaya, Evangs\nDokumentasi: Erio / Derryl / Judica / Jeffrey\nFlorist: Tim Edelweis\nUsher & Kolektan: Panitia Masa Raya Paskah 2026\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=xBpsopoXebU",
-                        "thumbnail": "https://i.ytimg.com/vi/xBpsopoXebU/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/xBpsopoXebU/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu Paskah VI GKI Salatiga | 10 Mei 2026 | Pukul 07.00 WIB",
@@ -2103,7 +2103,7 @@
                         "date": "2026-05-11",
                         "desc": "Ibadah Kenaikan Yesus Kristus GKI Salatiga | 14 Mei 2026 | Pukul 09.00 WIB\n\nTema: \"Kristus Naik, Nama-Nya Kita Beritakan\"\n\nNyanyian: PKJ 2; KK 751; KAU 1 2 3; KJ 427; KJ 426 :1, 3&4\n\nBacaan 1: Kisah Para Rasul 1:1-11\nTanggapan: Mazmur 93\nBacaan 2: Efesus 1:15-23\nBacaan Injil: Lukas 24:44-53\nBerita Anugrah: Kolose 1:27\nPersembahan: 1 Tesalonika 5:18\n\nPelayan Firman: Pdt. Em. Iman Santoso\nKoordinator Ibadah dan Persembahan: Pnt. Samuel Martono\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Gita Hastuti, Pnt. Santoso Adi P.\nPemandu Liturgi: Lukas Sukan\nLektor 1: Dewi Retnowati\nLektor 2: Anggraeni C.Yiwa\n\nPemusik: Psalm + Gloria\nPNK: Budhi Prasetyo\nPemazmur: Eriyani\nPaduan Suara : -\nTim Multimedia: Mario, Joshua A. Gracia, Sabatdini, Benaya, Evangs\nDokumentasi: Erio / Derryl / Judica / Jeffrey\nFlorist: Tim Edelweis\nUsher & Kolektan: Panitia Masa Raya Paskah 2026\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=xBpsopoXebU",
-                        "thumbnail": "https://i.ytimg.com/vi/xBpsopoXebU/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/xBpsopoXebU/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu Paskah VI GKI Salatiga | 10 Mei 2026 | Pukul 07.00 WIB",
