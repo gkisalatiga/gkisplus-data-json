@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5842,
-        "last-update": 1778739600,
+        "update-count": 5843,
+        "last-update": 1778749982,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6312,6 +6312,20 @@
                 "place": "Ruang Studio",
                 "representative": "SD Kristen 04 Eben Haezer",
                 "pic": "Endah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik 17 Mei 2026",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
