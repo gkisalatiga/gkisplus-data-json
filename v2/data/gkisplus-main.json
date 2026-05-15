@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5846,
-        "last-update": 1778783195,
-        "last-updated-item": "yt",
+        "update-count": 5847,
+        "last-update": 1778812945,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5774,7 +5774,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
