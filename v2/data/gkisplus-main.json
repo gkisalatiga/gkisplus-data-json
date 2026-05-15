@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5849,
-        "last-update": 1778826563,
+        "update-count": 5850,
+        "last-update": 1778836984,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5281,15 +5281,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_mrp_30.webp",
-                "title": "Kebaktian Kenaikan Tuhan Yesus",
-                "type": "poster",
-                "date-created": "2026-05-11",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrp_30.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
                 "title": "Fun Walk dan Sarapan Bersama",
