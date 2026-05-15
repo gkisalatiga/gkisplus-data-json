@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5850,
-        "last-update": 1778836984,
+        "update-count": 5851,
+        "last-update": 1778837463,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5635,6 +5635,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana ",
+                "status": "y",
+                "note": "Minta tolong untuk LCD Proyektor dan Air Panas (nanti Teh / Kopi biar bikin sendiri)"
+            },
+            {
+                "name": "Rapat Evaluasi KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Minta disiapkan teh untuk 6 orang"
+            },
+            {
                 "name": "Percakapan Gerejawi Pernikahan",
                 "time": "09:00",
                 "time-to": "10:00",
@@ -5703,6 +5731,34 @@
                 "pic": "Pnt. Ervien Dian W",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Percakapan Gerejawi orangtua Baptis Kudus Anak",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-20",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta Setiawan Krisgunadi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim BKJ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "Minta disiapkan LCD Proyektor "
             },
             {
                 "name": "Latihan PS. GKI",
@@ -5845,6 +5901,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim BKJ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "Minta disiapkan LCD Proyektor "
+            },
+            {
                 "name": "Pelatihan Multimedia (OBS) GKI Salatiga",
                 "time": "11:30",
                 "time-to": "15:00",
@@ -5857,6 +5927,20 @@
                 "pic": "Samarthya, Jeffrey",
                 "status": "y",
                 "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS."
+            },
+            {
+                "name": "Rapat Koordinasi Bapel ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 10",
@@ -6025,6 +6109,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pembinaan Penatua ",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-06-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Persiapan PK Wilayah 9 ",
@@ -6361,34 +6459,6 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat MJ Bidang 3",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-15",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Yosua Candana ",
-                "status": "w",
-                "note": "Minta tolong untuk LCD Proyektor dan Air Panas (nanti Teh / Kopi biar bikin sendiri)"
-            },
-            {
-                "name": "Rapat Evaluasi KD",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-15",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "w",
-                "note": "Minta disiapkan teh untuk 6 orang"
             }
         ],
         "backend": {
