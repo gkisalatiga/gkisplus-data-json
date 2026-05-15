@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5853,
-        "last-update": 1778853304,
-        "last-updated-item": "agenda",
+        "update-count": 5854,
+        "last-update": 1778860435,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaREn Pagi | 16 Mei 2026 | Berjalan Bersama Roh Kudus",
+                        "date": "2026-05-15",
+                        "desc": "Dibawakan oleh Pnt. Yosua Candana",
+                        "link": "https://www.youtube.com/watch?v=MVkFyHYxtZE",
+                        "thumbnail": "https://i2.ytimg.com/vi/MVkFyHYxtZE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaREn Pagi | 15 Mei 2026 | Menjadi Tangan Kristus",
                         "date": "2026-05-14",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Natalia Setyawati",
                         "link": "https://www.youtube.com/watch?v=2SVFLfMQiAI",
                         "thumbnail": "https://i3.ytimg.com/vi/2SVFLfMQiAI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Mei 2026 | Hikmat Yang Mengubah Hidup",
-                        "date": "2026-05-01",
-                        "desc": "Dibawakan oleh Pnt. Desy Ballo",
-                        "link": "https://www.youtube.com/watch?v=fqyAOEVvNH8",
-                        "thumbnail": "https://i3.ytimg.com/vi/fqyAOEVvNH8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
