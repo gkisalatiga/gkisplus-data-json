@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5848,
-        "last-update": 1778823883,
-        "last-updated-item": "yt",
+        "update-count": 5849,
+        "last-update": 1778826563,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5868,6 +5868,20 @@
                 "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS."
             },
             {
+                "name": "PA Wilayah 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-09",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6008,6 +6022,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-23",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Persiapan PK Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6032,6 +6060,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Persiapan PK Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
             },
@@ -6328,6 +6370,34 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana ",
+                "status": "w",
+                "note": "Minta tolong untuk LCD Proyektor dan Air Panas (nanti Teh / Kopi biar bikin sendiri)"
+            },
+            {
+                "name": "Rapat Evaluasi KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-15",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "w",
+                "note": "Minta disiapkan teh untuk 6 orang"
             }
         ],
         "backend": {
