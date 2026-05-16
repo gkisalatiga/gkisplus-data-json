@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5859,
-        "last-update": 1778946566,
-        "last-updated-item": "yt",
+        "update-count": 5860,
+        "last-update": 1778946824,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6450,6 +6450,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Lanjutan Rapat Tim Yonatan SODA",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-05-17",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya+Mario",
+                "status": "w",
                 "note": ""
             }
         ],
