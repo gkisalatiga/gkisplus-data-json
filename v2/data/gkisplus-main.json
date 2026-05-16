@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5855,
-        "last-update": 1778898709,
+        "update-count": 5857,
+        "last-update": 1778916563,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2286,6 +2286,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 17 Mei 2026",
+                    "date": "2026-05-16",
+                    "link": "https://drive.google.com/file/d/1hyhSTQBxdyDRPBbte3cDvF80sM__6Wrj/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-17-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1hyhSTQBxdyDRPBbte3cDvF80sM__6Wrj",
+                    "id": "1hyhSTQBxdyDRPBbte3cDvF80sM__6Wrj",
+                    "size": "1.90 MB"
+                },
+                {
                     "title": "Warta Jemaat 10 Mei 2026",
                     "date": "2026-05-09",
                     "link": "https://drive.google.com/file/d/1rFMDpNbIYxv_dvm8SrPS5KFRMQ1D5LwT/view",
@@ -3115,6 +3124,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Paskah VII - 17 Mei 2026",
+                    "date": "2026-05-16",
+                    "link": "https://drive.google.com/file/d/1amQZoqDY6ov2-CmeNKW4D7bg6R7765vT/view",
+                    "post-page": "http://gkisalatiga.org/tata-ibadah-minggu-paskah-vii-17-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1amQZoqDY6ov2-CmeNKW4D7bg6R7765vT",
+                    "id": "1amQZoqDY6ov2-CmeNKW4D7bg6R7765vT",
+                    "size": "0.70 MB"
+                },
                 {
                     "title": "Tata Ibadah Kenaikan Tuhan Yesus - 14 Mei 2026",
                     "date": "2026-05-13",
@@ -5359,15 +5377,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "title": "Fun Walk dan Sarapan Bersama",
-                "type": "poster",
-                "date-created": "2026-05-08",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 16 Mei",
