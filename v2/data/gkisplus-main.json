@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5862,
-        "last-update": 1778996305,
+        "update-count": 5863,
+        "last-update": 1779009961,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaREn Pagi | 16 Mei 2026 | Berjalan Bersama Roh Kudus",
+                        "date": "2026-05-15",
+                        "desc": "Dibawakan oleh Pnt. Yosua Candana",
+                        "link": "https://www.youtube.com/watch?v=MVkFyHYxtZE",
+                        "thumbnail": "https://i2.ytimg.com/vi/MVkFyHYxtZE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaREn Pagi | 15 Mei 2026 | Menjadi Tangan Kristus",
+                        "date": "2026-05-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=95KcPQS0hk4",
+                        "thumbnail": "https://i2.ytimg.com/vi/95KcPQS0hk4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaREn Pagi | 13 Mei 2026 | Kebesaran Kristus Setelah Kebangkitan-Nya",
+                        "date": "2026-05-12",
+                        "desc": "Dibawakan oleh Bpk. Priyo Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=nU73VUAFUSc",
+                        "thumbnail": "https://i3.ytimg.com/vi/nU73VUAFUSc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Mei 2026 | Menjadi Saksi",
+                        "date": "2026-05-11",
+                        "desc": "Dibawakan oleh Pnt. Paul A. Gulo",
+                        "link": "https://www.youtube.com/watch?v=XK6YWsXRz3M",
+                        "thumbnail": "https://i1.ytimg.com/vi/XK6YWsXRz3M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 11 Mei 2026 | Roh Kudus Beserta KIta",
+                        "date": "2026-05-10",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=n4cG2NbXmoE",
+                        "thumbnail": "https://i3.ytimg.com/vi/n4cG2NbXmoE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Mei 2026 | Didikan Yang Membawa Hidup Bagi Sesama",
+                        "date": "2026-05-08",
+                        "desc": "Dibawakan oleh Bpk Petrus Sutomo",
+                        "link": "https://www.youtube.com/watch?v=IPPZoUq_8AQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/IPPZoUq_8AQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Mei 2026 | Menjadi Murid di Sekolah Tuhan",
+                        "date": "2026-05-07",
+                        "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
+                        "link": "https://www.youtube.com/watch?v=-SitACF3sSM",
+                        "thumbnail": "https://i2.ytimg.com/vi/-SitACF3sSM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Mei 2026 | Mendidik dengan Kasih Menerangi Generasi Masa Depan",
+                        "date": "2026-05-06",
+                        "desc": "Dibawakan oleh Bpk. Yahya Kristianto",
+                        "link": "https://www.youtube.com/watch?v=DyTuJp_evfk",
+                        "thumbnail": "https://i1.ytimg.com/vi/DyTuJp_evfk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Mei 2026 | Menjadi Terang di Dunia Pendidikan",
+                        "date": "2026-05-05",
+                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
+                        "link": "https://www.youtube.com/watch?v=XyZYB5nPwRc",
+                        "thumbnail": "https://i1.ytimg.com/vi/XyZYB5nPwRc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Mei  2026 | Eling!",
+                        "date": "2026-05-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=x2Y5aHv-Pgs",
+                        "thumbnail": "https://i1.ytimg.com/vi/x2Y5aHv-Pgs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Mei  2026 | Menguatkan Kolaborasi Pendidikan",
+                        "date": "2026-05-03",
+                        "desc": "Dibawakan oleh Ibu Natalia Setyawati",
+                        "link": "https://www.youtube.com/watch?v=2SVFLfMQiAI",
+                        "thumbnail": "https://i3.ytimg.com/vi/2SVFLfMQiAI/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
