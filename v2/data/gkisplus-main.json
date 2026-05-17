@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5864,
-        "last-update": 1779029286,
-        "last-updated-item": "yt",
+        "update-count": 5865,
+        "last-update": 1779033281,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6479,6 +6479,34 @@
                 "pic": "Bambang Setiadhy ",
                 "status": "w",
                 "note": "Tolong disediakan teh tawar dan air mineral galon"
+            },
+            {
+                "name": "Latihan liturgi Pembinaan GSM",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-18",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Paduan Suara Anak",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-19",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
