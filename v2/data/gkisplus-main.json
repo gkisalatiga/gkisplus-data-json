@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5866,
-        "last-update": 1779038554,
-        "last-updated-item": "agenda",
+        "update-count": 5867,
+        "last-update": 1779050212,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Mei 2026 | Beriman Dengan Kesadaran",
+                        "date": "2026-05-17",
+                        "desc": "Dibawakan oleh Sdri. Asputri Kaat",
+                        "link": "https://www.youtube.com/watch?v=NyrO7rN5TCk",
+                        "thumbnail": "https://i3.ytimg.com/vi/NyrO7rN5TCk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaREn Pagi | 16 Mei 2026 | Berjalan Bersama Roh Kudus",
                         "date": "2026-05-15",
