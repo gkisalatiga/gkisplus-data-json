@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5871,
-        "last-update": 1779104097,
+        "update-count": 5872,
+        "last-update": 1779122525,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Mei 2026 | Jadilah Saksi saksi Ku",
+                        "date": "2026-05-18",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=g7755YBrwso",
+                        "thumbnail": "https://i4.ytimg.com/vi/g7755YBrwso/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Mei 2026 | Beriman Dengan Kesadaran",
                         "date": "2026-05-17",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=x2Y5aHv-Pgs",
                         "thumbnail": "https://i1.ytimg.com/vi/x2Y5aHv-Pgs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Mei  2026 | Menguatkan Kolaborasi Pendidikan",
-                        "date": "2026-05-03",
-                        "desc": "Dibawakan oleh Ibu Natalia Setyawati",
-                        "link": "https://www.youtube.com/watch?v=2SVFLfMQiAI",
-                        "thumbnail": "https://i3.ytimg.com/vi/2SVFLfMQiAI/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
