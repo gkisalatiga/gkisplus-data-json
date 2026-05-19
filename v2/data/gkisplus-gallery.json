@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 81,
-        "last-update": 1778080882,
+        "update-count": 82,
+        "last-update": 1779217498,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -30880,6 +30880,131 @@
                     ]
                 },
                 {
+                    "folder_id": "1DGdZG7EPQq0VML4WS9LUK8hUS9pBfAS5",
+                    "last_update": "2026-05-19",
+                    "featured_photo_id": "1Jydq-tTLNr20dD8zsKm1BX5clLXtnCGM",
+                    "story": "Foto-foto dokumentasi Paskah KD [MRP 2026] yang dilaksanakan pada 26 April 2026.",
+                    "title": "Paskah KD [MRP 2026]",
+                    "event_date": "2026.04.26",
+                    "photos": [
+                        {
+                            "id": "1ICrqU3VyIEugzL-5Jvjmcl4gEmjEKGlk",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (185).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1akMoNJIsYUZE1Lnt2OgIiK6rSFcVHb-Z",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (167).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1V-C1I-nOpLuJeSl79LKDOgUWamodCDiG",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (229).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1mp59pLyd6c9wq6VmtSeoskjLJOWCWgiI",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (21).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1DA8NX-giRH0FXNImREpWLO8xgmB1fReH",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (4).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1S-Pf920i_12nkDbi_QXeBvUMRZJ3e6qU",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (39).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "16A068lQMWKCFgxt04DznR69L0YMahJZX",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (88).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1SrjWh4-Sjz3gXDBmhFbRMTGxTpfl-RVJ",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (51).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1kruNy2fV619KRmBtt-5HcPG-YakawmEs",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (147).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "12BwopBxEvs_KXLkHsBFxVZ4x0BYq0zfX",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (202).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1lCisXWl64IVou3jxwXL2Z0wVTEG1XJVP",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (216).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1DhgiqRb3P7anXeM6yRA92RXVMO84Y8GB",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (199).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1i2fi81TZx_3_T3yCX1_QKaMjrymF-SLn",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (64).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1OJ9d7K9e2GEGaW5Hey3agw5klZfTOYyU",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (58).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "12OSxy4vzvdeHP3ZH1bzAXjUuKfCTKnZQ",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (93).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1fr2vDAANQ0KQjOXipAaoIkKIXhF8ujYb",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (95).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1ySLTNHsySrQuRgwdCRpWiAX4bGUM1552",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (149).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1mZFKwyfOA_pkQdWlBHaqiRcu9Q0rQ4wx",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (129).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1HSFmk-Eac4Fbbi5czWMkjyVOmyCDdTx8",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (140).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1Z2vSqR71NrhpMUh-1sZ0P-33xQ2KkW7s",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (157).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1am6arSrc2ziI7tFhTQGE-mT-gw0WW4KI",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (195).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1N2wJq6lAmo28oBbmqbOq8dhZppoLFPsR",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (238).JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1dtLG6EuR93H6P1weyR-1H03s0lBg7pJJ",
+                            "name": "20260426 - PASKAH KOMISI DEWASA (263).JPG",
+                            "date": "2026-05-19"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1C-H4CPG0Nhyl3VFS3EHSRYPsjatz-JXn",
                     "last_update": "2026-05-06",
                     "featured_photo_id": "1FvxxE8DMr2q5DniO9cOZSU4SeCPJDxX9",
@@ -31061,6 +31186,161 @@
                             "id": "1PHnjoCjPPyxbIzmSV_kQjXcHWft6-sOs",
                             "name": "IMG_20260503_165730.HEIC",
                             "date": "2026-05-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1gHGS5WiIiVKlecekMzQYMYVMBXhNK_Wf",
+                    "last_update": "2026-05-19",
+                    "featured_photo_id": "1_A0PVA6P_el4r_4rB4gTCsdNFmDIO0Yd",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah VI [MRP 2026] yang dilaksanakan pada 10 Mei 2026.",
+                    "title": "Ibadah Minggu Paskah VI [MRP 2026]",
+                    "event_date": "2026.05.10",
+                    "photos": [
+                        {
+                            "id": "1OvayVY7fFZkpzHr1PQvHjx4EQey93LZY",
+                            "name": "GKI 100526-7-15.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1t_AbeDluyQbyng24QO_iqfo3Q4YtlEKi",
+                            "name": "GKI 100526-7-9.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "19Ki6tZZWn-lUm9wBct41CVvE_cWmFf4h",
+                            "name": "GKI 100526-7-8.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1-lWaxSQ-Hd6jRY8-apU6qvItWeuqXWuO",
+                            "name": "GKI 100526-7-12.JPG",
+                            "date": "2026-05-19"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1iAhwIDslwunwKDflWi_GEBspV-9fJrib",
+                    "last_update": "2026-05-19",
+                    "featured_photo_id": "1xGXelgSCJT0aLOryClXLZ-r8zdZx0kI2",
+                    "story": "Foto-foto dokumentasi Ibadah Kenaikan Yesus Kristus [MRP 2026] yang dilaksanakan pada 14 Mei 2026.",
+                    "title": "Ibadah Kenaikan Yesus Kristus [MRP 2026]",
+                    "event_date": "2026.05.14",
+                    "photos": [
+                        {
+                            "id": "1IsNz-odMBH-5DC-FNzJrqmkDp2BveAsZ",
+                            "name": "IMG_20260514_103202.HEIC",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "13jGb8Xe45iY7xHqZI1cXzYrFIxFaST01",
+                            "name": "DSCF0204.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1ZMma7hhdrjT6Opx4Q6DyVKZOc8N1yLjQ",
+                            "name": "DSCF0193.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1W-iwplv53wKx638w6t9ub5lmPFmxMr9T",
+                            "name": "DSCF0209.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1maPNVbMhjRdo3PH87Zc5cy1WyNNs3ZTM",
+                            "name": "DSCF0208.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1KGjRo5hMjZVY-NRTd6B1IUbNPvRXm2sb",
+                            "name": "GKI Kenaikan Yesus 140526-4-10.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1ScUMevQriWd4usrlj6n2I5XOykb_nWII",
+                            "name": "GKI Kenaikan Yesus 140526-4-31.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "12IF3nUUSDMMKskRJqkNCgRIrqfDlzqfJ",
+                            "name": "DSCF0268.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1vcWprGhyACfM4N4bPfrzsg62wqe5KVxg",
+                            "name": "GKI Kenaikan Yesus 140526-4-28.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "18PDStMg8Kz5B-dRNQZVhiw3fRxJNyztr",
+                            "name": "GKI Kenaikan Yesus 140526-4-9.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1CTcpfgUNJYuNGtvC9HBCkDDXghLgKzZG",
+                            "name": "DSCF0242.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1zi2a9dgWbSQ_UGEqAqXpyRFmdUaRTVJW",
+                            "name": "GKI Kenaikan Yesus 140526-4-23.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1kTObSivy0kjj20Yg8HODkIae2ETvhA1d",
+                            "name": "DSCF0243.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1DS84Ow6svShJeF10TEgP_7UbH_aUhUqL",
+                            "name": "DSCF0224.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1xXYkHFuVPtzvCVU5n1qvxyQfp4JMnGMZ",
+                            "name": "GKI Kenaikan Yesus 140526-4-5.JPG",
+                            "date": "2026-05-19"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1LxrNQj9ITOoo1MfiZ-8ixGmdJmt2DYmd",
+                    "last_update": "2026-05-19",
+                    "featured_photo_id": "1ZLTn9hxcNFGbO7BKzrWlmD9PF279JQYm",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu Paskah VII [MRP 2026] yang dilaksanakan pada 17 Mei 2026.",
+                    "title": "Ibadah Minggu Paskah VII [MRP 2026]",
+                    "event_date": "2026.05.17",
+                    "photos": [
+                        {
+                            "id": "11pguhO7m36dbpDw8FkIGzvfl7Xwe-Z_e",
+                            "name": "DSCF0464.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1zWhtOg-jsXfuw4OKKelyECi6_cfHBBpa",
+                            "name": "DSCF0469.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1sv5uc-pvrTUbNHsWS8qMi3VdqVHYQIwA",
+                            "name": "DSCF0475.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1opa4z-j-DOb9b_Npy4StybkYQcSV4DQk",
+                            "name": "DSCF0463.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1bXeGxtlYTzdusqwy4htuDvvaB1Mpw_pM",
+                            "name": "DSCF0460.JPG",
+                            "date": "2026-05-19"
+                        },
+                        {
+                            "id": "1BsqFYW9WY66RD4PRnL5_QfHn0oZ3vBgy",
+                            "name": "DSCF0470.JPG",
+                            "date": "2026-05-19"
                         }
                     ]
                 }
