@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5880,
-        "last-update": 1779259442,
+        "update-count": 5881,
+        "last-update": 1779272512,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5729,6 +5729,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Lainnya",
                 "pic": "Samuel Arief B.",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latiham PS Sola Gratia",
+                "time": "18:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samuel Arif Budiman S",
                 "status": "y",
                 "note": ""
             },
