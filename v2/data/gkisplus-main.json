@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5879,
-        "last-update": 1779256514,
-        "last-updated-item": "yt",
+        "update-count": 5880,
+        "last-update": 1779259442,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5663,6 +5663,48 @@
                 "note": ""
             },
             {
+                "name": "Percakapan ",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-05-20",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. Pesparawi Salatiga",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-05-20",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. Pesparawi Salatiga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-20",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim BKJ",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5675,6 +5717,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "Minta disiapkan LCD Proyektor "
+            },
+            {
+                "name": "Latihan Nari Untuk Pentakosta",
+                "time": "11:35",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-05-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Samuel Arief B.",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan PS. GKI",
@@ -5705,6 +5761,20 @@
                 "note": "Kursi setting U"
             },
             {
+                "name": "Rapat Konser SEH",
+                "time": "13:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-05-25",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yahya Kristanto",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5719,7 +5789,7 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 7",
+                "name": "PA Wilayah 2&8",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -5728,7 +5798,7 @@
                 "type": "proposal",
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
-                "pic": "Bu Djini",
+                "pic": "Lukas Sukan",
                 "status": "y",
                 "note": "-"
             },
@@ -5927,6 +5997,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan PS His Grace Choir dari GKI Denpasar",
+                "time": "14:00",
+                "time-to": "15:45",
+                "timezone": "WIB",
+                "date": "2026-06-13",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Bu Anti",
+                "status": "y",
+                "note": "Akan mengisi Pujian keb.tgl 14 Juni 2026"
             },
             {
                 "name": "PA wilayah 11",
@@ -6135,7 +6219,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi ",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -6398,7 +6482,7 @@
                 "date": "2026-09-29",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
+                "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
                 "status": "y",
