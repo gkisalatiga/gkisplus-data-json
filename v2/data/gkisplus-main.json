@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5891,
-        "last-update": 1779360965,
+        "update-count": 5892,
+        "last-update": 1779381110,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaREn Pagi | 22 Mei 2026 | Bangkit, Bukan Hanya Mengeluh",
+                        "date": "2026-05-21",
+                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
+                        "link": "https://www.youtube.com/watch?v=ASqwicuXNMg",
+                        "thumbnail": "https://i2.ytimg.com/vi/ASqwicuXNMg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaREn Pagi | 21 Mei 2026 | Bersatu, Bergerak, dan Berdampak",
                         "date": "2026-05-20",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk Petrus Sutomo",
                         "link": "https://www.youtube.com/watch?v=IPPZoUq_8AQ",
                         "thumbnail": "https://i2.ytimg.com/vi/IPPZoUq_8AQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Mei 2026 | Menjadi Murid di Sekolah Tuhan",
-                        "date": "2026-05-07",
-                        "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
-                        "link": "https://www.youtube.com/watch?v=-SitACF3sSM",
-                        "thumbnail": "https://i2.ytimg.com/vi/-SitACF3sSM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
