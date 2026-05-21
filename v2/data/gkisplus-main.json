@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5889,
-        "last-update": 1779346179,
+        "update-count": 5890,
+        "last-update": 1779359778,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5738,6 +5738,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat KD ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-22",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. GKI",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5750,6 +5764,20 @@
                 "pic": "Anti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat pengurus YPE",
+                "time": "15:45",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-05-23",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "Terimakasih"
             },
             {
                 "name": "Bincang2 Urban Farming",
@@ -6547,34 +6575,6 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat pengurus YPE",
-                "time": "15:45",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-23",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "w",
-                "note": "Terimakasih"
-            },
-            {
-                "name": "Rapat KD ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-22",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "w",
                 "note": ""
             }
         ],
