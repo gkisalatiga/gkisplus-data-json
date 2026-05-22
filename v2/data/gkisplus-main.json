@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5899,
-        "last-update": 1779468862,
-        "last-updated-item": "agenda",
+        "update-count": 5900,
+        "last-update": 1779489078,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaREn Pagi | 23 Mei 2026 | Memaknai Arti Kebangkitan",
+                        "date": "2026-05-22",
+                        "desc": "Dibawakan oleh Bpk. Susetya Wdyutama",
+                        "link": "https://www.youtube.com/watch?v=s2uxOh4iR_I",
+                        "thumbnail": "https://i4.ytimg.com/vi/s2uxOh4iR_I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaREn Pagi | 22 Mei 2026 | Bangkit, Bukan Hanya Mengeluh",
                         "date": "2026-05-21",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=n4cG2NbXmoE",
                         "thumbnail": "https://i3.ytimg.com/vi/n4cG2NbXmoE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Mei 2026 | Didikan Yang Membawa Hidup Bagi Sesama",
-                        "date": "2026-05-08",
-                        "desc": "Dibawakan oleh Bpk Petrus Sutomo",
-                        "link": "https://www.youtube.com/watch?v=IPPZoUq_8AQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/IPPZoUq_8AQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
