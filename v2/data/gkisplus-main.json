@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5902,
-        "last-update": 1779514225,
+        "update-count": 5903,
+        "last-update": 1779515757,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2215,6 +2215,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 24 Mei 2026",
+                    "date": "2026-05-23",
+                    "link": "https://drive.google.com/file/d/1BSS_4Cl7YF7HSPxy420eqoauYlcfOCKQ/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-24-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1BSS_4Cl7YF7HSPxy420eqoauYlcfOCKQ",
+                    "id": "1BSS_4Cl7YF7HSPxy420eqoauYlcfOCKQ",
+                    "size": "1.92 MB"
+                },
+                {
                     "title": "Warta Jemaat 17 Mei 2026",
                     "date": "2026-05-16",
                     "link": "https://drive.google.com/file/d/1hyhSTQBxdyDRPBbte3cDvF80sM__6Wrj/view",
@@ -3053,6 +3062,24 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Pentakosta - 24 Mei 2026 (09.30)",
+                    "date": "2026-05-23",
+                    "link": "https://drive.google.com/file/d/1eKgBJUQPZe65iGuchfBlEF5JxeNVf5uS/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-pentakosta-24-mei-2026-0930/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1eKgBJUQPZe65iGuchfBlEF5JxeNVf5uS",
+                    "id": "1eKgBJUQPZe65iGuchfBlEF5JxeNVf5uS",
+                    "size": "1.01 MB"
+                },
+                {
+                    "title": "Tata Ibadah Minggu Pentakosta - 24 Mei 2026 (07.00 & 16.30)",
+                    "date": "2026-05-23",
+                    "link": "https://drive.google.com/file/d/1d5v8lkyereeqxdLLQ3bnhmKFpyS43lk2/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-pentakosta-24-mei-2026-0700-1630/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1d5v8lkyereeqxdLLQ3bnhmKFpyS43lk2",
+                    "id": "1d5v8lkyereeqxdLLQ3bnhmKFpyS43lk2",
+                    "size": "1.03 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Paskah VII - 17 Mei 2026",
                     "date": "2026-05-16",
