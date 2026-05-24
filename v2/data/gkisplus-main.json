@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5914,
-        "last-update": 1779644991,
+        "update-count": 5915,
+        "last-update": 1779662562,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Mei 2026 | Takut Akan Tuhan",
+                        "date": "2026-05-24",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=9HwPlzLzokE",
+                        "thumbnail": "https://i2.ytimg.com/vi/9HwPlzLzokE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Mei 2026 | Sang Seniman Tak Terlihat",
+                        "date": "2026-05-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=8dwXNzzqZJc",
+                        "thumbnail": "https://i1.ytimg.com/vi/8dwXNzzqZJc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaREn Pagi | 23 Mei 2026 | Memaknai Arti Kebangkitan",
                         "date": "2026-05-22",
@@ -75,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=95KcPQS0hk4",
                         "thumbnail": "https://i2.ytimg.com/vi/95KcPQS0hk4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaREn Pagi | 13 Mei 2026 | Kebesaran Kristus Setelah Kebangkitan-Nya",
-                        "date": "2026-05-12",
-                        "desc": "Dibawakan oleh Bpk. Priyo Hari Adi",
-                        "link": "https://www.youtube.com/watch?v=nU73VUAFUSc",
-                        "thumbnail": "https://i3.ytimg.com/vi/nU73VUAFUSc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
