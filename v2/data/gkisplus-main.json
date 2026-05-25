@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5918,
-        "last-update": 1779691688,
+        "update-count": 5919,
+        "last-update": 1779693113,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6640,6 +6640,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Reny Ywa",
                 "status": "w",
                 "note": "-"
             }
