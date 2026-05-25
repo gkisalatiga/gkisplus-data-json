@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5919,
-        "last-update": 1779693113,
-        "last-updated-item": "agenda",
+        "update-count": 5920,
+        "last-update": 1779742531,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -22,7 +22,7 @@
                 "content": [
                     {
                         "title": "SaRen Pagi | 26 Mei 2026 | Hidup Berdampak Bersama Roh Kudus",
-                        "date": "2026-05-24",
+                        "date": "2026-05-25",
                         "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
                         "link": "https://www.youtube.com/watch?v=Db0OvKPK2-U",
                         "thumbnail": "https://i1.ytimg.com/vi/Db0OvKPK2-U/hqdefault.jpg"
