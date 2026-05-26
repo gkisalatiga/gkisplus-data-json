@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5921,
-        "last-update": 1779753260,
-        "last-updated-item": "yt",
+        "update-count": 5922,
+        "last-update": 1779777702,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5621,20 +5621,6 @@
                 "note": "tambah teh "
             },
             {
-                "name": "Bincang2 Urban Farming",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-06-01",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": "Kursi setting U"
-            },
-            {
                 "name": "Rapat Konser SEH",
                 "time": "13:30",
                 "time-to": "15:00",
@@ -5647,6 +5633,34 @@
                 "pic": "Yahya Kristanto",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Latihan petugas Pembinaan GSM",
+                "time": "17:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-05-25",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "w",
+                "note": "Minta dibuatkan Teh"
+            },
+            {
+                "name": "Latihan Pemusik Ibadah Umum",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-25",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Tim Apostles"
             },
             {
                 "name": "PA wilayah 11",
@@ -5691,6 +5705,34 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Pemusik Ibadah Umum",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-27",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Tim Apostles"
+            },
+            {
+                "name": "Latihan Pemusik Tim Ibadah",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pelatihan Tata Suara GKI Salatiga",
                 "time": "11:30",
                 "time-to": "15:00",
@@ -5703,6 +5745,20 @@
                 "pic": "Samarthya, Jeffrey",
                 "status": "y",
                 "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS. Gedung gereja dipakai untuk pemaparan materi dan praktik mixer digital. Sedangkan Ruang Kana dipakai untuk praktik mixer analog."
+            },
+            {
+                "name": "Bincang2 Urban Farming",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-06-01",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Kursi setting U"
             },
             {
                 "name": "Pembinaan GSM",
@@ -6349,6 +6405,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ibu Reny Ywa",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6375,6 +6445,20 @@
                 "pic": "nan",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PPK Wil. 10",
@@ -6419,90 +6503,6 @@
                 "note": ""
             },
             {
-                "name": "Rapat Tim Pembimbing Capen",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Tim Pembimbing Capen",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan petugas Pembinaan GSM",
-                "time": "17:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-05-25",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
-                "note": "Minta dibuatkan Teh"
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-25",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Tim Apostles"
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-27",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Tim Apostles"
-            },
-            {
-                "name": "Latihan Pemusik Tim Ibadah",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-28",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "PA wilayah 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6531,6 +6531,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Tim Pembimbing Capen",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wil. 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6545,6 +6559,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Tim Pembimbing Capen",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wil. 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6555,34 +6583,6 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wil. 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-09-22",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Pak Andi",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 5",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-09-15",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Ibu Reny Ywa",
                 "status": "w",
                 "note": "-"
             }
