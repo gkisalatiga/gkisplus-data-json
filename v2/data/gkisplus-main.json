@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5924,
-        "last-update": 1779815816,
+        "update-count": 5925,
+        "last-update": 1779830608,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 27 Mei 2026 | Takut Akan Tuhan",
+                        "date": "2026-05-26",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=9HwPlzLzokE",
+                        "thumbnail": "https://i2.ytimg.com/vi/9HwPlzLzokE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 26 Mei 2026 | Hidup Berdampak Bersama Roh Kudus",
                         "date": "2026-05-25",
                         "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
                         "link": "https://www.youtube.com/watch?v=Db0OvKPK2-U",
                         "thumbnail": "https://i1.ytimg.com/vi/Db0OvKPK2-U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Mei 2026 | Takut Akan Tuhan",
-                        "date": "2026-05-24",
-                        "desc": "Dibawakan oleh Ibu July Silooy",
-                        "link": "https://www.youtube.com/watch?v=9HwPlzLzokE",
-                        "thumbnail": "https://i2.ytimg.com/vi/9HwPlzLzokE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 25 Mei 2026 | Sang Seniman Tak Terlihat",
