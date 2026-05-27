@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5927,
-        "last-update": 1779861978,
-        "last-updated-item": "yt",
+        "update-count": 5928,
+        "last-update": 1779879567,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6627,6 +6627,20 @@
                 "pic": "Vicha",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan liturgi Pembinaan GSM",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
