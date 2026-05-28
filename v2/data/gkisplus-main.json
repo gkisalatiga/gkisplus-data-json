@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5936,
-        "last-update": 1779978832,
-        "last-updated-item": "agenda",
+        "update-count": 5937,
+        "last-update": 1780004811,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Mei 2026 | Hidup Berserah Bersama Roh Kudus",
+                        "date": "2026-05-28",
+                        "desc": "Dibawakan oleh Sdri Ester Juliawati",
+                        "link": "https://www.youtube.com/watch?v=1SKEqcJ_c1I",
+                        "thumbnail": "https://i2.ytimg.com/vi/1SKEqcJ_c1I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Mei 2026 | Roh Kudus Memimpin Kita Mewartakan Kasih",
                         "date": "2026-05-27",
