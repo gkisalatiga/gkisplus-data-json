@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5931,
-        "last-update": 1779936130,
+        "update-count": 5932,
+        "last-update": 1779951041,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5509,216 +5509,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Rapat Tim BKJ",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-22",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": "Minta disiapkan LCD Proyektor "
-            },
-            {
-                "name": "Latihan Nari Untuk Pentakosta",
-                "time": "11:35",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2026-05-22",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Samuel Arief B.",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latiham PS Sola Gratia",
-                "time": "18:30",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-22",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samuel Arif Budiman S",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat KD ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-22",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. GKI",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-23",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Anti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat pengurus YPE",
-                "time": "15:45",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-23",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "y",
-                "note": "Terimakasih"
-            },
-            {
-                "name": "Pelatihan K3- Keselamatan dan Kesehatan Kerja",
-                "time": "07:30",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2026-05-23",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Ervien Dian Widyawati",
-                "status": "y",
-                "note": "Minta disiapkan LCD"
-            },
-            {
-                "name": "Rapat Proker KR",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-23",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel Esa",
-                "status": "y",
-                "note": "tambah teh "
-            },
-            {
-                "name": "Rapat Konser SEH",
-                "time": "13:30",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-05-25",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Yahya Kristanto",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan petugas Pembinaan GSM",
-                "time": "17:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-05-25",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
-                "note": "Minta dibuatkan Teh"
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-25",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Tim Apostles"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-26",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 2&8",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-05-26",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Lukas Sukan",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-26",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pak Andi",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Pemusik Ibadah Umum",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-27",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Samarthya",
-                "status": "y",
-                "note": "Tim Apostles"
-            },
-            {
                 "name": "Latihan Pemusik Tim Ibadah",
                 "time": "18:00",
                 "time-to": "21:00",
@@ -5761,6 +5551,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat menyusun tema persekutuan",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-05-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Lat paduan suara kls 6 utk wasanawarsa",
                 "time": "08:00",
                 "time-to": "10:00",
@@ -5773,6 +5577,34 @@
                 "pic": "Kepala Sekolah",
                 "status": "y",
                 "note": "Latihan untuk Kegiatan Wasawarsa"
+            },
+            {
+                "name": "Rapat BPMJ",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-29",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkab LCD"
+            },
+            {
+                "name": "Pertemuan dg Mhsw. PPL (23 orang)",
+                "time": "09:00",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2026-05-30",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pelatihan Tata Suara GKI Salatiga",
@@ -5873,6 +5705,34 @@
                 "note": "Siswa kelas 6 & Bp/Ibu Guru"
             },
             {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-06-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat menyusun tema persekutuan",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim BKJ",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5899,6 +5759,20 @@
                 "pic": "Samarthya, Jeffrey",
                 "status": "y",
                 "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS."
+            },
+            {
+                "name": "Rapat MJ. Bidang 1",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": "Minta disiapkan Meja tengah besar, LCD dan layar proyektor"
             },
             {
                 "name": "Rapat Koordinasi Bapel ",
@@ -6471,7 +6345,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Ibu Reny Ywa",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6513,7 +6387,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6569,7 +6443,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi ",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6583,7 +6457,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6611,7 +6485,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6639,7 +6513,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             }
         ],
