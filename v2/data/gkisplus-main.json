@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5935,
-        "last-update": 1779967594,
-        "last-updated-item": "yt",
+        "update-count": 5936,
+        "last-update": 1779978832,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5665,11 +5665,11 @@
             },
             {
                 "name": "Pertemuan dg Mhsw. PPL (23 orang)",
-                "time": "09:00",
-                "time-to": "10:30",
+                "time": "11:30",
+                "time-to": "13:00",
                 "timezone": "WIB",
-                "date": "2026-05-30",
-                "weekday": "sat",
+                "date": "2026-05-31",
+                "weekday": "sun",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
