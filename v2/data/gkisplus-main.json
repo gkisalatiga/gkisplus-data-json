@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5930,
-        "last-update": 1779931178,
-        "last-updated-item": "yt",
+        "update-count": 5931,
+        "last-update": 1779936130,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5733,6 +5733,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pembinaan GSM",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-05-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Vicha",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan liturgi Pembinaan GSM",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-05-28",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Lat paduan suara kls 6 utk wasanawarsa",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-05-29",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": "Latihan untuk Kegiatan Wasawarsa"
+            },
+            {
                 "name": "Pelatihan Tata Suara GKI Salatiga",
                 "time": "11:30",
                 "time-to": "15:00",
@@ -5815,6 +5857,20 @@
                 "pic": "Bp. Hari Budicahyono",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pengumuman kelas 6",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
+                "note": "Siswa kelas 6 & Bp/Ibu Guru"
             },
             {
                 "name": "Rapat Tim BKJ",
@@ -6585,62 +6641,6 @@
                 "pic": "Pak Andi",
                 "status": "w",
                 "note": "-"
-            },
-            {
-                "name": "Lat paduan suara kls 6 utk wasanawarsa",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2026-05-29",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
-                "note": "Latihan untuk Kegiatan Wasawarsa"
-            },
-            {
-                "name": "Pengumuman kelas 6",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-02",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
-                "note": "Siswa kelas 6 & Bp/Ibu Guru"
-            },
-            {
-                "name": "Latihan Pembinaan GSM",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-05-28",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Vicha",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan liturgi Pembinaan GSM",
-                "time": "16:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-05-28",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
