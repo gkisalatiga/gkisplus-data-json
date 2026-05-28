@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5933,
-        "last-update": 1779951526,
+        "update-count": 5934,
+        "last-update": 1779965447,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6514,6 +6514,20 @@
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Welcome Gathering (ortu calon siswa SMP)",
+                "time": "07:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-06-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dian Oktaviani",
+                "status": "w",
                 "note": "-"
             }
         ],
