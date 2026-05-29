@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5939,
-        "last-update": 1780022719,
+        "update-count": 5940,
+        "last-update": 1780037437,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5593,6 +5593,20 @@
                 "note": "Minta disiapkab LCD"
             },
             {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "12:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-05-30",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso & Pnt. Adi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dg Mhsw. PPL (23 orang)",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5628,7 +5642,7 @@
                 "date": "2026-06-01",
                 "weekday": "mon",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
                 "status": "y",
@@ -6543,6 +6557,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Tim Inventaris",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
