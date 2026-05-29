@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5940,
-        "last-update": 1780037437,
-        "last-updated-item": "agenda",
+        "update-count": 5941,
+        "last-update": 1780053398,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,78 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Mei 2026 | Hidup Berserah Bersama Roh Kudus",
+                        "date": "2026-05-28",
+                        "desc": "Dibawakan oleh Sdri Ester Juliawati",
+                        "link": "https://www.youtube.com/watch?v=1SKEqcJ_c1I",
+                        "thumbnail": "https://i2.ytimg.com/vi/1SKEqcJ_c1I/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Mei 2026 | Roh Kudus Memimpin Kita Mewartakan Kasih",
+                        "date": "2026-05-27",
+                        "desc": "Dibawakan oleh Bpk. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=luui2Zn7vDk",
+                        "thumbnail": "https://i1.ytimg.com/vi/luui2Zn7vDk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 27 Mei 2026 | Takut Akan Tuhan",
+                        "date": "2026-05-26",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=9HwPlzLzokE",
+                        "thumbnail": "https://i2.ytimg.com/vi/9HwPlzLzokE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Mei 2026 | Hidup Berdampak Bersama Roh Kudus",
+                        "date": "2026-05-25",
+                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
+                        "link": "https://www.youtube.com/watch?v=Db0OvKPK2-U",
+                        "thumbnail": "https://i1.ytimg.com/vi/Db0OvKPK2-U/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Mei 2026 | Sang Seniman Tak Terlihat",
+                        "date": "2026-05-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=8dwXNzzqZJc",
+                        "thumbnail": "https://i1.ytimg.com/vi/8dwXNzzqZJc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaREn Pagi | 23 Mei 2026 | Memaknai Arti Kebangkitan",
+                        "date": "2026-05-22",
+                        "desc": "Dibawakan oleh Bpk. Susetya Wdyutama",
+                        "link": "https://www.youtube.com/watch?v=s2uxOh4iR_I",
+                        "thumbnail": "https://i4.ytimg.com/vi/s2uxOh4iR_I/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaREn Pagi | 22 Mei 2026 | Bangkit, Bukan Hanya Mengeluh",
+                        "date": "2026-05-21",
+                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
+                        "link": "https://www.youtube.com/watch?v=ASqwicuXNMg",
+                        "thumbnail": "https://i2.ytimg.com/vi/ASqwicuXNMg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaREn Pagi | 21 Mei 2026 | Bersatu, Bergerak, dan Berdampak",
+                        "date": "2026-05-20",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=QhXsPHArCIQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/QhXsPHArCIQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Mei 2026 | Bangkit, Menjadi Terang Bagi Indonesia",
+                        "date": "2026-05-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=h7tKTazifR4",
+                        "thumbnail": "https://i1.ytimg.com/vi/h7tKTazifR4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 19 Mei 2026 | Jadilah Saksi saksi Ku",
+                        "date": "2026-05-18",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=g7755YBrwso",
+                        "thumbnail": "https://i4.ytimg.com/vi/g7755YBrwso/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
