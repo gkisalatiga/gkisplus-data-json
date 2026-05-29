@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5941,
-        "last-update": 1780053398,
-        "last-updated-item": "yt",
+        "update-count": 5942,
+        "last-update": 1780075811,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6642,6 +6642,34 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Transit Peserta Pelatihan Tata Suara",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-05-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Pesan teh (tawar, gula terpisah) dan gelas"
+            },
+            {
+                "name": "Transit Peserta Pelatihan Multimedia (OBS)",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-06-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Pesan teh (tawar, gula terpisah) dan gelas"
             }
         ],
         "backend": {
