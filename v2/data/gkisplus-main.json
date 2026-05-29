@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5943,
-        "last-update": 1780077141,
-        "last-updated-item": "agenda",
+        "update-count": 5944,
+        "last-update": 1780090195,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Mei 2026 | Pernah Merasa Berdosa? Lalu...?",
+                        "date": "2026-05-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=biqUpi_C2e8",
+                        "thumbnail": "https://i3.ytimg.com/vi/biqUpi_C2e8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Mei 2026 | Hidup Berserah Bersama Roh Kudus",
                         "date": "2026-05-28",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=h7tKTazifR4",
                         "thumbnail": "https://i1.ytimg.com/vi/h7tKTazifR4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Mei 2026 | Jadilah Saksi saksi Ku",
-                        "date": "2026-05-18",
-                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
-                        "link": "https://www.youtube.com/watch?v=g7755YBrwso",
-                        "thumbnail": "https://i4.ytimg.com/vi/g7755YBrwso/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
