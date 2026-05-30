@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 83,
-        "last-update": 1779693039,
+        "update-count": 84,
+        "last-update": 1780180406,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -31771,6 +31771,331 @@
                             "id": "14FOQb1lKJwmVYsvaH5Ez4Kr7mEyLeQlq",
                             "name": "IMG-20260525-WA0077.jpg",
                             "date": "2026-05-25"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1XSza6ppQk5r4jLBT-vQTHE485V1MW1jV",
+                    "last_update": "2026-05-30",
+                    "featured_photo_id": "1ZKetkDtF_Q3qVB8nyVdIpAbAQp1jnI_m",
+                    "story": "Foto-foto dokumentasi Rest Area 111B Angkringan Pak Eko [MRP 2026] yang dilaksanakan pada 29 Mei 2026.",
+                    "title": "Rest Area 111B Angkringan Pak Eko [MRP 2026]",
+                    "event_date": "2026.05.29",
+                    "photos": [
+                        {
+                            "id": "1wh-Sf0_Bvl3kGkyKjGzy5R-sm7ESIA2K",
+                            "name": "RestA111B (27).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1h2NjNQGbHPLvftX9RB_z7EOSozL7q-lK",
+                            "name": "RestA111B (24).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1s2bni1I7uhsJJDLuJXiKaFTdBAWg95c9",
+                            "name": "RestA111B (96).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1NTjZ8YRd8vuCFVOudI2wJ7eHMXRkqsKL",
+                            "name": "RestA111B (30).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1jrdutctUFSXZezqgvJbF0QIJJoab3wQU",
+                            "name": "IMG_20260529_201030.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1pqcu2tTf-NfHE-kkp65G3_acqvWzDsEC",
+                            "name": "RestA111B (54).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1N5FnF8cN6Jv5sC3HSsxxBGj2wbtKtaBC",
+                            "name": "RestA111B (138).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1_s8EvikRBnNLDCkI7tHl8wzlzOvi999Z",
+                            "name": "RestA111B (148).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1VSg2PGk72xcjFNnqWlCrKOfByMxZ8yeo",
+                            "name": "RestA111B (142).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "156hLJ0B5PT4Ms6FNxiFLuAK15DoKXKFr",
+                            "name": "RestA111B (144).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1Qdf_BHBo1dscYgcj1fQnuiYir1P304Kc",
+                            "name": "RestA111B (176).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1tfmB1f5fyQS7DbEZV2yPgK_ghc0kk_8P",
+                            "name": "RestA111B (160).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1CDGiAjjKCeaIXk9G5eMjHJpOHmrCrNvn",
+                            "name": "IMG_20260529_203046.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1VWL7Rwt6lBeTEXtGuUWH866hA27xmKna",
+                            "name": "RestA111B (179).JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1x5HeGIiV4VDgVk99Ef5_ht3L95gTi3g2",
+                            "name": "IMG_20260529_202724.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1PFxlGahEFapFP4ULwXAQ4ICqIDJvW2kq",
+                            "name": "IMG_20260529_202553.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1dnUuRqlxvhaUo0b7WS_Pooowy8nLrCqH",
+                            "name": "IMG_20260529_195840.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "17SoJ_4ztRyhLb4sY1-m3O-Xv9Ow5zU8J",
+                            "name": "IMG_20260529_202541.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1Hn6TD8hEkTxc4q-EIC-PWWVkOKyKpyuw",
+                            "name": "IMG_20260529_200815.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1uFpkd7ri-AL1L3Ql8RSnUZ7mS1cpi1gP",
+                            "name": "IMG_20260529_195744.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1bZqLLMqKF0w_uDV4ygA7wxXoktIdRlTJ",
+                            "name": "IMG_20260529_195341.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "12HK8ud_5YKV7dL6nfTHVlqpYATRwwlX0",
+                            "name": "IMG_20260529_200356.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1yO7mXD0VT4vkVJ2O9HNDVYtcJNQNF3Df",
+                            "name": "IMG_20260529_195149.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1LZYvZr8bqq8HXy6o_v0NLe-PgCwZJIFq",
+                            "name": "IMG_20260529_195101.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1jtWrnGmsfo2SVVR-yeUG4bA0pbQqf3mV",
+                            "name": "IMG_20260529_194150.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1U7TuwntSiUuRhhhx0FqY0Tb2ENwEOhk7",
+                            "name": "IMG_20260529_193959.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1YDxBkBB2ZcyJbmvyXS5uFq115UIGRq_h",
+                            "name": "IMG_20260529_192527.jpg",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1Du26LA23192PdOKTiWMjOqbg9PX7ES1z",
+                            "name": "IMG_20260529_193809.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "112Hg0dPFVy3i-80629Y9TRvBcS4rhhuD",
+                            "name": "IMG_20260529_192640.jpg",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "172Jr6hU70ICPpXH3Gm2_o7jEtd80A8ms",
+                            "name": "IMG_20260529_192145.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1KHSxmw-nTvj5BCjWmS48mosIj5Qh0d5o",
+                            "name": "IMG_20260529_191910.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1FRUMlc-07gaf5enV3Shzqo7BRW4Xl_om",
+                            "name": "IMG_20260529_190106.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1nNj426btopTHEtewW9sTR23usWaTQs6R",
+                            "name": "IMG_20260529_191536.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1NX_QLXLJIhJwwc-B0WorBPVK0nRcPCfv",
+                            "name": "IMG_20260529_191855.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1K1tRxCibpMr8SvgndZ57yHD-puNMFAcY",
+                            "name": "IMG_20260529_192010.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1liT46NF9QCiorX5xqRIHdxZWDclHQcy7",
+                            "name": "IMG_20260529_190115.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1f0H7ZF721ozpBRLJMR-elLMDWdXM7Lt9",
+                            "name": "IMG_20260529_191835.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "15PZb2iw1Nsq9Oeqt741Ssn05upVj__bB",
+                            "name": "IMG_20260529_185714.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1gs5TQ5pzGnnxsD9Otd25UBjFYznkafK9",
+                            "name": "IMG_20260529_185619.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1wO4UQ0lZjMWvul1Gs19dmQnrElBGzq6_",
+                            "name": "IMG-20260529-WA0040.jpg",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1DCUaN3AXcly1aB2vMoN00sxM0YRccoS1",
+                            "name": "IMG-20260528-WA0008.jpg",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "11-QLMN0-jpNl9K0GrTagHgzugSPxBIu6",
+                            "name": "IMG_20260529_185732.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1Wo-hS8hd7XKlcCX7NAjJMWRXdCD-Svlg",
+                            "name": "IMG_20260529_190052.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1VeK055Tg_c3N6Ab13y6x2E3se9F33Jv7",
+                            "name": "IMG_20260529_185557.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1JMz-OwkwcMP9uAh3Qh7a0SalA2ZUnMgw",
+                            "name": "IMG_20260529_185550.HEIC",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "170DySxbQg6jQ1UI4WaXiD27wtl97TopC",
+                            "name": "IMG-20260528-WA0011.jpg",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "13cRJbIqCXkZ77hdxuvgOsuCDh0fnZZl-",
+                            "name": "GKI Rest Area 290526-5-3.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1cdXWA0N8jUSmNi0h7zVRo962fIe-fPJT",
+                            "name": "GKI Rest Area 290526-5-28.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1-4bGwpTKQLNIRsGKBcGO5Zt9rWXodmRq",
+                            "name": "GKI Rest Area 290526-5-62.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1R92en-xGTsETk0IStb3NV1c0pR7NZohY",
+                            "name": "GKI Rest Area 290526-5-37.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1LHi2i2ARQ9kzNrbc4W6i3aC81GeMAbuC",
+                            "name": "GKI Rest Area 290526-5-52.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1A7C8yqZHL3BFWIroc_sls9AEXYpglNTj",
+                            "name": "GKI Rest Area 290526-5-16.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "18Z7yddCQ8bDqmTh_JnuB66372rJw_MPl",
+                            "name": "GKI Rest Area 290526-5-21.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1dLaKlwz_ZZDp5ecov1m7vDk3M-M1KcRS",
+                            "name": "GKI Rest Area 290526-5-53.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1hS5FELuSYj1hV9MtctO3BS1JTs_wj-bx",
+                            "name": "GKI Rest Area 290526-5-14.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1tvlBmvWcqkWhdEh_Qb_b_d40AWRno184",
+                            "name": "GKI Rest Area 290526-5-10.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1tr2083hR_glz2az5gGFE2cOXNLG_hc17",
+                            "name": "GKI Rest Area 290526-5-47.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1stfzXyGczxlMz8vEkerhGe7sx9aeLb1M",
+                            "name": "GKI Rest Area 290526-5-59.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1ZUQ-exXX7ZukjSOHj9ProhFw1Zvzd3TM",
+                            "name": "GKI Rest Area 290526-5-20.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1oTPLxnZCPKJatcZswS_9rcZKRM1RAmAR",
+                            "name": "GKI Rest Area 290526-5-56.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1tFIs24JXBcf9rBFiXLWbWz7WaKgdPq62",
+                            "name": "GKI Rest Area 290526-5-29.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1pk9DWIWT2D2zR0Zq2mvuckqHJ4VwpAGe",
+                            "name": "GKI Rest Area 290526-5-5.JPG",
+                            "date": "2026-05-30"
+                        },
+                        {
+                            "id": "1zE9y5brpALQum8ga0TSBMeeOF2dW6p5b",
+                            "name": "GKI Rest Area 290526-5-6.JPG",
+                            "date": "2026-05-30"
                         }
                     ]
                 }
