@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5945,
-        "last-update": 1780111670,
+        "update-count": 5946,
+        "last-update": 1780115931,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5554,6 +5554,15 @@
                 "type": "poster",
                 "date-created": "2026-05-30",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
+                "title": "Kunjungan Industri Komisi Dewasa",
+                "type": "poster",
+                "date-created": "2026-05-30",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
