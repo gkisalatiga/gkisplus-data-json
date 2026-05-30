@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5944,
-        "last-update": 1780090195,
+        "update-count": 5945,
+        "last-update": 1780111670,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2286,6 +2286,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 31 Mei 2026",
+                    "date": "2026-05-30",
+                    "link": "https://drive.google.com/file/d/1HqT9Oe8gg-emx4ivretBqc3JS1FrT1-9/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-31-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1HqT9Oe8gg-emx4ivretBqc3JS1FrT1-9",
+                    "id": "1HqT9Oe8gg-emx4ivretBqc3JS1FrT1-9",
+                    "size": "2.47 MB"
+                },
+                {
                     "title": "Warta Jemaat 24 Mei 2026",
                     "date": "2026-05-23",
                     "link": "https://drive.google.com/file/d/1BSS_4Cl7YF7HSPxy420eqoauYlcfOCKQ/view",
@@ -3133,6 +3142,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu Trinitas - 31 Mei 2026",
+                    "date": "2026-05-30",
+                    "link": "https://drive.google.com/file/d/1j0HoT1FbYRbeX0QeyHRSKppSC5yIztDK/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-trinitas-31-mei-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1j0HoT1FbYRbeX0QeyHRSKppSC5yIztDK",
+                    "id": "1j0HoT1FbYRbeX0QeyHRSKppSC5yIztDK",
+                    "size": "0.67 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Pentakosta - 24 Mei 2026 (09.30)",
                     "date": "2026-05-23",
