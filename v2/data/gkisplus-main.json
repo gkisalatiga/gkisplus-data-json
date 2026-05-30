@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5946,
-        "last-update": 1780115931,
-        "last-updated-item": "yt",
+        "update-count": 5947,
+        "last-update": 1780137902,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5796,6 +5796,20 @@
                 "note": "Bagian dari program \"Pelatihan Multimedia dan Tata Suara GKI Salatiga\" yang diadakan oleh gabungan KML, KP, dan SARPRAS. Gedung gereja dipakai untuk pemaparan materi dan praktik mixer digital. Sedangkan Ruang Kana dipakai untuk praktik mixer analog."
             },
             {
+                "name": "Transit Peserta Pelatihan Tata Suara",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-05-31",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Pesan teh (tawar, gula terpisah) dan gelas"
+            },
+            {
                 "name": "Bincang2 Urban Farming",
                 "time": "18:00",
                 "time-to": "19:30",
@@ -5908,6 +5922,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Inventaris",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-03",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KPPI",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5962,6 +5990,20 @@
                 "pic": "Pnt. Desemy Ch. N. Ballo",
                 "status": "y",
                 "note": "Minta disiapkan Meja tengah besar, LCD dan layar proyektor"
+            },
+            {
+                "name": "Transit Peserta Pelatihan Multimedia (OBS)",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-06-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Pesan teh (tawar, gula terpisah) dan gelas"
             },
             {
                 "name": "Rapat Koordinasi Bapel ",
@@ -6718,48 +6760,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Tim Inventaris",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-06-03",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Transit Peserta Pelatihan Tata Suara",
-                "time": "11:30",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2026-05-31",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Pesan teh (tawar, gula terpisah) dan gelas"
-            },
-            {
-                "name": "Transit Peserta Pelatihan Multimedia (OBS)",
-                "time": "11:30",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2026-06-07",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Pesan teh (tawar, gula terpisah) dan gelas"
             }
         ],
         "backend": {
