@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5955,
-        "last-update": 1780249944,
+        "update-count": 5956,
+        "last-update": 1780267442,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Juni 2026 | Supaya Mereka Menjadi Satu",
+                        "date": "2026-05-31",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=QSu8BKyI9gE",
+                        "thumbnail": "https://i2.ytimg.com/vi/QSu8BKyI9gE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 30 Mei 2026 | Pernah Merasa Berdosa? Lalu...?",
                         "date": "2026-05-29",
