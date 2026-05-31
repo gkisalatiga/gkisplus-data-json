@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5950,
-        "last-update": 1780155924,
-        "last-updated-item": "agenda",
+        "update-count": 5951,
+        "last-update": 1780207597,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -68,20 +68,6 @@
                         "desc": "Dibawakan oleh Bpk. Susetya Wdyutama",
                         "link": "https://www.youtube.com/watch?v=s2uxOh4iR_I",
                         "thumbnail": "https://i4.ytimg.com/vi/s2uxOh4iR_I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaREn Pagi | 22 Mei 2026 | Bangkit, Bukan Hanya Mengeluh",
-                        "date": "2026-05-21",
-                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
-                        "link": "https://www.youtube.com/watch?v=ASqwicuXNMg",
-                        "thumbnail": "https://i2.ytimg.com/vi/ASqwicuXNMg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaREn Pagi | 21 Mei 2026 | Bersatu, Bergerak, dan Berdampak",
-                        "date": "2026-05-20",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=QhXsPHArCIQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/QhXsPHArCIQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -94,6 +80,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu Trinitas GKI Salatiga | 31 Mei 2026 | \"Trinitas Tak Terbatas\"",
+                        "date": "2026-05-31",
+                        "desc": "Ibadah Minggu Trinitas GKI Salatiga | 31 Mei 2026 | Pukul 07.00 WIB\n\nTema: \"Trinitas Tak Terbatas\"\n\nNyanyian: KJ 242:1, 4; KJ 13; KJ 53:1-2; PKJ 153; KJ 246\n\nBacaan 1: Kejadian 1:1\u20142:4a\nTanggapan: Mazmur 8\nBacaan 2: 2 Korintus 13:11-13\nBacaan Injil: Matius 28:16-20\nBerita Anugrah: Titus 3:4-6\nPersembahan: Roma 12:1\n\nPelayan Firman: Pdt. Lery Tulus Lumban Tobing (GKI Pajajaran - PPK GKI Klasis Magelang)\nKoordinator Ibadah dan Persembahan: Pnt. Santoso Adi P.\nKredo dan Warta: Pnt. Shielly Gunawan\nSambut Tamu: Pnt. Paskah Ika N. , Pnt. Benny A. Kailola\nPemandu Liturgi: Dorothea Dyah Utami\nLektor 1: Gita Audrey\nLektor 2: Claudio A.N\n\nPemusik: Apostles + Eva + Joaquim\nPNK: Dhara\nPemazmur:  Ezra\nPaduan Suara : PS GKI Cipinang Indah\nTim Multimedia: Samuel A. , Deryl, Sabatdini, Alvin, Bobby\nDokumentasi: Erio / Derryl / Judica / Jeffrey\nFlorist: Tim Vanda\nUsher & Kolektan: Wilayah 4\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=TB9TfK41Qes",
+                        "thumbnail": "https://i.ytimg.com/vi/TB9TfK41Qes/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu Trinitas GKI Salatiga | 31 Mei 2026 | \"Trinitas Tak Terbatas\"",
                         "date": "2026-05-30",
@@ -296,13 +289,6 @@
                         "desc": "Ibadah Minggu GKI Salatiga | 11 Januari 2026 | Pukul 07:00 WIB\n\nTema: Kebenaran Yang Membebaskan\n\nNyanyian: PKJ 11:1,2; KJ 308; NKB 17:1,3; PKJ 147; KJ 362:1-3\r\n\nBacaan 1: Yesaya 42:1-9\nTanggapan: Mazmur 29\nBacaan 2: Kisah Para Rasul 10:34-43\nBacaan Injil: Matius 3:13-17\r\nBerita Anugrah: Yohanes 8:36\nPersembahan: Mazmur 116:12\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Catur Winarno\nKredo dan Warta: Pnt. Benny A. Kailola\nSambut Tamu: Pnt. Adita Sutresno, Pnt. Paul A.W. Gulo\nPemandu Liturgi: Susetya Widyutama\nLektor 1: Retno Wulandari \nLektor 2: Anna Susilowati S\n\nPemusik: Proverbs\nPNK/PMZ: Pnt. Natalis Sidanta / Aurell\r\nTim Multimedia: Hermawan, Evan, Evangs M , Wayan, Puguh \nDokumentasi : Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Vanda\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=Pi6hH8jvd70",
                         "thumbnail": "https://i.ytimg.com/vi/Pi6hH8jvd70/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu Epifani GKI Salatiga | 4 Januari 2026 | Kelahiran Membawa Kehidupan",
-                        "date": "2026-01-02",
-                        "desc": "Ibadah Minggu Epifani GKI Salatiga | 4 Januari 2026 | Pukul 07:00 WIB\n\nTema: Kelahiran Membawa Kehidupan\n\nNyanyian: KJ 179:1,2,6; KJ 118; NKB 73:1,3; KJ 310; NKB 67; KK 479\n\nBacaan 1: Yeremia 31:7-14\nTanggapan: Mazmur 147:12-20\nBacaan 2: Efesus 1:3-14\nBacaan Injil: Yohanes :1-10-18\nBerita Anugrah: Mazmur 103:8-13\nPersembahan: Matius 2:11b\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Sriono Sudarso\nKredo dan Warta: Pnt. Ervien Dian W.\nSambut Tamu: Pnt. Sri Yuniwati R., Pnt. Yosua Candana H.K.\nPemandu Liturgi: Pnt. Shielly Gunawan\nLektor 1: Pnt. Gita Hastuti\nLektor 2: Pnt. Santoso Adi P.\n\nAnggota MJ : \nPnt. Benny A. Kailola\nPnt. Hananto Seno\nPnt. Natalis Sidanta\nPnt. Nadia Sitaresmi\n\nPemusik: Elhanan\nPNK/PMZ: Natalis / Maldin\nTim Multimedia: Joshua A. Gracia, Yosia, Samarthya, Prins + Evangs\nDokumentasi : Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Teratai\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
-                        "link": "https://www.youtube.com/watch?v=-rtY-Fr7uLo",
-                        "thumbnail": "https://i.ytimg.com/vi/-rtY-Fr7uLo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
