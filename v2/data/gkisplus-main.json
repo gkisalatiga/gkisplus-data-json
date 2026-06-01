@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5957,
-        "last-update": 1780271541,
-        "last-updated-item": "yt",
+        "update-count": 5958,
+        "last-update": 1780284769,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6726,6 +6726,20 @@
                 "pic": "Susan",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat KML",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-01",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Konsistori",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samuel Aruf",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
