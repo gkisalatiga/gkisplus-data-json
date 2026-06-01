@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5962,
-        "last-update": 1780328340,
-        "last-updated-item": "agenda",
+        "update-count": 5963,
+        "last-update": 1780341269,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Juni 2026 | Menghidupi Pancasila dalam Kehidupan Sehari hari",
+                        "date": "2026-06-01",
+                        "desc": "Dibawakan oleh Ibu Ristiyani Gani Mendrofa",
+                        "link": "https://www.youtube.com/watch?v=iQFADvoEe5o",
+                        "thumbnail": "https://i2.ytimg.com/vi/iQFADvoEe5o/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Juni 2026 | Supaya Mereka Menjadi Satu",
                         "date": "2026-05-31",
