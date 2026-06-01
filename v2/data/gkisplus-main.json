@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5959,
-        "last-update": 1780296188,
-        "last-updated-item": "yt",
+        "update-count": 5960,
+        "last-update": 1780305629,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6688,6 +6688,20 @@
                 "place": "Ruang Kapernaum, Ruang Konsistori",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Samuel Aruf",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Perencanaan Program Komisi Pemuda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-02",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
                 "status": "w",
                 "note": ""
             }
