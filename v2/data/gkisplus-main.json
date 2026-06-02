@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5963,
-        "last-update": 1780341269,
-        "last-updated-item": "yt",
+        "update-count": 5964,
+        "last-update": 1780370994,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6773,6 +6773,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "PA wil 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-07",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
                 "status": "w",
                 "note": ""
             }
