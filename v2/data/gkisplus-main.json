@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5972,
-        "last-update": 1780476594,
-        "last-updated-item": "agenda",
+        "update-count": 5973,
+        "last-update": 1780489630,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,71 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Juni 2026 | Tanggung Jawab Kebangsaan",
+                        "date": "2026-06-02",
+                        "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
+                        "link": "https://www.youtube.com/watch?v=sawN-dFkF2s",
+                        "thumbnail": "https://i4.ytimg.com/vi/sawN-dFkF2s/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Juni 2026 | Pancasila Hidup Beriman dan Berbakti Untuk Sesama",
+                        "date": "2026-06-02",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=IZg0Kh7sKbY",
+                        "thumbnail": "https://i2.ytimg.com/vi/IZg0Kh7sKbY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Juni 2026 | Menghidupi Pancasila dalam Kehidupan Sehari hari",
+                        "date": "2026-06-01",
+                        "desc": "Dibawakan oleh Ibu Ristiyani Gani Mendrofa",
+                        "link": "https://www.youtube.com/watch?v=iQFADvoEe5o",
+                        "thumbnail": "https://i2.ytimg.com/vi/iQFADvoEe5o/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Juni 2026 | Supaya Mereka Menjadi Satu",
+                        "date": "2026-05-31",
+                        "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=QSu8BKyI9gE",
+                        "thumbnail": "https://i2.ytimg.com/vi/QSu8BKyI9gE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Mei 2026 | Pernah Merasa Berdosa? Lalu...?",
+                        "date": "2026-05-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=biqUpi_C2e8",
+                        "thumbnail": "https://i3.ytimg.com/vi/biqUpi_C2e8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Mei 2026 | Hidup Berserah Bersama Roh Kudus",
+                        "date": "2026-05-28",
+                        "desc": "Dibawakan oleh Sdri Ester Juliawati",
+                        "link": "https://www.youtube.com/watch?v=1SKEqcJ_c1I",
+                        "thumbnail": "https://i2.ytimg.com/vi/1SKEqcJ_c1I/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Mei 2026 | Roh Kudus Memimpin Kita Mewartakan Kasih",
+                        "date": "2026-05-27",
+                        "desc": "Dibawakan oleh Bpk. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=luui2Zn7vDk",
+                        "thumbnail": "https://i1.ytimg.com/vi/luui2Zn7vDk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 27 Mei 2026 | Takut Akan Tuhan",
+                        "date": "2026-05-26",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=9HwPlzLzokE",
+                        "thumbnail": "https://i2.ytimg.com/vi/9HwPlzLzokE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Mei 2026 | Hidup Berdampak Bersama Roh Kudus",
+                        "date": "2026-05-25",
+                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
+                        "link": "https://www.youtube.com/watch?v=Db0OvKPK2-U",
+                        "thumbnail": "https://i1.ytimg.com/vi/Db0OvKPK2-U/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
