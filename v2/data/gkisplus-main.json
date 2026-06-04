@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5979,
-        "last-update": 1780582364,
+        "update-count": 5980,
+        "last-update": 1780594044,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6659,6 +6659,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Ibadah Minggu 7 Juni",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-06-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Panji ",
                 "status": "w",
                 "note": ""
             }
