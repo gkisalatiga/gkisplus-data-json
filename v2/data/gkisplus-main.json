@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5978,
-        "last-update": 1780570349,
-        "last-updated-item": "yt",
+        "update-count": 5979,
+        "last-update": 1780582364,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6617,6 +6617,48 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Panji",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat penyusunan proker ",
+                "time": "17:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa ",
+                "status": "w",
+                "note": "minta tolong disediakan kabel/extender hdmi untuk menampilkan laptop di layar tv dan tambah teh"
+            },
+            {
+                "name": "Gladi Resik English Service KHI",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik English Service",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
