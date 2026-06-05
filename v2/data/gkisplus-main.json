@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5980,
-        "last-update": 1780594044,
+        "update-count": 5981,
+        "last-update": 1780628081,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5697,6 +5697,20 @@
                 "note": "Minta disiapkan LCD"
             },
             {
+                "name": "Latihan Ibadah Minggu 7 Juni 2026",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-06-04",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Panji",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim BKJ",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5737,6 +5751,62 @@
                 "pic": "Sutomo",
                 "status": "y",
                 "note": "Terimakasih"
+            },
+            {
+                "name": "Latihan Ibadah Minggu 7 Juni",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-06-05",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Panji ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat penyusunan proker ",
+                "time": "17:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa ",
+                "status": "w",
+                "note": "minta tolong disediakan kabel/extender hdmi untuk menampilkan laptop di layar tv dan tambah teh"
+            },
+            {
+                "name": "Gladi Resik English Service KHI",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik English Service",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pelatihan Multimedia (OBS) GKI Salatiga",
@@ -5919,6 +5989,20 @@
                 "pic": "Dian Oktaviani",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Ibadah Akhir Tahun",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-06-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Ria Triastuti",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Sosialisasi Robotic kelas 1",
@@ -6605,76 +6689,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Ibadah Minggu 7 Juni 2026",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-06-04",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Panji",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat penyusunan proker ",
-                "time": "17:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-06-06",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel Esa ",
-                "status": "w",
-                "note": "minta tolong disediakan kabel/extender hdmi untuk menampilkan laptop di layar tv dan tambah teh"
-            },
-            {
-                "name": "Gladi Resik English Service KHI",
-                "time": "09:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-06",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Resik English Service",
-                "time": "09:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-06",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Ibadah Minggu 7 Juni",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-06-05",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Panji ",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
