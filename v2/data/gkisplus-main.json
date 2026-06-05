@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5983,
-        "last-update": 1780676599,
+        "update-count": 5984,
+        "last-update": 1780685553,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Juni 2026 | Saling Menerima Dalam Kebhinekaan",
+                        "date": "2026-06-05",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=jLz4Dl1Ffqo",
+                        "thumbnail": "https://i3.ytimg.com/vi/jLz4Dl1Ffqo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Juni 2026 | Pancasila dan Iman Kristen, Menjalin Harmoni dalam Keberagaman",
                         "date": "2026-06-04",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Bpk. Widiatmoko",
                         "link": "https://www.youtube.com/watch?v=luui2Zn7vDk",
                         "thumbnail": "https://i1.ytimg.com/vi/luui2Zn7vDk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Mei 2026 | Takut Akan Tuhan",
-                        "date": "2026-05-26",
-                        "desc": "Dibawakan oleh Ibu July Silooy",
-                        "link": "https://www.youtube.com/watch?v=9HwPlzLzokE",
-                        "thumbnail": "https://i2.ytimg.com/vi/9HwPlzLzokE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
