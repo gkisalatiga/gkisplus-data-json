@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5989,
-        "last-update": 1780736775,
+        "update-count": 5990,
+        "last-update": 1780743782,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6733,6 +6733,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Penyusulan LPJ MRP",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Setiady ",
                 "status": "w",
                 "note": ""
             }
