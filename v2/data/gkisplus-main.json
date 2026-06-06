@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5984,
-        "last-update": 1780685553,
+        "update-count": 5985,
+        "last-update": 1780717013,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2279,6 +2279,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 7 Juni 2026",
+                    "date": "2026-06-06",
+                    "link": "https://drive.google.com/file/d/1cyyH4eZQA1_4kafStZ4wKQp6ecdc75Gs/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-7-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1cyyH4eZQA1_4kafStZ4wKQp6ecdc75Gs",
+                    "id": "1cyyH4eZQA1_4kafStZ4wKQp6ecdc75Gs",
+                    "size": "2.27 MB"
+                },
+                {
                     "title": "Warta Jemaat 31 Mei 2026",
                     "date": "2026-05-30",
                     "link": "https://drive.google.com/file/d/1HqT9Oe8gg-emx4ivretBqc3JS1FrT1-9/view",
@@ -3135,6 +3144,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 7 Juni 2026",
+                    "date": "2026-06-06",
+                    "link": "https://drive.google.com/file/d/1R8OMvIKAccislYtrVlDG1MNZC34P-qQI/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-7-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1R8OMvIKAccislYtrVlDG1MNZC34P-qQI",
+                    "id": "1R8OMvIKAccislYtrVlDG1MNZC34P-qQI",
+                    "size": "0.76 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu Trinitas - 31 Mei 2026",
                     "date": "2026-05-30",
@@ -5416,24 +5434,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ka_3.webp",
-                "title": "Pendamping Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2026-06-02",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_3.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "title": "Fun Walk Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-05-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 6 Juni",
                 "type": "poster",
@@ -5457,6 +5457,15 @@
                 "type": "poster",
                 "date-created": "2026-05-31",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ka_3.webp",
+                "title": "Pendamping Sekolah Minggu",
+                "type": "poster",
+                "date-created": "2026-06-06",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_3.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
