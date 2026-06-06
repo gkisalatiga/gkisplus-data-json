@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5991,
-        "last-update": 1780747354,
-        "last-updated-item": "yt",
+        "update-count": 5992,
+        "last-update": 1780750181,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6732,6 +6732,20 @@
             {
                 "name": "Rapat Penyusulan LPJ MRP",
                 "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Setiady ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Penyusunan LPJ MRP",
+                "time": "17:00",
                 "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2026-06-08",
