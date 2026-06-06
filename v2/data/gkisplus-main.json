@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5986,
-        "last-update": 1780720132,
+        "update-count": 5987,
+        "last-update": 1780724676,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -75,13 +75,6 @@
                         "desc": "Dibawakan oleh Sdri Ester Juliawati",
                         "link": "https://www.youtube.com/watch?v=1SKEqcJ_c1I",
                         "thumbnail": "https://i2.ytimg.com/vi/1SKEqcJ_c1I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Mei 2026 | Roh Kudus Memimpin Kita Mewartakan Kasih",
-                        "date": "2026-05-27",
-                        "desc": "Dibawakan oleh Bpk. Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=luui2Zn7vDk",
-                        "thumbnail": "https://i1.ytimg.com/vi/luui2Zn7vDk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
