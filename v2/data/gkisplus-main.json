@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5988,
-        "last-update": 1780727140,
+        "update-count": 5989,
+        "last-update": 1780736775,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5893,7 +5893,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
