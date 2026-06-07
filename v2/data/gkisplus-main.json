@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5996,
-        "last-update": 1780845366,
+        "update-count": 5997,
+        "last-update": 1780855005,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Jun 2026 | Hikmat Allah Menuntun Kita Untuk Berlaku Adil",
+                        "date": "2026-06-07",
+                        "desc": "Dibawakan oleh Pnt.Benny Kailola",
+                        "link": "https://www.youtube.com/watch?v=i32YDR_wj3g",
+                        "thumbnail": "https://i2.ytimg.com/vi/i32YDR_wj3g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Juni 2026 | Saling Menerima Dalam Kebhinekaan",
                         "date": "2026-06-05",
@@ -61,13 +68,6 @@
                         "desc": "Dibawakan oleh Bpk. R.H. Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=QSu8BKyI9gE",
                         "thumbnail": "https://i2.ytimg.com/vi/QSu8BKyI9gE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Mei 2026 | Pernah Merasa Berdosa? Lalu...?",
-                        "date": "2026-05-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=biqUpi_C2e8",
-                        "thumbnail": "https://i3.ytimg.com/vi/biqUpi_C2e8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -306,7 +306,7 @@
                         "date": "2026-05-31",
                         "desc": "GKI Salatiga | English Service | Sunday, June 7th, 2026 | 10 a.m. Jakarta Time\n\nWhat Won't You Give Up?\nMark 10:17-27\n\nLed by\nMr. Jonathan Moore\n\nLiturgi: Nadia Sita\nPre-service prayer: Pnt. Natalis Sidanta\nPL: Nadia Sita\nReader: Lauren\nAffirmation of Faith: Pnt. Natalis Sidanta\nPrayer: Trista & Reinaldo\nOffertory: Pramusita\nKolektan: Dita & Irma\nUshers: Neria & Dea\nPPT & Poster: James\nMulmed: Pak Bamz \nSinger: Tika\nMusik: \n- Keyboard: Bram\n- Drum: Joan\n- Bass: Ezer\n- Gitar: Hosea\nSoundman: Mario\n\nRefreshments: Dita\nPencetak liturgi: Irma\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
                         "link": "https://www.youtube.com/watch?v=Gc21M4qak_o",
-                        "thumbnail": "https://i.ytimg.com/vi/Gc21M4qak_o/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/Gc21M4qak_o/hqdefault.jpg"
                     },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, May 3rd, 2026 | 10 a.m. Jakarta Time",
