@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 84,
-        "last-update": 1780180406,
+        "update-count": 85,
+        "last-update": 1780874362,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -27100,6 +27100,181 @@
                     ]
                 },
                 {
+                    "folder_id": "1oK0cMYH4R_aoeXeXxWsjpuLkAYZguQ7i",
+                    "last_update": "2026-06-07",
+                    "featured_photo_id": "1f7GcenIxprEs5xDcEzgcPqoZAHtjBaeY",
+                    "story": "Foto-foto dokumentasi Pesparana Komisi Anak yang dilaksanakan pada 16 Januari 2026.",
+                    "title": "Pesparana Komisi Anak",
+                    "event_date": "2026.01.16",
+                    "photos": [
+                        {
+                            "id": "1oswSITvvU0VpjQPhCO-9To__jiTOTaVw",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (169).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1fume0jal9kUGMXer3xtw-9zVfB4IPg0u",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (163).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1vEWEGcd7skt9nE3gBD-ohkj9pvlsuXGu",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (157).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1vMtniQ7nakYRMj67H0WhmZA5-J7S7tvG",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (150).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ZNN95MXxX4-538MU62idwsvBFrWFCRGO",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (159).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1t1Uj0_nEGLRM_L_XaZMqulmwW0N-LztT",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (109).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1zsFJJwwPCnpkGqEdquFBNkmI_rKIpTcm",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (48).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1Xni55TmKAAACQQXw3iPvIMCZTXYhacPK",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (10).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1QorJWHA6hkX78pKSgtUN-2-ZivjqiAoE",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (193).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1vDyggLrq48_fiXEyIP4vkyV6I19qIweX",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (64).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1qPI5_6v5WF0lrkj4S4YI2grevXsvsthw",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (199).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1AecsAcBgZHinNlQWuAz_ut3sGLKCGpcc",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (189).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1W8FjKWWWXhxBjT7dU6106CsMwWQBcccb",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (187).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1LRdXdLIvTfNzGzDiDWflVI5DYScmjWOk",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (186).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1owDRwcVMAGD7bvbsUUl53T7chP7X5HJa",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (25).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1P6Rc259gZTkJQrZIXLa2kiAnp-KFAXKJ",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (5).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1DE4E43fMN95N_O0oEAOdfEYdT2gFjRSk",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (41).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1b434dPe8ZMwVi0lOYzLuaz2IT1-UUpSs",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (81).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1AqNC6eWEOMqdvlQ9tU4T_p89_3LzJPiu",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (147).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1Php0JKOa0APJzJCBw7nCtR6V0U-kdnio",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (143).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1yUbt3J6AAqdDF5LvoJKBMVMLM6aZjf3F",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (53).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1awzn0CkMBOjmcUB0lbYAvHpaR0xgLDz7",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (47).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "113-4tNKMJECCKtxGdzCh5IMP-IxYh7St",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (103).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1F1eAty7Q-9c1NavWr8Rk3ozSBWIm9077",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (146).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1UtwC8lyf87EmGH6lU36wthWYA1OgIgnz",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (87).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "14HxOt__6IOIax-D9tY84XO5wm2Hz5DqD",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (56).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "12L5SLl4cMJiJ6T5wD8eauAPsM3AJnwjH",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (114).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1E9uv6ox_FVcTGduh05xYsTPMKe0xnAlD",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (123).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1YsruIjHh11K3F59IZw_4fapuxsiJjKfE",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (132).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1g_dY7F9tm5XMeJTvv1sxRIQnTIfRs04A",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (73).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1x3_eEk9rnFRGKUzucEdRgawXHIoeyCZ_",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (131).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1PGYhU6OvM7aGnwzRfCTuJ86GBNT5Wlmh",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (183).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1qZIJImS2kX7Gpzb35nhC05Ho-u0ZGlwR",
+                            "name": "20260116 - PESPARANA @ TEMANGGUNG (138).JPG",
+                            "date": "2026-06-07"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1hUb-EkrWZ1Q6chZH8HUHEkvvkOxXqzCr",
                     "last_update": "2026-01-19",
                     "featured_photo_id": "1wO1qnk6JGdUH-RVLDh2xFITlEDD3nSpD",
@@ -31305,6 +31480,181 @@
                     ]
                 },
                 {
+                    "folder_id": "1-fwig-zcG3ex-6LqEjFq2TNdCzuCf9QN",
+                    "last_update": "2026-06-07",
+                    "featured_photo_id": "1wTRzp5cVORtJXow3ucgdluw4a_IrYmK1",
+                    "story": "Foto-foto dokumentasi Funwalk Sitalang yang dilaksanakan pada 16 Mei 2026.",
+                    "title": "Funwalk Sitalang",
+                    "event_date": "2026.05.16",
+                    "photos": [
+                        {
+                            "id": "1Zp7G17ZOXTarOrmJp897ngPmWzHkrgmW",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (23).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1GSCTJcKhTyTH5z8tetvyEqsnCsZVZv40",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (15).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1bIlL9UDquQKxsIYab4oaQAN3uB5Ynbeq",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (125).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "10wqNLM8j8f7c6EW_davkJpzRjGbFLxS2",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (77).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1bHx5GfZHztS8V_Z6aSAQHx9OgBD5OU8Q",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (133).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1fzRo1B9thEPE9lOr-4M-17DLbRAHBPKA",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (73).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ccHXUywpvdfpJYqSyr9mqDMfLi6CZvj9",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (41).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "13Dxe2ShtAmSpkcQRXy6g5fPL5Jis5s8a",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (10).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1FRolQxY0R5BZ4rQG4HZBl6igRpdBqxJL",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (32).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1civNBQwFdcV-ZslDE_xbN2BbSg0e-bID",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (1).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1LuUNROjmoE1Afl8zNdoJrs_Rdgbx1OP2",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (114).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1GMyUBeeig6JNEFr-HNiakbh45PjOkLd_",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (108).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1GyJkJe2b2Y_bo35m81cgXwxP449195sW",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (100).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "15wTYV2PHpY_iXTWqiBqpUzFB5tkFkVCA",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (86).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1PeotzdavKvcFgte3rKBCFgsE87pRLTHx",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (90).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "18ddcI3Yik2F1-vEVZX7OgM4eNrjijBGC",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (94).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1nMTlIIZZlIgYqMWV0ipD3WbyOsj9bEZx",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (87).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1nRjfd2klI7Mix268nK8cxa6E2lsnJrdF",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (14).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1TMw6Nd6aFAeov1YS_AmgYtsYDgNWKHMS",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (62).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1OlSxEYMuUgzdiLgLy4MtOs1Z0HduJdm1",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (83).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1HxeaHhNoW31GyqoO_zi0Fq5VwldWqmME",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (80).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "11xfMPjn8KiXvpSBh3bkiNf-p6rHscdTs",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (70).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1NbA9CaTFd0cIL_wIuIkcvkdyKsUG7ggy",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (49).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1T-eGylVYvoehAwf9U6Q-A11vWmAFUio3",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (45).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1C32WRbotxKwdKgAXhfBNRSRTQ6KBj5kg",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (37).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1UjjDm76S-U4dHu1C35vKBDgF_-96g5F6",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (55).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1KVj5jppp3vJmtthrzAl8aeG9l6ehxNDS",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (40).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1gVtoRQncFxfnDW-yNDobSREzeuQnA6mQ",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (31).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1SkYunfZzNv3deY_oSCh4v6_Fx5NLPHvP",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA [02] (81).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1qgLd4ZNgFZYAtwdMxFLO-I61iy77yGEP",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (24).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1vWswciw8hJVyqZgnEaiGt54mTVgzb8gh",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (9).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ALqWArFl7QH2DEcGbP3LBtIfPYNaX5a0",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (27).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1nmwDqovs4AOSWGRZ2rVHEhYayp5MAGfF",
+                            "name": "20260516 - FUNWALK @ SITALANG - KOMISI DEWASA (3).JPG",
+                            "date": "2026-06-07"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "1LxrNQj9ITOoo1MfiZ-8ixGmdJmt2DYmd",
                     "last_update": "2026-05-19",
                     "featured_photo_id": "1ZLTn9hxcNFGbO7BKzrWlmD9PF279JQYm",
@@ -32096,6 +32446,301 @@
                             "id": "1zE9y5brpALQum8ga0TSBMeeOF2dW6p5b",
                             "name": "GKI Rest Area 290526-5-6.JPG",
                             "date": "2026-05-30"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1KdScYmRdDQItWKZWu1bw6MSnhe7kfuR6",
+                    "last_update": "2026-06-07",
+                    "featured_photo_id": "1BRpJcgjsJmZz885-380ckNZSab8c7fCw",
+                    "story": "Foto-foto dokumentasi Workshop Tata Suara 31 Mei & Multimedia OBS 7 Juni (KML, KP, SARPRAS) yang dilaksanakan pada 31 Mei 2026.",
+                    "title": "Workshop Tata Suara 31 Mei & Multimedia OBS 7 Juni (KML, KP, SARPRAS)",
+                    "event_date": "2026.05.31",
+                    "photos": [
+                        {
+                            "id": "1nSoUt01lcT0mCa0TOSI7jDeV18lMi38N",
+                            "name": "IMG_20260607_145033.HEIC",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1SbxcieQ8tJ6moI8b09FyDZ0SWfSFm9Ju",
+                            "name": "WORKSHOP (OBS) (70).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1XLRYBdgweIKz-1FLSuY1e-gOZr7VcAi9",
+                            "name": "WORKSHOP (OBS) (41).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1P7iUA9eX0hEqxAYpqZGApu7CuYTcHfTQ",
+                            "name": "IMG_20260607_123024.HEIC",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1tCAsW8BhEblilgzr5sXW90cZh4fXZQ-N",
+                            "name": "IMG_20260607_124109.HEIC",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1zJiXUoIek6jXorfZG4n8Hb8DhBXgyBKg",
+                            "name": "IMG_20260607_130410.HEIC",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1lgyZRysYAmChytF-SlHHcGnBVcXuzu9n",
+                            "name": "IMG-20260607-WA0011.jpg",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1mzmihbUo_Y7m9-MqTs59gsJCMBONP26w",
+                            "name": "WORKSHOP (OBS) (7).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1gOCqIietXrOzopfuD30pG68FFU0VadZ7",
+                            "name": "WORKSHOP (OBS) (50).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1F9yExf_KsL3ibo2IMIDKKktL5RubUYvr",
+                            "name": "WORKSHOP (OBS) (67).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1dbT0bs2z7CucrTY21N1F4o4kTR8QYF3J",
+                            "name": "WORKSHOP (OBS) (65).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1u2eTE1L9oVpNicdhp31_xC7WyYYYg4UQ",
+                            "name": "WORKSHOP (OBS) (35).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1EDgvgfdbpVIpXQXM6QVNcFVdasujmKPV",
+                            "name": "WORKSHOP (OBS) (56).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ilKfkyTkwuNBNgZHuvGC4P5crSkItY7D",
+                            "name": "WORKSHOP (OBS) (40).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1SUctsxTjzehlCpcdzyPvcu6a_KYu15Ao",
+                            "name": "WORKSHOP (OBS) (31).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1Wtm1he0m78bi3aN_2JTEKeE5kekf-2lJ",
+                            "name": "WORKSHOP (OBS) (17).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1H7DHnBLNgDeZd0h03NYRYy7UcBQzOOYZ",
+                            "name": "WORKSHOP (OBS) (48).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "17QjahtnSXDk-bcLEw3iNYzDUxWM0OqdD",
+                            "name": "WORKSHOP (OBS) (18).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1RQ9QLcv6jaJ8KasNrBurMtyqcVN1e2yo",
+                            "name": "WORKSHOP (OBS) (1).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "18AucNkFvgLurYrwPMScM1vtYj5eWuvw8",
+                            "name": "WORKSHOP (OBS) (14).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "11ifA1GvdFInJ83gKMMuw3qRxb0WQzoL9",
+                            "name": "WORKSHOP (OBS) (4).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1wwddhLwFhFJYg9hPFpbNQNMQhbKZCv4u",
+                            "name": "DSCF0347.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1qu6CdIT8GnFOgIPMy9LmoZLs9oF7-f3D",
+                            "name": "DSCF0353.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1bXJXkXT4OQ3x2btREO-5YJNZfqiAm3h4",
+                            "name": "DSCF0345.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1BeHLRClof6CiqaujYJTvIt14sDak7p7w",
+                            "name": "DSCF0342.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1eGojBHL_ezdg6Jea7qea0n5uueegEWmB",
+                            "name": "DSCF0329.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1goRFs53-pvPnYpmi9XPda518jUCUr01H",
+                            "name": "DSCF0307.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1n6_Pfb0K5iRlkEXN4o0RzUJAZdVOpoig",
+                            "name": "DSCF0325.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1a3ICjFV-w9JZ8cZ1Ns-d3qYs2iNUPYWk",
+                            "name": "DSCF0322.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "14KEQTzTus_EH8zAOBrWeVrwsNcliGpiG",
+                            "name": "DSCF0337.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "14NoyAGynI2JEaelH7uKOvxTVwPS3ogzE",
+                            "name": "DSCF0318.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1h38ztiIRKdiUj85MtIZjOET_H4lJq9Ms",
+                            "name": "DSCF0286.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1DJCXRuFiPWxUehJxQdOBwFPBXc4_WFyL",
+                            "name": "DSCF0302.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1E9680LNtBHHyWK90xwDax8GWldVsVoR2",
+                            "name": "DSCF0300.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ITzPx_6K0SIpLNr6adb3Tt7QdcYAC6uq",
+                            "name": "DSCF0298.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ildwbz2RuXazXzOJYp0rQ6Rg7F0GdSFo",
+                            "name": "DSCF0294.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1mjHKB4-omZ89MdmI1_w2Xc0LKVJkcWtj",
+                            "name": "DSCF0272.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1RPb60L7AfBG0pHsD8aU5hDyT7_PC8qA8",
+                            "name": "DSCF0282.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1AE_Xwc6shWI0bDkUrxROOokO0_oRQWF0",
+                            "name": "DSCF0281.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1cgqIGU_JCANOfKsAyzbEF-Q_iP808fPM",
+                            "name": "DSCF0276.JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "13BZvYOm4SqmC6i5NSH2JNf6xvP2ebg8b",
+                            "name": "DSCF0266.JPG",
+                            "date": "2026-06-07"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1sc4FVVKrpWaUbIs69Ub_nf_lYPTsS1GR",
+                    "last_update": "2026-06-07",
+                    "featured_photo_id": "1ysdEdwFDNjGkTeyKgbXaksUuz6KZ_JDe",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 7 Juni yang dilaksanakan pada 7 Juni 2026.",
+                    "title": "Ibadah Minggu, 7 Juni",
+                    "event_date": "2026.06.07",
+                    "photos": [
+                        {
+                            "id": "1H7KeglkBgU_yCb8sJGWBYKBI-gW7u9H-",
+                            "name": "GKIS 070626 (18).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1rQgv5fk3FTrlcqJpjv5ico2RTfePmyRB",
+                            "name": "GKIS 070626 (1).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1uGNC5TP4g6U-ircpfqQ4tFyxc3vXSJ56",
+                            "name": "GKIS 070626 (56).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ce5UfIwy8rFn_cuN-ythGGienUJINSZx",
+                            "name": "GKIS 070626 (14).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1r91QOLEfc8-rMsSAxfu2e9ufxF0MCSBU",
+                            "name": "GKIS 070626 (41).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1hBj_KmOTekj7eyhaTxh29yVGOchgBShm",
+                            "name": "GKIS 070626 (71).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1Ed7JBupFmqXjuZpLXujqFWPKbQlnjZsC",
+                            "name": "GKIS 070626 (60).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "16e-LrSEPGrsTqE7OINTUKWkivaEZ9xsM",
+                            "name": "GKIS 070626 (28).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1h2r_h9grwgs7bKaVfuj0-xZpl4grWKWm",
+                            "name": "GKIS 070626 (25).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1EkNmL6yYU75bPEcuZwuMAXa57wl6c-Wv",
+                            "name": "GKIS 070626 (19).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1ZdCENx8YhpMqRphiicZxH4sDyBt6vjaX",
+                            "name": "GKIS 070626 (26).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "15KA0bcZSDB5CQ51xDhEuZzVeWi-JkFdj",
+                            "name": "GKIS 070626 (3).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1TY3aVyYl18SEuUQCiK3ZVH3G-YbdSFGy",
+                            "name": "GKIS 070626 (6).JPG",
+                            "date": "2026-06-07"
+                        },
+                        {
+                            "id": "1GG8HG0eHrR6dkJ2AZRIMPDWcsqMar9Qj",
+                            "name": "GKIS 070626 (22).JPG",
+                            "date": "2026-06-07"
                         }
                     ]
                 }
