@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5997,
-        "last-update": 1780855005,
+        "update-count": 5998,
+        "last-update": 1780874180,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5420,29 +5420,11 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
-                "title": "Ibadah Minggu",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "title": "Pundi-Pundi Samaria",
                 "type": "poster",
-                "date-created": "2026-06-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
-                "title": "Sekolah Minggu",
-                "type": "poster",
-                "date-created": "2026-06-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "title": "Sekolah Minggu Siang",
-                "type": "poster",
-                "date-created": "2026-05-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
+                "date-created": "2026-06-08",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5456,65 +5438,11 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
-                "title": "Kebaktian Remaja 7 Juni",
-                "type": "poster",
-                "date-created": "2026-05-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi_2.webp",
-                "title": "Sunday School",
-                "type": "poster",
-                "date-created": "2026-05-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
-                "title": "Kebaktian Berbahasa Inggris",
-                "type": "poster",
-                "date-created": "2026-05-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_info_apk_4.webp",
-                "title": "Workshop Multimedia dan Tata Suara",
-                "type": "poster",
-                "date-created": "2026-05-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_info_apk_4.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_yankes.webp",
-                "title": "Pelayanan Kesehatan",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
+                "title": "Mari Bergabung dalam Pelayanan",
                 "type": "poster",
                 "date-created": "2026-06-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_yankes.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_wartib.webp",
-                "title": "USDA Waroeng Tiberias",
-                "type": "poster",
-                "date-created": "2026-06-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_wartib.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi-Pundi Samaria",
-                "type": "poster",
-                "date-created": "2026-06-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5556,9 +5484,9 @@
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb_kd.webp",
-                "title": "KTB Komisi Dewasa",
+                "title": "KTB Komisi Dewasa 17 Juni",
                 "type": "poster",
-                "date-created": "2026-06-06",
+                "date-created": "2026-06-08",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb_kd.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
@@ -5569,15 +5497,6 @@
                 "type": "poster",
                 "date-created": "2026-05-30",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
-                "title": "Mari Bergabung dalam Pelayanan",
-                "type": "poster",
-                "date-created": "2026-06-06",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
