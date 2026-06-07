@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5994,
-        "last-update": 1780802646,
+        "update-count": 5995,
+        "last-update": 1780833999,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5811,6 +5811,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Pengurus KHI",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-06-06",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Pelatihan Multimedia (OBS) GKI Salatiga",
                 "time": "11:30",
                 "time-to": "15:00",
@@ -5881,6 +5895,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat KP",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Rapat Koordinasi Bapel ",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5907,6 +5935,48 @@
                 "pic": "Kepala Sekolah",
                 "status": "y",
                 "note": "Terbagi 2 sisi (sesi 1 kls 3 & 4, sesi 2 kls 5 )"
+            },
+            {
+                "name": "Latihan Liturgi SAL",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "w",
+                "note": "Minta dibuatkan teh hangat buat latihan"
+            },
+            {
+                "name": "Rapat Penyusulan LPJ MRP",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Setiady ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Penyusunan LPJ MRP",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Bambang Setiady ",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 10",
@@ -6690,76 +6760,6 @@
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Liturgi SAL",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-06-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": "Minta dibuatkan teh hangat buat latihan"
-            },
-            {
-                "name": "Rapat Pengurus KHI",
-                "time": "13:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-06-06",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Penyusulan LPJ MRP",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Bambang Setiady ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Penyusunan LPJ MRP",
-                "time": "17:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Bambang Setiady ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat KP",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-07",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Pemuda",
-                "pic": "Susan",
-                "status": "w",
                 "note": "-"
             }
         ],
