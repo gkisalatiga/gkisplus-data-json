@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 5993,
-        "last-update": 1780767150,
+        "update-count": 5994,
+        "last-update": 1780802646,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6747,6 +6747,20 @@
                 "pic": "Bambang Setiady ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat KP",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-07",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
