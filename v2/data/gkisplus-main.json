@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 5998,
-        "last-update": 1780874180,
-        "last-updated-item": "yt",
+        "update-count": 5999,
+        "last-update": 1780889403,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5866,7 +5866,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
-                "status": "w",
+                "status": "y",
                 "note": "Minta dibuatkan teh hangat buat latihan"
             },
             {
@@ -5894,7 +5894,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Bambang Setiady ",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6680,6 +6680,34 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pengurus Komisi Dewasa",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Pengurus Komisi Dewasa",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Paduan suara",
+                "time": "00:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-06-08",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
