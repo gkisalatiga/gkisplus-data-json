@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6008,
-        "last-update": 1781002186,
+        "update-count": 6009,
+        "last-update": 1781045678,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |10 Juni 2026 | Gunakan Waktu Dengan Baik",
+                        "date": "2026-06-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=hmJVXTSdBKA",
+                        "thumbnail": "https://i1.ytimg.com/vi/hmJVXTSdBKA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Jun 2026 | Buka Mulut Suarakan Keadilan",
                         "date": "2026-06-08",
