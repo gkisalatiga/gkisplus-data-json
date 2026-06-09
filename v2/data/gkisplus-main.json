@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6006,
-        "last-update": 1780987445,
+        "update-count": 6007,
+        "last-update": 1781001059,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5708,6 +5708,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat wilayah 11 ",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-06-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "SUSETYO RINI ",
+                "status": "y",
+                "note": "Tidak ada"
+            },
+            {
                 "name": "Sosialisasi Robotic kelas 1",
                 "time": "08:00",
                 "time-to": "09:00",
@@ -6448,20 +6462,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat wilayah 11 ",
-                "time": "18:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-06-11",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "SUSETYO RINI ",
-                "status": "w",
-                "note": "Tidak ada"
             }
         ],
         "backend": {
