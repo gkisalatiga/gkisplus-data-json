@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6011,
-        "last-update": 1781071865,
+        "update-count": 6012,
+        "last-update": 1781083928,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5370,11 +5370,11 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi-Pundi Samaria",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
+                "title": "Persekutuan Kambium",
                 "type": "poster",
-                "date-created": "2026-06-08",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "date-created": "2026-05-30",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5382,8 +5382,17 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ka_3.webp",
                 "title": "Pendamping Sekolah Minggu",
                 "type": "poster",
-                "date-created": "2026-06-06",
+                "date-created": "2026-06-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_3.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
+                "title": "Pundi-Pundi Samaria",
+                "type": "poster",
+                "date-created": "2026-06-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5391,17 +5400,8 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
                 "title": "Mari Bergabung dalam Pelayanan",
                 "type": "poster",
-                "date-created": "2026-06-06",
+                "date-created": "2026-06-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "title": "Persekutuan Kambium",
-                "type": "poster",
-                "date-created": "2026-05-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
