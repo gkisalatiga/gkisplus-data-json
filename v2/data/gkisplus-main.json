@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6015,
-        "last-update": 1781119661,
+        "update-count": 6016,
+        "last-update": 1781128078,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |11 Juni 2026 | Bersukacita di Tengah yang Tidak Pasti",
+                        "date": "2026-06-10",
+                        "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
+                        "link": "https://www.youtube.com/watch?v=HcBE4998sTw",
+                        "thumbnail": "https://i1.ytimg.com/vi/HcBE4998sTw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |10 Juni 2026 | Gunakan Waktu Dengan Baik",
                         "date": "2026-06-09",
@@ -94,6 +101,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |11 Juni 2026 | Bersukacita di Tengah yang Tidak Pasti",
+                        "date": "2026-06-10",
+                        "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
+                        "link": "https://www.youtube.com/watch?v=HcBE4998sTw",
+                        "thumbnail": "https://i.ytimg.com/vi/HcBE4998sTw/hqdefault.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 7 Juni 2026 | 07.00 WIB | \"Berpartisipasi dalam Karya Keselamat Allah\"",
                         "date": "2026-06-06",
