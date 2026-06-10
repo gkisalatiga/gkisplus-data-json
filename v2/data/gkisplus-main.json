@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6013,
-        "last-update": 1781090922,
-        "last-updated-item": "yt",
+        "update-count": 6014,
+        "last-update": 1781102045,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6582,6 +6582,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan petugas SAL KA ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Kak Wurjayanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
