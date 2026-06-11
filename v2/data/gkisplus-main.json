@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6016,
-        "last-update": 1781128078,
-        "last-updated-item": "yt",
+        "update-count": 6017,
+        "last-update": 1781148486,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5625,118 +5625,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Latihan Paduan suara",
-                "time": "00:00",
-                "time-to": "13:30",
-                "timezone": "WIB",
-                "date": "2026-06-08",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-06-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Pak Andi",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-06-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 9 ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-06-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-06-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Padus Filii Dei",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-09",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan paduan suara",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-10",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi bersih kegiatan Krisdusa Welcoming Day",
-                "time": "12:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-10",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dian Oktaviani",
-                "status": "w",
-                "note": "-"
-            },
-            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5807,6 +5695,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Sarpras ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-11",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Sosialisasi Robotic kelas 1",
                 "time": "08:00",
                 "time-to": "09:00",
@@ -5859,6 +5761,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan petugas SAL KA ",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-12",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Anak",
+                "pic": "Kak Wurjayanti",
                 "status": "y",
                 "note": ""
             },
@@ -6589,20 +6505,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan petugas SAL KA ",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-06-12",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Anak",
-                "pic": "Kak Wurjayanti",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
