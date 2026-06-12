@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6023,
-        "last-update": 1781245344,
-        "last-updated-item": "yt",
+        "update-count": 6024,
+        "last-update": 1781251651,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5713,6 +5713,20 @@
                 "note": "Akan mengisi Pujian keb.tgl 14 Juni 2026"
             },
             {
+                "name": "Rapat Tim Renovasi Atap Gereja",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-13",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan Padus Filii Dei",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5868,7 +5882,7 @@
             },
             {
                 "name": "Bincang2 Komisi Dewasa",
-                "time": "11:30",
+                "time": "10:30",
                 "time-to": "13:00",
                 "timezone": "WIB",
                 "date": "2026-06-28",
@@ -5961,6 +5975,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ibadah MPLS",
+                "time": "07:00",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
                 "status": "y",
                 "note": ""
             },
@@ -6425,20 +6453,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Ibadah MPLS",
-                "time": "07:00",
-                "time-to": "09:00",
-                "timezone": "WIB",
-                "date": "2026-07-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "SD Kristen 04 Eben Haezer",
-                "pic": "Endah",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
