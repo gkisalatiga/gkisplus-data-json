@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6029,
-        "last-update": 1781333719,
+        "update-count": 6030,
+        "last-update": 1781344446,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5938,6 +5938,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PS. Efrata menggantikan hari Sabtu tgl 20 Juni",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-06-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Ibu Wardjini",
                 "status": "y",
                 "note": ""
             },
