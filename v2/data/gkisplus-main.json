@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6027,
-        "last-update": 1781282165,
+        "update-count": 6028,
+        "last-update": 1781323702,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2293,6 +2293,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 14 Juni 2026",
+                    "date": "2026-06-13",
+                    "link": "https://drive.google.com/file/d/1jNIf2ynFFyVaG6zj5cjfhxY6lz-vOcE3/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-14-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1jNIf2ynFFyVaG6zj5cjfhxY6lz-vOcE3",
+                    "id": "1jNIf2ynFFyVaG6zj5cjfhxY6lz-vOcE3",
+                    "size": "1.91 MB"
+                },
+                {
                     "title": "Warta Jemaat 7 Juni 2026",
                     "date": "2026-06-06",
                     "link": "https://drive.google.com/file/d/1cyyH4eZQA1_4kafStZ4wKQp6ecdc75Gs/view",
@@ -3158,6 +3167,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 14 Juni 2026",
+                    "date": "2026-06-13",
+                    "link": "https://drive.google.com/file/d/13KXBSx6KkvnhXWk1pRcbaiXEbh9wDspy/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-14-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=13KXBSx6KkvnhXWk1pRcbaiXEbh9wDspy",
+                    "id": "13KXBSx6KkvnhXWk1pRcbaiXEbh9wDspy",
+                    "size": "0.66 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 7 Juni 2026",
                     "date": "2026-06-06",
@@ -5448,15 +5466,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_5.webp",
-                "title": "Informasi Sekolah Minggu 14 Juni",
-                "type": "poster",
-                "date-created": "2026-06-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
                 "title": "Persekutuan SoDa 13 Juni",
                 "type": "poster",
@@ -5480,6 +5489,15 @@
                 "type": "poster",
                 "date-created": "2026-05-31",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_6.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_5.webp",
+                "title": "Informasi Sekolah Minggu 14 Juni",
+                "type": "poster",
+                "date-created": "2026-06-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
