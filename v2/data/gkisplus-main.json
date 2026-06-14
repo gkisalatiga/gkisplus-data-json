@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6032,
-        "last-update": 1781451638,
+        "update-count": 6033,
+        "last-update": 1781460367,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |15 Juni 2026 | Seperti Burung dan Bakung",
+                        "date": "2026-06-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=eF19gcwXCdA",
+                        "thumbnail": "https://i2.ytimg.com/vi/eF19gcwXCdA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Juni 2026 | Perisai Iman Kuat di Segala Situasi",
                         "date": "2026-06-12",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
                         "link": "https://www.youtube.com/watch?v=sawN-dFkF2s",
                         "thumbnail": "https://i4.ytimg.com/vi/sawN-dFkF2s/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Juni 2026 | Menghidupi Pancasila dalam Kehidupan Sehari hari",
-                        "date": "2026-06-01",
-                        "desc": "Dibawakan oleh Ibu Ristiyani Gani Mendrofa",
-                        "link": "https://www.youtube.com/watch?v=iQFADvoEe5o",
-                        "thumbnail": "https://i2.ytimg.com/vi/iQFADvoEe5o/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
