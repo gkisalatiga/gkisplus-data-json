@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6033,
-        "last-update": 1781460367,
+        "update-count": 6034,
+        "last-update": 1781480497,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
+                        "date": "2026-06-14",
+                        "desc": "Dibawakan oleh Ibu Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=wfyMuxs3haQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/wfyMuxs3haQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |15 Juni 2026 | Seperti Burung dan Bakung",
                         "date": "2026-06-14",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
                         "link": "https://www.youtube.com/watch?v=IZg0Kh7sKbY",
                         "thumbnail": "https://i2.ytimg.com/vi/IZg0Kh7sKbY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Juni 2026 | Tanggung Jawab Kebangsaan",
-                        "date": "2026-06-02",
-                        "desc": "Dibawakan oleh Bpk. Yulius Yusak Ranimpi",
-                        "link": "https://www.youtube.com/watch?v=sawN-dFkF2s",
-                        "thumbnail": "https://i4.ytimg.com/vi/sawN-dFkF2s/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
