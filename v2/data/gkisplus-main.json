@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6036,
-        "last-update": 1781494835,
+        "update-count": 6037,
+        "last-update": 1781517423,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6609,6 +6609,48 @@
                 "pic": "Rendi Dita Permana",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "MPLS SMP Kristen 2",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi Dita Permana",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "MPLS",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2036-07-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi Dita Permana",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "MPLS",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-07-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi Dita Permana",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
