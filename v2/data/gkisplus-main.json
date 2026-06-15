@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6037,
-        "last-update": 1781517423,
-        "last-updated-item": "agenda",
+        "update-count": 6038,
+        "last-update": 1781561208,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 16 Juni 2026 | Pancasila dan Iman Kristen",
+                        "date": "2026-06-15",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=cieTDcBxSN0",
+                        "thumbnail": "https://i4.ytimg.com/vi/cieTDcBxSN0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
                         "date": "2026-06-14",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=ZpksZTPkNGQ",
                         "thumbnail": "https://i3.ytimg.com/vi/ZpksZTPkNGQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Juni 2026 | Pancasila Hidup Beriman dan Berbakti Untuk Sesama",
-                        "date": "2026-06-03",
-                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
-                        "link": "https://www.youtube.com/watch?v=IZg0Kh7sKbY",
-                        "thumbnail": "https://i2.ytimg.com/vi/IZg0Kh7sKbY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
