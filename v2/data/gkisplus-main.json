@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6035,
-        "last-update": 1781485306,
-        "last-updated-item": "yt",
+        "update-count": 6036,
+        "last-update": 1781494835,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6594,6 +6594,20 @@
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Ibadah Pembukaan TA 2026/2027",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-07-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi Dita Permana",
+                "status": "w",
                 "note": "-"
             }
         ],
