@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6040,
-        "last-update": 1781620131,
-        "last-updated-item": "agenda",
+        "update-count": 6041,
+        "last-update": 1781647394,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
+                        "date": "2026-06-16",
+                        "desc": "Dibawakan oleh Ibu Yuliani Nugroho",
+                        "link": "https://www.youtube.com/watch?v=wfyMuxs3haQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/wfyMuxs3haQ/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 16 Juni 2026 | Pancasila dan Iman Kristen",
                         "date": "2026-06-15",
                         "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
                         "link": "https://www.youtube.com/watch?v=cieTDcBxSN0",
                         "thumbnail": "https://i4.ytimg.com/vi/cieTDcBxSN0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
-                        "date": "2026-06-14",
-                        "desc": "Dibawakan oleh Ibu Yuliani Nugroho",
-                        "link": "https://www.youtube.com/watch?v=wfyMuxs3haQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/wfyMuxs3haQ/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi |15 Juni 2026 | Seperti Burung dan Bakung",
