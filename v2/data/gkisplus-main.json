@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6038,
-        "last-update": 1781561208,
-        "last-updated-item": "yt",
+        "update-count": 6039,
+        "last-update": 1781601663,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6651,6 +6651,76 @@
                 "pic": "Rendi Dita Permana",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Kegiatan MPLS SMP Kristen 2",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima",
+                "status": "w",
+                "note": "Menyusul"
+            },
+            {
+                "name": "MPLS SMP KRISTEN 2",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-07-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima ",
+                "status": "w",
+                "note": "Menyusul"
+            },
+            {
+                "name": "MPLS SMP KRISTEN 2",
+                "time": "07:00",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-07-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima",
+                "status": "w",
+                "note": "Menyusul"
+            },
+            {
+                "name": "Gladi Bersih persiapan Ibadah ",
+                "time": "00:00",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-07-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima",
+                "status": "w",
+                "note": "Keperluan yang lain menyusul"
+            },
+            {
+                "name": "Ibadah Menyambut Tahun Pelajaran 2026/2027",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-07-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima",
+                "status": "w",
+                "note": "jika ada perubahan akan kami konfirmasi secepatnya"
             }
         ],
         "backend": {
