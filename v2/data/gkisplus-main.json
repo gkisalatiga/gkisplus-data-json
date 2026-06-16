@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6039,
-        "last-update": 1781601663,
+        "update-count": 6040,
+        "last-update": 1781620131,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6721,6 +6721,20 @@
                 "pic": "Yemima",
                 "status": "w",
                 "note": "jika ada perubahan akan kami konfirmasi secepatnya"
+            },
+            {
+                "name": "Rqpat Sie Acara Konser Sekolab Eben Haezer",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-06-17",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Eriyani / Iryatun",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
