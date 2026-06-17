@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6044,
-        "last-update": 1781698076,
-        "last-updated-item": "yt",
+        "update-count": 6045,
+        "last-update": 1781714103,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6553,6 +6553,34 @@
                 "pic": "Widia Prayogo",
                 "status": "w",
                 "note": "peserta rapat 15 orang"
+            },
+            {
+                "name": "Cek kondisi alat musik ",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Cek kondisi alat musik",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
