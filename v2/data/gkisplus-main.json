@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6045,
-        "last-update": 1781714103,
-        "last-updated-item": "agenda",
+        "update-count": 6046,
+        "last-update": 1781714951,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Juni 2026 | Pengalaman Iman yang Berbeda",
+                        "date": "2026-06-17",
+                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
+                        "link": "https://www.youtube.com/watch?v=ncxclZAI-m0",
+                        "thumbnail": "https://i3.ytimg.com/vi/ncxclZAI-m0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
                         "date": "2026-06-16",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
                         "link": "https://www.youtube.com/watch?v=jLz4Dl1Ffqo",
                         "thumbnail": "https://i3.ytimg.com/vi/jLz4Dl1Ffqo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Juni 2026 | Pancasila dan Iman Kristen, Menjalin Harmoni dalam Keberagaman",
-                        "date": "2026-06-04",
-                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
-                        "link": "https://www.youtube.com/watch?v=ZpksZTPkNGQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/ZpksZTPkNGQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
