@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6049,
-        "last-update": 1781782930,
-        "last-updated-item": "yt",
+        "update-count": 6050,
+        "last-update": 1781784017,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5757,6 +5757,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan ibadah minggu",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Latihan PS. Efrata menggantikan hari Sabtu tgl 20 Juni",
                 "time": "09:00",
                 "time-to": "10:00",
@@ -5767,6 +5781,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Ibu Wardjini",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat YPE",
+                "time": "16:15",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-06-19",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Agnes Mustika",
                 "status": "y",
                 "note": ""
             },
@@ -6608,20 +6636,6 @@
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Latihan ibadah minggu",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Michele",
-                "status": "w",
                 "note": "-"
             }
         ],
