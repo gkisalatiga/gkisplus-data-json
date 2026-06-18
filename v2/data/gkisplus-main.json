@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6047,
-        "last-update": 1781764864,
-        "last-updated-item": "yt",
+        "update-count": 6048,
+        "last-update": 1781770977,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5623,6 +5623,62 @@
                 "note": ""
             },
             {
+                "name": "Cek kondisi alat musik ",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Cek kondisi alat musik",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan untuk ibadah minggu",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele ",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Pesparawi - PSW",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-18",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Samuel Arif",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Latihan PS. Efrata menggantikan hari Sabtu tgl 20 Juni",
                 "time": "09:00",
                 "time-to": "10:00",
@@ -5733,6 +5789,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pleno KUL",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-06-24",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "peserta rapat 15 orang"
             },
             {
                 "name": "Pembinaan Penatua ",
@@ -6463,46 +6533,18 @@
                 "note": "-"
             },
             {
-                "name": "Rapat Pleno KUL",
-                "time": "10:00",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2026-06-24",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Widia Prayogo",
-                "status": "w",
-                "note": "peserta rapat 15 orang"
-            },
-            {
-                "name": "Cek kondisi alat musik ",
-                "time": "17:00",
-                "time-to": "18:00",
+                "name": "Latihan ibadah minggu",
+                "time": "19:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2026-06-18",
                 "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
+                "pic": "Michele",
                 "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Cek kondisi alat musik",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-06-18",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
+                "note": "-"
             }
         ],
         "backend": {
