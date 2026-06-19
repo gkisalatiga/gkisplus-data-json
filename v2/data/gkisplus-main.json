@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6057,
-        "last-update": 1781886383,
+        "update-count": 6058,
+        "last-update": 1781906361,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Juni 2026 | Bersama Kita Bisa",
+                        "date": "2026-06-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=wCs__gy-vMs",
+                        "thumbnail": "https://i4.ytimg.com/vi/wCs__gy-vMs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Juni 2026 | Saat Logika Menyerah, Kerahiman Allah Bekerja",
                         "date": "2026-06-18",
