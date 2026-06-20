@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6058,
-        "last-update": 1781906361,
+        "update-count": 6059,
+        "last-update": 1781925450,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2300,6 +2300,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 21 Juni 2026",
+                    "date": "2026-06-20",
+                    "link": "https://drive.google.com/file/d/1RgNQG8s-nVc24aEm4pmBPQ445HFkvT0r/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-21-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1RgNQG8s-nVc24aEm4pmBPQ445HFkvT0r",
+                    "id": "1RgNQG8s-nVc24aEm4pmBPQ445HFkvT0r",
+                    "size": "1.96 MB"
+                },
+                {
                     "title": "Warta Jemaat 14 Juni 2026",
                     "date": "2026-06-13",
                     "link": "https://drive.google.com/file/d/1jNIf2ynFFyVaG6zj5cjfhxY6lz-vOcE3/view",
@@ -3174,6 +3183,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 21 Juni 2026",
+                    "date": "2026-06-20",
+                    "link": "https://drive.google.com/file/d/1Camdneq7hogFr7ln-gr_gpTF3yYc0Q0E/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-21-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Camdneq7hogFr7ln-gr_gpTF3yYc0Q0E",
+                    "id": "1Camdneq7hogFr7ln-gr_gpTF3yYc0Q0E",
+                    "size": "0.78 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 14 Juni 2026",
                     "date": "2026-06-13",
@@ -5472,24 +5490,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Ibadah Padang Komisi Pemuda",
-                "type": "poster",
-                "date-created": "2026-06-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Kunjungan Industri Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-05-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
                 "title": "Sekolah Minggu 21 Juni",
