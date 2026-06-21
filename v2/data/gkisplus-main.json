@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6065,
-        "last-update": 1782024005,
-        "last-updated-item": "yt",
+        "update-count": 6066,
+        "last-update": 1782041260,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5899,6 +5899,34 @@
                 "note": ""
             },
             {
+                "name": "Perwalian Rencana Program Kerja",
+                "time": "12:01",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-06-20",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "Tidak perlu disediakan minum"
+            },
+            {
+                "name": "Latihan ibadah minggu",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-06-20",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Michele",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Penilian Capen Wilayah 5 ",
                 "time": "11:30",
                 "time-to": "14:30",
@@ -5925,6 +5953,20 @@
                 "pic": "Pnt. Yosua Candana",
                 "status": "y",
                 "note": "Kegiatan Gereja Selain kegiatan Gladi dan Kebaktian Minggu tidak ada kegiatan di Gedung gereja"
+            },
+            {
+                "name": "Rapat persiapan Bincang-bincang KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-22",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Sintarini Utomo",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6039,6 +6081,20 @@
                 "note": ""
             },
             {
+                "name": "Seleksi guru TK",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-06-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
+            },
+            {
                 "name": "Kunjungan dari GKI Imanuel Serui",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -6107,6 +6163,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persiapan Perjamuan Kudus Wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 11",
@@ -6751,62 +6821,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Seleksi guru TK",
-                "time": "08:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-06-25",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Terima kasih "
-            },
-            {
-                "name": "Perwalian Rencana Program Kerja",
-                "time": "12:01",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-06-20",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": "Tidak perlu disediakan minum"
-            },
-            {
-                "name": "Latihan ibadah minggu",
-                "time": "15:00",
-                "time-to": "17:00",
-                "timezone": "WIB",
-                "date": "2026-06-20",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Michele",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Persiapan Perjamuan Kudus Wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-06-30",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
