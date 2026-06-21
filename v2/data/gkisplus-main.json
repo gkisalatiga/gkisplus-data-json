@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6063,
-        "last-update": 1781991177,
-        "last-updated-item": "yt",
+        "update-count": 6064,
+        "last-update": 1782013014,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6793,6 +6793,20 @@
                 "pic": "Michele",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Persiapan Perjamuan Kudus Wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-06-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
