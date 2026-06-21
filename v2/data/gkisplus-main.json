@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6067,
-        "last-update": 1782056599,
+        "update-count": 6068,
+        "last-update": 1782065600,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Juni 2026 | Kepemimpinan Kristen Yang Mengejawantah Dalam Nilai-Nilai Pancasila",
+                        "date": "2026-06-21",
+                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
+                        "link": "https://www.youtube.com/watch?v=BainDQ-xxTk",
+                        "thumbnail": "https://i3.ytimg.com/vi/BainDQ-xxTk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Juni 2026 | Bersama Kita Bisa",
                         "date": "2026-06-19",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=hmJVXTSdBKA",
                         "thumbnail": "https://i1.ytimg.com/vi/hmJVXTSdBKA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Jun 2026 | Buka Mulut Suarakan Keadilan",
-                        "date": "2026-06-08",
-                        "desc": "Dibawakan oleh Sdri. Chrissandhy",
-                        "link": "https://www.youtube.com/watch?v=n2iegJAIoIc",
-                        "thumbnail": "https://i3.ytimg.com/vi/n2iegJAIoIc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
