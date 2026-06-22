@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6068,
-        "last-update": 1782065600,
-        "last-updated-item": "yt",
+        "update-count": 6069,
+        "last-update": 1782099647,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6821,6 +6821,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pengurus Baru Komisi Pemuda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Mario",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
