@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6071,
-        "last-update": 1782121420,
-        "last-updated-item": "agenda",
+        "update-count": 6072,
+        "last-update": 1782151660,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Jun 2026 | Kesempatan dan Penyesalan",
+                        "date": "2026-06-22",
+                        "desc": "Dibawakan oleh Ibu Raema Andreyana",
+                        "link": "https://www.youtube.com/watch?v=YUYudT6-_rs",
+                        "thumbnail": "https://i2.ytimg.com/vi/YUYudT6-_rs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Juni 2026 | Kepemimpinan Kristen Yang Mengejawantah Dalam Nilai-Nilai Pancasila",
                         "date": "2026-06-21",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
                         "link": "https://www.youtube.com/watch?v=HcBE4998sTw",
                         "thumbnail": "https://i1.ytimg.com/vi/HcBE4998sTw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |10 Juni 2026 | Gunakan Waktu Dengan Baik",
-                        "date": "2026-06-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=hmJVXTSdBKA",
-                        "thumbnail": "https://i1.ytimg.com/vi/hmJVXTSdBKA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
