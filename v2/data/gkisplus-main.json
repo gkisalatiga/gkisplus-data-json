@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6076,
-        "last-update": 1782211889,
+        "update-count": 6077,
+        "last-update": 1782221607,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Jun 2026 | Tuhan Mempersatukan Hati Bukan Kepala",
+                        "date": "2026-06-23",
+                        "desc": "Dibawakan oleh Ibu Dwi Supriani",
+                        "link": "https://www.youtube.com/watch?v=QW2zRGx8jFI",
+                        "thumbnail": "https://i2.ytimg.com/vi/QW2zRGx8jFI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Jun 2026 | Kesempatan dan Penyesalan",
                         "date": "2026-06-22",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Retty Andrea",
                         "link": "https://www.youtube.com/watch?v=zlGsZB1D1Fs",
                         "thumbnail": "https://i3.ytimg.com/vi/zlGsZB1D1Fs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |11 Juni 2026 | Bersukacita di Tengah yang Tidak Pasti",
-                        "date": "2026-06-10",
-                        "desc": "Dibawakan oleh Sdri. Lusiana Nurhayati",
-                        "link": "https://www.youtube.com/watch?v=HcBE4998sTw",
-                        "thumbnail": "https://i1.ytimg.com/vi/HcBE4998sTw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
