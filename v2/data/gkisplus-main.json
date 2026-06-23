@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6074,
-        "last-update": 1782194198,
-        "last-updated-item": "yt",
+        "update-count": 6075,
+        "last-update": 1782210787,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5816,6 +5816,20 @@
                 "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pleno KD",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-29",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": "Minta disiapkan LCD proyektor dan layar"
             },
             {
                 "name": "Persiapan PK Wilayah 9 ",
