@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6072,
-        "last-update": 1782151660,
-        "last-updated-item": "yt",
+        "update-count": 6073,
+        "last-update": 1782182761,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5724,11 +5724,11 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
-                "name": "PA Wilayah 7",
+                "name": "PA Wilayah 2&8",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -5742,7 +5742,7 @@
                 "note": "-"
             },
             {
-                "name": "PA wilayah 9",
+                "name": "PA wilayah 1",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
@@ -5766,7 +5766,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -5808,6 +5808,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Santoso Adi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Edit Desain Grafis Tim Yonatan",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-24",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
                 "status": "y",
                 "note": ""
             },
@@ -6022,20 +6036,6 @@
                 "note": "Menyusul"
             },
             {
-                "name": "Yuliyanti",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-07-14",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "PA Wilayah 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6048,6 +6048,20 @@
                 "pic": "Pak Andi ",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Yuliyanti",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "MPLS SMP KRISTEN 2",
@@ -6580,20 +6594,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Edit Desain Grafis Tim Yonatan",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-06-24",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Pemuda",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
