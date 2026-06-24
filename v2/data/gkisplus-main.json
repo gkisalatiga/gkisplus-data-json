@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6079,
-        "last-update": 1782231872,
+        "update-count": 6080,
+        "last-update": 1782269192,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6636,6 +6636,20 @@
                 "pic": "Iryatun Trikorini ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat KPPI",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-06-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
