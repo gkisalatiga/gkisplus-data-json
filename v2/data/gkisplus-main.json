@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6087,
-        "last-update": 1782366922,
-        "last-updated-item": "yt",
+        "update-count": 6088,
+        "last-update": 1782369803,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5748,6 +5748,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Tim Musik 28 Juni 2026",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-24",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pembinaan Penatua ",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -5776,6 +5790,48 @@
                 "note": "Terima kasih "
             },
             {
+                "name": "Rapat KPPI",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-06-25",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pengajaran dan Pekabaran Injil",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik 28 Juni 2026",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Sarpras",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-06-26",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Pengurus Baru Komisi Pemuda",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5788,6 +5844,34 @@
                 "pic": "Mario",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pelatihan merangkai bunga",
+                "time": "09:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-06-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan Florist",
+                "time": "09:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-06-27",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Bu Atiek",
+                "status": "w",
+                "note": "Minta Disiapkan Teh"
             },
             {
                 "name": "Kunjungan dari GKI Imanuel Serui",
@@ -5884,6 +5968,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Workshop Guru YPE",
+                "time": "07:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-07-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
                 "status": "y",
                 "note": ""
             },
@@ -6530,90 +6628,6 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Pelatihan merangkai bunga",
-                "time": "09:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-06-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Atiek Widyati",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Workshop Guru YPE",
-                "time": "07:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-07-03",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat KPPI",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-06-25",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pengajaran dan Pekabaran Injil",
-                "pic": "Lukas Sukan",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Tim Musik 28 Juni 2026",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-24",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik 28 Juni 2026",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-26",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Pelatihan Florist",
-                "time": "09:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-06-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Lainnya",
-                "pic": "Bu Atiek",
-                "status": "w",
-                "note": "Minta Disiapkan Teh"
             }
         ],
         "backend": {
