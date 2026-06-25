@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6086,
-        "last-update": 1782353677,
+        "update-count": 6087,
+        "last-update": 1782366922,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,85 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 25 Jun 2026 | Kemanusiaan Yang Adil dan Beradab",
-                        "date": "2026-06-24",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=SV9fVLmT214",
-                        "thumbnail": "https://i4.ytimg.com/vi/SV9fVLmT214/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Jun 2026 | Tuhan Mempersatukan Hati Bukan Kepala",
-                        "date": "2026-06-23",
-                        "desc": "Dibawakan oleh Ibu Dwi Supriani",
-                        "link": "https://www.youtube.com/watch?v=QW2zRGx8jFI",
-                        "thumbnail": "https://i2.ytimg.com/vi/QW2zRGx8jFI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Jun 2026 | Kesempatan dan Penyesalan",
-                        "date": "2026-06-22",
-                        "desc": "Dibawakan oleh Ibu Raema Andreyana",
-                        "link": "https://www.youtube.com/watch?v=YUYudT6-_rs",
-                        "thumbnail": "https://i2.ytimg.com/vi/YUYudT6-_rs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Juni 2026 | Kepemimpinan Kristen Yang Mengejawantah Dalam Nilai-Nilai Pancasila",
-                        "date": "2026-06-21",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=BainDQ-xxTk",
-                        "thumbnail": "https://i3.ytimg.com/vi/BainDQ-xxTk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Juni 2026 | Bersama Kita Bisa",
-                        "date": "2026-06-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=wCs__gy-vMs",
-                        "thumbnail": "https://i4.ytimg.com/vi/wCs__gy-vMs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Juni 2026 | Saat Logika Menyerah, Kerahiman Allah Bekerja",
-                        "date": "2026-06-18",
-                        "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
-                        "link": "https://www.youtube.com/watch?v=R0-08vydbmQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/R0-08vydbmQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Juni 2026 | Pengalaman Iman yang Berbeda",
-                        "date": "2026-06-17",
-                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
-                        "link": "https://www.youtube.com/watch?v=ncxclZAI-m0",
-                        "thumbnail": "https://i3.ytimg.com/vi/ncxclZAI-m0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
-                        "date": "2026-06-16",
-                        "desc": "Dibawakan oleh Ibu Yuliani Nugroho",
-                        "link": "https://www.youtube.com/watch?v=wfyMuxs3haQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/wfyMuxs3haQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Juni 2026 | Pancasila dan Iman Kristen",
-                        "date": "2026-06-15",
-                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
-                        "link": "https://www.youtube.com/watch?v=cieTDcBxSN0",
-                        "thumbnail": "https://i4.ytimg.com/vi/cieTDcBxSN0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |15 Juni 2026 | Seperti Burung dan Bakung",
-                        "date": "2026-06-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=eF19gcwXCdA",
-                        "thumbnail": "https://i2.ytimg.com/vi/eF19gcwXCdA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Juni 2026 | Perisai Iman Kuat di Segala Situasi",
-                        "date": "2026-06-12",
-                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                        "link": "https://www.youtube.com/watch?v=WhNj21taQec",
-                        "thumbnail": "https://i4.ytimg.com/vi/WhNj21taQec/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
