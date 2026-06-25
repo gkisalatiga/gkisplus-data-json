@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6088,
-        "last-update": 1782369803,
+        "update-count": 6089,
+        "last-update": 1782382366,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -4645,6 +4645,16 @@
                     "note": ""
                 },
                 {
+                    "name": "Latihan PS Hosana",
+                    "time": "17:00",
+                    "time-to": "18:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Betlehem",
+                    "representative": "Komisi Musik dan Liturgi",
+                    "note": ""
+                },
+                {
                     "name": "Persiapan Ibadah KR",
                     "time": "18:00",
                     "time-to": "19:00",
@@ -4694,16 +4704,6 @@
                     "type": "rutin",
                     "place": "Ruang Betlehem & Teras",
                     "representative": "Tim Warung Tiberias",
-                    "note": ""
-                },
-                {
-                    "name": "Latihan PS Hosana",
-                    "time": "11:00",
-                    "time-to": "12:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "Komisi Musik dan Liturgi",
                     "note": ""
                 },
                 {
@@ -5856,7 +5856,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Atiek Widyati",
-                "status": "w",
+                "status": "n",
                 "note": ""
             },
             {
@@ -5870,7 +5870,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Lainnya",
                 "pic": "Bu Atiek",
-                "status": "w",
+                "status": "y",
                 "note": "Minta Disiapkan Teh"
             },
             {
@@ -5970,6 +5970,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat MJ",
+                "time": "19:45",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-06-30",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Yosua Candana",
+                "status": "y",
+                "note": "Tolong siapkan LCD Proyektor dan teh untuk 12 orang"
             },
             {
                 "name": "Workshop Guru YPE",
