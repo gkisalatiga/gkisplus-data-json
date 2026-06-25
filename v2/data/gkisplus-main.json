@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6090,
-        "last-update": 1782383499,
+        "update-count": 6091,
+        "last-update": 1782392904,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Jun 2026 | Mensyukuri Setiap Proses",
+                        "date": "2026-06-25",
+                        "desc": "Dibawakan oleh Pnt. Sriyuniwati Retnoningsih",
+                        "link": "https://www.youtube.com/watch?v=ISP-Dk98zfo",
+                        "thumbnail": "https://i2.ytimg.com/vi/ISP-Dk98zfo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Jun 2026 | Kemanusiaan Yang Adil dan Beradab",
                         "date": "2026-06-24",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=eF19gcwXCdA",
                         "thumbnail": "https://i2.ytimg.com/vi/eF19gcwXCdA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Juni 2026 | Perisai Iman Kuat di Segala Situasi",
-                        "date": "2026-06-12",
-                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                        "link": "https://www.youtube.com/watch?v=WhNj21taQec",
-                        "thumbnail": "https://i4.ytimg.com/vi/WhNj21taQec/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
