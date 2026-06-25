@@ -11,12 +11,12 @@
             "download-url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus"
         },
         "app-update-ios": {
-            "submission-ongoing": 1,
+            "submission-ongoing": 0,
             "last-version-name": "2.1",
             "download-url": "https://apps.apple.com/id/app/gki-salatiga-plus/id6741834007"
         },
         "last-gallery-update": 1780874362,
-        "last-main-update": 1782311826,
+        "last-main-update": 1782353677,
         "last-modules-update": 1771067885,
         "last-static-update": 1775674131
     }
