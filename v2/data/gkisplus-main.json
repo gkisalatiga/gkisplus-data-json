@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6093,
-        "last-update": 1782469168,
-        "last-updated-item": "agenda",
+        "update-count": 6094,
+        "last-update": 1782478879,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Jun 2026 | Kuasa Kedudukan Vs Karakter",
+                        "date": "2026-06-26",
+                        "desc": "Dibawakan oleh Sdr. Alessandro S. M. G.",
+                        "link": "https://www.youtube.com/watch?v=Su-XIb0_LqM",
+                        "thumbnail": "https://i4.ytimg.com/vi/Su-XIb0_LqM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Jun 2026 | Mensyukuri Setiap Proses",
                         "date": "2026-06-25",
