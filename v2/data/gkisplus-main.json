@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6095,
-        "last-update": 1782517891,
+        "update-count": 6096,
+        "last-update": 1782520591,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2293,6 +2293,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 28 Juni 2026",
+                    "date": "2026-06-27",
+                    "link": "https://drive.google.com/file/d/1qRNggdAryh1NEE0sUPdmjcp0firQgRfy/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-28-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1qRNggdAryh1NEE0sUPdmjcp0firQgRfy",
+                    "id": "1qRNggdAryh1NEE0sUPdmjcp0firQgRfy",
+                    "size": "2.13 MB"
+                },
+                {
                     "title": "Warta Jemaat 21 Juni 2026",
                     "date": "2026-06-20",
                     "link": "https://drive.google.com/file/d/1RgNQG8s-nVc24aEm4pmBPQ445HFkvT0r/view",
@@ -3176,6 +3185,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 28 Juni 2026",
+                    "date": "2026-06-27",
+                    "link": "https://drive.google.com/file/d/1SPMtCjZbycPU5WdDYWgxsPGftLyHP35d/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-28-juni-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1SPMtCjZbycPU5WdDYWgxsPGftLyHP35d",
+                    "id": "1SPMtCjZbycPU5WdDYWgxsPGftLyHP35d",
+                    "size": "0.60 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 21 Juni 2026",
                     "date": "2026-06-20",
@@ -5484,29 +5502,20 @@
         ],
         "carousel": [
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
+                "title": "Persekutuan SoDa",
+                "type": "poster",
+                "date-created": "2026-06-27",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
                 "title": "Informasi Waroeng Tiberias",
                 "type": "poster",
                 "date-created": "2026-06-26",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Funwalk & Sarapan bareng",
-                "type": "poster",
-                "date-created": "2026-06-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2026-06-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
