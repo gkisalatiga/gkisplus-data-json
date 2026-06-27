@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 85,
-        "last-update": 1780874362,
+        "update-count": 86,
+        "last-update": 1782519819,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -30540,6 +30540,71 @@
                     ]
                 },
                 {
+                    "folder_id": "1J4UcwJG0_oIk1hOm0abus76tZH9zsyaD",
+                    "last_update": "2026-06-27",
+                    "featured_photo_id": "15ib5YQ5IKHVIdwF0MPcLfofotHp4D8hu",
+                    "story": "Foto-foto dokumentasi Baksos DLH [MRP 2026] yang dilaksanakan pada 17 April 2026.",
+                    "title": "Baksos DLH [MRP 2026]",
+                    "event_date": "2026.04.17",
+                    "photos": [
+                        {
+                            "id": "18Xd4lpGEWKzExBxekLOkqWvJfnLtWT-l",
+                            "name": "IMG-20260627-WA0019.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1lAQCVUCA_dVAIYdLDR0nQ40mogxbjTRA",
+                            "name": "IMG-20260627-WA0012.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1P6p3JdUUBQ5gnw5EGm5xoxCw47Fq45Fo",
+                            "name": "IMG-20260627-WA0011.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1PCa6pBQtZ1BQqerdzA4epa5pralxIWDm",
+                            "name": "IMG-20260627-WA0013.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1jotHsy5MLb1H4hr-3G1UuTCc_bZ7Z6fQ",
+                            "name": "IMG-20260627-WA0007.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1Rslr_Mm0-it6_ycTOp4TkeEVEBcTegsb",
+                            "name": "IMG-20260627-WA0009.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1cdoAVcRHC4iowWT9IoY6MdHeGht7hONV",
+                            "name": "IMG-20260627-WA0017.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1hs0MHEYEXCWwzyM6cj7GrLlLfbX1j2n9",
+                            "name": "IMG-20260627-WA0001.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1gnNa5zJ2l3_TQ5M_3KXh5KoQisqwmvj8",
+                            "name": "IMG-20260627-WA0003.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "17ooRaiEmgK31mDsEAs2n5rduxudUkZIH",
+                            "name": "IMG-20260627-WA0004.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1fYire8UOtrR86UhygYwJScwY2kFxXJCi",
+                            "name": "IMG-20260627-WA0008.jpg",
+                            "date": "2026-06-27"
+                        }
+                    ]
+                },
+                {
                     "folder_id": "13W6f1OM9iW6Kak-oxhiNB3XAZ-X4qRMu",
                     "last_update": "2026-04-25",
                     "featured_photo_id": "10mkkAUgWfYmpMmOlOLadP-c1qL-4NTsr",
@@ -30891,6 +30956,26 @@
                             "id": "1CYEg-hIUNQ_1wZUL6LHfvvdnVzOQOVYN",
                             "name": "DSCF2241.JPG",
                             "date": "2026-04-25"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1DoHOyiIqgXq7xsMHXPqp1s-6kaCUOZRX",
+                    "last_update": "2026-06-27",
+                    "featured_photo_id": "1Z5BB9rPvwP02Ros6_lPD3xpaIKFON5t7",
+                    "story": "Foto-foto dokumentasi Paskah KUL [MRP 2026] yang dilaksanakan pada 25 April 2026.",
+                    "title": "Paskah KUL [MRP 2026]",
+                    "event_date": "2026.04.25",
+                    "photos": [
+                        {
+                            "id": "1ihSICMjTQCD880w5SNwoJU5ZZfGSS8N7",
+                            "name": "IMG-20260626-WA0001.jpg",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1Ps_EjP-d0OA0bwzuTLM16EKOIuML_Qs5",
+                            "name": "IMG-20260626-WA0000.jpg",
+                            "date": "2026-06-27"
                         }
                     ]
                 },
@@ -32741,6 +32826,385 @@
                             "id": "1GG8HG0eHrR6dkJ2AZRIMPDWcsqMar9Qj",
                             "name": "GKIS 070626 (22).JPG",
                             "date": "2026-06-07"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1vijq8qYgZqXiFiDc-uqcvRVRUQ3u5jCs",
+                    "last_update": "2026-06-27",
+                    "featured_photo_id": "1E7MP3NRsSVZTXzSnS3Z0Inh2sfd7mpf-",
+                    "story": "Foto-foto dokumentasi SAL Komisi Anak, 13-14 Juni yang dilaksanakan pada 13 Juni 2026.",
+                    "title": "SAL Komisi Anak, 13-14 Juni",
+                    "event_date": "2026.06.13",
+                    "photos": [
+                        {
+                            "id": "1bMbTDiljmuSPTHvchUo9156SArC_3DIf",
+                            "name": "IMG_20260613_155102.HEIC",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1IJh3CMnVk2cFt36DSr59LqEVAtMzInmL",
+                            "name": "IMG_20260613_155140.HEIC",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1TOfryKJsln7e5pZDI-MvyXlv-kYBJCa8",
+                            "name": "IMG_20260613_155052.HEIC",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "12PkqVctgVEau5bJBs8Bp3dAubglEzcyC",
+                            "name": "20260614 - SAL KOMISI ANAK (354).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1xd-jZ_DzfvfiWRakOJ9woXJMua2fxqvP",
+                            "name": "20260614 - SAL KOMISI ANAK (362).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1BlqaWYtwUwBAdH_FL6vOaMFVHr6b7_7K",
+                            "name": "20260614 - SAL KOMISI ANAK (339).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1xWWionEttRK5eDLFgf-MjVN6SwBiZpvR",
+                            "name": "20260614 - SAL KOMISI ANAK (302).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1b-mGG6C9a0t8jh6cCR7LHeIX2mqzDksk",
+                            "name": "20260614 - SAL KOMISI ANAK (333).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1-rejj9aYiFp9JgJ-NoHQcxj1TrYbBjnF",
+                            "name": "20260614 - SAL KOMISI ANAK (346).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1_q_Vd76XRUES-MaMaleukso_u4jj2AK8",
+                            "name": "20260614 - SAL KOMISI ANAK (307).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1oYU_r-ffvOPnMB47Z80UKJACzPhb7ezS",
+                            "name": "20260614 - SAL KOMISI ANAK (315).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1FVCfq4m-Wui_M9h3m-7gjZ0jAhnjZpOg",
+                            "name": "20260614 - SAL KOMISI ANAK (312).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1mrl9C56j6h9HQ9TnBd19Agh2aXzqxeXa",
+                            "name": "20260614 - SAL KOMISI ANAK (296).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1JrLQnauV3br8eywNnIHRZQvdjPBHs820",
+                            "name": "20260614 - SAL KOMISI ANAK (274).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1bBDzPno8N5CLfGn2pPWz405aCnrGDut6",
+                            "name": "20260614 - SAL KOMISI ANAK (286).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "11mKbwyXrri-D8QVFjXm2gYnolvu09CCD",
+                            "name": "20260614 - SAL KOMISI ANAK (264).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1CJBaNTyN0U60huL7JGK0t8KTntz4zg5k",
+                            "name": "20260614 - SAL KOMISI ANAK (263).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1_Of_WVLrWuDJ8jnNub8v1WL6sBL8dzlu",
+                            "name": "20260614 - SAL KOMISI ANAK (230).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1n4kMWtEzWHP_K2RjiOYGj1StqaA6REju",
+                            "name": "20260614 - SAL KOMISI ANAK (242).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1NqFdNu_orbwDdkLljSIT7Q4dZMXh0AA4",
+                            "name": "20260614 - SAL KOMISI ANAK (257).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1O3shXxNblH5--FNDM0H2GcSn3FsL46OP",
+                            "name": "20260614 - SAL KOMISI ANAK (233).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1KveDc6WAFZy91eNR5D3uwZbnh5iudifC",
+                            "name": "20260614 - SAL KOMISI ANAK (256).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1UjUkqnPTatt7kNaeDAPoHFJWOFfpFQuZ",
+                            "name": "20260614 - SAL KOMISI ANAK (231).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1Ga2qImqD4HaaP-9IfDMqNB2gkWXMrH3G",
+                            "name": "20260614 - SAL KOMISI ANAK (248).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1cB5oBmh60r_6UIOeh8s-P7LqU-i2Vh9V",
+                            "name": "20260614 - SAL KOMISI ANAK (198).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1EK_TdQdS74OoY9kmmZ798lw0oTTdkemr",
+                            "name": "20260614 - SAL KOMISI ANAK (217).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1zGTNX1WTrnOdYVdEAWko5iQb54egOpRv",
+                            "name": "20260614 - SAL KOMISI ANAK (208).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1nrmT-miExrssnrLV88KPAGceMdpcG_8H",
+                            "name": "20260614 - SAL KOMISI ANAK (187).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1Y8KEAOU1UMSarUYAN2WMJmCX7Dw67V2P",
+                            "name": "20260614 - SAL KOMISI ANAK (202).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1BnO9tbe5UrBH3SIF-JyIuSi0sAVx3jSo",
+                            "name": "20260614 - SAL KOMISI ANAK (128).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1vc6YEIiJbf35c8FylfPmbR794AYS9N-4",
+                            "name": "20260614 - SAL KOMISI ANAK (68).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1jS8M5-mb2gKx4CyMV1DGvAibXAUNBC5R",
+                            "name": "20260614 - SAL KOMISI ANAK (119).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1HaGcxJdGO3rLD6BzizNcJAt40ppla1Al",
+                            "name": "20260614 - SAL KOMISI ANAK (112).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1M2X_Vv_B4wp0-ukmEPIfehKXE80FJiN5",
+                            "name": "20260614 - SAL KOMISI ANAK (49).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1HAtsEkZsfj-1XbkvzaEPIuO8g2N2ocV2",
+                            "name": "20260614 - SAL KOMISI ANAK (28).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1G6EA648uN02J8CEvVRycUxvIUeI4bIcB",
+                            "name": "20260614 - SAL KOMISI ANAK (150).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "10430MfOY-2wjJ1ytohZKm9sR-cSGEcPb",
+                            "name": "20260614 - SAL KOMISI ANAK (23).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "18wWlhU_1rG9zmC5Y8aucqDbPnIq2rZ-W",
+                            "name": "20260614 - SAL KOMISI ANAK (173).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1N3CQKVPUqvZzO1KSNk2RyjAPYEIBq8Tt",
+                            "name": "20260614 - SAL KOMISI ANAK (8).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1_5vX58GIqqukjNL6qP8C6P7aua9InerN",
+                            "name": "20260614 - SAL KOMISI ANAK (12).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "109GxHJiPOtPhEfSK35BjNkPDWKziz6vw",
+                            "name": "20260614 - SAL KOMISI ANAK (161).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "14W4-8vrx85BRO5Ppzd7Lop2M1Hd3w4cn",
+                            "name": "20260614 - SAL KOMISI ANAK (138).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1lrG2AyywMThGkUKCo7Cpuzonek5i7VJd",
+                            "name": "20260614 - SAL KOMISI ANAK (38).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1K9gWmYcH8i3W44AWran8CACaUYBWDSqd",
+                            "name": "20260614 - SAL KOMISI ANAK (168).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1_0t1egvZw7_QfzLYz4an7UxMecD2xyn2",
+                            "name": "20260614 - SAL KOMISI ANAK (5).JPG",
+                            "date": "2026-06-27"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "184rkDhIZNGfZOXLCBmsZZFCuxPbxbv9J",
+                    "last_update": "2026-06-27",
+                    "featured_photo_id": "",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 14 Juni yang dilaksanakan pada 14 Juni 2026.",
+                    "title": "Ibadah Minggu, 14 Juni",
+                    "event_date": "2026.06.14",
+                    "photos": []
+                },
+                {
+                    "folder_id": "1ZuSwLt4T_XJwRbkltCzXZPZSBN1N5StI",
+                    "last_update": "2026-06-27",
+                    "featured_photo_id": "1xxTtnwJYcEgL46X5nYxqiAdylWVpTvDp",
+                    "story": "Foto-foto dokumentasi Kunjungan Industri Komisi Dewasa yang dilaksanakan pada 20 Juni 2026.",
+                    "title": "Kunjungan Industri Komisi Dewasa",
+                    "event_date": "2026.06.20",
+                    "photos": [
+                        {
+                            "id": "1e4MG7JUn5M-Y5EHOhv6PtPtrn7pSiIAl",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (165).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1mkrsh7pe3F-YD5coG6YYclEBwHeO-5RO",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (3).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1cWZ-2_36MlcPlFUtNnwTVLQ-sFOkZ_-l",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (167).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "16jSdZQJj52PGVDycQlcrB8JTiU33pMlt",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (166).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1RvfdpiXIvczMNuk4_NphLKlSWgrEphrF",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (14).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1Qg6oanpAQE7XquXTymG634loi_phHgCY",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (16).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "13rO1MFZ9_l_wOvtCmt6fgHyfmpXXri3a",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (38).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "10RkObfo6DsOErKOESrGFQH_3sqkfu4GH",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (46).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1ocGZ4wCElZ2G--UnF8-x1zXDa-cZsOl8",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (41).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1HCX9UdwlWV7r4XazlL10TN2HXZ90zoD6",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (45).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1BY4PVS5jfElrNKmf-YRc6RFkUR_8nVb2",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (158).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "19M0E9ury5eB6-D1CFUfn9hojVLsEV_7M",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (67).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1cbEV_8A36ZHjek5xhy8YLjuEbzfQp4qh",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (61).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1r2v5QQ2uoID4F6cRgXSftH57wyRiXWfC",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (85).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1h8gmvocHej62jPcxcEOs3CrIEmZ05RDF",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (96).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1mho16IEytxuV69uJdUuF31I7r93wfAf3",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (80).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1dxJDm0e7HNgAEcKz-ANOTisstpgwyiRQ",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (68).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1KDqbfr5kdobBohCMmB2jdIgFiu_G3gBW",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (70).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "11ZaGF73pX3Wu_5trDOxJLHVosAVsRpZC",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (92).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1nAC7Q25bvF9hoKQP7SNPA5NoY_2dIIc2",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (127).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "14e6iPfAmR9T0RTIuzfo9ke-imINXZqhI",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (126).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1iOIYvHxgpqnS_My96nUZMl-_diLYYssS",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (136).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1TdB9WfcE4bJqatWEYpCcBpNcFyldh5ku",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (123).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "165MfQJuMog5ZePTj-B4wlxyFI1sMLxSG",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (146).JPG",
+                            "date": "2026-06-27"
+                        },
+                        {
+                            "id": "1OLEkHgE7p6q-HRCRxCrj_VejUJWEid5Z",
+                            "name": "20260620 - KUNJUNGAN INDUSTRI KOMISI DEWASA (132).JPG",
+                            "date": "2026-06-27"
                         }
                     ]
                 }
