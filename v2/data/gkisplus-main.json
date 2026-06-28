@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6099,
-        "last-update": 1782561847,
+        "update-count": 6100,
+        "last-update": 1782626703,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -1515,6 +1515,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Bincang-Bincang KD | STRATEGI BERTAHAN & BERKEMBANG BAGI UMKM DI ERA DIGITAL",
+                        "date": "2026-06-28",
+                        "desc": "",
+                        "link": "https://www.youtube.com/watch?v=b_Pe19bkdZ0",
+                        "thumbnail": "https://i.ytimg.com/vi/b_Pe19bkdZ0/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Natal Komisi Dewasa | 3 Januari 2026 | Gembala Dan Sukacita",
                         "date": "2026-01-01",
