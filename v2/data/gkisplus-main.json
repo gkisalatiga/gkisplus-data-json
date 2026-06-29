@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6108,
-        "last-update": 1782720755,
-        "last-updated-item": "agenda",
+        "update-count": 6109,
+        "last-update": 1782751678,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
+                        "date": "2026-06-29",
+                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
+                        "link": "https://www.youtube.com/watch?v=KzRnBQLt3zs",
+                        "thumbnail": "https://i4.ytimg.com/vi/KzRnBQLt3zs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Jun 2026 | Gotong Royong ala Nehemia",
+                        "date": "2026-06-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=OVD7PwxtsDE",
+                        "thumbnail": "https://i4.ytimg.com/vi/OVD7PwxtsDE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Jun 2026 | Tak Gentar oleh Ketakutan",
                         "date": "2026-06-28",
@@ -82,20 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
                         "link": "https://www.youtube.com/watch?v=R0-08vydbmQ",
                         "thumbnail": "https://i3.ytimg.com/vi/R0-08vydbmQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Juni 2026 | Pengalaman Iman yang Berbeda",
-                        "date": "2026-06-17",
-                        "desc": "Dibawakan oleh Sdri. Asputri R Kaat",
-                        "link": "https://www.youtube.com/watch?v=ncxclZAI-m0",
-                        "thumbnail": "https://i3.ytimg.com/vi/ncxclZAI-m0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Juni 2026 | Hidup Secara Konsisten",
-                        "date": "2026-06-16",
-                        "desc": "Dibawakan oleh Ibu Yuliani Nugroho",
-                        "link": "https://www.youtube.com/watch?v=wfyMuxs3haQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/wfyMuxs3haQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
