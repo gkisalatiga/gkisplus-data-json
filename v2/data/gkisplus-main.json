@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6109,
-        "last-update": 1782751678,
+        "update-count": 6110,
+        "last-update": 1782767647,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,11 +21,11 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
+                        "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
                         "date": "2026-06-29",
-                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
-                        "link": "https://www.youtube.com/watch?v=KzRnBQLt3zs",
-                        "thumbnail": "https://i4.ytimg.com/vi/KzRnBQLt3zs/hqdefault.jpg"
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=8ajnD-yJimo",
+                        "thumbnail": "https://i1.ytimg.com/vi/8ajnD-yJimo/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 30 Jun 2026 | Gotong Royong ala Nehemia",
@@ -33,6 +33,13 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=OVD7PwxtsDE",
                         "thumbnail": "https://i4.ytimg.com/vi/OVD7PwxtsDE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
+                        "date": "2026-06-29",
+                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
+                        "link": "https://www.youtube.com/watch?v=KzRnBQLt3zs",
+                        "thumbnail": "https://i4.ytimg.com/vi/KzRnBQLt3zs/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 29 Jun 2026 | Tak Gentar oleh Ketakutan",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=wCs__gy-vMs",
                         "thumbnail": "https://i4.ytimg.com/vi/wCs__gy-vMs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Juni 2026 | Saat Logika Menyerah, Kerahiman Allah Bekerja",
-                        "date": "2026-06-18",
-                        "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
-                        "link": "https://www.youtube.com/watch?v=R0-08vydbmQ",
-                        "thumbnail": "https://i3.ytimg.com/vi/R0-08vydbmQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
