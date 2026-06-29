@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6106,
-        "last-update": 1782709000,
+        "update-count": 6107,
+        "last-update": 1782711145,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5512,8 +5512,8 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pengaturan_parkir_1.webp",
                 "title": "Informasi Pengaturan Parkir",
                 "type": "poster",
-                "date-created": "2026-06-21",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pengaturan_parkir_1.webp",
+                "date-created": "2026-06-29",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pengaturan_parkir_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
