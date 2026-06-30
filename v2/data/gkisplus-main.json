@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6112,
-        "last-update": 1782802365,
+        "update-count": 6113,
+        "last-update": 1782815352,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5629,90 +5629,6 @@
                 "note": "Kegiatan Gereja Selain kegiatan Gladi dan Kebaktian Minggu tidak ada kegiatan di Gedung gereja"
             },
             {
-                "name": "Rapat Pengurus Baru Komisi Pemuda",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-06-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Pemuda",
-                "pic": "Mario",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pelatihan merangkai bunga",
-                "time": "09:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-06-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Atiek Widyati",
-                "status": "n",
-                "note": ""
-            },
-            {
-                "name": "Pelatihan Florist",
-                "time": "09:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-06-27",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Lainnya",
-                "pic": "Bu Atiek",
-                "status": "y",
-                "note": "Minta Disiapkan Teh"
-            },
-            {
-                "name": "Kunjungan dari GKI Imanuel Serui",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-28",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Desemy",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Bincang2 Komisi Dewasa",
-                "time": "10:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-06-28",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Pleno KD",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-06-29",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "y",
-                "note": "Minta disiapkan LCD proyektor dan layar"
-            },
-            {
                 "name": "Persiapan PK Wilayah 9 ",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5807,6 +5723,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat KPPK",
+                "time": "17:30",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Dwi Handari",
                 "status": "y",
                 "note": ""
             },
@@ -6089,20 +6019,6 @@
                 "pic": "Kepala sekolah",
                 "status": "y",
                 "note": "Terbagi 2 sesi"
-            },
-            {
-                "name": "Workshop Review Kurikulum",
-                "time": "07:00",
-                "time-to": "15:30",
-                "timezone": "WIB",
-                "date": "2026-07-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Uma Christy Kunsitaresmi",
-                "status": "y",
-                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
