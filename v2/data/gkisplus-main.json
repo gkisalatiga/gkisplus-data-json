@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6115,
-        "last-update": 1782822570,
-        "last-updated-item": "agenda",
+        "update-count": 6116,
+        "last-update": 1782835993,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Jul 2026",
+                        "date": "2026-06-30",
+                        "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
+                        "link": "https://www.youtube.com/watch?v=MU0RkeE7EJk",
+                        "thumbnail": "https://i2.ytimg.com/vi/MU0RkeE7EJk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
                         "date": "2026-06-29",
