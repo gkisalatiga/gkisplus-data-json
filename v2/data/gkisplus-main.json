@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6120,
-        "last-update": 1782903573,
+        "update-count": 6121,
+        "last-update": 1782940421,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
+                        "date": "2026-07-01",
+                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
+                        "link": "https://www.youtube.com/watch?v=KzRnBQLt3zs",
+                        "thumbnail": "https://i4.ytimg.com/vi/KzRnBQLt3zs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Jul 2026",
                         "date": "2026-06-30",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=OVD7PwxtsDE",
                         "thumbnail": "https://i4.ytimg.com/vi/OVD7PwxtsDE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
-                        "date": "2026-06-29",
-                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
-                        "link": "https://www.youtube.com/watch?v=KzRnBQLt3zs",
-                        "thumbnail": "https://i4.ytimg.com/vi/KzRnBQLt3zs/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 29 Jun 2026 | Tak Gentar oleh Ketakutan",
