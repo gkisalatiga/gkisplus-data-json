@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6124,
-        "last-update": 1782987955,
+        "update-count": 6125,
+        "last-update": 1783025283,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
+                        "date": "2026-07-02",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=8ajnD-yJimo",
+                        "thumbnail": "https://i1.ytimg.com/vi/8ajnD-yJimo/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
                         "date": "2026-07-01",
                         "desc": "Dibawakan oleh Bpk. Danang Purnomo",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
                         "link": "https://www.youtube.com/watch?v=MU0RkeE7EJk",
                         "thumbnail": "https://i2.ytimg.com/vi/MU0RkeE7EJk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
-                        "date": "2026-06-29",
-                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
-                        "link": "https://www.youtube.com/watch?v=8ajnD-yJimo",
-                        "thumbnail": "https://i1.ytimg.com/vi/8ajnD-yJimo/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 30 Jun 2026 | Gotong Royong ala Nehemia",
