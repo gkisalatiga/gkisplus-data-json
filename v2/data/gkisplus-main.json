@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6126,
-        "last-update": 1783045769,
+        "update-count": 6127,
+        "last-update": 1783058947,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5840,6 +5840,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPH KA",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-03",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": "Minta dibuatkan teh panas"
+            },
+            {
                 "name": "Pertemuan dg Mahasiswa PPL",
                 "time": "10:00",
                 "time-to": "11:30",
@@ -5868,6 +5882,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat YPE",
+                "time": "14:00",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2026-07-04",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "Terimakasih"
+            },
+            {
+                "name": "Pertemuan dg mahasiswa PPL",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-07-05",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5892,6 +5934,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Elibert",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPMJ",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
             },
@@ -6428,6 +6484,20 @@
                 "note": ""
             },
             {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-10-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5 (Triwibowo)",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6456,90 +6526,6 @@
                 "note": "-"
             },
             {
-                "name": "PA Wil. 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pak Andi",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Tim Pembimbing Capen",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wil. 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pak Andi",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Tim Pembimbing Capen",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-12",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wil. 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pak Andi",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-10-06",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6552,6 +6538,20 @@
                 "pic": "Yuliyanti ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "PA Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6582,6 +6582,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Pembimbing Capen",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6593,6 +6621,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Pembimbing Capen",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-12",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6608,6 +6650,20 @@
                 "pic": "Yuliyanti ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "PA Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Pak Andi",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6662,48 +6718,6 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat YPE",
-                "time": "14:00",
-                "time-to": "16:30",
-                "timezone": "WIB",
-                "date": "2026-07-04",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Ibu Yari Dwikurnaningsih",
-                "status": "w",
-                "note": "Terimakasih"
-            },
-            {
-                "name": "Rapat BPH KA",
-                "time": "18:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-07-03",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": "Minta dibuatkan teh panas"
-            },
-            {
-                "name": "Pertemuan dg mahasiswa PPL",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-07-05",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Lainnya",
-                "pic": "Lukas Sukan",
                 "status": "w",
                 "note": ""
             }
