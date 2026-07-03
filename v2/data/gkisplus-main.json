@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6128,
-        "last-update": 1783081161,
-        "last-updated-item": "agenda",
+        "update-count": 6129,
+        "last-update": 1783093619,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 4 Jul 2026 | Apa Arti Hidupmu?",
+                        "date": "2026-07-03",
+                        "desc": "Dibawakan oleh Pnt. Rodiana",
+                        "link": "https://www.youtube.com/watch?v=NCKkiNW5-9E",
+                        "thumbnail": "https://i3.ytimg.com/vi/NCKkiNW5-9E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
                         "date": "2026-07-02",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
                         "link": "https://www.youtube.com/watch?v=BainDQ-xxTk",
                         "thumbnail": "https://i3.ytimg.com/vi/BainDQ-xxTk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Juni 2026 | Bersama Kita Bisa",
-                        "date": "2026-06-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=wCs__gy-vMs",
-                        "thumbnail": "https://i4.ytimg.com/vi/wCs__gy-vMs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
