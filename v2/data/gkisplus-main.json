@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6125,
-        "last-update": 1783025283,
-        "last-updated-item": "yt",
+        "update-count": 6126,
+        "last-update": 1783045769,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6692,6 +6692,20 @@
                 "pic": "Wurjayanti",
                 "status": "w",
                 "note": "Minta dibuatkan teh panas"
+            },
+            {
+                "name": "Pertemuan dg mahasiswa PPL",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-07-05",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
