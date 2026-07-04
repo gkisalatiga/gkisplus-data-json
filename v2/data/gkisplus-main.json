@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6130,
-        "last-update": 1783132047,
+        "update-count": 6131,
+        "last-update": 1783154536,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6809,6 +6809,20 @@
                 "pic": "Bu Djini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Tim Inventaris",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-05",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
