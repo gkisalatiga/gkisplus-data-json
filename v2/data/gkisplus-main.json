@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6131,
-        "last-update": 1783154536,
+        "update-count": 6132,
+        "last-update": 1783156206,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2307,6 +2307,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 5 Juli 2026",
+                    "date": "2026-07-04",
+                    "link": "https://drive.google.com/file/d/1CtDt0f8arwL1NeP5Imokbtwo-k8Ts4Es/view",
+                    "post-page": "hhttps://gkisalatiga.org/warta-jemaat-5-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1CtDt0f8arwL1NeP5Imokbtwo-k8Ts4Es",
+                    "id": "1CtDt0f8arwL1NeP5Imokbtwo-k8Ts4Es",
+                    "size": "1.70 MB"
+                },
+                {
                     "title": "Warta Jemaat 28 Juni 2026",
                     "date": "2026-06-27",
                     "link": "https://drive.google.com/file/d/1qRNggdAryh1NEE0sUPdmjcp0firQgRfy/view",
@@ -3199,6 +3208,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 5 Juli 2026",
+                    "date": "2026-07-04",
+                    "link": "https://drive.google.com/file/d/1PAjraQl09L-Wn9vX0AZDfJi4_NbKJh3I/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-5-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1PAjraQl09L-Wn9vX0AZDfJi4_NbKJh3I",
+                    "id": "1PAjraQl09L-Wn9vX0AZDfJi4_NbKJh3I",
+                    "size": "0.81 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 28 Juni 2026",
                     "date": "2026-06-27",
@@ -5516,15 +5534,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
-                "title": "Informasi Waroeng Tiberias",
-                "type": "poster",
-                "date-created": "2026-07-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
                 "title": "Persekutuan SoDa 4 Juli",
                 "type": "poster",
@@ -5584,6 +5593,15 @@
                 "type": "poster",
                 "date-created": "2026-06-29",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
+                "title": "Informasi Waroeng Tiberias",
+                "type": "poster",
+                "date-created": "2026-07-04",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_wartib_libur.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
