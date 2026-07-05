@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6136,
-        "last-update": 1783263825,
+        "update-count": 6137,
+        "last-update": 1783274017,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Jul 2026 | Iman Itu Mengubah Nasib",
+                        "date": "2026-07-05",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=sFawVDwnfVw",
+                        "thumbnail": "https://i4.ytimg.com/vi/sFawVDwnfVw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Jul 2026 | Apa Arti Hidupmu?",
                         "date": "2026-07-03",
