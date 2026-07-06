@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6138,
-        "last-update": 1783305693,
+        "update-count": 6139,
+        "last-update": 1783321608,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6990,6 +6990,34 @@
                 "pic": "Pdt. Yefta Setiawan Krisgunadi",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan English Service",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-07-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "w",
+                "note": "Alat musik yang dibutuhkan : gitar elektrik, keyboard, drum, bass"
+            },
+            {
+                "name": "Gladi Bersih English Service",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-07-11",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "w",
+                "note": "Alat musik yang dibutuhkan : gitar elektrik, keyboard, drum, bass"
             }
         ],
         "backend": {
