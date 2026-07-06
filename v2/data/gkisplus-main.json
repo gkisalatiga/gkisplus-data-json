@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6139,
-        "last-update": 1783321608,
-        "last-updated-item": "agenda",
+        "update-count": 6140,
+        "last-update": 1783356361,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Jul 2026 | Setia Menabur di Setiap Musim Kehidupan",
+                        "date": "2026-07-06",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=jJ5VjdJr1IA",
+                        "thumbnail": "https://i3.ytimg.com/vi/jJ5VjdJr1IA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Jul 2026 | Iman Itu Mengubah Nasib",
                         "date": "2026-07-05",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Ibu Raema Andreyana",
                         "link": "https://www.youtube.com/watch?v=YUYudT6-_rs",
                         "thumbnail": "https://i2.ytimg.com/vi/YUYudT6-_rs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Juni 2026 | Kepemimpinan Kristen Yang Mengejawantah Dalam Nilai-Nilai Pancasila",
-                        "date": "2026-06-21",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=BainDQ-xxTk",
-                        "thumbnail": "https://i3.ytimg.com/vi/BainDQ-xxTk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
