@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 87,
-        "last-update": 1782709613,
+        "update-count": 88,
+        "last-update": 1783465703,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -33390,6 +33390,31 @@
                             "id": "1_64UVWADytzJzlf87ux1WRMJP9v239Py",
                             "name": "GKIS 280626 (10).JPG",
                             "date": "2026-06-29"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1TBb3UFKZh7kCXCNRyDgW9vp7QnPVciLz",
+                    "last_update": "2026-07-07",
+                    "featured_photo_id": "1_0_bmOFmuYZWEt2tMhPfnEHn54a3Y7qW",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 5 Juli yang dilaksanakan pada 5 Juli 2026.",
+                    "title": "Ibadah Minggu, 5 Juli",
+                    "event_date": "2026.07.05",
+                    "photos": [
+                        {
+                            "id": "1nBz34lBh4SviyeHsCeDJpuBMeftp2sOL",
+                            "name": "DSCF0327.JPG",
+                            "date": "2026-07-07"
+                        },
+                        {
+                            "id": "1S-f-ZOWZYrWcVx_QB7KCtceF3wShnOjA",
+                            "name": "DSCF0326.JPG",
+                            "date": "2026-07-07"
+                        },
+                        {
+                            "id": "1CYSXShQ1c_c6QjCecMWS9TgVgOZwd7l_",
+                            "name": "DSCF0329.JPG",
+                            "date": "2026-07-07"
                         }
                     ]
                 }
