@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6145,
-        "last-update": 1783486547,
+        "update-count": 6146,
+        "last-update": 1783495313,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,99 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
+                        "date": "2026-07-08",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=9rwO-rJOLaY",
+                        "thumbnail": "https://i2.ytimg.com/vi/9rwO-rJOLaY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Jul 2026 | Anak Adalah Milik Pusaka Tuhan",
+                        "date": "2026-07-07",
+                        "desc": "Dibawakan oleh Ibu Prijani",
+                        "link": "https://www.youtube.com/watch?v=1Ia55g4b6cg",
+                        "thumbnail": "https://i2.ytimg.com/vi/1Ia55g4b6cg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Jul 2026 | Setia Menabur di Setiap Musim Kehidupan",
+                        "date": "2026-07-06",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=jJ5VjdJr1IA",
+                        "thumbnail": "https://i3.ytimg.com/vi/jJ5VjdJr1IA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Jul 2026 | Iman Itu Mengubah Nasib",
+                        "date": "2026-07-05",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=sFawVDwnfVw",
+                        "thumbnail": "https://i4.ytimg.com/vi/sFawVDwnfVw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Jul 2026 | Apa Arti Hidupmu?",
+                        "date": "2026-07-03",
+                        "desc": "Dibawakan oleh Pnt. Rodiana",
+                        "link": "https://www.youtube.com/watch?v=NCKkiNW5-9E",
+                        "thumbnail": "https://i3.ytimg.com/vi/NCKkiNW5-9E/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
+                        "date": "2026-07-02",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=8ajnD-yJimo",
+                        "thumbnail": "https://i1.ytimg.com/vi/8ajnD-yJimo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Jul 2026 | Tetap Berpengharapan di Tengah Kondisi yang Sulit",
+                        "date": "2026-07-01",
+                        "desc": "Dibawakan oleh Bpk. Danang Purnomo",
+                        "link": "https://www.youtube.com/watch?v=KzRnBQLt3zs",
+                        "thumbnail": "https://i4.ytimg.com/vi/KzRnBQLt3zs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Jul 2026",
+                        "date": "2026-06-30",
+                        "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
+                        "link": "https://www.youtube.com/watch?v=MU0RkeE7EJk",
+                        "thumbnail": "https://i2.ytimg.com/vi/MU0RkeE7EJk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Jun 2026 | Gotong Royong ala Nehemia",
+                        "date": "2026-06-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=OVD7PwxtsDE",
+                        "thumbnail": "https://i4.ytimg.com/vi/OVD7PwxtsDE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Jun 2026 | Tak Gentar oleh Ketakutan",
+                        "date": "2026-06-28",
+                        "desc": "Dibawakan oleh Ibu Claudia Lazarusli",
+                        "link": "https://www.youtube.com/watch?v=WViglvjdc68",
+                        "thumbnail": "https://i4.ytimg.com/vi/WViglvjdc68/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 27 Jun 2026 | Kuasa Kedudukan Vs Karakter",
+                        "date": "2026-06-26",
+                        "desc": "Dibawakan oleh Sdr. Alessandro S. M. G.",
+                        "link": "https://www.youtube.com/watch?v=Su-XIb0_LqM",
+                        "thumbnail": "https://i4.ytimg.com/vi/Su-XIb0_LqM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Jun 2026 | Mensyukuri Setiap Proses",
+                        "date": "2026-06-25",
+                        "desc": "Dibawakan oleh Pnt. Sriyuniwati Retnoningsih",
+                        "link": "https://www.youtube.com/watch?v=ISP-Dk98zfo",
+                        "thumbnail": "https://i2.ytimg.com/vi/ISP-Dk98zfo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Jun 2026 | Kemanusiaan Yang Adil dan Beradab",
+                        "date": "2026-06-24",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=SV9fVLmT214",
+                        "thumbnail": "https://i4.ytimg.com/vi/SV9fVLmT214/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -33,7 +125,7 @@
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 5 Juli 2026 | 16.30 WIB | \"Kesetiaan Segenap Hidup\"",
                         "date": "2026-07-04",
-                        "desc": "Ibadah Minggu GKI Salatiga | 5 Juli 2026 | Pukul 07.00 WIB\n\nTema: \"Kesetiaan Segenap Hidup\"\n\nNyanyian: Dengar Dia Panggil Nama Saya medley Memuji Tuhan Selalu; KJ 422:1,2; KJ 464:1; Kasih Yesus medley S\u2019gala Puji Syukur; NKB 183:1,4,5\n\nBacaan 1: Kejadian 24:34-38, 42-49, 58-67\nTanggapan: Mazmur 45:11-18\nBacaan 2: Roma 7:15-25\nBacaan Injil: Matius 11:16-19, 25-30\nBerita Anugrah: 1 Yohanes 1:9\nPersembahan: Lukas 16:10\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Ervien Dian W.\nKredo dan Warta: Pnt. Catur Winarno\nSambut Tamu: Pnt. Benny A. Kailola, Pnt. Desemy Ch. N. Ballo\nPemandu Liturgi: Pnt. Rodiana\nLektor 1: Pnt. Shielly Gunawan\nLektor 2: Pnt. Adita Sutresno\n\nPemusik: BandKR\nPNK: Samuel A.\nPemazmur: Elmanoel\nPaduan Suara : PS Anugerah (GKI Pondok Tjandra Indah, Sidoarjo)\nTim Multimedia: Purnomo, Susan, Joshua, Elibert, David W. , Bobby\nDokumentasi: Judica / Erio \nFlorist: Tim Anggrek Vanda\nUsher & Kolektan: -\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "desc": "Ibadah Minggu GKI Salatiga | 5 Juli 2026 | Pukul 07.00 WIB\n\nTema: \"Kesetiaan Segenap Hidup\"\n\nNyanyian: Dengar Dia Panggil Nama Saya medley Memuji Tuhan Selalu; KJ 422:1,2; KJ 464:1; Kasih Yesus medley S\u2019gala Puji Syukur; NKB 183:1,4,5\n\nBacaan 1: Kejadian 24:34-38, 42-49, 58-67\nTanggapan: Mazmur 45:11-18\nBacaan 2: Roma 7:15-25\nBacaan Injil: Matius 11:16-19, 25-30\nBerita Anugrah: 1 Yohanes 1:9\nPersembahan: Lukas 16:10\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Ervien Dian W.\nKredo dan Warta: Pnt. Catur Winarno\nSambut Tamu: Pnt. Benny A. Kailola, Pnt. Desemy Ch. N. Ballo\nPemandu Liturgi: Pnt. Rodiana\nLektor 1: Pnt. Shielly Gunawan\nLektor 2: Pnt. Adita Sutresno\n\nPemusik: BandKR\nPNK: Samuel A.\nPemazmur: Elmanoel\nPaduan Suara : PS Anugerah (GKI Pondok Tjandra Indah, Sidoarjo)\nTim Multimedia: Purnomo, Susan, Joshua, Elibert, David W. , Bobby W.\nDokumentasi: Judica / Erio \nFlorist: Tim Anggrek Vanda\nUsher & Kolektan: -\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=W0n7gRol-vs",
                         "thumbnail": "https://i.ytimg.com/vi/W0n7gRol-vs/hqdefault.jpg"
                     },
@@ -252,6 +344,13 @@
             {
                 "content": [
                     {
+                        "title": "GKI Salatiga | English Service | Sunday, July 12th, 2026 | 10 a.m. Jakarta Time",
+                        "date": "2026-07-08",
+                        "desc": "GKI Salatiga | English Service | Sunday, July 12th, 2026 | 10 a.m. Jakarta Time\n\nPray, Hope and Walk by the Spirit\nRomans 8:1-11\n\nLed by\nRev. Mariska Lauterboom\n\nKoordinator: Tika\nLiturgi: Nadia Sita\nPre-service prayer: \nPL: Irma\nReader: Bunga\nAffirmation of Faith: \nPrayer: Feri (L1) & Dea (L2)\nOffertory: Arka\nKolektan: Tika & lawreneeeee\nUshers: \nPPT & Poster: James\nMulmed: Pak Bamz \nSinger: Lia\nMusik: \n  - Keyboard: Novan\n  - Drum: Eman\n  - Bass: Ezer\n  - Gitar: Naldi\nSoundman: Panji\n\nRefreshments: Dita\nPencetak liturgi: Irma\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
+                        "link": "https://www.youtube.com/watch?v=VtNTleacEZI",
+                        "thumbnail": "https://i.ytimg.com/vi/VtNTleacEZI/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "GKI Salatiga | English Service | Sunday, June 7th, 2026 | 10 a.m. Jakarta Time",
                         "date": "2026-05-31",
                         "desc": "GKI Salatiga | English Service | Sunday, June 7th, 2026 | 10 a.m. Jakarta Time\n\nWhat Won't You Give Up?\nMark 10:17-27\n\nLed by\nMr. Jonathan Moore\n\nLiturgi: Nadia Sita\nPre-service prayer: Pnt. Natalis Sidanta\nPL: Nadia Sita\nReader: Lauren\nAffirmation of Faith: Pnt. Natalis Sidanta\nPrayer: Trista & Reinaldo\nOffertory: Pramusita\nKolektan: Dita & Irma\nUshers: Neria & Dea\nPPT & Poster: James\nMulmed: Pak Bamz \nSinger: Tika\nMusik: \n- Keyboard: Bram\n- Drum: Joan\n- Bass: Ezer\n- Gitar: Hosea\nSoundman: Mario\n\nRefreshments: Dita\nPencetak liturgi: Irma\n\n***\n\nConnect with us on social media:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK:   / gkisalatiga.111b  \n\u2022 INSTAGRAM:   / gkisalatiga  \n\nDownload the GKI Salatiga+ app to find out more:\nhttps://play.google.com/store/apps/de...\nhttps://apps.apple.com/id/app/gki-sal...\n\nGKI Salatiga English Service is a multidenominational worship experience. Although based on the reformed tradition, we invite all to share in worship. Our speakers do not come from any one denomination and we are privileged to share Christ's love from different viewpoints, demonstrating the greatness of God's world.\n\n#churchservice #englishservice #salatiga #sundayservice",
@@ -453,13 +552,6 @@
                         "desc": "Theme: The God of Jeremiah\nSpeaker: Mr. Nathan Fosdahl\nLiturgist: Diane\nSong Leader: Cinta. Rizky\nMusician: Teddy",
                         "link": "https://www.youtube.com/watch?v=gMt0l6YbSHw",
                         "thumbnail": "https://i.ytimg.com/vi/gMt0l6YbSHw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "English Service GKI Salatiga | February 5, 2023 | \"Strength for the Weary\"",
-                        "date": "2023-02-06",
-                        "desc": "Sermon: Mr. Alexander Kirk\nLiturgist: Mega\nSong Leader: Lia, Angel\nPianist: Tedy\nMultimedia: Eddy, Daniel",
-                        "link": "https://www.youtube.com/watch?v=4VNkhF3tsBk",
-                        "thumbnail": "https://i.ytimg.com/vi/4VNkhF3tsBk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
