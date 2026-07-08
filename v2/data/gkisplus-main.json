@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6147,
-        "last-update": 1783498680,
+        "update-count": 6148,
+        "last-update": 1783506813,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5757,6 +5757,20 @@
                 "note": "Kegiatan Gereja Selain kegiatan Gladi dan Kebaktian Minggu tidak ada kegiatan di Gedung gereja"
             },
             {
+                "name": "Latihan Tim Pesparawi",
+                "time": "17:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2026-07-08",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Eriyani",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Edit Desain Grafis dan Tutoring Tim Yonatan (Pubdok) SODA",
                 "time": "18:00",
                 "time-to": "21:00",
@@ -5813,6 +5827,20 @@
                 "note": "Alat musik yang dibutuhkan : gitar elektrik, keyboard, drum, bass"
             },
             {
+                "name": "Latihan PS. Hosana (Bulan Juli latihan hari Kamis)",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-07-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Sartini",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat BPMJ",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5837,7 +5865,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Wardjini",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5865,7 +5893,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Moris Natangku",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6091,6 +6119,20 @@
                 "pic": "Kepala sekolah",
                 "status": "y",
                 "note": "Terbagi 2 sesi"
+            },
+            {
+                "name": "Latihan PS. Hosana (Bulan Juli)",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-07-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Sartini",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5",
@@ -6734,48 +6776,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. Hosana (Bulan Juli latihan hari Kamis)",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-07-09",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Sartini",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. Hosana (Bulan Juli)",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-07-16",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Sartini",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Pesparawi",
-                "time": "17:00",
-                "time-to": "17:30",
-                "timezone": "WIB",
-                "date": "2026-07-08",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Eriyani",
-                "status": "w",
                 "note": ""
             }
         ],
