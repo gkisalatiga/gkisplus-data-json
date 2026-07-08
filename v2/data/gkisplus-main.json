@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6149,
-        "last-update": 1783526137,
-        "last-updated-item": "yt",
+        "update-count": 6150,
+        "last-update": 1783528000,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6776,6 +6776,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "KTB Remaja",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
+                "status": "w",
                 "note": ""
             }
         ],
