@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6148,
-        "last-update": 1783506813,
-        "last-updated-item": "agenda",
+        "update-count": 6149,
+        "last-update": 1783526137,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Jul 2026 | Bukan Hanya yang di Depan Tapi Juga yang di Balik Layar",
+                        "date": "2026-07-08",
+                        "desc": "Dibawakan oleh Bpk. Erio FanggidaE",
+                        "link": "https://www.youtube.com/watch?v=-5qcwRiV6z0",
+                        "thumbnail": "https://i2.ytimg.com/vi/-5qcwRiV6z0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
                         "date": "2026-07-08",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pnt. Sriyuniwati Retnoningsih",
                         "link": "https://www.youtube.com/watch?v=ISP-Dk98zfo",
                         "thumbnail": "https://i2.ytimg.com/vi/ISP-Dk98zfo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Jun 2026 | Kemanusiaan Yang Adil dan Beradab",
-                        "date": "2026-06-24",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=SV9fVLmT214",
-                        "thumbnail": "https://i4.ytimg.com/vi/SV9fVLmT214/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
