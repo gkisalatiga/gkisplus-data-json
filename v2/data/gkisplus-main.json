@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6150,
-        "last-update": 1783528000,
+        "update-count": 6151,
+        "last-update": 1783564156,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5869,6 +5869,20 @@
                 "note": ""
             },
             {
+                "name": "KTB Remaja",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-10",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri Kaat",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih English Service",
                 "time": "09:00",
                 "time-to": "13:00",
@@ -5981,6 +5995,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 1",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-07-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "nan",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Yuliyanti",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6023,6 +6051,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 2&8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "nan",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6033,7 +6075,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -6131,7 +6173,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Sartini",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6779,16 +6821,16 @@
                 "note": ""
             },
             {
-                "name": "KTB Remaja",
-                "time": "17:00",
-                "time-to": "19:00",
+                "name": "Pertemuan Sosialisasi orang tua kelas 1",
+                "time": "07:00",
+                "time-to": "10:00",
                 "timezone": "WIB",
-                "date": "2026-07-10",
-                "weekday": "fri",
+                "date": "2026-07-13",
+                "weekday": "mon",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Asputri Kaat",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
                 "status": "w",
                 "note": ""
             }
