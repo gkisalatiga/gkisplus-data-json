@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6152,
-        "last-update": 1783576345,
-        "last-updated-item": "yt",
+        "update-count": 6153,
+        "last-update": 1783578390,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5686,7 +5686,7 @@
                 "date": "2026-07-09",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
+                "place": "Gedung Gereja ",
                 "representative": "Komisi Pemuda",
                 "pic": "Samarthya",
                 "status": "y",
