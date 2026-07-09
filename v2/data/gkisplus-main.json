@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6155,
-        "last-update": 1783593783,
+        "update-count": 6156,
+        "last-update": 1783622656,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
+                        "date": "2026-07-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=9rwO-rJOLaY",
+                        "thumbnail": "https://i2.ytimg.com/vi/9rwO-rJOLaY/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 9 Jul 2026 | Bukan Hanya yang di Depan Tapi Juga yang di Balik Layar",
                         "date": "2026-07-08",
                         "desc": "Dibawakan oleh Bpk. Erio FanggidaE",
                         "link": "https://www.youtube.com/watch?v=-5qcwRiV6z0",
                         "thumbnail": "https://i2.ytimg.com/vi/-5qcwRiV6z0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
-                        "date": "2026-07-08",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=9rwO-rJOLaY",
-                        "thumbnail": "https://i2.ytimg.com/vi/9rwO-rJOLaY/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 8 Jul 2026 | Anak Adalah Milik Pusaka Tuhan",
