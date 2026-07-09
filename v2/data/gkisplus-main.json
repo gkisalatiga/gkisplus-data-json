@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6153,
-        "last-update": 1783578390,
+        "update-count": 6154,
+        "last-update": 1783591374,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5749,6 +5749,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Persekutuan KD",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-07-09",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Ristiani",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat BPMJ",
                 "time": "19:00",
                 "time-to": "21:00",
@@ -5770,7 +5784,7 @@
                 "date": "2026-07-10",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Gedung Gereja",
                 "representative": "Komisi Usia Lanjut",
                 "pic": "Wardjini",
                 "status": "y",
@@ -5885,7 +5899,21 @@
                 "place": "Gedung Gereja",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Kepala Sekolah",
-                "status": "w",
+                "status": "n",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan Sosialisasi orang tua kelas 1",
+                "time": "07:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6127,6 +6155,20 @@
                 "note": "-"
             },
             {
+                "name": "Persekutuan KD",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-07-24",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6251,6 +6293,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Persekutuan KD",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6393,6 +6449,20 @@
                 "note": "-"
             },
             {
+                "name": "Persekutuan KD",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-09-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6533,6 +6603,20 @@
                 "note": "-"
             },
             {
+                "name": "Persekutuan KD",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-10-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6645,6 +6729,20 @@
                 "note": ""
             },
             {
+                "name": "Persekutuan KD",
+                "time": "17:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-11-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6726,20 +6824,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan Sosialisasi orang tua kelas 1",
-                "time": "07:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2026-07-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Kepala Sekolah",
-                "status": "w",
                 "note": ""
             }
         ],
