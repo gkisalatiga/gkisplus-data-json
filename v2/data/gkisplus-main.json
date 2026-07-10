@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6158,
-        "last-update": 1783665565,
+        "update-count": 6159,
+        "last-update": 1783678752,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6824,6 +6824,34 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pertemuan dengan kantin",
+                "time": "10:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Mustika",
+                "status": "w",
+                "note": "Terimakasih"
+            },
+            {
+                "name": "PA wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "elibert",
+                "status": "w",
                 "note": ""
             }
         ],
