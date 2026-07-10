@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6161,
-        "last-update": 1783688540,
+        "update-count": 6162,
+        "last-update": 1783720267,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |11 Jul 2026 | Yesus, Sang Maestro Kintsugi bagi Jiwa",
+                        "date": "2026-07-10",
+                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=g_DazICyvek",
+                        "thumbnail": "https://i4.ytimg.com/vi/g_DazICyvek/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
                         "date": "2026-07-09",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Sdr. Alessandro S. M. G.",
                         "link": "https://www.youtube.com/watch?v=Su-XIb0_LqM",
                         "thumbnail": "https://i4.ytimg.com/vi/Su-XIb0_LqM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Jun 2026 | Mensyukuri Setiap Proses",
-                        "date": "2026-06-25",
-                        "desc": "Dibawakan oleh Pnt. Sriyuniwati Retnoningsih",
-                        "link": "https://www.youtube.com/watch?v=ISP-Dk98zfo",
-                        "thumbnail": "https://i2.ytimg.com/vi/ISP-Dk98zfo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
