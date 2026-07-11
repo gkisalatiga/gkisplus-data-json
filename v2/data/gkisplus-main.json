@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6164,
-        "last-update": 1783760755,
+        "update-count": 6165,
+        "last-update": 1783764028,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2307,10 +2307,19 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 12 Juli 2026",
+                    "date": "2026-07-11",
+                    "link": "https://drive.google.com/file/d/19WAQdPqCrfsI7aPk7t8gnbxnGOQ8eJx_/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-12-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=19WAQdPqCrfsI7aPk7t8gnbxnGOQ8eJx_",
+                    "id": "19WAQdPqCrfsI7aPk7t8gnbxnGOQ8eJx_",
+                    "size": "1.83 MB"
+                },
+                {
                     "title": "Warta Jemaat 5 Juli 2026",
-                    "date": "2026-07-04",
+                    "date": "2026-07-11",
                     "link": "https://drive.google.com/file/d/1CtDt0f8arwL1NeP5Imokbtwo-k8Ts4Es/view",
-                    "post-page": "hhttps://gkisalatiga.org/warta-jemaat-5-juli-2026/",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-5-juli-2026/",
                     "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1CtDt0f8arwL1NeP5Imokbtwo-k8Ts4Es",
                     "id": "1CtDt0f8arwL1NeP5Imokbtwo-k8Ts4Es",
                     "size": "1.70 MB"
@@ -3208,6 +3217,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 12 Juli 2026",
+                    "date": "2026-07-11",
+                    "link": "https://drive.google.com/file/d/1VFW11W9B5Fw9aVHBVIo-xU8EUN0SyCUH/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-12-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1VFW11W9B5Fw9aVHBVIo-xU8EUN0SyCUH",
+                    "id": "1VFW11W9B5Fw9aVHBVIo-xU8EUN0SyCUH",
+                    "size": "0.99 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 5 Juli 2026",
                     "date": "2026-07-04",
@@ -5533,15 +5551,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2026-07-05",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_7.webp",
                 "title": "Informasi Sekolah Minggu 12 Juli",
