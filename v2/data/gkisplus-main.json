@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6163,
-        "last-update": 1783745454,
-        "last-updated-item": "yt",
+        "update-count": 6164,
+        "last-update": 1783760755,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6002,6 +6002,20 @@
                 "note": ""
             },
             {
+                "name": "Pertemuan dengan kantin",
+                "time": "10:00",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Mustika",
+                "status": "y",
+                "note": "Terimakasih"
+            },
+            {
                 "name": "PA Wilayah 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6098,6 +6112,20 @@
                 "pic": "Bu Djini",
                 "status": "c",
                 "note": "-"
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-14",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "MPLS",
@@ -6322,6 +6350,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "elibert",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat Tim Pembimbing Capen",
@@ -6909,34 +6951,6 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pertemuan dengan kantin",
-                "time": "10:00",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2026-07-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Ibu Mustika",
-                "status": "w",
-                "note": "Terimakasih"
-            },
-            {
-                "name": "PA wilayah 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-08-04",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "elibert",
-                "status": "w",
                 "note": ""
             }
         ],
