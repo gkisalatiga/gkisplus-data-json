@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6171,
-        "last-update": 1783833188,
+        "update-count": 6172,
+        "last-update": 1783867539,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Jul 2026 | Salah Seorang Di Antara Anda Adalah Mesias",
+                        "date": "2026-07-12",
+                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
+                        "link": "https://www.youtube.com/watch?v=sMc_KqHcjfg",
+                        "thumbnail": "https://i4.ytimg.com/vi/sMc_KqHcjfg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |11 Jul 2026 | Yesus, Sang Maestro Kintsugi bagi Jiwa",
                         "date": "2026-07-10",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
                         "link": "https://www.youtube.com/watch?v=MU0RkeE7EJk",
                         "thumbnail": "https://i2.ytimg.com/vi/MU0RkeE7EJk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Jun 2026 | Gotong Royong ala Nehemia",
-                        "date": "2026-06-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=OVD7PwxtsDE",
-                        "thumbnail": "https://i4.ytimg.com/vi/OVD7PwxtsDE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -113,7 +113,7 @@
                         "date": "2026-07-11",
                         "desc": "Ibadah Minggu GKI Salatiga | 12 Juli 2026 | Pukul 07.00 WIB\n\nTema: \"Doa, Harapan, dan Realitas\"\n\nNyanyian: KJ 4:1, 4, 6; PKJ 231; KJ 460:1-2; PKJ 4; KK 357:1, 4, 5\n\nBacaan 1: Kejadian 25:19-34\nTanggapan: Mazmur 119:105-112\nBacaan 2: Roma 8:1-11\nBacaan Injil: Matius 13:1-9, 18-23\nBerita Anugrah: Efesus 1: 7-8\nPersembahan: 1 Tawarikh 16:29\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana\nKredo dan Warta: Pnt. Shielly Gunawan\nSambut Tamu: Pnt. Natanael Hardjono, Pnt. Paul A.W. Gulo\nPemandu Liturgi: Etiek Febriyanti\nLektor 1: Jokanan Kristiono\nLektor 2: Dian Triviena \n\nPemusik: Elhanan\nPNK: Adhara \nPemazmur: Andreas\nPaduan Suara : PS Immanuel \nTim Multimedia: effrey, Stefanus, Hermawan, Michael, Rico, Puguh,  Wayan\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Persembahan dari Pernikahan David & Lolita\nUsher & Kolektan: -Wilayah 5: Purwaningsih, Romauli, Bertha, Joko Purwono, Sori P. Sitio\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=99dMIQcQiWo",
-                        "thumbnail": "https://i.ytimg.com/vi/99dMIQcQiWo/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/99dMIQcQiWo/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 5 Juli 2026 | 16.30 WIB | \"Kesetiaan Segenap Hidup\"",
@@ -1585,7 +1585,7 @@
                     {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN DAVID & LOLITA | 11 JULI 2026",
                         "date": "2026-07-10",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. DAVID INDRA MULYANTO  dengan Sdri. LOLITA CHRISTIN FEBRIYANTI DAMANIK\n\nSabtu, 11 Juli 2026 pukul 10.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi \nMJ : Pnt. Catur Winarno & Pnt. Santoso Adi Pribadi\nPemusik : Jenny\nPNK : Pnt. Gita Hastuti\nMultimedia : I Made Satya, Samarthya, Susan, Iwandi, Bobby",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. DAVID INDRA MULYANTO  dengan Sdri. LOLITA CHRISTIN FEBRIYANTI DAMANIK\n\nSabtu, 11 Juli 2026 pukul 10.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi \nMJ : Pnt. Catur Winarno & Pnt. Santoso Adi Pribadi\nPemusik : Swatindra\nPNK : Pnt. Gita Hastuti\nMultimedia : I Made Satya, Samarthya, Susan, Iwandi, Bobby",
                         "link": "https://www.youtube.com/watch?v=5k3Of6fI324",
                         "thumbnail": "https://i.ytimg.com/vi/5k3Of6fI324/hqdefault.jpg"
                     },
