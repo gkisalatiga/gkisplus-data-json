@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6175,
-        "last-update": 1783920125,
-        "last-updated-item": "yt",
+        "update-count": 6176,
+        "last-update": 1783921866,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6979,6 +6979,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina ",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "rapat persekutuan KD",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Ristiani",
                 "status": "w",
                 "note": ""
             }
