@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6173,
-        "last-update": 1783878476,
-        "last-updated-item": "yt",
+        "update-count": 6174,
+        "last-update": 1783908842,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7045,6 +7045,20 @@
                 "pic": "Bp. Andi",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pleno KD",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
