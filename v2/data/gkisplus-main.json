@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6176,
-        "last-update": 1783921866,
+        "update-count": 6177,
+        "last-update": 1783933104,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6003,6 +6003,20 @@
                 "note": "Terimakasih"
             },
             {
+                "name": "rapat persekutuan KD",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Ristiani",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6155,6 +6169,20 @@
                 "pic": "Yemima",
                 "status": "y",
                 "note": "Keperluan yang lain menyusul"
+            },
+            {
+                "name": "Rapat Pleno KD",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina ",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Ibadah Pembukaan TA 2026/2027",
@@ -6927,6 +6955,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wil. 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-12-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Pnt. Samuel Martono",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6941,20 +6983,6 @@
                 "note": ""
             },
             {
-                "name": "PA Wil. 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-12-08",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pnt. Samuel Martono",
-                "status": "w",
-                "note": "-"
-            },
-            {
                 "name": "Persiapan PK Wilayah 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6965,36 +6993,8 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
-                "status": "w",
+                "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Pleno KD",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-07-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "rapat persekutuan KD",
-                "time": "18:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-07-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Dewasa",
-                "pic": "Ristiani",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
