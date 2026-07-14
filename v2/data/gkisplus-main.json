@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6183,
-        "last-update": 1784051693,
+        "update-count": 6184,
+        "last-update": 1784061988,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi |15 Jul 2026 | Tangan",
+                        "date": "2026-07-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=sLcG1BuMqdc",
+                        "thumbnail": "https://i4.ytimg.com/vi/sLcG1BuMqdc/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 14 Jul 2026 | Iman Yang Mewujud",
                         "date": "2026-07-13",
                         "desc": "Dibawakan oleh Bpk. Junianto",
                         "link": "https://www.youtube.com/watch?v=qvaZF-EYJ18",
                         "thumbnail": "https://i2.ytimg.com/vi/qvaZF-EYJ18/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |15 Jul 2026 | Tangan",
-                        "date": "2026-07-13",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=sLcG1BuMqdc",
-                        "thumbnail": "https://i4.ytimg.com/vi/sLcG1BuMqdc/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 13 Jul 2026 | Salah Seorang Di Antara Anda Adalah Mesias",
