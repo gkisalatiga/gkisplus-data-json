@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6180,
-        "last-update": 1784003849,
+        "update-count": 6181,
+        "last-update": 1784012467,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Jul 2026 | Iman Yang Mewujud",
+                        "date": "2026-07-13",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=qvaZF-EYJ18",
+                        "thumbnail": "https://i2.ytimg.com/vi/qvaZF-EYJ18/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |15 Jul 2026 | Tangan",
+                        "date": "2026-07-13",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=sLcG1BuMqdc",
+                        "thumbnail": "https://i4.ytimg.com/vi/sLcG1BuMqdc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Jul 2026 | Salah Seorang Di Antara Anda Adalah Mesias",
+                        "date": "2026-07-12",
+                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
+                        "link": "https://www.youtube.com/watch?v=sMc_KqHcjfg",
+                        "thumbnail": "https://i4.ytimg.com/vi/sMc_KqHcjfg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |11 Jul 2026 | Yesus, Sang Maestro Kintsugi bagi Jiwa",
+                        "date": "2026-07-10",
+                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
+                        "link": "https://www.youtube.com/watch?v=g_DazICyvek",
+                        "thumbnail": "https://i4.ytimg.com/vi/g_DazICyvek/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
+                        "date": "2026-07-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=9rwO-rJOLaY",
+                        "thumbnail": "https://i2.ytimg.com/vi/9rwO-rJOLaY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Jul 2026 | Bukan Hanya yang di Depan Tapi Juga yang di Balik Layar",
+                        "date": "2026-07-08",
+                        "desc": "Dibawakan oleh Bpk. Erio FanggidaE",
+                        "link": "https://www.youtube.com/watch?v=-5qcwRiV6z0",
+                        "thumbnail": "https://i2.ytimg.com/vi/-5qcwRiV6z0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Jul 2026 | Anak Adalah Milik Pusaka Tuhan",
+                        "date": "2026-07-07",
+                        "desc": "Dibawakan oleh Ibu Prijani",
+                        "link": "https://www.youtube.com/watch?v=1Ia55g4b6cg",
+                        "thumbnail": "https://i2.ytimg.com/vi/1Ia55g4b6cg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Jul 2026 | Setia Menabur di Setiap Musim Kehidupan",
+                        "date": "2026-07-06",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=jJ5VjdJr1IA",
+                        "thumbnail": "https://i3.ytimg.com/vi/jJ5VjdJr1IA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Jul 2026 | Iman Itu Mengubah Nasib",
+                        "date": "2026-07-05",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=sFawVDwnfVw",
+                        "thumbnail": "https://i4.ytimg.com/vi/sFawVDwnfVw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Jul 2026 | Apa Arti Hidupmu?",
+                        "date": "2026-07-03",
+                        "desc": "Dibawakan oleh Pnt. Rodiana",
+                        "link": "https://www.youtube.com/watch?v=NCKkiNW5-9E",
+                        "thumbnail": "https://i3.ytimg.com/vi/NCKkiNW5-9E/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 3 Jul 2026 | Bijak Menggunakan Plastik",
+                        "date": "2026-07-02",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=8ajnD-yJimo",
+                        "thumbnail": "https://i1.ytimg.com/vi/8ajnD-yJimo/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
