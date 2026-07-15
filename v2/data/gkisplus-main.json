@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6189,
-        "last-update": 1784128538,
-        "last-updated-item": "yt",
+        "update-count": 6190,
+        "last-update": 1784132158,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6632,6 +6632,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Ibadah Awal tahun ",
+                "time": "12:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-07-24",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "w",
+                "note": "Terima kasih "
             }
         ],
         "backend": {
