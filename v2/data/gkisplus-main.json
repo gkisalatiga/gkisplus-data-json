@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6191,
-        "last-update": 1784177266,
-        "last-updated-item": "yt",
+        "update-count": 6192,
+        "last-update": 1784179394,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5786,6 +5786,20 @@
                 "note": ""
             },
             {
+                "name": "Pertemuan dg Mahasiswa PPL",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-07-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5840,6 +5854,20 @@
                 "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Ibadah Awal tahun ",
+                "time": "12:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-07-24",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "YPE",
+                "pic": "Iryatun Trikorini ",
+                "status": "y",
+                "note": "Terima kasih "
             },
             {
                 "name": "PA wilayah 11",
@@ -6556,18 +6584,32 @@
                 "note": "-"
             },
             {
-                "name": "Ibadah Awal tahun ",
-                "time": "12:30",
-                "time-to": "14:30",
+                "name": "Pemahaman Alkitab",
+                "time": "17:30",
+                "time-to": "20:30",
                 "timezone": "WIB",
-                "date": "2026-07-24",
-                "weekday": "fri",
+                "date": "2026-08-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Ona Parzis Aponno",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan pemusik ibadah umum",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-07-16",
+                "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
                 "status": "w",
-                "note": "Terima kasih "
+                "note": ""
             }
         ],
         "backend": {
