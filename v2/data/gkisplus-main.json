@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6194,
-        "last-update": 1784203093,
-        "last-updated-item": "agenda",
+        "update-count": 6195,
+        "last-update": 1784203927,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Jul 2026 | Setiap Anak Dalam RencanaNya",
+                        "date": "2026-07-16",
+                        "desc": "Dibawakan oleh Bpk I Made Satya Arnawa",
+                        "link": "https://www.youtube.com/watch?v=eKBfF_cvikw",
+                        "thumbnail": "https://i2.ytimg.com/vi/eKBfF_cvikw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Jul 2026 | Bukan Sekadar Pengganti",
                         "date": "2026-07-15",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                         "link": "https://www.youtube.com/watch?v=sFawVDwnfVw",
                         "thumbnail": "https://i4.ytimg.com/vi/sFawVDwnfVw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Jul 2026 | Apa Arti Hidupmu?",
-                        "date": "2026-07-03",
-                        "desc": "Dibawakan oleh Pnt. Rodiana",
-                        "link": "https://www.youtube.com/watch?v=NCKkiNW5-9E",
-                        "thumbnail": "https://i3.ytimg.com/vi/NCKkiNW5-9E/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
