@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6200,
-        "last-update": 1784272063,
-        "last-updated-item": "yt",
+        "update-count": 6201,
+        "last-update": 1784281898,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5888,6 +5888,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Yunita Tella ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan KA",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-07-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Taofano Bagys",
                 "status": "y",
                 "note": ""
             },
