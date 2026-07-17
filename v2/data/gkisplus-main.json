@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6198,
-        "last-update": 1784263845,
-        "last-updated-item": "yt",
+        "update-count": 6199,
+        "last-update": 1784265927,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5800,6 +5800,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan pemusik ibadah umum ",
+                "time": "19:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2026-07-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Yunita Tella ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dg Mahasiswa PPL",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5982,7 +5996,7 @@
                 "note": ""
             },
             {
-                "name": "Pemahaman Alkitab",
+                "name": "Pemahaman Alkitab (PA Wil.5)",
                 "time": "17:30",
                 "time-to": "20:30",
                 "timezone": "WIB",
@@ -5992,7 +6006,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Ona Parzis Aponno",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6610,20 +6624,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan pemusik ibadah umum ",
-                "time": "19:00",
-                "time-to": "23:00",
-                "timezone": "WIB",
-                "date": "2026-07-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "Yunita Tella ",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
