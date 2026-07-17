@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6201,
-        "last-update": 1784281898,
-        "last-updated-item": "agenda",
+        "update-count": 6202,
+        "last-update": 1784300624,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Jul 2026 | Kekuatan Sebuah Kesaksian",
+                        "date": "2026-07-17",
+                        "desc": "Dibawakan oleh Sdri. Asputri Ruthalvin Kaat\nBacaan : Yohanes 12:11",
+                        "link": "https://www.youtube.com/watch?v=SmHkTWuu8g0",
+                        "thumbnail": "https://i4.ytimg.com/vi/SmHkTWuu8g0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Jul 2026 | Setiap Anak Dalam RencanaNya",
                         "date": "2026-07-16",
