@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 6205,
-        "last-update": 1784396660,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 6206,
+        "last-update": 1784410007,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
     },
     "data": {
@@ -2300,6 +2300,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 19 Juli 2026",
+                    "date": "2026-07-18",
+                    "link": "https://drive.google.com/file/d/1qFNRFP2TolKaNHsgBHpehYbLDW9Cf0xG/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-19-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1qFNRFP2TolKaNHsgBHpehYbLDW9Cf0xG",
+                    "id": "1qFNRFP2TolKaNHsgBHpehYbLDW9Cf0xG",
+                    "size": "1.70 MB"
+                },
+                {
                     "title": "Warta Jemaat 12 Juli 2026",
                     "date": "2026-07-11",
                     "link": "https://drive.google.com/file/d/19WAQdPqCrfsI7aPk7t8gnbxnGOQ8eJx_/view",
@@ -3210,6 +3219,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 19 Juli 2026",
+                    "date": "2026-07-18",
+                    "link": "https://drive.google.com/file/d/1J9ilcad4_ofxUF6qKZqAsWkftX8hl5LF/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-19-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1J9ilcad4_ofxUF6qKZqAsWkftX8hl5LF",
+                    "id": "1J9ilcad4_ofxUF6qKZqAsWkftX8hl5LF",
+                    "size": "0.78 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 12 Juli 2026",
                     "date": "2026-07-11",
