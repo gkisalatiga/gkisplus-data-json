@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6210,
-        "last-update": 1784461630,
-        "last-updated-item": "yt",
+        "update-count": 6211,
+        "last-update": 1784466304,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6777,6 +6777,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Samuel",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan PSA",
+                "time": "17:00",
+                "time-to": "17:45",
+                "timezone": "WIB",
+                "date": "2026-07-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "w",
                 "note": ""
             }
