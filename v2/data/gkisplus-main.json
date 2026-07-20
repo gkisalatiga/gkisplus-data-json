@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6216,
-        "last-update": 1784549552,
-        "last-updated-item": "agenda",
+        "update-count": 6217,
+        "last-update": 1784562152,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Jul 2026 | Anak anak Milikmu?",
+                        "date": "2026-07-20",
+                        "desc": "Dibawakan oleh Pnt. Paul A. Gulo",
+                        "link": "https://www.youtube.com/watch?v=xHRdMQY187M",
+                        "thumbnail": "https://i1.ytimg.com/vi/xHRdMQY187M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Juli 2026 | Anak Bahagia Dalam Keluarga Tuhan",
                         "date": "2026-07-19",
