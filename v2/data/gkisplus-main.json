@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6215,
-        "last-update": 1784527919,
+        "update-count": 6216,
+        "last-update": 1784549552,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6746,6 +6746,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Anak",
                 "pic": "Wurjayanti",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik Ibadah umum Hari Anak Nasional",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Taufan",
                 "status": "w",
                 "note": ""
             }
