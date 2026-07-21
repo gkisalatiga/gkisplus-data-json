@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6217,
-        "last-update": 1784562152,
-        "last-updated-item": "yt",
+        "update-count": 6218,
+        "last-update": 1784599747,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5917,6 +5917,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPH",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-07-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan dg Mahasiswa PPL",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5927,6 +5941,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan PSA",
+                "time": "17:00",
+                "time-to": "17:45",
+                "timezone": "WIB",
+                "date": "2026-07-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
                 "status": "y",
                 "note": ""
             },
@@ -5971,6 +5999,34 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan musik Ibadah umum Hari Anak Nasional",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Taufan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pepenkris bersama sekolah2 YPE",
+                "time": "13:30",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-07-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": "Minta disiapkan teh untuk 13 org"
             },
             {
                 "name": "Persekutuan KD",
@@ -6727,48 +6783,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat BPH",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-07-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan PSA",
-                "time": "17:00",
-                "time-to": "17:45",
-                "timezone": "WIB",
-                "date": "2026-07-19",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan musik Ibadah umum Hari Anak Nasional",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-07-21",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Taufan",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
