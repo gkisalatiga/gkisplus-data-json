@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6219,
-        "last-update": 1784609735,
-        "last-updated-item": "yt",
+        "update-count": 6220,
+        "last-update": 1784612016,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5958,6 +5958,20 @@
                 "note": "Minta disiapkan teh untuk 13 org"
             },
             {
+                "name": "Gladi bersih felowship YPE",
+                "time": "14:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-07-22",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": "10"
+            },
+            {
                 "name": "Persekutuan KD",
                 "time": "17:30",
                 "time-to": "19:30",
@@ -6040,6 +6054,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pembentukan Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-03",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "w",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
