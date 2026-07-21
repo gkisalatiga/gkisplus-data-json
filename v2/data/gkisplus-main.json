@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6221,
-        "last-update": 1784618790,
+        "update-count": 6222,
+        "last-update": 1784657188,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Juli 2026 | Membentuk Hati Bukan Sekedar Perilaku",
+                        "date": "2026-07-21",
+                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
+                        "link": "https://www.youtube.com/watch?v=8F1jlrhv2ao",
+                        "thumbnail": "https://i1.ytimg.com/vi/8F1jlrhv2ao/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Jul 2026 | Anak anak Milikmu?",
                         "date": "2026-07-20",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Gita Hastuti",
                         "link": "https://www.youtube.com/watch?v=g_DazICyvek",
                         "thumbnail": "https://i4.ytimg.com/vi/g_DazICyvek/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Jul 2026 | Kerendahan Hati",
-                        "date": "2026-07-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=9rwO-rJOLaY",
-                        "thumbnail": "https://i2.ytimg.com/vi/9rwO-rJOLaY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
