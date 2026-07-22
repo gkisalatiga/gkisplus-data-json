@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6226,
-        "last-update": 1784705278,
+        "update-count": 6227,
+        "last-update": 1784733860,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Jul 2026 | Be Like Jesus",
+                        "date": "2026-07-22",
+                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
+                        "link": "https://www.youtube.com/watch?v=by2_jsvRxU8",
+                        "thumbnail": "https://i3.ytimg.com/vi/by2_jsvRxU8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Juli 2026 | Membentuk Hati Bukan Sekedar Perilaku",
                         "date": "2026-07-21",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Sdri. Yuliyanti",
                         "link": "https://www.youtube.com/watch?v=sMc_KqHcjfg",
                         "thumbnail": "https://i4.ytimg.com/vi/sMc_KqHcjfg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |11 Jul 2026 | Yesus, Sang Maestro Kintsugi bagi Jiwa",
-                        "date": "2026-07-10",
-                        "desc": "Dibawakan oleh Pnt. Gita Hastuti",
-                        "link": "https://www.youtube.com/watch?v=g_DazICyvek",
-                        "thumbnail": "https://i4.ytimg.com/vi/g_DazICyvek/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
