@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6228,
-        "last-update": 1784783533,
-        "last-updated-item": "yt",
+        "update-count": 6229,
+        "last-update": 1784785063,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5720,6 +5720,20 @@
                 "note": ""
             },
             {
+                "name": "Drama HAN",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-07-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Persekutuan KD",
                 "time": "17:30",
                 "time-to": "19:30",
@@ -5870,6 +5884,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Ona Parzis Aponno",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat dengan Pengurus YPE",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
                 "status": "y",
                 "note": ""
             },
