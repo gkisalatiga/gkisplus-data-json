@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6229,
-        "last-update": 1784785063,
-        "last-updated-item": "agenda",
+        "update-count": 6230,
+        "last-update": 1784801336,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Jul 2026 | Mendidik Anak Berkarakter Kristus",
+                        "date": "2026-07-23",
+                        "desc": "Dibawakan oleh Pnt. Ervien Dian W",
+                        "link": "https://www.youtube.com/watch?v=m7CBiine0FE",
+                        "thumbnail": "https://i2.ytimg.com/vi/m7CBiine0FE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Jul 2026 | Be Like Jesus",
+                        "date": "2026-07-22",
+                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
+                        "link": "https://www.youtube.com/watch?v=by2_jsvRxU8",
+                        "thumbnail": "https://i3.ytimg.com/vi/by2_jsvRxU8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Juli 2026 | Membentuk Hati Bukan Sekedar Perilaku",
+                        "date": "2026-07-21",
+                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
+                        "link": "https://www.youtube.com/watch?v=8F1jlrhv2ao",
+                        "thumbnail": "https://i1.ytimg.com/vi/8F1jlrhv2ao/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Jul 2026 | Anak anak Milikmu?",
+                        "date": "2026-07-20",
+                        "desc": "Dibawakan oleh Pnt. Paul A. Gulo",
+                        "link": "https://www.youtube.com/watch?v=xHRdMQY187M",
+                        "thumbnail": "https://i1.ytimg.com/vi/xHRdMQY187M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Juli 2026 | Anak Bahagia Dalam Keluarga Tuhan",
+                        "date": "2026-07-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=28Y_uVzb-fU",
+                        "thumbnail": "https://i3.ytimg.com/vi/28Y_uVzb-fU/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 18 Jul 2026 | Kekuatan Sebuah Kesaksian",
+                        "date": "2026-07-17",
+                        "desc": "Dibawakan oleh Sdri. Asputri Ruthalvin Kaat\nBacaan : Yohanes 12:11",
+                        "link": "https://www.youtube.com/watch?v=SmHkTWuu8g0",
+                        "thumbnail": "https://i4.ytimg.com/vi/SmHkTWuu8g0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 17 Jul 2026 | Setiap Anak Dalam RencanaNya",
+                        "date": "2026-07-16",
+                        "desc": "Dibawakan oleh Bpk I Made Satya Arnawa",
+                        "link": "https://www.youtube.com/watch?v=eKBfF_cvikw",
+                        "thumbnail": "https://i2.ytimg.com/vi/eKBfF_cvikw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 16 Jul 2026 | Bukan Sekadar Pengganti",
+                        "date": "2026-07-15",
+                        "desc": "Dibawakan oleh Sdri. Irma Picauly\nNats Alkitab: 2 Korintus 12: 9",
+                        "link": "https://www.youtube.com/watch?v=7v4iLtWkDv0",
+                        "thumbnail": "https://i4.ytimg.com/vi/7v4iLtWkDv0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |15 Jul 2026 | Tangan",
+                        "date": "2026-07-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=sLcG1BuMqdc",
+                        "thumbnail": "https://i4.ytimg.com/vi/sLcG1BuMqdc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Jul 2026 | Iman Yang Mewujud",
+                        "date": "2026-07-13",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=qvaZF-EYJ18",
+                        "thumbnail": "https://i2.ytimg.com/vi/qvaZF-EYJ18/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Jul 2026 | Salah Seorang Di Antara Anda Adalah Mesias",
+                        "date": "2026-07-12",
+                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
+                        "link": "https://www.youtube.com/watch?v=sMc_KqHcjfg",
+                        "thumbnail": "https://i4.ytimg.com/vi/sMc_KqHcjfg/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
