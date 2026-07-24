@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6233,
-        "last-update": 1784916519,
+        "update-count": 6234,
+        "last-update": 1784936337,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2300,6 +2300,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 26 Juli 2026",
+                    "date": "2026-07-25",
+                    "link": "https://drive.google.com/file/d/1fuIWIFdh4Ca7w9PVQyIcSrgDpLgIboRO/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-26-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1fuIWIFdh4Ca7w9PVQyIcSrgDpLgIboRO",
+                    "id": "1fuIWIFdh4Ca7w9PVQyIcSrgDpLgIboRO",
+                    "size": "2.07 MB"
+                },
+                {
                     "title": "Warta Jemaat 19 Juli 2026",
                     "date": "2026-07-18",
                     "link": "https://drive.google.com/file/d/1qFNRFP2TolKaNHsgBHpehYbLDW9Cf0xG/view",
@@ -3219,6 +3228,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 26 Juli 2026",
+                    "date": "2026-07-25",
+                    "link": "https://drive.google.com/file/d/1Ob7ah0tPLRWd8z28GmZxC_iQciyNFQzj/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-26-juli-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Ob7ah0tPLRWd8z28GmZxC_iQciyNFQzj",
+                    "id": "1Ob7ah0tPLRWd8z28GmZxC_iQciyNFQzj",
+                    "size": "0.53 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 19 Juli 2026",
                     "date": "2026-07-18",
@@ -5562,24 +5580,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ype.webp",
-                "title": "Susunan Pengawas & Pengurus YPE GKI Salatiga",
-                "type": "poster",
-                "date-created": "2026-07-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ype.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Persekutuan KD 24 Juli",
-                "type": "poster",
-                "date-created": "2026-07-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 25 Juli",
