@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 88,
-        "last-update": 1783465703,
+        "update-count": 89,
+        "last-update": 1784936795,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -33415,6 +33415,66 @@
                             "id": "1CYSXShQ1c_c6QjCecMWS9TgVgOZwd7l_",
                             "name": "DSCF0329.JPG",
                             "date": "2026-07-07"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1myDK9hfYZv3voJGgVkcF-iFcoNI5VUzw",
+                    "last_update": "2026-07-24",
+                    "featured_photo_id": "1jOxPJPIDD93xh8lX8KtDyu-zeineC1F2",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 19 Juli yang dilaksanakan pada 19 Juli 2026.",
+                    "title": "Ibadah Minggu, 19 Juli",
+                    "event_date": "2026.07.19",
+                    "photos": [
+                        {
+                            "id": "1Cl4B7hcGSD8_sfFRsYNAQFnnWn8ustUp",
+                            "name": "DSCF3043.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "153-jJfecvNC73giaJjDGdnZQof0o2JIK",
+                            "name": "DSCF3067.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1qLk0r0o6RpCkCKaYm37-0Uhh_YzbPgo6",
+                            "name": "DSCF3054.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1FKZmWlvAHORC91xd8IvW7X9pGp82Gnuo",
+                            "name": "DSCF3060.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1KG1r_AESWOhRDyGY9vnNjn69fUB4pqQu",
+                            "name": "DSCF3046.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1fgdsrboeStba1dbEguHpEgLoBhZbhAhp",
+                            "name": "DSCF3070.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1KQgMFK--BP4dWaeMgNFbnmeXRCwzp5wy",
+                            "name": "DSCF3056.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1UOzIZvbymBlgvj_oWoVlDf-0WcypXEE0",
+                            "name": "DSCF3044.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1rngXE-Teo8uPeXlRcaRd63ls466BDEoJ",
+                            "name": "DSCF3063.JPG",
+                            "date": "2026-07-24"
+                        },
+                        {
+                            "id": "1J8dJQnOyKm3FqFwLX3-8ZUHOwH3U3Edg",
+                            "name": "DSCF0230.JPG",
+                            "date": "2026-07-24"
                         }
                     ]
                 }
