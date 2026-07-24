@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6231,
-        "last-update": 1784809218,
+        "update-count": 6232,
+        "last-update": 1784908366,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6608,6 +6608,20 @@
                 "pic": "Taufan",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Latihan English Service",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-07-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "w",
+                "note": "Alat musik gereja yang digunakan : keyboard, bass, drum"
             }
         ],
         "backend": {
