@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6232,
-        "last-update": 1784908366,
-        "last-updated-item": "agenda",
+        "update-count": 6233,
+        "last-update": 1784916519,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 25 Jul 2026 | Menjadi Pelindung dan Jembatan Masa Depan Anak",
+                        "date": "2026-07-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=CLyXfIOx4I8",
+                        "thumbnail": "https://i4.ytimg.com/vi/CLyXfIOx4I8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Jul 2026 | Mendidik Anak Berkarakter Kristus",
                         "date": "2026-07-23",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Bpk. Junianto",
                         "link": "https://www.youtube.com/watch?v=qvaZF-EYJ18",
                         "thumbnail": "https://i2.ytimg.com/vi/qvaZF-EYJ18/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Jul 2026 | Salah Seorang Di Antara Anda Adalah Mesias",
-                        "date": "2026-07-12",
-                        "desc": "Dibawakan oleh Sdri. Yuliyanti",
-                        "link": "https://www.youtube.com/watch?v=sMc_KqHcjfg",
-                        "thumbnail": "https://i4.ytimg.com/vi/sMc_KqHcjfg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
