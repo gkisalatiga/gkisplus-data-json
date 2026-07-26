@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6240,
-        "last-update": 1785059326,
+        "update-count": 6241,
+        "last-update": 1785077689,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Jul 2026 | Sukacita Terbesar Mengantar Anak Hidup Dalam Kebenaran",
+                        "date": "2026-07-26",
+                        "desc": "Dibawakan oleh Sdri. Dian Triviena",
+                        "link": "https://www.youtube.com/watch?v=nJ3WI0IH1E0",
+                        "thumbnail": "https://i3.ytimg.com/vi/nJ3WI0IH1E0/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 25 Jul 2026 | Menjadi Pelindung dan Jembatan Masa Depan Anak",
                         "date": "2026-07-24",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Sdri. Asputri Ruthalvin Kaat\nBacaan : Yohanes 12:11",
                         "link": "https://www.youtube.com/watch?v=SmHkTWuu8g0",
                         "thumbnail": "https://i4.ytimg.com/vi/SmHkTWuu8g0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Jul 2026 | Setiap Anak Dalam RencanaNya",
-                        "date": "2026-07-16",
-                        "desc": "Dibawakan oleh Bpk I Made Satya Arnawa",
-                        "link": "https://www.youtube.com/watch?v=eKBfF_cvikw",
-                        "thumbnail": "https://i2.ytimg.com/vi/eKBfF_cvikw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -106,7 +106,7 @@
                         "date": "2026-07-25",
                         "desc": "Ibadah Minggu GKI Salatiga | 26 Juli 2026 (Hari Anak Nasional) | Pukul 07.00 WIB\n\nTema: \"Be Like Jesus\"\n\nNyanyian: Hari Ini Kurasa Bahagia  Medley Satukan Hati Kami; KJ  424:1-3 ; Firman Tuhan Ada di Hatiku; KJ 301; Senin, Selasa,Engkau Tetap Raja\n\nBacaan : 1 Yohanes 2:6\nBerita Anugrah: Roma 5: 8-9\nPersembahan: 2 Korintus 9:7\n\nPelayan Firman: Pdt. Helen Ruth Manurung \nKoordinator Ibadah dan Persembahan: Pnt. Nadia Sita Resmi\nKredo dan Warta: Pnt. Sriono Sudarno\nSambut Tamu: Pnt. Natalis Sidanta, Pnt. Johnson U. Radda\nPemandu Liturgi: Maureen J. Manuhutu\nLektor : Carel C. F. Gulo\n\nPemusik: BenKA\nPNK: Evangs , Eva\nPaduan Suara : PSA GKI Salatiga\nTim Multimedia: Judica, Nico, Evan, Alvin, Bobby, Yanuar\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Anggrek Bulan\nUsher & Kolektan: KA\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=wErAev_cxzU",
-                        "thumbnail": "https://i.ytimg.com/vi/wErAev_cxzU/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/wErAev_cxzU/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 19 Juli 2026 | 16.30 WIB | \"Penyertaan Tuhan di Tengah Pergumulan\"",
