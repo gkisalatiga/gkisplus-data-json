@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6244,
-        "last-update": 1785132225,
-        "last-updated-item": "agenda",
+        "update-count": 6245,
+        "last-update": 1785176212,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Jul 2026 | Menyambut Anak, Menyambut Hati Kristus",
+                        "date": "2026-07-27",
+                        "desc": "Dibawakan oleh Sdri. Bunga Alodia",
+                        "link": "https://www.youtube.com/watch?v=nf_ddSdanOg",
+                        "thumbnail": "https://i3.ytimg.com/vi/nf_ddSdanOg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Jul 2026 | Sukacita Terbesar Mengantar Anak Hidup Dalam Kebenaran",
                         "date": "2026-07-26",
