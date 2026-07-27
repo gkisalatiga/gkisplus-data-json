@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6243,
-        "last-update": 1785109640,
-        "last-updated-item": "yt",
+        "update-count": 6244,
+        "last-update": 1785132225,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6700,6 +6700,20 @@
                 "pic": "Gita Kartika Dewi",
                 "status": "w",
                 "note": "Alat musik gereja yang digunakan : keyboard, bass, drum"
+            },
+            {
+                "name": "Gladi Bersih English Service",
+                "time": "09:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-08-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
