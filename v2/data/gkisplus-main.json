@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6250,
-        "last-update": 1785251740,
-        "last-updated-item": "agenda",
+        "update-count": 6251,
+        "last-update": 1785254201,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Jul 2026 | Anak Adalah Titipan Berharga, Menyiapkan Anak Panah Demi Masa Depan",
+                        "date": "2026-07-28",
+                        "desc": "Dibawkaan oleh Ibu Novi Prabandari",
+                        "link": "https://www.youtube.com/watch?v=Vfzt-Bi6w0A",
+                        "thumbnail": "https://i3.ytimg.com/vi/Vfzt-Bi6w0A/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Jul 2026 | Menyambut Anak, Menyambut Hati Kristus",
                         "date": "2026-07-27",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=28Y_uVzb-fU",
                         "thumbnail": "https://i3.ytimg.com/vi/28Y_uVzb-fU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Jul 2026 | Kekuatan Sebuah Kesaksian",
-                        "date": "2026-07-17",
-                        "desc": "Dibawakan oleh Sdri. Asputri Ruthalvin Kaat\nBacaan : Yohanes 12:11",
-                        "link": "https://www.youtube.com/watch?v=SmHkTWuu8g0",
-                        "thumbnail": "https://i4.ytimg.com/vi/SmHkTWuu8g0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
