@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6249,
-        "last-update": 1785225603,
+        "update-count": 6250,
+        "last-update": 1785251740,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6651,6 +6651,34 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Simulasi OBS Multiview",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-07-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
