@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6253,
-        "last-update": 1785300963,
-        "last-updated-item": "yt",
+        "update-count": 6254,
+        "last-update": 1785303322,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5798,6 +5798,20 @@
                 "note": "Minta disiapkan teh untuk 5 orang"
             },
             {
+                "name": "Simulasi OBS Multiview",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-07-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Rapat Evaluasi Team Atap Gedung Gereja",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -6162,6 +6176,20 @@
                 "note": "-"
             },
             {
+                "name": "Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6524,34 +6552,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Simulasi OBS Multiview",
-                "time": "15:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-07-30",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Wilayah 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-09-15",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
