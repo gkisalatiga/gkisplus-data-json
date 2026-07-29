@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6255,
-        "last-update": 1785310608,
-        "last-updated-item": "yt",
+        "update-count": 6256,
+        "last-update": 1785313852,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5820,6 +5820,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Pengurus YPE",
+                "time": "15:30",
+                "time-to": "16:30",
+                "timezone": "WIB",
+                "date": "2026-07-29",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Mustika & Ibu Yari",
+                "status": "y",
+                "note": "Terimakasih"
+            },
+            {
                 "name": "Pembinaan Penatua Baru ",
                 "time": "18:00",
                 "time-to": "22:00",
@@ -5831,7 +5845,7 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
-                "note": "-"
+                "note": "Minta disiapkan LCD Proyektor"
             },
             {
                 "name": "Latihan English Service",
@@ -5872,7 +5886,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -5942,7 +5956,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -6250,7 +6264,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Elibert",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
