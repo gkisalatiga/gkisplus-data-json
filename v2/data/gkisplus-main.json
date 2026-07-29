@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6257,
-        "last-update": 1785324005,
-        "last-updated-item": "agenda",
+        "update-count": 6258,
+        "last-update": 1785339746,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Jul 2026 | Iman Seorang Anak Bernama Ishak",
+                        "date": "2026-07-29",
+                        "desc": "Dibawkaan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=nre0VE8qN7s",
+                        "thumbnail": "https://i3.ytimg.com/vi/nre0VE8qN7s/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Jul 2026 | Anak Adalah Titipan Berharga, Menyiapkan Anak Panah Demi Masa Depan",
                         "date": "2026-07-28",
