@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6256,
-        "last-update": 1785313852,
+        "update-count": 6257,
+        "last-update": 1785324005,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5841,7 +5841,7 @@
                 "date": "2026-07-30",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
+                "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
