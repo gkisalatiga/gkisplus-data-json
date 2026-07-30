@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6259,
-        "last-update": 1785386654,
-        "last-updated-item": "yt",
+        "update-count": 6260,
+        "last-update": 1785387313,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5714,62 +5714,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-07-28",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti ",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-07-28",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pak Andi ",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-07-28",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Pengurus YPE",
-                "time": "15:30",
-                "time-to": "16:30",
-                "timezone": "WIB",
-                "date": "2026-07-29",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Ibu Mustika & Ibu Yari",
-                "status": "y",
-                "note": "Terimakasih"
-            },
-            {
                 "name": "Pembinaan Penatua Baru ",
                 "time": "18:00",
                 "time-to": "22:00",
@@ -5824,6 +5768,20 @@
                 "pic": "Samarthya",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persiapan P2B",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-07-30",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Susan",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Rapat Evaluasi Team Atap Gedung Gereja",
