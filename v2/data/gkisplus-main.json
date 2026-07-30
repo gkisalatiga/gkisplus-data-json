@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6262,
-        "last-update": 1785396664,
+        "update-count": 6263,
+        "last-update": 1785413420,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6609,6 +6609,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Simulasi OBS Multiview (Sesi 2)",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
