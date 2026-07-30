@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6263,
-        "last-update": 1785413420,
+        "update-count": 6264,
+        "last-update": 1785422371,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6621,6 +6621,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan untuk KU",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
