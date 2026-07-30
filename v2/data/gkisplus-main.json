@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6260,
-        "last-update": 1785387313,
-        "last-updated-item": "agenda",
+        "update-count": 6261,
+        "last-update": 1785396301,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,78 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Jul 2026 | Iman Seorang Anak Bernama Ishak",
+                        "date": "2026-07-29",
+                        "desc": "Dibawkaan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=nre0VE8qN7s",
+                        "thumbnail": "https://i3.ytimg.com/vi/nre0VE8qN7s/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Jul 2026 | Anak Adalah Titipan Berharga, Menyiapkan Anak Panah Demi Masa Depan",
+                        "date": "2026-07-28",
+                        "desc": "Dibawkaan oleh Ibu Novi Prabandari",
+                        "link": "https://www.youtube.com/watch?v=Vfzt-Bi6w0A",
+                        "thumbnail": "https://i3.ytimg.com/vi/Vfzt-Bi6w0A/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Jul 2026 | Menyambut Anak, Menyambut Hati Kristus",
+                        "date": "2026-07-27",
+                        "desc": "Dibawakan oleh Sdri. Bunga Alodia",
+                        "link": "https://www.youtube.com/watch?v=nf_ddSdanOg",
+                        "thumbnail": "https://i3.ytimg.com/vi/nf_ddSdanOg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 27 Jul 2026 | Sukacita Terbesar Mengantar Anak Hidup Dalam Kebenaran",
+                        "date": "2026-07-26",
+                        "desc": "Dibawakan oleh Sdri. Dian Triviena",
+                        "link": "https://www.youtube.com/watch?v=nJ3WI0IH1E0",
+                        "thumbnail": "https://i3.ytimg.com/vi/nJ3WI0IH1E0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Jul 2026 | Menjadi Pelindung dan Jembatan Masa Depan Anak",
+                        "date": "2026-07-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=CLyXfIOx4I8",
+                        "thumbnail": "https://i4.ytimg.com/vi/CLyXfIOx4I8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Jul 2026 | Mendidik Anak Berkarakter Kristus",
+                        "date": "2026-07-23",
+                        "desc": "Dibawakan oleh Pnt. Ervien Dian W",
+                        "link": "https://www.youtube.com/watch?v=m7CBiine0FE",
+                        "thumbnail": "https://i2.ytimg.com/vi/m7CBiine0FE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Jul 2026 | Be Like Jesus",
+                        "date": "2026-07-22",
+                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
+                        "link": "https://www.youtube.com/watch?v=by2_jsvRxU8",
+                        "thumbnail": "https://i3.ytimg.com/vi/by2_jsvRxU8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Juli 2026 | Membentuk Hati Bukan Sekedar Perilaku",
+                        "date": "2026-07-21",
+                        "desc": "Dibawakan oleh Ibu Nancy Damayanti",
+                        "link": "https://www.youtube.com/watch?v=8F1jlrhv2ao",
+                        "thumbnail": "https://i1.ytimg.com/vi/8F1jlrhv2ao/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Jul 2026 | Anak anak Milikmu?",
+                        "date": "2026-07-20",
+                        "desc": "Dibawakan oleh Pnt. Paul A. Gulo",
+                        "link": "https://www.youtube.com/watch?v=xHRdMQY187M",
+                        "thumbnail": "https://i1.ytimg.com/vi/xHRdMQY187M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 20 Juli 2026 | Anak Bahagia Dalam Keluarga Tuhan",
+                        "date": "2026-07-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=28Y_uVzb-fU",
+                        "thumbnail": "https://i3.ytimg.com/vi/28Y_uVzb-fU/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
