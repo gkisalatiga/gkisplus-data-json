@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6265,
-        "last-update": 1785426250,
-        "last-updated-item": "yt",
+        "update-count": 6266,
+        "last-update": 1785464441,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -4518,36 +4518,6 @@
                     "place": "Gedung Gereja",
                     "representative": "Majelis Jemaat",
                     "note": ""
-                },
-                {
-                    "name": "Latihan PSP. Pesparawi Kota Salatiga",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Kapernaum",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
-                },
-                {
-                    "name": "Latihan PSW. Pesparawi Kota Salatiga",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Betlehem",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
-                },
-                {
-                    "name": "Latihan PSDC. Pesparawi Kota Salatiga",
-                    "time": "18:30",
-                    "time-to": "20:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Gereja",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
                 }
             ],
             "mon": [
@@ -4656,16 +4626,6 @@
                     "note": ""
                 },
                 {
-                    "name": "Latihan PSA, Pesparawi Kota Salatiga",
-                    "time": "17:00",
-                    "time-to": "18:30",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Gereja",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
-                },
-                {
                     "name": "Kambium",
                     "time": "18:00",
                     "time-to": "20:00",
@@ -4674,36 +4634,6 @@
                     "place": "Ruang Kapernaum",
                     "representative": "Komisi Dewasa",
                     "note": ""
-                },
-                {
-                    "name": "Latihan PSP, Pesparawi Kota Salatiga",
-                    "time": "18:00",
-                    "time-to": "19:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Studio",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
-                },
-                {
-                    "name": "Latihan PSW, Pesparawi Kota Salatiga",
-                    "time": "18:00",
-                    "time-to": "19:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Ruang Galilea",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
-                },
-                {
-                    "name": "Latihan PSDC, Pesparawi Kota Salatiga",
-                    "time": "19:00",
-                    "time-to": "20:00",
-                    "timezone": "WIB",
-                    "type": "rutin",
-                    "place": "Gedung Gereja",
-                    "representative": "LPPD",
-                    "note": "Rutin sampai dengan 14 Juni 2026"
                 }
             ],
             "thu": [
@@ -5890,6 +5820,34 @@
                 "note": ""
             },
             {
+                "name": "Simulasi OBS Multiview (Sesi 2)",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan untuk KU",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-07-31",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Gladi Bersih English Service",
                 "time": "09:00",
                 "time-to": "13:30",
@@ -6616,34 +6574,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Simulasi OBS Multiview (Sesi 2)",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-07-31",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan untuk KU",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-07-31",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
