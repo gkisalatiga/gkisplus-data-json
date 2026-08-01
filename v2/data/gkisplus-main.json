@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6274,
-        "last-update": 1785577635,
+        "update-count": 6275,
+        "last-update": 1785578473,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2293,6 +2293,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 2 Agustus 2026",
+                    "date": "2026-08-01",
+                    "link": "https://drive.google.com/file/d/1jzxgLuQ5a2DLFQoSKWaF5_VLPeTK1MA5/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-2-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1jzxgLuQ5a2DLFQoSKWaF5_VLPeTK1MA5",
+                    "id": "1jzxgLuQ5a2DLFQoSKWaF5_VLPeTK1MA5",
+                    "size": "1.83 MB"
+                },
+                {
                     "title": "Warta Jemaat 26 Juli 2026",
                     "date": "2026-07-25",
                     "link": "https://drive.google.com/file/d/1fuIWIFdh4Ca7w9PVQyIcSrgDpLgIboRO/view",
@@ -3221,6 +3230,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 2 Agustus 2026",
+                    "date": "2026-08-01",
+                    "link": "https://drive.google.com/file/d/1_4A9EFMQxZq7BSyeZsgRXOP7_QR2glpC/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-2-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1_4A9EFMQxZq7BSyeZsgRXOP7_QR2glpC",
+                    "id": "1_4A9EFMQxZq7BSyeZsgRXOP7_QR2glpC",
+                    "size": "0.71 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 26 Juli 2026 (Hari Anak Nasional)",
                     "date": "2026-07-25",
@@ -5503,15 +5521,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "title": "KTB KD",
-                "type": "poster",
-                "date-created": "2026-07-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Informasi Persekutuan SoDa",
