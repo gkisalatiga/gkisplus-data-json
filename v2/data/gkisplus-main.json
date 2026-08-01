@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6271,
-        "last-update": 1785561417,
-        "last-updated-item": "yt",
+        "update-count": 6272,
+        "last-update": 1785562772,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5868,6 +5868,20 @@
                 "note": ""
             },
             {
+                "name": "PA. Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-08-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat dengan Pengurus YPE",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6034,6 +6048,20 @@
                 "pic": "Yuliyanti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Rapat Tim Pembimbing Capen",
@@ -6204,6 +6232,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-29",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6232,6 +6274,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-10-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": " Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 5 (Triwibowo)",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6256,6 +6312,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi ",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-10-13",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
             },
@@ -6288,6 +6358,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-10-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wil. 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6314,6 +6398,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-10-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6512,16 +6610,16 @@
                 "note": "-"
             },
             {
-                "name": "PA. Wilayah 1",
-                "time": "17:00",
-                "time-to": "18:30",
+                "name": "Seleksi Peserta PNK",
+                "time": "11:00",
+                "time-to": "13:00",
                 "timezone": "WIB",
-                "date": "2026-08-04",
-                "weekday": "tue",
+                "date": "2026-08-02",
+                "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "A.M. Widiatmoko",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
                 "status": "w",
                 "note": ""
             }
