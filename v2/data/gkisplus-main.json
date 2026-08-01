@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6272,
-        "last-update": 1785562772,
+        "update-count": 6273,
+        "last-update": 1785571896,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5798,6 +5798,34 @@
                 "note": "Minta disiapkan teh untuk 7 orang"
             },
             {
+                "name": "Seleksi Peserta PNK",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-08-02",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Gerejawi Pernikahan",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta Setiawan Krisgunadi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Pembentukan Panitia Bulan Keluarga",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6608,20 +6636,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Seleksi Peserta PNK",
-                "time": "11:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-08-02",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adhara",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
