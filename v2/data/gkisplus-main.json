@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6278,
-        "last-update": 1785618076,
+        "update-count": 6279,
+        "last-update": 1785682346,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,7 +21,14 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 1 Aug 2026 | Merdeka di Dalam Kristus",
+                        "title": "SaRen Pagi | 3 Agu 2026 | Bebas Oleh Kebenaran",
+                        "date": "2026-08-02",
+                        "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
+                        "link": "https://www.youtube.com/watch?v=UX9ff2TA6q8",
+                        "thumbnail": "https://i2.ytimg.com/vi/UX9ff2TA6q8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Agu 2026 | Merdeka di Dalam Kristus",
                         "date": "2026-07-31",
                         "desc": "Dibawakan oleh Pnt. Desy Ballo",
                         "link": "https://www.youtube.com/watch?v=3qd6Tra4aGg",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pnt. Ervien Dian W",
                         "link": "https://www.youtube.com/watch?v=m7CBiine0FE",
                         "thumbnail": "https://i2.ytimg.com/vi/m7CBiine0FE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Jul 2026 | Be Like Jesus",
-                        "date": "2026-07-22",
-                        "desc": "Dibawakan oleh Ibu Evelina Purnama",
-                        "link": "https://www.youtube.com/watch?v=by2_jsvRxU8",
-                        "thumbnail": "https://i3.ytimg.com/vi/by2_jsvRxU8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -99,7 +99,7 @@
                         "date": "2026-08-01",
                         "desc": "Ibadah Minggu GKI Salatiga | 2 Agustus 2026  | Pukul 07.00 WIB\n\nTema : \"Dalam Pergumulan Ada Keteguhan\" \n\nNyanyian: KK 27; PKJ 255; KK 561 ; KJ 439; KJ 369a \nBacaan 1: Kejadian 32:22-31 \nBacaan 2: Roma 9:1-5 \nMazmur Tanggapan: Mazmur 17:1-9,15 \nBacaan Injil: Matius 14:13-21 \nBerita Anugerah: 2 Korintus 5:17 \nPersembahan: 2 Korintus 8:2 \n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi \nKoordinator Ibadah dan Persembahan: Pnt. Benny A. Kailola \nKredo dan Warta: Pnt. Ervien Dian W. \nSambut Tamu: Pnt. Natanael Hardjono, Pnt. Santoso Adi P. \nPemandu Liturgi: Endri Bagiyanti A\nLektor: Monika Manuella, Maria Inawati \n\nPemusik: Jenny, Ryu, Christy, Elin \nPNK/PMZ: Raisa / Benaya \nPaduan Suara: -\nSolo Vocal: Yoseph\nTim Multimedia: Daniel Eko, Elibert, Wayan, Puguh, Budi\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Anggrek Dendobrium \nUsher & Kolektan: Tim Doa Tengah Hari: Indriati, Wardjini,  Sukinem, Reny H.\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=uhjKhOT_c54",
-                        "thumbnail": "https://i.ytimg.com/vi/uhjKhOT_c54/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/uhjKhOT_c54/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 26 Juli 2026  (Hari Anak Nasional) | 09.30 WIB | \"Be Like Jesus\"",
