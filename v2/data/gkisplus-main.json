@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6283,
-        "last-update": 1785755403,
+        "update-count": 6284,
+        "last-update": 1785773540,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Agu 2026 | Klinik Hati dan Jantung",
+                        "date": "2026-08-03",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=8b15M-IKAAA",
+                        "thumbnail": "https://i1.ytimg.com/vi/8b15M-IKAAA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Agu 2026 | Mengisi Kemerdekaan Secara Bertanggungjawab",
+                        "date": "2026-08-03",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=ChzaSWGGQJ4",
+                        "thumbnail": "https://i4.ytimg.com/vi/ChzaSWGGQJ4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Agu 2026 | Bebas Oleh Kebenaran",
                         "date": "2026-08-02",
@@ -75,13 +89,6 @@
                         "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
                         "link": "https://www.youtube.com/watch?v=CLyXfIOx4I8",
                         "thumbnail": "https://i4.ytimg.com/vi/CLyXfIOx4I8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Jul 2026 | Mendidik Anak Berkarakter Kristus",
-                        "date": "2026-07-23",
-                        "desc": "Dibawakan oleh Pnt. Ervien Dian W",
-                        "link": "https://www.youtube.com/watch?v=m7CBiine0FE",
-                        "thumbnail": "https://i2.ytimg.com/vi/m7CBiine0FE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
