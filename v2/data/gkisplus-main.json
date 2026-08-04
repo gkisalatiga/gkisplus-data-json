@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6287,
-        "last-update": 1785819128,
-        "last-updated-item": "yt",
+        "update-count": 6288,
+        "last-update": 1785821289,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5813,6 +5813,20 @@
                 "note": ""
             },
             {
+                "name": "Percakapan Gerejawi Pernikahan",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-01",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta Setiawan Krisgunadi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat MJP KA&KP dengan Pengurus KP",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5837,20 +5851,6 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Adhara",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapan Gerejawi Pernikahan",
-                "time": "18:30",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-08-01",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Yefta Setiawan Krisgunadi",
                 "status": "y",
                 "note": ""
             },
@@ -6485,6 +6485,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-03",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6525,6 +6539,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Rapat Tim Pembimbing Capen",
@@ -6569,6 +6597,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wil. 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6595,6 +6637,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6664,62 +6720,6 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
                 "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-11-03",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-11-10",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-11-17",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-11-24",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
                 "note": "-"
             }
         ],
