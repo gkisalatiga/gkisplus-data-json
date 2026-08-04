@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6290,
-        "last-update": 1785849237,
+        "update-count": 6291,
+        "last-update": 1785858717,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6024,6 +6024,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Panitia 17 Agustus",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-08-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Pesan teh"
+            },
+            {
+                "name": "Rapat KPPK",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Bu Nana",
+                "status": "y",
+                "note": "Mint disiapkan teh untuk 7org"
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6034,6 +6062,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim KUL Sinode",
+                "time": "09:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-08-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Em. Iman Santoso",
                 "status": "y",
                 "note": ""
             },
@@ -6120,6 +6162,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6792,34 +6848,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Panitia 17 Agustus",
-                "time": "18:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-08-05",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Pesan teh"
-            },
-            {
-                "name": "Wilayah 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-08-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
