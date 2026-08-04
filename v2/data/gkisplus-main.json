@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6291,
-        "last-update": 1785858717,
-        "last-updated-item": "agenda",
+        "update-count": 6292,
+        "last-update": 1785877102,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 5 Agu 2026 | Klinik Hati dan Jantung",
+                        "date": "2026-08-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=8b15M-IKAAA",
+                        "thumbnail": "https://i1.ytimg.com/vi/8b15M-IKAAA/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 4 Agu 2026 | Mengisi Kemerdekaan Secara Bertanggungjawab",
                         "date": "2026-08-03",
                         "desc": "Dibawakan oleh Bpk. Lukas Sukan",
                         "link": "https://www.youtube.com/watch?v=ChzaSWGGQJ4",
                         "thumbnail": "https://i4.ytimg.com/vi/ChzaSWGGQJ4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Agu 2026 | Klinik Hati dan Jantung",
-                        "date": "2026-08-03",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=8b15M-IKAAA",
-                        "thumbnail": "https://i1.ytimg.com/vi/8b15M-IKAAA/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 3 Agu 2026 | Bebas Oleh Kebenaran",
