@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6289,
-        "last-update": 1785828554,
-        "last-updated-item": "yt",
+        "update-count": 6290,
+        "last-update": 1785849237,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6792,6 +6792,34 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Panitia 17 Agustus",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-08-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": "Pesan teh"
+            },
+            {
+                "name": "Wilayah 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
