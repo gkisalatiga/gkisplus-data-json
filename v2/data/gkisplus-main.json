@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6297,
-        "last-update": 1785927490,
-        "last-updated-item": "agenda",
+        "update-count": 6298,
+        "last-update": 1785945114,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Agu 2026 | Kemerdekaan Yang Sejati Bagi Orang Percaya",
+                        "date": "2026-08-05",
+                        "desc": "Dibawakan oleh Bpk.Warjendro Pamungkas",
+                        "link": "https://www.youtube.com/watch?v=V0b0cOb89wA",
+                        "thumbnail": "https://i3.ytimg.com/vi/V0b0cOb89wA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Agu 2026 | Klinik Hati dan Jantung",
                         "date": "2026-08-04",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Sdri. Dian Triviena",
                         "link": "https://www.youtube.com/watch?v=nJ3WI0IH1E0",
                         "thumbnail": "https://i3.ytimg.com/vi/nJ3WI0IH1E0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Jul 2026 | Menjadi Pelindung dan Jembatan Masa Depan Anak",
-                        "date": "2026-07-24",
-                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
-                        "link": "https://www.youtube.com/watch?v=CLyXfIOx4I8",
-                        "thumbnail": "https://i4.ytimg.com/vi/CLyXfIOx4I8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -1569,6 +1569,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN KEVIN & MONIQUE | 8 AGUSTUS 2026",
+                        "date": "2026-08-05",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. KEVIN  dengan Sdri. MONIQUE ARNOVA\n\nSabtu, 8 Agustus 2026 pukul 11.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Helen Ruth Manurung \nMJ : Pnt. Desemy Ch. N. Ballo dan Pnt. Natanael  Hardjono\nPemusik : Tommy\nPNK : Samuel\nMultimedia : Joaquim, Joshua, Risti, Iwandi, Jeffry",
+                        "link": "https://www.youtube.com/watch?v=sGE5cxwI5II",
+                        "thumbnail": "https://i.ytimg.com/vi/sGE5cxwI5II/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN DAVID & LOLITA | 11 JULI 2026",
                         "date": "2026-07-10",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan Sdr. DAVID INDRA MULYANTO  dengan Sdri. LOLITA CHRISTIN FEBRIYANTI DAMANIK\n\nSabtu, 11 Juli 2026 pukul 10.00 WIB di GKI Salatiga\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi \nMJ : Pnt. Catur Winarno & Pnt. Santoso Adi Pribadi\nPemusik : Swatindra\nPNK : Pnt. Gita Hastuti\nMultimedia : I Made Satya, Samarthya, Susan, Iwandi, Bobby",
@@ -1770,13 +1777,6 @@
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. Kresnal Pangaroan dengan Sdri. Katarina Tathya Ratri\n\nSabtu, 3 Juni 2023 \npukul 13.00 WIB \n\nPelayan Firman : Pdt. Yefta Setiawan Krisgunadi\nMJ : Pnt. Nadia Sitaresmi ; Pnt. Desemy Ch. N. Ballo\nPemusik : Zephaniah \u2502PNK : Gita Hastuti\u2502OBS : Deni Jaya \u2502PPT : Budi Santoso \u2502\nTata Suara : I Made Satya Arnawa \u2502 Kamerawan : Iwandi + Bobby",
                         "link": "https://www.youtube.com/watch?v=E3i6CtkQmTQ",
                         "thumbnail": "https://i.ytimg.com/vi/E3i6CtkQmTQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN YUDHA & DITA | 20 Mei 2023",
-                        "date": "2023-05-11",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr. Septian Yudha Pratama dan Sdri. Dita Clara Shinta\n\nSabtu, 20 Mei 2023 pukul 09.00 WIB",
-                        "link": "https://www.youtube.com/watch?v=8mFTUW9HW30",
-                        "thumbnail": "https://i.ytimg.com/vi/8mFTUW9HW30/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
