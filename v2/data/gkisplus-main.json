@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6295,
-        "last-update": 1785914992,
-        "last-updated-item": "yt",
+        "update-count": 6296,
+        "last-update": 1785916827,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6122,7 +6122,7 @@
                 "note": "-"
             },
             {
-                "name": " PA Wilayah 7",
+                "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
                 "timezone": "WIB",
