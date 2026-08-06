@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6301,
-        "last-update": 1786001404,
-        "last-updated-item": "yt",
+        "update-count": 6302,
+        "last-update": 1786004724,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6108,6 +6108,48 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Bendahara dengan BPHMJ",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-06",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Minta tolong pinjamkan kipas dari konsistori"
+            },
+            {
+                "name": "Rapat BPMJ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-10",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6162,6 +6204,20 @@
                 "pic": "Ona Aponno",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-08-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Persekutuan KD",
@@ -6304,6 +6360,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPMJ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-04",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6343,6 +6413,20 @@
                 "representative": "Wilayah",
                 "pic": "Pak Sutarto Wijono",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-09-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sidarso",
+                "status": "w",
                 "note": "-"
             },
             {
@@ -6486,6 +6570,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat BPMJ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6511,6 +6609,20 @@
                 "representative": "Wilayah",
                 "pic": " Bu Djini",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-10-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
                 "note": "-"
             },
             {
@@ -6680,6 +6792,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat BPMJ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarsp",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wil. 10",
@@ -6889,6 +7015,20 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:03",
+                "timezone": "WIB",
+                "date": "2026-11-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
                 "note": "-"
             }
         ],
