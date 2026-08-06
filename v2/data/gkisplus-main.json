@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6299,
-        "last-update": 1785991933,
-        "last-updated-item": "yt",
+        "update-count": 6300,
+        "last-update": 1785994240,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5981,6 +5981,20 @@
                 "note": "Mint disiapkan teh untuk 7org"
             },
             {
+                "name": "Rapat Pengurus YPE",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-08-05",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": " Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "Terimakasih"
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6063,6 +6077,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PEMAHAMAN ALKITAB Wil. 5",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-08-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Ona Aponno",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Persekutuan KD",
@@ -6791,34 +6819,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Pengurus YPE",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-08-05",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem, Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Yari Dwikurnaningsih",
-                "status": "w",
-                "note": "Terimakasih"
-            },
-            {
-                "name": "Rapat Pengurus YPE ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-08-05",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "YPE",
-                "pic": "Iryatun Trikorini ",
-                "status": "w",
-                "note": "Mohon maaf mendadak. \nTerima kasih. "
             }
         ],
         "backend": {
