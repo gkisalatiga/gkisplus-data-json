@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 90,
-        "last-update": 1785305858,
+        "update-count": 91,
+        "last-update": 1786039164,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -33625,6 +33625,66 @@
                             "id": "1cwy_9BMFMjC6jC7xSwtbcsxNcdr76bKD",
                             "name": "IMG_20260726_080904.HEIC",
                             "date": "2026-07-28"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1MgMD_EmaHHUyKVNI94WlM6P8L9Td5WCb",
+                    "last_update": "2026-08-06",
+                    "featured_photo_id": "1gy7XhdaOuDYrgVdYABWUgEhyQpOffY0e",
+                    "story": "Foto-foto dokumentasi Kebaktian Berbahasa Inggris yang dilaksanakan pada 2 Agustus 2026.",
+                    "title": "Kebaktian Berbahasa Inggris",
+                    "event_date": "2026.08.02",
+                    "photos": [
+                        {
+                            "id": "1z9ySlYY04yKYOEWlU5mTW2QjsgWliXyz",
+                            "name": "IMG_1277.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1DFOj6BP9OtgJAJWXbgtaftGhd3vNWDDn",
+                            "name": "IMG_20260802_113017.HEIC",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "15vzTqwD0dyCMBBuKAiEQEjWcgFJSf6ey",
+                            "name": "IMG_1268.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1rw3jFnMFnpzwbzDiokKPM79r81FypCtT",
+                            "name": "IMG_1262.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1q7A67SIRckn0niXowHdQIyFSKLLjTCkA",
+                            "name": "IMG_1316.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1HAaKZ80V69Uf4qSequN5TjWkr8jPCkw7",
+                            "name": "IMG_1265.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1oVl09q1tmCkF1_9OY1tPtD4uaJv5T17t",
+                            "name": "IMG_1290.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1zniMcdEsZMboNpTf-Zqft6_6RbtN6s7Y",
+                            "name": "IMG_1279.JPG",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1KQ7IDyi2YV6hFsJJC-txD7JjGYoAVA5R",
+                            "name": "IMG_20260802_113037.HEIC",
+                            "date": "2026-08-06"
+                        },
+                        {
+                            "id": "1OCfDpC7BUdo_bpej2M9ir2dywUtmcQTp",
+                            "name": "IMG_1299.JPG",
+                            "date": "2026-08-06"
                         }
                     ]
                 }
