@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6302,
-        "last-update": 1786004724,
+        "update-count": 6303,
+        "last-update": 1786029616,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7030,6 +7030,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat BPH + KOOR Pembekalan Pengurus KR 26/27",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-08",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
