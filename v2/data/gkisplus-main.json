@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6312,
-        "last-update": 1786107068,
-        "last-updated-item": "agenda",
+        "update-count": 6313,
+        "last-update": 1786124290,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Agu 2026 | Berdoa dan Berbakti",
+                        "date": "2026-08-07",
+                        "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
+                        "link": "https://www.youtube.com/watch?v=z8fE1TTEfXk",
+                        "thumbnail": "https://i3.ytimg.com/vi/z8fE1TTEfXk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Agu 2026 | Negeri yang Baik Bersyukur dan Bertanggung Jawab",
                         "date": "2026-08-06",
