@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6307,
-        "last-update": 1786082555,
-        "last-updated-item": "yt",
+        "update-count": 6308,
+        "last-update": 1786082766,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -4710,6 +4710,16 @@
                     "place": "Ruang Studio",
                     "representative": "Komisi Remaja",
                     "note": ""
+                },
+                {
+                    "name": "Rapat BPMJ",
+                    "time": "18:00",
+                    "time-to": "20:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Konsistori",
+                    "representative": "Majelis Jemaat",
+                    "note": "Setiap Jumat Minggu Pertama"
                 },
                 {
                     "name": "Latihan Persekutuan SODA",
