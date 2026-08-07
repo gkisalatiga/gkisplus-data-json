@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6311,
-        "last-update": 1786092738,
+        "update-count": 6312,
+        "last-update": 1786107068,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7069,6 +7069,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Samarthya",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Pemusik Ibadah 9 Agustus",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-08-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "w",
                 "note": ""
             }
