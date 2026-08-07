@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6308,
-        "last-update": 1786082766,
+        "update-count": 6309,
+        "last-update": 1786089018,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6057,6 +6057,34 @@
                 "note": "-"
             },
             {
+                "name": "Percakapan",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-08-07",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat BPH + KOOR Pembekalan Pengurus KR 26/27",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-08-08",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia Bulan Keluarga",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6291,7 +6319,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6347,7 +6375,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sidarso",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6501,7 +6529,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6543,7 +6571,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6725,7 +6753,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarsp",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6797,6 +6825,20 @@
                 "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat MJ Bidang 3",
+                "time": "18:30",
+                "time-to": "20:03",
+                "timezone": "WIB",
+                "date": "2026-11-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PA wilayah 11",
@@ -6937,48 +6979,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat MJ Bidang 3",
-                "time": "18:30",
-                "time-to": "20:03",
-                "timezone": "WIB",
-                "date": "2026-11-13",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat BPH + KOOR Pembekalan Pengurus KR 26/27",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-08-08",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Percakapan",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-08-07",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen Ruth Manurung",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
