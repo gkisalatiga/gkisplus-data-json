@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6310,
-        "last-update": 1786092215,
-        "last-updated-item": "yt",
+        "update-count": 6311,
+        "last-update": 1786092738,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7057,6 +7057,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Koordinasi Kegiatan Lintas Iman KP dengan Majelis Bidang II",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-08-09",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
