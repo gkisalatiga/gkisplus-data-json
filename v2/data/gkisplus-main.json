@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6313,
-        "last-update": 1786124290,
+        "update-count": 6314,
+        "last-update": 1786164156,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2300,6 +2300,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 9 Agustus 2026",
+                    "date": "2026-08-08",
+                    "link": "https://drive.google.com/file/d/1PRpYyhD9HyT4qTiVdDJGCdEfc-p5oc_J/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-9-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1PRpYyhD9HyT4qTiVdDJGCdEfc-p5oc_J",
+                    "id": "1PRpYyhD9HyT4qTiVdDJGCdEfc-p5oc_J",
+                    "size": "2.01 MB"
+                },
+                {
                     "title": "Warta Jemaat 2 Agustus 2026",
                     "date": "2026-08-01",
                     "link": "https://drive.google.com/file/d/1jzxgLuQ5a2DLFQoSKWaF5_VLPeTK1MA5/view",
@@ -3237,6 +3246,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 9 Agustus 2026",
+                    "date": "2026-08-08",
+                    "link": "https://drive.google.com/file/d/1yC3xmjsbYUD2G4CVNeSksdNnKYtoO1hQ/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-9-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=yC3xmjsbYUD2G4CVNeSksdNnKYtoO1hQ",
+                    "id": "yC3xmjsbYUD2G4CVNeSksdNnKYtoO1hQ",
+                    "size": "0.72 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 2 Agustus 2026",
                     "date": "2026-08-01",
