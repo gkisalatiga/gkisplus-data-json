@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6320,
-        "last-update": 1786285336,
-        "last-updated-item": "yt",
+        "update-count": 6321,
+        "last-update": 1786290930,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7184,6 +7184,20 @@
                 "pic": "Jenny",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Pembekalan Fasilitator KTB Remaja",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-10",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Asputri",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
