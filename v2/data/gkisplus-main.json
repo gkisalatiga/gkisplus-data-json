@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6326,
-        "last-update": 1786410976,
+        "update-count": 6327,
+        "last-update": 1786418170,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6030,6 +6030,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Persekutuan KD",
                 "time": "17:30",
                 "time-to": "19:30",
@@ -6040,6 +6054,48 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-08-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Sosialisasi Program Sekolah",
+                "time": "08:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-08-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Tri Siwi P",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Workshop Pemandu Nyanyian Kebaktian (PNK)",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-08-16",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
                 "status": "y",
                 "note": ""
             },
@@ -6840,62 +6896,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "19:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-08-13",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Chronicles",
-                "time": "17:30",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2026-08-14",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Tommy",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Sosialisasi Program Sekolah",
-                "time": "08:00",
-                "time-to": "00:00",
-                "timezone": "WIB",
-                "date": "2026-08-14",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Tri Siwi P",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Workshop Pemandu Nyanyian Kebaktian (PNK)",
-                "time": "11:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-08-16",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adhara",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
