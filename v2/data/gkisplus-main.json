@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6329,
-        "last-update": 1786427387,
+        "update-count": 6330,
+        "last-update": 1786435741,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6818,6 +6818,34 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Workshop Guru Sekolah Minggu oleh LAI",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-08-29",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Persidangan Majelis Sinode Wilayah",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-08-15",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Gita Hastuti",
+                "status": "w",
+                "note": "Minta disiapkan LCD dan teh untuk 15-20 orang"
             }
         ],
         "backend": {
