@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6325,
-        "last-update": 1786383672,
-        "last-updated-item": "yt",
+        "update-count": 6326,
+        "last-update": 1786410976,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6880,6 +6880,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Tri Siwi P",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Workshop Pemandu Nyanyian Kebaktian (PNK)",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-08-16",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
                 "status": "w",
                 "note": ""
             }
