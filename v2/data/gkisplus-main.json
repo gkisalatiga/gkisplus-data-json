@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6336,
-        "last-update": 1786539362,
-        "last-updated-item": "agenda",
+        "update-count": 6337,
+        "last-update": 1786546109,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Agu 2026 | Merdeka Sejati Adalah Hidup Bebas Di Dalam Kristus",
+                        "date": "2026-08-12",
+                        "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
+                        "link": "https://www.youtube.com/watch?v=28GP0JgK9xw",
+                        "thumbnail": "https://i3.ytimg.com/vi/28GP0JgK9xw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Agu 2026 | Menjelang 81 Tahun Indonesia Merdeka",
                         "date": "2026-08-11",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Desy Ballo",
                         "link": "https://www.youtube.com/watch?v=3qd6Tra4aGg",
                         "thumbnail": "https://i4.ytimg.com/vi/3qd6Tra4aGg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Jul 2026 | Kasih Setia Tuhan yang Menghajar",
-                        "date": "2026-07-30",
-                        "desc": "Dibawakan oleh Ibu Susetyo Rini",
-                        "link": "https://www.youtube.com/watch?v=OpomldaWQ_I",
-                        "thumbnail": "https://i4.ytimg.com/vi/OpomldaWQ_I/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
