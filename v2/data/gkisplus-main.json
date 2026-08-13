@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6340,
-        "last-update": 1786611576,
-        "last-updated-item": "yt",
+        "update-count": 6341,
+        "last-update": 1786618853,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6951,6 +6951,20 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Besar Panitia Pembekalan Pengurus KR",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-08-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
                 "note": "-"
             }
         ],
