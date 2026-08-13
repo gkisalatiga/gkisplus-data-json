@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6337,
-        "last-update": 1786546109,
-        "last-updated-item": "yt",
+        "update-count": 6338,
+        "last-update": 1786592346,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6044,6 +6044,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat koordinasi ",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-08-13",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Persekutuan KD",
                 "time": "17:30",
                 "time-to": "19:30",
@@ -6084,6 +6098,34 @@
                 "pic": "Tri Siwi P",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Besar Panitia Pembekalan Pengurus KR 26/27",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-08-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "\ud83d\ude4f\ud83c\udffb"
+            },
+            {
+                "name": "Rapat Persidangan Majelis Sinode Wilayah",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-08-15",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Gita Hastuti",
+                "status": "y",
+                "note": "Minta disiapkan LCD dan teh untuk 15-20 orang"
             },
             {
                 "name": "Workshop Pemandu Nyanyian Kebaktian (PNK)",
@@ -6182,6 +6224,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Workshop Guru Sekolah Minggu oleh LAI",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-08-29",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6896,62 +6952,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Workshop Guru Sekolah Minggu oleh LAI",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-08-29",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen Ruth Manurung",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Persidangan Majelis Sinode Wilayah",
-                "time": "13:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-08-15",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Gita Hastuti",
-                "status": "w",
-                "note": "Minta disiapkan LCD dan teh untuk 15-20 orang"
-            },
-            {
-                "name": "Rapat koordinasi ",
-                "time": "16:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-08-13",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Besar Panitia Pembekalan Pengurus KR 26/27",
-                "time": "19:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-08-14",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
-                "status": "w",
-                "note": "\ud83d\ude4f\ud83c\udffb"
             }
         ],
         "backend": {
