@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6341,
-        "last-update": 1786618853,
-        "last-updated-item": "agenda",
+        "update-count": 6342,
+        "last-update": 1786632515,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 14 Agu 2026 | Merdeka Dari Takut Kepada Manusia",
+                        "date": "2026-08-13",
+                        "desc": "Dibawakan oleh Bpk. Prasetyadaru Pirenantyo",
+                        "link": "https://www.youtube.com/watch?v=Q99r6RuZXHQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/Q99r6RuZXHQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 13 Agu 2026 | Merdeka Sejati Adalah Hidup Bebas Di Dalam Kristus",
                         "date": "2026-08-12",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
                         "link": "https://www.youtube.com/watch?v=UX9ff2TA6q8",
                         "thumbnail": "https://i2.ytimg.com/vi/UX9ff2TA6q8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Agu 2026 | Merdeka di Dalam Kristus",
-                        "date": "2026-07-31",
-                        "desc": "Dibawakan oleh Pnt. Desy Ballo",
-                        "link": "https://www.youtube.com/watch?v=3qd6Tra4aGg",
-                        "thumbnail": "https://i4.ytimg.com/vi/3qd6Tra4aGg/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
