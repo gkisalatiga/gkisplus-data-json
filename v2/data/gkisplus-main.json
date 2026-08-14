@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6343,
-        "last-update": 1786679579,
-        "last-updated-item": "yt",
+        "update-count": 6344,
+        "last-update": 1786685244,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6022,18 +6022,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat Besar Panitia Pembekalan Pengurus KR 26/27",
+                "name": "Rapat Besar Panitia Pembekalan Pengurus KR",
                 "time": "19:00",
                 "time-to": "20:30",
                 "timezone": "WIB",
                 "date": "2026-08-14",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Nareswari",
-                "status": "w",
-                "note": "\ud83d\ude4f\ud83c\udffb"
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Rapat Persidangan Majelis Sinode Wilayah",
@@ -6876,18 +6876,18 @@
                 "note": "-"
             },
             {
-                "name": "Rapat Besar Panitia Pembekalan Pengurus KR",
-                "time": "19:00",
-                "time-to": "20:30",
+                "name": "Pengelolaan Multimedia",
+                "time": "11:30",
+                "time-to": "14:00",
                 "timezone": "WIB",
                 "date": "2026-08-14",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
                 "status": "w",
-                "note": "-"
+                "note": "Hanya menggunakan ruang multimedia"
             }
         ],
         "backend": {
