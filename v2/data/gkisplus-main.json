@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6345,
-        "last-update": 1786697706,
+        "update-count": 6346,
+        "last-update": 1786707269,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Agu 2026 | Dengan Takut Akan Allah",
+                        "date": "2026-08-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=JZbyp9n10q8",
+                        "thumbnail": "https://i3.ytimg.com/vi/JZbyp9n10q8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Agu 2026 | Merdeka Dari Takut Kepada Manusia",
                         "date": "2026-08-13",
