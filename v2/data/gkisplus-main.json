@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6348,
-        "last-update": 1786770848,
-        "last-updated-item": "yt",
+        "update-count": 6349,
+        "last-update": 1786772932,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6916,6 +6916,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Koordinasi Antar Bapel & Wilayah",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-27",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
