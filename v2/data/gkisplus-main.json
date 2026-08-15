@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6349,
-        "last-update": 1786772932,
+        "update-count": 6350,
+        "last-update": 1786773290,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2215,6 +2215,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 16 Agustus 2026",
+                    "date": "2026-08-15",
+                    "link": "https://drive.google.com/file/d/1Rza7XpBJMYMIAjDdGOOolIgxiD6Cndk8/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-16-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Rza7XpBJMYMIAjDdGOOolIgxiD6Cndk8",
+                    "id": "1Rza7XpBJMYMIAjDdGOOolIgxiD6Cndk8",
+                    "size": "2.22 MB"
+                },
+                {
                     "title": "Warta Jemaat 9 Agustus 2026",
                     "date": "2026-08-08",
                     "link": "https://drive.google.com/file/d/1PRpYyhD9HyT4qTiVdDJGCdEfc-p5oc_J/view",
@@ -3161,6 +3170,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 16 Agustus 2026 - HUT KE-81 REPUBLIK INDONESIA",
+                    "date": "2026-08-15",
+                    "link": "https://drive.google.com/file/d/1ZgtexgBuzCTNYgq9wChOHj_GG6YwZS2V/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-16-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1ZgtexgBuzCTNYgq9wChOHj_GG6YwZS2V",
+                    "id": "1ZgtexgBuzCTNYgq9wChOHj_GG6YwZS2V",
+                    "size": "0.56 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 9 Agustus 2026",
                     "date": "2026-08-08",
