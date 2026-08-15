@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6350,
-        "last-update": 1786773290,
+        "update-count": 6351,
+        "last-update": 1786775305,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6948,6 +6948,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ibu Sally ",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
