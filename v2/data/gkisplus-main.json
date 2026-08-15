@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6353,
-        "last-update": 1786780246,
-        "last-updated-item": "agenda",
+        "update-count": 6354,
+        "last-update": 1786781585,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Agu 2026 | Dengan Takut Akan Allah",
+                        "date": "2026-08-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=JZbyp9n10q8",
+                        "thumbnail": "https://i3.ytimg.com/vi/JZbyp9n10q8/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Agu 2026 | Merdeka Dari Takut Kepada Manusia",
+                        "date": "2026-08-13",
+                        "desc": "Dibawakan oleh Bpk. Prasetyadaru Pirenantyo",
+                        "link": "https://www.youtube.com/watch?v=Q99r6RuZXHQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/Q99r6RuZXHQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 13 Agu 2026 | Merdeka Sejati Adalah Hidup Bebas Di Dalam Kristus",
+                        "date": "2026-08-12",
+                        "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
+                        "link": "https://www.youtube.com/watch?v=28GP0JgK9xw",
+                        "thumbnail": "https://i3.ytimg.com/vi/28GP0JgK9xw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Agu 2026 | Menjelang 81 Tahun Indonesia Merdeka",
+                        "date": "2026-08-11",
+                        "desc": "Dibawakan oleh Sdri. Eriyani Tenga Lunga",
+                        "link": "https://www.youtube.com/watch?v=Z2TITjImQCA",
+                        "thumbnail": "https://i3.ytimg.com/vi/Z2TITjImQCA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 11 Agu 2026 | Tinggal Pada Pokok Anggur, Bukan Hanya Ingin Berbuah",
+                        "date": "2026-08-10",
+                        "desc": "Dibawakan oleh Pnt. Yosua Candana",
+                        "link": "https://www.youtube.com/watch?v=ksIJ_mE3ksY",
+                        "thumbnail": "https://i4.ytimg.com/vi/ksIJ_mE3ksY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Agu 2026 | Pentingnya Wahyu dan Hukum",
+                        "date": "2026-08-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=B4SnTOi1K4w",
+                        "thumbnail": "https://i3.ytimg.com/vi/B4SnTOi1K4w/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Agu 2026 | Berdoa dan Berbakti",
+                        "date": "2026-08-07",
+                        "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
+                        "link": "https://www.youtube.com/watch?v=z8fE1TTEfXk",
+                        "thumbnail": "https://i3.ytimg.com/vi/z8fE1TTEfXk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Agu 2026 | Negeri yang Baik Bersyukur dan Bertanggung Jawab",
+                        "date": "2026-08-06",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=lQ_ae1WYbNI",
+                        "thumbnail": "https://i1.ytimg.com/vi/lQ_ae1WYbNI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Agu 2026 | Kemerdekaan Yang Sejati Bagi Orang Percaya",
+                        "date": "2026-08-05",
+                        "desc": "Dibawakan oleh Bpk.Warjendro Pamungkas",
+                        "link": "https://www.youtube.com/watch?v=V0b0cOb89wA",
+                        "thumbnail": "https://i3.ytimg.com/vi/V0b0cOb89wA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Agu 2026 | Klinik Hati dan Jantung",
+                        "date": "2026-08-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=8b15M-IKAAA",
+                        "thumbnail": "https://i1.ytimg.com/vi/8b15M-IKAAA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 4 Agu 2026 | Mengisi Kemerdekaan Secara Bertanggungjawab",
+                        "date": "2026-08-03",
+                        "desc": "Dibawakan oleh Bpk. Lukas Sukan",
+                        "link": "https://www.youtube.com/watch?v=ChzaSWGGQJ4",
+                        "thumbnail": "https://i4.ytimg.com/vi/ChzaSWGGQJ4/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -225,13 +303,6 @@
                         "desc": "Ibadah Minggu Paskah GKI Salatiga | 5 April 2026 | Pukul 09:30 WIB\n(Perjamuan Kudus)\n\nTema: \"Kebangkitan Kristus Memperbarui Ciptaan\"\n\nNyanyian: Kantata Paskah\n\nBacaan 1: Kisah Para Rasul 10:34-43\nTanggapan: Mazmur 118:1-2, 14-24\nBacaan 2: Kolose 3:1-14\nBacaan Injil: Matius 28:1-10\nBerita Anugrah: Yesaya 44:22\nPersembahan: Mazmur 113:2-3\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Samuel Martono\nKredo dan Warta: Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Gita Hastuti, Pnt. Paskah Ika N.\nPemandu Liturgi: Pnt. Ervien Dian W.\nLektor 1: Pnt. Sriono Sudarso\nLektor 2: Pnt. Natalis Sidanta\n\nPemusik: Chronicles & Lamentations All Star\nPNK: Agastya\nPemazmur: Parahita\nTim Multimedia: Daniel Eko, Susan, Jeffrey, Titan, Mekkel\nDokumentasi: Erio / Derryl / Judica / Jeffrey\nFlorist: Tim Teratai\nUsher & Kolektan: Panitia MRP\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=X6cyrTKoiKU",
                         "thumbnail": "https://i.ytimg.com/vi/X6cyrTKoiKU/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu Paskah Subuh GKI Salatiga | 5 April 2026 | \"Kebangkitan Kristus Memperbarui Ciptaan\"",
-                        "date": "2026-03-28",
-                        "desc": "Ibadah Minggu Paskah Subuh GKI Salatiga | 5 April 2026 | Pukul 05:00 WIB\n(Perjamuan Kudus)\n\nTema: \"Kebangkitan Kristus Memperbarui Ciptaan\"\n\nNyanyian: Kantata Paskah\n\nBacaan 1: Kisah Para Rasul 10:34-43\nTanggapan: Mazmur 118:1-2, 14-24\nBacaan 2: Kolose 3:1-14\nBacaan Injil: Matius 28:1-10\nBerita Anugrah: Yesaya 44:22\nPersembahan: Mazmur 113:2-3\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Johnson U. Radda\nKredo dan Warta: Pnt. Catur Winarno\nSambut Tamu: Pnt. Shielly Gunawan, Pnt. Henri Kristanto\nPemandu Liturgi: Pnt. Natalis Sidanta\nLektor 1: Pnt. Desemy Ch. N. Ballo\nLektor 2: Pnt. Hananto Seno\n\nPemusik: Chronicles & Lamentations All Star\nPNK: Agastya\nPemazmur: Elisabeth\nTim Multimedia: Budi S. , Bambang, Jeffrey, Iwandi, Bobby\nDokumentasi: Erio / Derryl / Judica / Jeffrey\nFlorist: Tim Teratai\nUsher & Kolektan: Panitia MRP\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
-                        "link": "https://www.youtube.com/watch?v=2h9ZMudbZPQ",
-                        "thumbnail": "https://i.ytimg.com/vi/2h9ZMudbZPQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
