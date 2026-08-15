@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6346,
-        "last-update": 1786707269,
-        "last-updated-item": "yt",
+        "update-count": 6347,
+        "last-update": 1786766525,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6121,6 +6121,20 @@
                 "note": "-"
             },
             {
+                "name": "Pengelolaan Multimedia",
+                "time": "11:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-08-14",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Hanya menggunakan ruang multimedia"
+            },
+            {
                 "name": "Rapat Persidangan Majelis Sinode Wilayah",
                 "time": "13:00",
                 "time-to": "15:00",
@@ -6135,6 +6149,20 @@
                 "note": "Minta disiapkan LCD dan teh untuk 15-20 orang"
             },
             {
+                "name": "Persiapan liturgi pernikahan Minggu",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-08-15",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Yefta Setiawa  Krisgunadi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Workshop Pemandu Nyanyian Kebaktian (PNK)",
                 "time": "11:00",
                 "time-to": "14:00",
@@ -6145,6 +6173,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Adhara",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan gerejawi Pernikahan Martha dan Fayliks",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-08-17",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
                 "status": "y",
                 "note": ""
             },
@@ -6959,20 +7001,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Pengelolaan Multimedia",
-                "time": "11:30",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-08-14",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Hanya menggunakan ruang multimedia"
             }
         ],
         "backend": {
