@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6359,
-        "last-update": 1786912979,
+        "update-count": 6360,
+        "last-update": 1786920138,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Agu 2026 | yang GENDUT & yang KURUS KEREMPENG",
+                        "date": "2026-08-16",
+                        "desc": "Dibawakan oleh Bpk. R. H Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=b1YffSOHp6U",
+                        "thumbnail": "https://i3.ytimg.com/vi/b1YffSOHp6U/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Agu 2026 | Dengan Takut Akan Allah",
                         "date": "2026-08-14",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Bpk.Warjendro Pamungkas",
                         "link": "https://www.youtube.com/watch?v=V0b0cOb89wA",
                         "thumbnail": "https://i3.ytimg.com/vi/V0b0cOb89wA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Agu 2026 | Klinik Hati dan Jantung",
-                        "date": "2026-08-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=8b15M-IKAAA",
-                        "thumbnail": "https://i1.ytimg.com/vi/8b15M-IKAAA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
