@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6360,
-        "last-update": 1786920138,
+        "update-count": 6361,
+        "last-update": 1786976136,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Agu 2026 | Kemerdekaan Sejati",
+                        "date": "2026-08-17",
+                        "desc": "Dibawakan oleh Ibu Atiek Widyati",
+                        "link": "https://www.youtube.com/watch?v=k3xq_ilJ6vE",
+                        "thumbnail": "https://i4.ytimg.com/vi/k3xq_ilJ6vE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Agu 2026 | yang GENDUT & yang KURUS KEREMPENG",
                         "date": "2026-08-16",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
                         "link": "https://www.youtube.com/watch?v=lQ_ae1WYbNI",
                         "thumbnail": "https://i1.ytimg.com/vi/lQ_ae1WYbNI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Agu 2026 | Kemerdekaan Yang Sejati Bagi Orang Percaya",
-                        "date": "2026-08-05",
-                        "desc": "Dibawakan oleh Bpk.Warjendro Pamungkas",
-                        "link": "https://www.youtube.com/watch?v=V0b0cOb89wA",
-                        "thumbnail": "https://i3.ytimg.com/vi/V0b0cOb89wA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -102,9 +102,9 @@
             {
                 "content": [
                     {
-                        "title": "Ibadah Minggu GKI Salatiga | 16 Agustus 2026 | 07.00 WIB | \"Dari Keterlukaan Berujung Pelukan\"",
+                        "title": "Ibadah Minggu GKI Salatiga | 16 Agustus 2026 | 09.30 WIB | \"Dari Keterlukaan Berujung Pelukan\"",
                         "date": "2026-08-16",
-                        "desc": "Ibadah Minggu GKI Salatiga | 16 Agustus 2026  | Pukul 09.30 WIB\n\nTema : \"Dari Keterlukaan Berujung Pelukan\" \n\nNyanyian: PKJ 7:1-2; PKJ 176:1,2; PKJ 37:2; PKJ 277; PKJ 264; KJ 336:1,3,4; Indonesia Raya \nBacaan 1: Kejadian 45:1-15 \nBacaan 2: Roma 11:1-2a, 29-32\nMazmur Tanggapan: Mazmur 133\nBacaan Injil: Matius 15:21-28\nBerita Anugrah: 1 Petrus 2:9-10\nPersembahan: Roma 12:1\n\nPelayan Firman: Sdr. Melvern Kenny Cahyadi\nKoordinator Ibadah dan Persembahan: Pnt. Paskah Ika N.\nKredo dan Warta: Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Hananto Seno, Pnt. Benny A. Kailola\nPemandu Liturgi: Sintia F.Siregar\nLektor: Joaquim Pulitzer A. , Herlina\n\nPemusik: Chronicles + Leon\nPNK/PMZ: Pnt. Gita Hastuti / Sharon\nPaduan Suara: -\nSolo Vocal: -\nTim Multimedia: Trista, Sari, Nico, Benaya, Evangs\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Persembahan Pernikahan Benny & Fellycia\nUsher & Kolektan: Van Gouh Arimatea, Dian Oktaviani, Sari Dewi Tarigan (SMP Kristen 2)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "desc": "Ibadah Minggu GKI Salatiga | 16 Agustus 2026  | Pukul 09.30 WIB\n\nTema : \"Dari Keterlukaan Berujung Pelukan\" \n\nNyanyian: PKJ 7:1-2; PKJ 176:1,2; PKJ 37:2; PKJ 277; PKJ 264; KJ 336:1,3,4; Indonesia Raya \nBacaan 1: Kejadian 45:1-15 \nBacaan 2: Roma 11:1-2a, 29-32\nMazmur Tanggapan: Mazmur 133\nBacaan Injil: Matius 15:21-28\nBerita Anugrah: 1 Petrus 2:9-10\nPersembahan: Roma 12:1\n\nPelayan Firman: Sdr. Melvern Kenny Cahyadi\nKoordinator Ibadah dan Persembahan: Pnt. Samuel Martono\nKredo dan Warta: Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Hananto Seno, Pnt. Benny A. Kailola\nPeneguhan Majelis Baru: Pnt. Celly Murtiningsih, Pnt. Tuti Hemawati\nPemandu Liturgi: Abrilomi Puspita\nLektor: Vironika Herry, Novita Kumala\n\nPemusik: Chronicles + Leon\nPNK/PMZ: Pnt. Gita Hastuti / Sharon\nPaduan Suara: -\nSolo Vocal: -\nTim Multimedia: Trista, Sari, Nico, Benaya, Evangs\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Persembahan Pernikahan Benny & Fellycia\nUsher & Kolektan: Senky Aji S, Siska Indria  (SD Kristen 03 Eben Haezer)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=72qbwoS0cmk",
                         "thumbnail": "https://i.ytimg.com/vi/72qbwoS0cmk/hqdefault.jpg"
                     },
