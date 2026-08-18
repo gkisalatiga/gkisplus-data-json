@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6366,
-        "last-update": 1787041240,
+        "update-count": 6367,
+        "last-update": 1787073345,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |19 Agu 2026 | Tanda Kemerdekaan Ialah Kasih",
+                        "date": "2026-08-18",
+                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
+                        "link": "https://www.youtube.com/watch?v=Rs7pwnmToA8",
+                        "thumbnail": "https://i3.ytimg.com/vi/Rs7pwnmToA8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Agu 2026 | Kemerdekaan Sejati",
                         "date": "2026-08-17",
@@ -75,13 +82,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=B4SnTOi1K4w",
                         "thumbnail": "https://i3.ytimg.com/vi/B4SnTOi1K4w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Agu 2026 | Berdoa dan Berbakti",
-                        "date": "2026-08-07",
-                        "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
-                        "link": "https://www.youtube.com/watch?v=z8fE1TTEfXk",
-                        "thumbnail": "https://i3.ytimg.com/vi/z8fE1TTEfXk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
