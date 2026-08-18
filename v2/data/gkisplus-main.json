@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6363,
-        "last-update": 1787021107,
+        "update-count": 6364,
+        "last-update": 1787030285,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,71 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 18 Agu 2026 | Kemerdekaan Sejati",
-                        "date": "2026-08-17",
-                        "desc": "Dibawakan oleh Ibu Atiek Widyati",
-                        "link": "https://www.youtube.com/watch?v=k3xq_ilJ6vE",
-                        "thumbnail": "https://i4.ytimg.com/vi/k3xq_ilJ6vE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Agu 2026 | yang GENDUT & yang KURUS KEREMPENG",
-                        "date": "2026-08-16",
-                        "desc": "Dibawakan oleh Bpk. R. H Dwi Prasetyo",
-                        "link": "https://www.youtube.com/watch?v=b1YffSOHp6U",
-                        "thumbnail": "https://i3.ytimg.com/vi/b1YffSOHp6U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Agu 2026 | Dengan Takut Akan Allah",
-                        "date": "2026-08-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=JZbyp9n10q8",
-                        "thumbnail": "https://i3.ytimg.com/vi/JZbyp9n10q8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Agu 2026 | Merdeka Dari Takut Kepada Manusia",
-                        "date": "2026-08-13",
-                        "desc": "Dibawakan oleh Bpk. Prasetyadaru Pirenantyo",
-                        "link": "https://www.youtube.com/watch?v=Q99r6RuZXHQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/Q99r6RuZXHQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Agu 2026 | Merdeka Sejati Adalah Hidup Bebas Di Dalam Kristus",
-                        "date": "2026-08-12",
-                        "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
-                        "link": "https://www.youtube.com/watch?v=28GP0JgK9xw",
-                        "thumbnail": "https://i3.ytimg.com/vi/28GP0JgK9xw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Agu 2026 | Menjelang 81 Tahun Indonesia Merdeka",
-                        "date": "2026-08-11",
-                        "desc": "Dibawakan oleh Sdri. Eriyani Tenga Lunga",
-                        "link": "https://www.youtube.com/watch?v=Z2TITjImQCA",
-                        "thumbnail": "https://i3.ytimg.com/vi/Z2TITjImQCA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Agu 2026 | Tinggal Pada Pokok Anggur, Bukan Hanya Ingin Berbuah",
-                        "date": "2026-08-10",
-                        "desc": "Dibawakan oleh Pnt. Yosua Candana",
-                        "link": "https://www.youtube.com/watch?v=ksIJ_mE3ksY",
-                        "thumbnail": "https://i4.ytimg.com/vi/ksIJ_mE3ksY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Agu 2026 | Pentingnya Wahyu dan Hukum",
-                        "date": "2026-08-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=B4SnTOi1K4w",
-                        "thumbnail": "https://i3.ytimg.com/vi/B4SnTOi1K4w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Agu 2026 | Berdoa dan Berbakti",
-                        "date": "2026-08-07",
-                        "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
-                        "link": "https://www.youtube.com/watch?v=z8fE1TTEfXk",
-                        "thumbnail": "https://i3.ytimg.com/vi/z8fE1TTEfXk/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
