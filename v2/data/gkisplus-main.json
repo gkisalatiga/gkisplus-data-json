@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6372,
-        "last-update": 1787127692,
+        "update-count": 6373,
+        "last-update": 1787172572,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Agu 2026 | Tema Berjuang Bersama, Menjadi Kuat",
+                        "date": "2026-08-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=BylslIR4nS8",
+                        "thumbnail": "https://i3.ytimg.com/vi/BylslIR4nS8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |19 Agu 2026 | Tanda Kemerdekaan Ialah Kasih",
                         "date": "2026-08-18",
