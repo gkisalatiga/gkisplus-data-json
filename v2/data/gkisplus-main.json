@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6369,
-        "last-update": 1787108382,
-        "last-updated-item": "yt",
+        "update-count": 6370,
+        "last-update": 1787115651,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6607,6 +6607,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Eriyani Tenga Lunga",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik Persekutuan Bulanan KUL",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-08-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
