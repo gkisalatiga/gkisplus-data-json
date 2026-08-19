@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6370,
-        "last-update": 1787115651,
+        "update-count": 6371,
+        "last-update": 1787124776,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5771,6 +5771,48 @@
                 "note": ""
             },
             {
+                "name": "Rapat Tim Inventaris",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-08-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
+            },
+            {
+                "name": "Latihan Tim Musik kebaktian nikah",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-08-19",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Eriyani Tenga Lunga",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Gladi Resik Persekutuan Bulanan KUL",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-08-20",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Panitia Bulan Keluarga",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5781,6 +5823,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Ibu Sally ",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-08-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
             },
@@ -6567,62 +6623,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Tim Inventaris",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2026-08-19",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Percakapan Atestasi Masuk",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-08-21",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Tim Musik kebaktian nikah",
-                "time": "18:30",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-08-19",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Eriyani Tenga Lunga",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Gladi Resik Persekutuan Bulanan KUL",
-                "time": "13:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-08-20",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Usia Lanjut",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
