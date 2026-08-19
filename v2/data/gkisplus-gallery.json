@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 91,
-        "last-update": 1786039164,
+        "update-count": 92,
+        "last-update": 1787109248,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -33685,6 +33685,186 @@
                             "id": "1OCfDpC7BUdo_bpej2M9ir2dywUtmcQTp",
                             "name": "IMG_1299.JPG",
                             "date": "2026-08-06"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1aydxlZ9iFydQcKWswPWTCOBbzMoxE5SH",
+                    "last_update": "2026-08-19",
+                    "featured_photo_id": "1ogcDeg7rSLD0pkqj9F1Vf_9cphc3xKD0",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 16 Agustus yang dilaksanakan pada 16 Agustus 2026.",
+                    "title": "Ibadah Minggu, 16 Agustus",
+                    "event_date": "2026.08.16",
+                    "photos": [
+                        {
+                            "id": "1Hfay1NddkMbK2IYWvzF01W5PctdbfgxC",
+                            "name": "GKI SALATIGA 26.08.16. (20).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1Fbr5rS_dxu2sb498k8zclDHp-kpkHsSA",
+                            "name": "GKI SALATIGA 26.08.16. (1).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "15V_ftoH7xDGXNcKt-iRnr1at9MaSV9nE",
+                            "name": "GKI SALATIGA 26.08.16. (16).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1gY0Yl6pYiabeO3pikaaNfIsxjICDTOlI",
+                            "name": "GKI SALATIGA 26.08.16. (6).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1bwy7swqK7jwyML5VPkDQjOa-GvC1WU9V",
+                            "name": "GKI SALATIGA 26.08.16. (12).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1-VeELrFL3sJrSUj9upGj0jQhMxBnOma7",
+                            "name": "GKI SALATIGA 26.08.16. (30).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1mulVPID-azhSfACSOJoJJvrK69IK7WEj",
+                            "name": "GKI SALATIGA 26.08.16. (15).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "10yZyz5dnHYsQ7rtoZosQ31pjDhlzgg8s",
+                            "name": "GKI SALATIGA 26.08.16. (17).JPG",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1GFHfswUVgP_NyH-0ZNsuJc0RQtdMQvEY",
+                            "name": "GKI SALATIGA 26.08.16. (24).JPG",
+                            "date": "2026-08-19"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1QleHQI9c-ZU4PY79zW4ZnK2YYd4lBJfu",
+                    "last_update": "2026-08-19",
+                    "featured_photo_id": "18JcXPrr8_wGTxbzAGODOHPYUPOTnuPzi",
+                    "story": "Foto-foto dokumentasi Lomba HUT Ke-81 Republik Indonesia yang dilaksanakan pada 17 Agustus 2026.",
+                    "title": "Lomba HUT Ke-81 Republik Indonesia",
+                    "event_date": "2026.08.17",
+                    "photos": [
+                        {
+                            "id": "1_bIczleHU9g3Sa3VhmWEQFLE8i8PBaWH",
+                            "name": "IMG_20260817_175155.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1xtsoD0W2L2lCrUJk7gL3td2_aXmdEVx6",
+                            "name": "IMG_20260817_171928.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1fWkmRfMysW9SgPV9_AsMJtuPf8UWqRZs",
+                            "name": "IMG_20260817_145420.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "19R1dlrQnNrN1PFz93ZB1qsfPhDJkfcqX",
+                            "name": "IMG_20260817_165026.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1OwZIyCaMoosgg7fn5f0I8qqezCnBfcj1",
+                            "name": "IMG_20260817_162009.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1ASWBOx_u8h6JLtXwYjgHfD4U3hgxDlTF",
+                            "name": "IMG_20260817_170739.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1jQ2nQZvi5rvFPCeqzk85BYEjg-kY0Zd6",
+                            "name": "IMG_20260817_170951.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "17nWu4YSrJZPCZUseQ8ZQ48nTadhChcsj",
+                            "name": "IMG_20260817_163857.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1LUi2Xmlj57OxdjAv7yZcjC5SfPyppVIo",
+                            "name": "IMG_20260817_161812.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1CMDOQa1zTodhc8B_W0-gJfUq3vsLJg1W",
+                            "name": "IMG_20260817_145524.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1DptmBMF9558drQrDdGTKly5snHwTNK_7",
+                            "name": "IMG_20260817_144811.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "17gflYBWX8fnrlxGcFcq_mTphOcWoAyB_",
+                            "name": "IMG_20260817_142703.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1v8IIDBa2Swe5oGeGfjzaNUuxUt0JbUhI",
+                            "name": "IMG_20260817_142948.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1ia7M7GVw3x4uQOm_0RyrClsPhi60kwRc",
+                            "name": "IMG_20260817_142802_1.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1JR13ZxunkVGwLn7FJA9ILMAJHjhUKynd",
+                            "name": "IMG_20260817_155215.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "102AZ9U_4W8OdtqN0PYpXIk8n6Hc90mSw",
+                            "name": "IMG_20260817_154117.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1H8EnjBjZDB7xwGDgrW-5OzCaavQ4AsYV",
+                            "name": "IMG_20260817_142508.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1_pQgATAjd90soUM8aCVD0xvuc1mnxaZP",
+                            "name": "IMG_20260817_142519.HEIC",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1NwW6h8p4mKGVieqkgptOu1zuUht43ouM",
+                            "name": "IMG-20260817-WA0084.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1SV3VEs6AZfhJ-mUVwSDK2SrlLZQloj0K",
+                            "name": "IMG-20260817-WA0087.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "196hfZXOh8SkVuxWfUVUbH_7P_IhI_zem",
+                            "name": "IMG-20260817-WA0075.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1jUJrqBQA-82syKvUw_wI-97uPnBBFmgV",
+                            "name": "IMG-20260817-WA0067.jpg",
+                            "date": "2026-08-19"
+                        },
+                        {
+                            "id": "1MvUOiaUVBLDLfafcHJgRlLoaJWqhpRmn",
+                            "name": "IMG-20260817-WA0070.jpg",
+                            "date": "2026-08-19"
                         }
                     ]
                 }
