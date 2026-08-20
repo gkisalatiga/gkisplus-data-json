@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6378,
-        "last-update": 1787233256,
-        "last-updated-item": "agenda",
+        "update-count": 6379,
+        "last-update": 1787235796,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Agu 2026 | Merdeka Dari Dosa",
+                        "date": "2026-08-20",
+                        "desc": "Dibawakan oleh Pnt. Henri Kristanto",
+                        "link": "https://www.youtube.com/watch?v=Feqpxda5CMI",
+                        "thumbnail": "https://i3.ytimg.com/vi/Feqpxda5CMI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Agu 2026 | Tema Berjuang Bersama, Menjadi Kuat",
                         "date": "2026-08-19",
