@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6381,
-        "last-update": 1787256216,
+        "update-count": 6382,
+        "last-update": 1787256850,
         "last-updated-item": "backend",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6640,7 +6640,7 @@
                 "is_feature_agenda_shown": 1,
                 "is_feature_bible_shown": 0,
                 "is_feature_bible_new_shown": 1,
-                "is_feature_esliturgy_shown": 0,
+                "is_feature_esliturgy_shown": 1,
                 "is_feature_formulir_shown": 1,
                 "is_feature_galeri_shown": 1,
                 "is_feature_inspirations_shown": 1,
