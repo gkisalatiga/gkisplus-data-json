@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6379,
-        "last-update": 1787235796,
-        "last-updated-item": "yt",
+        "update-count": 6380,
+        "last-update": 1787253644,
+        "last-updated-item": "backend",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6648,7 +6648,7 @@
                 "is_feature_library_shown": 1,
                 "is_feature_persembahan_shown": 1,
                 "is_feature_seasonal_shown": 0,
-                "is_feature_seasonal_v2_3_shown": 1,
+                "is_feature_seasonal_v2_3_shown": 0,
                 "is_feature_ykb_shown": 1,
                 "is_ios_submission_ongoing": 0
             },
