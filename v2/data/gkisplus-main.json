@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6377,
-        "last-update": 1787218069,
+        "update-count": 6378,
+        "last-update": 1787233256,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6610,6 +6610,20 @@
                 "pic": "Ibu Yari Dwikurnaningsih",
                 "status": "w",
                 "note": "Terimakasih"
+            },
+            {
+                "name": "Latihan PSA Amici Miei",
+                "time": "13:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-08-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
