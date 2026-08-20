@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6374,
-        "last-update": 1787193973,
-        "last-updated-item": "yt",
+        "update-count": 6375,
+        "last-update": 1787211359,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5673,104 +5673,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Rapat Persidangan Majelis Sinode Wilayah",
-                "time": "13:00",
-                "time-to": "15:00",
-                "timezone": "WIB",
-                "date": "2026-08-15",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Gita Hastuti",
-                "status": "y",
-                "note": "Minta disiapkan LCD dan teh untuk 15-20 orang"
-            },
-            {
-                "name": "Persiapan liturgi pernikahan Minggu",
-                "time": "19:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-08-15",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja, Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Yefta Setiawa  Krisgunadi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Workshop Pemandu Nyanyian Kebaktian (PNK)",
-                "time": "11:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-08-16",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adhara",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Percakapan gerejawi Pernikahan Martha dan Fayliks",
-                "time": "10:00",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2026-08-17",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pdt. Helen Ruth Manurung",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-08-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-08-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Wilayah 9",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-08-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Elibert",
-                "status": "y",
-                "note": ""
-            },
-            {
                 "name": "Rapat Tim Inventaris",
                 "time": "17:00",
                 "time-to": "18:30",
@@ -5783,20 +5685,6 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "Minta disiapkan LCD"
-            },
-            {
-                "name": "Latihan Tim Musik kebaktian nikah",
-                "time": "18:30",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-08-19",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Eriyani Tenga Lunga",
-                "status": "y",
-                "note": ""
             },
             {
                 "name": "Gladi Resik Persekutuan Bulanan KUL",
@@ -5881,6 +5769,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-08-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat Koordinasi Antar Bapel & Wilayah",
