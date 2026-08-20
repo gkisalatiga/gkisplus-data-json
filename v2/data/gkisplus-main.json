@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6376,
-        "last-update": 1787214137,
-        "last-updated-item": "yt",
+        "update-count": 6377,
+        "last-update": 1787218069,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6596,6 +6596,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pengurus YPE",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-28",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "Terimakasih"
             }
         ],
         "backend": {
