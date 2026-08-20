@@ -1,8 +1,8 @@
 {
     "meta": {
         "update-count": 26,
-        "last-update": 1787253644,
-        "last-updated-item": "library",
+        "last-update": 1787255709,
+        "last-updated-item": "inspiration",
         "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.3"
     },
@@ -386,7 +386,7 @@
                 "title": "Komitmen Harian Berbuat Baik (Anak)",
                 "desc": "Inspirasi niat baik bagi anak-anak untuk dilakukan setiap hari.",
                 "type": "spinwheel",
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/niat_baik_anak.webp",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-inspiration/spinwheel_komitmen_anak.webp",
                 "uuid": "bccf4869-e667-4356-a4c9-9ff2915668bd",
                 "tags": [],
                 "date": 1769789343,
@@ -613,7 +613,7 @@
                 "title": "Komitmen Harian Berbuat Baik (Dewasa)",
                 "desc": "Inspirasi niat baik bagi orang dewasa untuk dilakukan setiap hari.",
                 "type": "spinwheel",
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-seasonal/mrp_2026/niat_baik_dewasa.webp",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-inspiration/spinwheel_komitmen_dewasa.webp",
                 "uuid": "74cf6eb6-6dc6-4b1e-918b-0c5612f2c9c0",
                 "tags": [],
                 "date": 1769789788,
