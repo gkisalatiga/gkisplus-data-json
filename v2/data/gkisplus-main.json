@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6384,
-        "last-update": 1787273935,
+        "update-count": 6385,
+        "last-update": 1787279045,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6644,6 +6644,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Catur Winarno",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-08-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Dhara",
+                "status": "w",
                 "note": ""
             }
         ],
