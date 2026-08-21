@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6388,
-        "last-update": 1787300642,
+        "update-count": 6389,
+        "last-update": 1787322126,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Agu 2026 | Kemerdekaan Yang Bertanggungjawab",
+                        "date": "2026-08-21",
+                        "desc": "Dibawakan oleh Bpk. Agastya Rama Listya",
+                        "link": "https://www.youtube.com/watch?v=Nq3bLbBCLGk",
+                        "thumbnail": "https://i3.ytimg.com/vi/Nq3bLbBCLGk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Agu 2026 | Merdeka Dari Dosa",
                         "date": "2026-08-20",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pnt. Yosua Candana",
                         "link": "https://www.youtube.com/watch?v=ksIJ_mE3ksY",
                         "thumbnail": "https://i4.ytimg.com/vi/ksIJ_mE3ksY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Agu 2026 | Pentingnya Wahyu dan Hukum",
-                        "date": "2026-08-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=B4SnTOi1K4w",
-                        "thumbnail": "https://i3.ytimg.com/vi/B4SnTOi1K4w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
