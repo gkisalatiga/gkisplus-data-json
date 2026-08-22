@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6392,
-        "last-update": 1787396962,
-        "last-updated-item": "yt",
+        "update-count": 6393,
+        "last-update": 1787399014,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6657,6 +6657,20 @@
                 "pic": "Bu Wardjini",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Sambut Natal Komisi Anak",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-12-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Pengurus KA",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
