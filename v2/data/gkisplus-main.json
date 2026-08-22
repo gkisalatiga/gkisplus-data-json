@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6390,
-        "last-update": 1787371418,
+        "update-count": 6391,
+        "last-update": 1787378742,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2265,6 +2265,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 23 Agustus 2026",
+                    "date": "2026-08-22",
+                    "link": "https://drive.google.com/file/d/1Hh1ufI56qMMzirqzOFkUcoJKfqSeoGW8/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-23-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1Hh1ufI56qMMzirqzOFkUcoJKfqSeoGW8",
+                    "id": "1Hh1ufI56qMMzirqzOFkUcoJKfqSeoGW8",
+                    "size": "2.42 MB"
+                },
+                {
                     "title": "Warta Jemaat 16 Agustus 2026",
                     "date": "2026-08-15",
                     "link": "https://drive.google.com/file/d/1Rza7XpBJMYMIAjDdGOOolIgxiD6Cndk8/view",
@@ -3221,8 +3230,17 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah Minggu 16 Agustus 2026 - HUT KE-81 REPUBLIK INDONESIA",
+                    "title": "Tata Ibadah Minggu 23 Agustus 2026 - HUT Ke-38 Penyatuan Sinode Gereja Kristen Indonesia (GKI)",
                     "date": "2026-08-15",
+                    "link": "https://drive.google.com/file/d/1QZGCDV90MazEtVrkfbDJhkYUKT9Q_tDH/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-23-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1QZGCDV90MazEtVrkfbDJhkYUKT9Q_tDH",
+                    "id": "1QZGCDV90MazEtVrkfbDJhkYUKT9Q_tDH",
+                    "size": "0.64 MB"
+                },
+                {
+                    "title": "Tata Ibadah Minggu 16 Agustus 2026 - HUT Ke-81 Republik Indonesia",
+                    "date": "2026-08-22",
                     "link": "https://drive.google.com/file/d/1ZgtexgBuzCTNYgq9wChOHj_GG6YwZS2V/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-16-agustus-2026/",
                     "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1ZgtexgBuzCTNYgq9wChOHj_GG6YwZS2V",
