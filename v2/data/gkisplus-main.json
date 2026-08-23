@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6394,
-        "last-update": 1787439321,
-        "last-updated-item": "agenda",
+        "update-count": 6395,
+        "last-update": 1787483419,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Agu 2026 | Kemerdekaan Itu Mahal",
+                        "date": "2026-08-23",
+                        "desc": "Dibawakan oleh Ibu July Silooy",
+                        "link": "https://www.youtube.com/watch?v=H7wm_MyL0cE",
+                        "thumbnail": "https://i1.ytimg.com/vi/H7wm_MyL0cE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 22 Agu 2026 | Kemerdekaan Yang Bertanggungjawab",
                         "date": "2026-08-21",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
                         "link": "https://www.youtube.com/watch?v=28GP0JgK9xw",
                         "thumbnail": "https://i3.ytimg.com/vi/28GP0JgK9xw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Agu 2026 | Menjelang 81 Tahun Indonesia Merdeka",
-                        "date": "2026-08-11",
-                        "desc": "Dibawakan oleh Sdri. Eriyani Tenga Lunga",
-                        "link": "https://www.youtube.com/watch?v=Z2TITjImQCA",
-                        "thumbnail": "https://i3.ytimg.com/vi/Z2TITjImQCA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
