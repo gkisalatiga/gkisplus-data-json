@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6401,
-        "last-update": 1787556934,
-        "last-updated-item": "agenda",
+        "update-count": 6402,
+        "last-update": 1787592020,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,27 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Agu 2026 | Kemerdekaan Sejati Dalam Kasih Allah",
+                        "date": "2026-08-24",
+                        "desc": "Dibawakan oleh Bpk. Didik Wurdiyanto",
+                        "link": "https://www.youtube.com/watch?v=bEFLyhhjpvk",
+                        "thumbnail": "https://i3.ytimg.com/vi/bEFLyhhjpvk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Agu 2026 | Merdeka Untuk Hidup Lebih Sehat",
+                        "date": "2026-08-24",
+                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
+                        "link": "https://www.youtube.com/watch?v=m658pnIxobE",
+                        "thumbnail": "https://i2.ytimg.com/vi/m658pnIxobE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Agu 2026 | Pulihkan Kami Dengan Sinar Wajah Mu",
+                        "date": "2026-08-24",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=rtkNrJJkNM8",
+                        "thumbnail": "https://i3.ytimg.com/vi/rtkNrJJkNM8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Agu 2026 | Kemerdekaan Itu Mahal",
                         "date": "2026-08-23",
@@ -68,27 +89,6 @@
                         "desc": "Dibawakan oleh Bpk. R. H Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=b1YffSOHp6U",
                         "thumbnail": "https://i3.ytimg.com/vi/b1YffSOHp6U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Agu 2026 | Dengan Takut Akan Allah",
-                        "date": "2026-08-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=JZbyp9n10q8",
-                        "thumbnail": "https://i3.ytimg.com/vi/JZbyp9n10q8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Agu 2026 | Merdeka Dari Takut Kepada Manusia",
-                        "date": "2026-08-13",
-                        "desc": "Dibawakan oleh Bpk. Prasetyadaru Pirenantyo",
-                        "link": "https://www.youtube.com/watch?v=Q99r6RuZXHQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/Q99r6RuZXHQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Agu 2026 | Merdeka Sejati Adalah Hidup Bebas Di Dalam Kristus",
-                        "date": "2026-08-12",
-                        "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
-                        "link": "https://www.youtube.com/watch?v=28GP0JgK9xw",
-                        "thumbnail": "https://i3.ytimg.com/vi/28GP0JgK9xw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
