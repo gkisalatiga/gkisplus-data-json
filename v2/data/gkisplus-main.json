@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6402,
-        "last-update": 1787592020,
+        "update-count": 6403,
+        "last-update": 1787602456,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 25 Agu 2026 | Pulihkan Kami Dengan Sinar Wajah Mu",
+                        "date": "2026-08-24",
+                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                        "link": "https://www.youtube.com/watch?v=rtkNrJJkNM8",
+                        "thumbnail": "https://i3.ytimg.com/vi/rtkNrJJkNM8/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 27 Agu 2026 | Kemerdekaan Sejati Dalam Kasih Allah",
                         "date": "2026-08-24",
                         "desc": "Dibawakan oleh Bpk. Didik Wurdiyanto",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Ibu Sintarini Utomo",
                         "link": "https://www.youtube.com/watch?v=m658pnIxobE",
                         "thumbnail": "https://i2.ytimg.com/vi/m658pnIxobE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Agu 2026 | Pulihkan Kami Dengan Sinar Wajah Mu",
-                        "date": "2026-08-24",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=rtkNrJJkNM8",
-                        "thumbnail": "https://i3.ytimg.com/vi/rtkNrJJkNM8/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 24 Agu 2026 | Kemerdekaan Itu Mahal",
