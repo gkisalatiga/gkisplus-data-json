@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6397,
-        "last-update": 1787522136,
-        "last-updated-item": "yt",
+        "update-count": 6398,
+        "last-update": 1787533068,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5850,6 +5850,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat MJ Bidang 2",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-21",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5903,6 +5917,20 @@
                 "representative": "Wilayah",
                 "pic": "A.M. Widiatmoko",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-08-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Dhara",
+                "status": "w",
                 "note": ""
             },
             {
@@ -6043,6 +6071,20 @@
                 "representative": "Wilayah",
                 "pic": "Pak Sutarto Wijono",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Wardjini",
+                "status": "w",
                 "note": "-"
             },
             {
@@ -6634,6 +6676,20 @@
                 "note": "-"
             },
             {
+                "name": "Sambut Natal Komisi Anak",
+                "time": "15:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-12-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Pengurus KA",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6660,62 +6716,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat MJ Bidang 2",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-08-21",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Catur Winarno",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Pelatihan PNK",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-08-26",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Dhara",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-09-08",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Bu Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Sambut Natal Komisi Anak",
-                "time": "15:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-12-12",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Anak",
-                "pic": "Pengurus KA",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
