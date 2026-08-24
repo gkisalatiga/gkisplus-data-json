@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6398,
-        "last-update": 1787533068,
+        "update-count": 6399,
+        "last-update": 1787538131,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6716,6 +6716,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Komsarpras",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-24",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "I Made Satya Arnawa",
+                "status": "w",
+                "note": " Minta disiapkan teh tawar+ gula utk \u00b1 8 org"
             }
         ],
         "backend": {
