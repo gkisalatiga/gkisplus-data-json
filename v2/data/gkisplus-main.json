@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6406,
-        "last-update": 1787616045,
+        "update-count": 6407,
+        "last-update": 1787616101,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6744,48 +6744,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Testing Simon Petrus",
-                "time": "01:00",
-                "time-to": "02:00",
-                "timezone": "WIB",
-                "date": "2025-12-15",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Testing Ruangan",
-                "representative": "Samarthya",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Tanpa Keterangan"
-            },
-            {
-                "name": "Testing Simon Petrus",
-                "time": "01:00",
-                "time-to": "02:00",
-                "timezone": "WIB",
-                "date": "2025-12-15",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Testing Ruangan",
-                "representative": "Samarthya",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Tanpa Keterangan"
-            },
-            {
-                "name": "Testing Simon Petrus",
-                "time": "01:00",
-                "time-to": "02:00",
-                "timezone": "WIB",
-                "date": "2025-12-15",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Testing Ruangan",
-                "representative": "Samarthya",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Tanpa Keterangan"
             }
         ],
         "backend": {
