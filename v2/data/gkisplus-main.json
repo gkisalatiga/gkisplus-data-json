@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6409,
-        "last-update": 1787646438,
-        "last-updated-item": "yt",
+        "update-count": 6410,
+        "last-update": 1787658895,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6744,6 +6744,34 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pembentukan panitia MRN ",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-30",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Adi",
+                "status": "y",
+                "note": "Minta disiapkan teh untuk sekitar 23 peserta"
+            },
+            {
+                "name": "Pertemuan perdana Mhsw PPL 2 dan 4",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-08-30",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
