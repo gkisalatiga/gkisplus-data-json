@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6413,
-        "last-update": 1787712883,
-        "last-updated-item": "yt",
+        "update-count": 6414,
+        "last-update": 1787718832,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6533,6 +6533,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan ibadah minggu",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-08-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
