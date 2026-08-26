@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6414,
-        "last-update": 1787718832,
+        "update-count": 6415,
+        "last-update": 1787722103,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5723,6 +5723,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan ibadah minggu",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-08-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Koordinasi Antar Bapel & Wilayah",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6533,20 +6547,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan ibadah minggu",
-                "time": "18:30",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-08-26",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
