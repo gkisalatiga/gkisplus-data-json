@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6418,
-        "last-update": 1787752189,
+        "update-count": 6419,
+        "last-update": 1787755093,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6644,6 +6644,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "English Service",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-09-06",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Irma Picauly",
                 "status": "w",
                 "note": ""
             }
