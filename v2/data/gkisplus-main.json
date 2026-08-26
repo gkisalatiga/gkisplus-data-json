@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6417,
-        "last-update": 1787745263,
+        "update-count": 6418,
+        "last-update": 1787752189,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6632,6 +6632,20 @@
                 "pic": "Nareswari",
                 "status": "w",
                 "note": "pesan teh \ud83d\ude4f\ud83c\udffb"
+            },
+            {
+                "name": "Latihan musik ibadah minggu",
+                "time": "19:50",
+                "time-to": "22:30",
+                "timezone": "WIB",
+                "date": "2026-08-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
