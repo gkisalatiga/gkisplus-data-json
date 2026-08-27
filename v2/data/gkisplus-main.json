@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6421,
-        "last-update": 1787803610,
-        "last-updated-item": "yt",
+        "update-count": 6422,
+        "last-update": 1787813517,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -4698,6 +4698,16 @@
                     "note": "Kelas besar"
                 },
                 {
+                    "name": "Ekstra Paduan Suara SD Kristen 3",
+                    "time": "13:00",
+                    "time-to": "14:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kapernaum",
+                    "representative": "SD Kristen 03 Eben Haezer",
+                    "note": "Rutin selama 1 tahun ajaran"
+                },
+                {
                     "name": "Latihan PS Imanuel",
                     "time": "17:00",
                     "time-to": "18:30",
@@ -5737,6 +5747,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah minggu",
+                "time": "19:50",
+                "time-to": "22:30",
+                "timezone": "WIB",
+                "date": "2026-08-26",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Koordinasi Antar Bapel & Wilayah",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -5779,6 +5803,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Besar Pembekalan Pengurus KR",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-08-29",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "pesan teh \ud83d\ude4f\ud83c\udffb"
+            },
+            {
                 "name": "Rapat Pembentukan panitia MRN ",
                 "time": "18:30",
                 "time-to": "20:00",
@@ -5803,6 +5841,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Penilaian Capen Tahap II , Wil 5 ",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-08-30",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Ona Parzis ",
                 "status": "y",
                 "note": ""
             },
@@ -5861,6 +5913,20 @@
                 "pic": "Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "English Service",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-09-06",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Irma Picauly",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA wilayah 11",
@@ -6547,48 +6613,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Besar Pembekalan Pengurus KR",
-                "time": "19:00",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-08-29",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
-                "status": "w",
-                "note": "pesan teh \ud83d\ude4f\ud83c\udffb"
-            },
-            {
-                "name": "Latihan musik ibadah minggu",
-                "time": "19:50",
-                "time-to": "22:30",
-                "timezone": "WIB",
-                "date": "2026-08-26",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "English Service",
-                "time": "09:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-09-06",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Irma Picauly",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
