@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 93,
-        "last-update": 1787255801,
+        "update-count": 94,
+        "last-update": 1788037525,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -33737,11 +33737,106 @@
                 {
                     "folder_id": "1QleHQI9c-ZU4PY79zW4ZnK2YYd4lBJfu",
                     "last_update": "2026-08-19",
-                    "featured_photo_id": "18JcXPrr8_wGTxbzAGODOHPYUPOTnuPzi",
+                    "featured_photo_id": "1CQWLiXeYns0uPhxbLjbgzTDNkulNjM-d",
                     "story": "Foto-foto dokumentasi Lomba HUT Ke-81 Republik Indonesia yang dilaksanakan pada 17 Agustus 2026.",
                     "title": "Lomba HUT Ke-81 Republik Indonesia",
                     "event_date": "2026.08.17",
                     "photos": [
+                        {
+                            "id": "1L0v6AhWAihcpze3MTpvPnGjwkSxkWoE1",
+                            "name": "MVIMG_20260817_154923.jpg",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "15AACz87ipwWC6Up3sGCatOvUzqlcSUgR",
+                            "name": "MVIMG_20260817_155206.jpg",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1p4tEfUv6b5E7VSVi6VZobitOdHbqKThY",
+                            "name": "DSCF7936.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "10_AuJy6XdkKBn3ujOwtmyuM3i73_ms8h",
+                            "name": "DSCF7815.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1Ibed8C0L_PUc5Q5I9AV-1UAIVNUZPeau",
+                            "name": "DSCF7861.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "11SHls5_HGEy40t04HMJTH7MtfHi9bHWE",
+                            "name": "DSCF7838.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1Izy-5nnR6_PyqU2T2zav-D8X2AFPhrku",
+                            "name": "DSCF7870.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "164XXZV8bozw-4bQG8i3vKb6kJ_wxEPeB",
+                            "name": "DSCF7919.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1bnfKuT3vGw-GhXvK0Yyjt2EAN9XE77xn",
+                            "name": "DSCF7826.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1ti8t2dkcqR5MO2IdN0ekddtT8oJkqNeN",
+                            "name": "DSCF7842.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1Fq8HfhzWKi1-Xxzk0GKY_dFRPfKrHqhT",
+                            "name": "DSCF7951.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1_zDqL2mMt4167nwzoOH-W61XKM-jEFz5",
+                            "name": "DSCF7904.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1quVW_odsOP3kgD-wgzfaoNdmZIpSJoX0",
+                            "name": "DSCF7924.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "13hllC-4AlFd8mjtwTiRvqccXzGI-SksO",
+                            "name": "DSCF7914.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "12gqIoWUOjshJVenuFnYOelZKmVhuvVJN",
+                            "name": "DSCF7945.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "16Qlv3SrtPLzK1lZaOZUtixi3deav80PY",
+                            "name": "DSCF7962.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1VHdXl5MyuG6QCu2Mft8tSwUupr3Bx0Vh",
+                            "name": "DSCF7876.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1SH8WovgCcIBA9KrYAllO6nFpCphQv2V6",
+                            "name": "DSCF7834.JPG",
+                            "date": "2026-08-26"
+                        },
+                        {
+                            "id": "1bqew5UeepeQbTUpymycqIKfkZKeST0Mf",
+                            "name": "DSCF7808.JPG",
+                            "date": "2026-08-26"
+                        },
                         {
                             "id": "1_bIczleHU9g3Sa3VhmWEQFLE8i8PBaWH",
                             "name": "IMG_20260817_175155.HEIC",
@@ -33856,6 +33951,66 @@
                             "id": "1MvUOiaUVBLDLfafcHJgRlLoaJWqhpRmn",
                             "name": "IMG-20260817-WA0070.jpg",
                             "date": "2026-08-19"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1giX9h3cXTPiuY06BV91dk-xxXHtS5zmO",
+                    "last_update": "2026-08-29",
+                    "featured_photo_id": "1kDqt1qI_4dEi4sCV9Nj3TjelIx2TwK1L",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 23 Agustus yang dilaksanakan pada 23 Agustus 2026.",
+                    "title": "Ibadah Minggu, 23 Agustus",
+                    "event_date": "2026.08.23",
+                    "photos": [
+                        {
+                            "id": "1JyVmWZegMgfS4I_yRgdmyyNRTFaRcVH6",
+                            "name": "GKIS 230826 (3).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "12pKO9VIi3sy1mkjw8ekDtJxXufuB-qFs",
+                            "name": "GKIS 230826 (18).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "12epC-jfJV6B4npLucgNAC6_lAMEMAGCK",
+                            "name": "GKIS 230826 (5).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "17ECFAihXxRes82BAKj-fBQS4KaxXwfG4",
+                            "name": "GKIS 230826 (12).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "1e83Z_tnHeWBtMuiNGVB4TuCN6e7EkIf7",
+                            "name": "GKIS 230826 (1).MOV",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "15VxNLdDy-1c6sYnqEkFoNYVgKVBUqGNL",
+                            "name": "GKIS 230826 (9).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "1QCeOIczcfAL2mq1qNm1jucpGZfXzvIT4",
+                            "name": "GKIS 230826 (17).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "1uivp4xB3RfUEzxiG98er_SUKv45W3HKU",
+                            "name": "GKIS 230826 (7).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "1XogtqgYjV0VB6k6jqr12c0TMFUcchVWy",
+                            "name": "GKIS 230826 (24).JPG",
+                            "date": "2026-08-29"
+                        },
+                        {
+                            "id": "1MoujJSsQ5NdZ9QxN0IQ5ThWjToGE5hoO",
+                            "name": "GKIS 230826 (2).JPG",
+                            "date": "2026-08-29"
                         }
                     ]
                 }
