@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6430,
-        "last-update": 1787980669,
+        "update-count": 6431,
+        "last-update": 1787984192,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2272,6 +2272,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 30 Agustus 2026",
+                    "date": "2026-08-29",
+                    "link": "https://drive.google.com/file/d/1_xTDzQ_7HWcKAwlHdRlsVqubW0eScVQv/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-30-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1_xTDzQ_7HWcKAwlHdRlsVqubW0eScVQv",
+                    "id": "1_xTDzQ_7HWcKAwlHdRlsVqubW0eScVQv",
+                    "size": "2.03 MB"
+                },
+                {
                     "title": "Warta Jemaat 23 Agustus 2026",
                     "date": "2026-08-22",
                     "link": "https://drive.google.com/file/d/1Hh1ufI56qMMzirqzOFkUcoJKfqSeoGW8/view",
@@ -3237,13 +3246,22 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah Minggu 23 Agustus 2026 - HUT Ke-38 Penyatuan Sinode Gereja Kristen Indonesia (GKI)",
-                    "date": "2026-08-15",
+                    "title": "Tata Ibadah Minggu 30 Agustus 2026",
+                    "date": "2026-08-29",
                     "link": "https://drive.google.com/file/d/1QZGCDV90MazEtVrkfbDJhkYUKT9Q_tDH/view",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-23-agustus-2026/",
                     "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1QZGCDV90MazEtVrkfbDJhkYUKT9Q_tDH",
                     "id": "1QZGCDV90MazEtVrkfbDJhkYUKT9Q_tDH",
                     "size": "0.64 MB"
+                },
+                {
+                    "title": "Tata Ibadah Minggu 23 Agustus 2026 - HUT Ke-38 Penyatuan Sinode Gereja Kristen Indonesia (GKI)",
+                    "date": "2026-08-29",
+                    "link": "https://drive.google.com/file/d/1o-Mf-zl3sFS80nSKw9l6mS0MSlEe50XX/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-30-agustus-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1o-Mf-zl3sFS80nSKw9l6mS0MSlEe50XX",
+                    "id": "1o-Mf-zl3sFS80nSKw9l6mS0MSlEe50XX",
+                    "size": "0.74 MB"
                 },
                 {
                     "title": "Tata Ibadah Minggu 16 Agustus 2026 - HUT Ke-81 Republik Indonesia",
@@ -5563,15 +5581,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Funwalk Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-08-24",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa",
