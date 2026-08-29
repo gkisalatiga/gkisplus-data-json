@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6429,
-        "last-update": 1787953587,
+        "update-count": 6430,
+        "last-update": 1787980669,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5908,7 +5908,7 @@
                 "date": "2026-08-30",
                 "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Kana",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Adi",
                 "status": "y",
@@ -6709,8 +6709,22 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Pemuda",
                 "pic": "Alphonso Simanullang",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-08-31",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ibu Sally",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
