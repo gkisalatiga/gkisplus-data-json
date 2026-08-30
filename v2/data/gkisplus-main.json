@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6438,
-        "last-update": 1788096163,
+        "update-count": 6439,
+        "last-update": 1788112141,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 31 Agu 2026 | Dari Keterlukaan Berujung Pelukan Bagi Bangsa",
+                        "date": "2026-08-30",
+                        "desc": "Dibawakan oleh Pdt. Yefta S. Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=j23oKqllb-I",
+                        "thumbnail": "https://i3.ytimg.com/vi/j23oKqllb-I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Sep 2026 | Membeli Kebenaran",
                         "date": "2026-08-30",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
                         "link": "https://www.youtube.com/watch?v=Rs7pwnmToA8",
                         "thumbnail": "https://i3.ytimg.com/vi/Rs7pwnmToA8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Agu 2026 | Kemerdekaan Sejati",
-                        "date": "2026-08-17",
-                        "desc": "Dibawakan oleh Ibu Atiek Widyati",
-                        "link": "https://www.youtube.com/watch?v=k3xq_ilJ6vE",
-                        "thumbnail": "https://i4.ytimg.com/vi/k3xq_ilJ6vE/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -120,7 +120,7 @@
                         "date": "2026-08-29",
                         "desc": "Ibadah Minggu GKI Salatiga | 30 Agustus 2026  | Pukul 07.00 WIB\n\nTema : \"Memikul Salib Kebangsaan\" \n\nNyanyian: KJ 18:1,3; PKJ 270; KJ 53:1,2; NKB 133; PKJ 177:1,3\nBacaan 1: Keluaran 3:1-15\nBacaan 2: Galatia 5:1\nMazmur Tanggapan:  Maz. 105:1-6, 23-26, 45b\nBacaan Injil: Matius 16:21-28\nBerita Anugrah: Galatia 5:1\nPersembahan: 1 Tesalonika 5:18; Roma 11:36\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Shielly Gunawan\nKredo dan Warta: Pnt. Santoso Adi P. \nSambut Tamu: Pnt. Ervien Dian W. & Pnt. Paskah Ika N. \nPemandu Liturgi: Triliana\nLektor 1 : Kristiani Marsudi \nLektor 2 : Yuliani Nugroho\n\nPemusik: Zechariah\nPNK/PMZ: Evangs / Dinda C \nPaduan Suara: -\nSolo Vocal: -\nTim Multimedia: Mario / Jeffrey, Gita, Yanuar, Hermawan \nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Persembahan Pernikahan Fayliks dan Martha\n\nUsher & Kolektan: Wilayah IV:\nDorothea Dyah U.\nIndri Natangku,\nFanitayanti\nHendra, Retty\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=9PvlimJs05A",
-                        "thumbnail": "https://i.ytimg.com/vi/9PvlimJs05A/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/9PvlimJs05A/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga (HUT GKI KE-38) | 23 Agustus 2026 | \"Gereja yang Terus Membarui Diri\"",
