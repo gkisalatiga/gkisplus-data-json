@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6435,
-        "last-update": 1788057638,
-        "last-updated-item": "yt",
+        "update-count": 6436,
+        "last-update": 1788059492,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6815,6 +6815,34 @@
                 "pic": "Ibu Sally",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-09-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-09-02",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Proyogo",
+                "status": "w",
+                "note": "Minta disiapkan teh untuk 11 orang"
             }
         ],
         "backend": {
