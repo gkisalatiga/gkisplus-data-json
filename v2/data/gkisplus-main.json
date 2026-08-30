@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6437,
-        "last-update": 1788095550,
-        "last-updated-item": "agenda",
+        "update-count": 6438,
+        "last-update": 1788096163,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 1 Sep 2026 | Membeli Kebenaran",
+                        "date": "2026-08-30",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=fqe_5OCdoXE",
+                        "thumbnail": "https://i3.ytimg.com/vi/fqe_5OCdoXE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Agu 2026 | Merdeka untuk Datang Kepada Allah",
                         "date": "2026-08-28",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Atiek Widyati",
                         "link": "https://www.youtube.com/watch?v=k3xq_ilJ6vE",
                         "thumbnail": "https://i4.ytimg.com/vi/k3xq_ilJ6vE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Agu 2026 | yang GENDUT & yang KURUS KEREMPENG",
-                        "date": "2026-08-16",
-                        "desc": "Dibawakan oleh Bpk. R. H Dwi Prasetyo",
-                        "link": "https://www.youtube.com/watch?v=b1YffSOHp6U",
-                        "thumbnail": "https://i3.ytimg.com/vi/b1YffSOHp6U/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
