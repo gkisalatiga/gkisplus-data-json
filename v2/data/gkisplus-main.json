@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6441,
-        "last-update": 1788170285,
+        "update-count": 6442,
+        "last-update": 1788197182,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6824,7 +6824,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Lainnya",
                 "pic": "Andi David Hutabarat",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
