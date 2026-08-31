@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6442,
-        "last-update": 1788197182,
-        "last-updated-item": "agenda",
+        "update-count": 6443,
+        "last-update": 1788212467,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 1 Sep 2026 | Membeli Kebenaran",
+                        "date": "2026-08-31",
+                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
+                        "link": "https://www.youtube.com/watch?v=fqe_5OCdoXE",
+                        "thumbnail": "https://i3.ytimg.com/vi/fqe_5OCdoXE/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 31 Agu 2026 | Dari Keterlukaan Berujung Pelukan Bagi Bangsa",
                         "date": "2026-08-30",
                         "desc": "Dibawakan oleh Pdt. Yefta S. Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=j23oKqllb-I",
                         "thumbnail": "https://i3.ytimg.com/vi/j23oKqllb-I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Sep 2026 | Membeli Kebenaran",
-                        "date": "2026-08-30",
-                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
-                        "link": "https://www.youtube.com/watch?v=fqe_5OCdoXE",
-                        "thumbnail": "https://i3.ytimg.com/vi/fqe_5OCdoXE/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 29 Agu 2026 | Merdeka untuk Datang Kepada Allah",
