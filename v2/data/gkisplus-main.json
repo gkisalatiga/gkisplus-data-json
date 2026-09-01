@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6447,
-        "last-update": 1788270730,
-        "last-updated-item": "agenda",
+        "update-count": 6448,
+        "last-update": 1788283734,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Sep 2026 | Hidup Semakin Berat dan Sulit Bersyukur",
+                        "date": "2026-09-01",
+                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
+                        "link": "https://www.youtube.com/watch?v=TpcXBj6VrpY",
+                        "thumbnail": "https://i1.ytimg.com/vi/TpcXBj6VrpY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Sep 2026 | Membeli Kebenaran",
                         "date": "2026-08-31",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=BylslIR4nS8",
                         "thumbnail": "https://i3.ytimg.com/vi/BylslIR4nS8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |19 Agu 2026 | Tanda Kemerdekaan Ialah Kasih",
-                        "date": "2026-08-18",
-                        "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
-                        "link": "https://www.youtube.com/watch?v=Rs7pwnmToA8",
-                        "thumbnail": "https://i3.ytimg.com/vi/Rs7pwnmToA8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
