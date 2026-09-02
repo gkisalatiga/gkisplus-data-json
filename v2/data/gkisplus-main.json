@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6454,
-        "last-update": 1788367541,
-        "last-updated-item": "agenda",
+        "update-count": 6455,
+        "last-update": 1788370097,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 3 Sep 2026 | Menjadi Terang di Tempat Kita Dipanggil",
+                        "date": "2026-09-02",
+                        "desc": "Dibawakan oleh Ibu Made Rai Suci Shanti N.A",
+                        "link": "https://www.youtube.com/watch?v=0Nq8sBmV1hM",
+                        "thumbnail": "https://i1.ytimg.com/vi/0Nq8sBmV1hM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 2 Sep 2026 | Hidup Semakin Berat dan Sulit Bersyukur",
                         "date": "2026-09-01",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Henri Kristanto",
                         "link": "https://www.youtube.com/watch?v=Feqpxda5CMI",
                         "thumbnail": "https://i3.ytimg.com/vi/Feqpxda5CMI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Agu 2026 | Tema Berjuang Bersama, Menjadi Kuat",
-                        "date": "2026-08-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=BylslIR4nS8",
-                        "thumbnail": "https://i3.ytimg.com/vi/BylslIR4nS8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
