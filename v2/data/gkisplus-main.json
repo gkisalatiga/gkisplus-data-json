@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6451,
-        "last-update": 1788333438,
+        "update-count": 6452,
+        "last-update": 1788351151,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5915,6 +5915,20 @@
                 "pic": "Lukas Sukan",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Tim Yonathan Komisi Pemuda",
+                "time": "16:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-09-03",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Karuniawan Amah",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Rapat BPMJ",
