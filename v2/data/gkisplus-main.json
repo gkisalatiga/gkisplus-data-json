@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6458,
-        "last-update": 1788417372,
-        "last-updated-item": "yt",
+        "update-count": 6459,
+        "last-update": 1788421198,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6663,6 +6663,34 @@
                 "pic": "Nareswari",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Sosialisasi dan Evaluasi Pelayanan Musik dan Tata Suara",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-09-06",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan paduan suara",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-09-04",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Endah",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
