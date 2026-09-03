@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6455,
-        "last-update": 1788370097,
-        "last-updated-item": "yt",
+        "update-count": 6456,
+        "last-update": 1788403065,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5942,7 +5942,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Lainnya",
                 "pic": "Andi David Hutabarat",
-                "status": "y",
+                "status": "c",
                 "note": ""
             },
             {
@@ -6756,6 +6756,34 @@
                 "pic": "Gloria ",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Evaluasi Pembekalan Pengurus",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-09-05",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Eval Pembekalan Pengurus",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-09-05",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
