@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6465,
-        "last-update": 1788524324,
+        "update-count": 6466,
+        "last-update": 1788541981,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Sep | Mencari Kerajaan Allah Melalui Pendidikan Dalam Rangka Pekan Pendidikan Kristen",
+                        "date": "2026-09-04",
+                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
+                        "link": "https://www.youtube.com/watch?v=MuvuEdd6o5w",
+                        "thumbnail": "https://i2.ytimg.com/vi/MuvuEdd6o5w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Sep 2026 | Setiap Hari Tuhan Berikan Kekuatan Baru",
                         "date": "2026-09-03",
