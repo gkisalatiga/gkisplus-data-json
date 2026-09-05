@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6472,
-        "last-update": 1788607577,
-        "last-updated-item": "yt",
+        "update-count": 6473,
+        "last-update": 1788616656,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6612,6 +6612,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-09-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Dhara",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
