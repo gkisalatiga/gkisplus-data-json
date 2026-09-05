@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6469,
-        "last-update": 1788589508,
+        "update-count": 6470,
+        "last-update": 1788591803,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2187,6 +2187,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 6 September 2026",
+                    "date": "2026-09-05",
+                    "link": "https://drive.google.com/file/d/16HkrVspr4i5w7BtFGDrKwkKsJXfWh4k6/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-6-september-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=16HkrVspr4i5w7BtFGDrKwkKsJXfWh4k6",
+                    "id": "16HkrVspr4i5w7BtFGDrKwkKsJXfWh4k6",
+                    "size": "1.77 MB"
+                },
+                {
                     "title": "Warta Jemaat 30 Agustus 2026",
                     "date": "2026-08-29",
                     "link": "https://drive.google.com/file/d/1_xTDzQ_7HWcKAwlHdRlsVqubW0eScVQv/view",
@@ -3160,6 +3169,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 6 September 2026 - Pembukaan Pekan Pendidikan Kristen (PEPENKRIS)",
+                    "date": "2026-09-05",
+                    "link": "https://drive.google.com/file/d/1AfBN4q7PfHo4tYwC5ebu4V8tNWBTKVUo/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-6-september-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1AfBN4q7PfHo4tYwC5ebu4V8tNWBTKVUo",
+                    "id": "1AfBN4q7PfHo4tYwC5ebu4V8tNWBTKVUo",
+                    "size": "0.53 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 30 Agustus 2026",
                     "date": "2026-08-30",
