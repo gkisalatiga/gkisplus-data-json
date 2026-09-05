@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6468,
-        "last-update": 1788575693,
-        "last-updated-item": "agenda",
+        "update-count": 6469,
+        "last-update": 1788589508,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,92 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 5 Sep | Mencari Kerajaan Allah Melalui Pendidikan Dalam Rangka Pekan Pendidikan Kristen",
-                        "date": "2026-09-04",
-                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
-                        "link": "https://www.youtube.com/watch?v=MuvuEdd6o5w",
-                        "thumbnail": "https://i2.ytimg.com/vi/MuvuEdd6o5w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Sep 2026 | Setiap Hari Tuhan Berikan Kekuatan Baru",
-                        "date": "2026-09-03",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=nNbHIS2DnDs",
-                        "thumbnail": "https://i3.ytimg.com/vi/nNbHIS2DnDs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Sep 2026 | Menjadi Terang di Tempat Kita Dipanggil",
-                        "date": "2026-09-02",
-                        "desc": "Dibawakan oleh Ibu Made Rai Suci Shanti N.A",
-                        "link": "https://www.youtube.com/watch?v=0Nq8sBmV1hM",
-                        "thumbnail": "https://i1.ytimg.com/vi/0Nq8sBmV1hM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Sep 2026 | Hidup Semakin Berat dan Sulit Bersyukur",
-                        "date": "2026-09-01",
-                        "desc": "Dibawakan oleh Bpk. Susetya Widyutama",
-                        "link": "https://www.youtube.com/watch?v=TpcXBj6VrpY",
-                        "thumbnail": "https://i1.ytimg.com/vi/TpcXBj6VrpY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Sep 2026 | Membeli Kebenaran",
-                        "date": "2026-08-31",
-                        "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
-                        "link": "https://www.youtube.com/watch?v=fqe_5OCdoXE",
-                        "thumbnail": "https://i3.ytimg.com/vi/fqe_5OCdoXE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Agu 2026 | Dari Keterlukaan Berujung Pelukan Bagi Bangsa",
-                        "date": "2026-08-30",
-                        "desc": "Dibawakan oleh Pdt. Yefta S. Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=j23oKqllb-I",
-                        "thumbnail": "https://i3.ytimg.com/vi/j23oKqllb-I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Agu 2026 | Merdeka untuk Datang Kepada Allah",
-                        "date": "2026-08-28",
-                        "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
-                        "link": "https://www.youtube.com/watch?v=OeQBexkzPYA",
-                        "thumbnail": "https://i4.ytimg.com/vi/OeQBexkzPYA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Agu 2026 | Merdeka Bukan Berarti Merdeka Berbuat Dosa",
-                        "date": "2026-08-27",
-                        "desc": "Dibawakan oleh Ibu Etiek Febriyanti Kristiono",
-                        "link": "https://www.youtube.com/watch?v=qXlotlXB_wQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/qXlotlXB_wQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Agu 2026 | Kemerdekaan Sejati Dalam Kasih Allah",
-                        "date": "2026-08-26",
-                        "desc": "Dibawakan oleh Bpk. Didik Wurdiyanto",
-                        "link": "https://www.youtube.com/watch?v=bEFLyhhjpvk",
-                        "thumbnail": "https://i3.ytimg.com/vi/bEFLyhhjpvk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Agu 2026 | Merdeka Untuk Hidup Lebih Sehat",
-                        "date": "2026-08-25",
-                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
-                        "link": "https://www.youtube.com/watch?v=m658pnIxobE",
-                        "thumbnail": "https://i2.ytimg.com/vi/m658pnIxobE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Agu 2026 | Pulihkan Kami Dengan Sinar Wajah Mu",
-                        "date": "2026-08-24",
-                        "desc": "Dibawakan oleh Pdt. Merry Rungkat",
-                        "link": "https://www.youtube.com/watch?v=rtkNrJJkNM8",
-                        "thumbnail": "https://i3.ytimg.com/vi/rtkNrJJkNM8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 24 Agu 2026 | Kemerdekaan Itu Mahal",
-                        "date": "2026-08-23",
-                        "desc": "Dibawakan oleh Ibu July Silooy",
-                        "link": "https://www.youtube.com/watch?v=H7wm_MyL0cE",
-                        "thumbnail": "https://i1.ytimg.com/vi/H7wm_MyL0cE/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
