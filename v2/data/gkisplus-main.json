@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6479,
-        "last-update": 1788695242,
-        "last-updated-item": "yt",
+        "update-count": 6480,
+        "last-update": 1788706068,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6748,6 +6748,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Dekor HUT SODA",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-07",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
