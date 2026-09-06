@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6476,
-        "last-update": 1788650691,
-        "last-updated-item": "yt",
+        "update-count": 6477,
+        "last-update": 1788661905,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5994,6 +5994,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat PMSW GKI SW Jateng",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-09-06",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Gita Hastuti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6048,6 +6062,20 @@
                 "pic": "Bu Wardjini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-09-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Dhara",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat MJ Bidang 3",
@@ -6720,20 +6748,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Pelatihan PNK",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-09-09",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Dhara",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
