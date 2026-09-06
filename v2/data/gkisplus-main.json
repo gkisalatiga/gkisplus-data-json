@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6482,
-        "last-update": 1788720148,
+        "update-count": 6483,
+        "last-update": 1788731210,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Sep 2026 | Menghidupi Panggilan dan Bergerak",
+                        "date": "2026-09-06",
+                        "desc": "Dibawakan oleh Ibu Natalia Setiawati",
+                        "link": "https://www.youtube.com/watch?v=pzUwlIiv60o",
+                        "thumbnail": "https://i1.ytimg.com/vi/pzUwlIiv60o/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Sep 2026 | Gembala yang Baik",
                         "date": "2026-09-06",
@@ -40,13 +47,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=4ShYzplna8g",
                         "thumbnail": "https://i1.ytimg.com/vi/4ShYzplna8g/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Sep 2026 | Menghidupi Panggilan dan Bergerak",
-                        "date": "2026-09-06",
-                        "desc": "Dibawakan oleh Ibu Natalia Setiawati",
-                        "link": "https://www.youtube.com/watch?v=pzUwlIiv60o",
-                        "thumbnail": "https://i1.ytimg.com/vi/pzUwlIiv60o/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 5 Sep | Mencari Kerajaan Allah Melalui Pendidikan Dalam Rangka Pekan Pendidikan Kristen",
