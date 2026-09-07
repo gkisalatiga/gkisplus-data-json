@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6484,
-        "last-update": 1788763384,
-        "last-updated-item": "yt",
+        "update-count": 6485,
+        "last-update": 1788766196,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6675,6 +6675,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Gloria",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat panitia Natal",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-07",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Andi David Hutabarat",
                 "status": "w",
                 "note": ""
             }
