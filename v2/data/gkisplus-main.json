@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6487,
-        "last-update": 1788788688,
+        "update-count": 6488,
+        "last-update": 1788819552,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 8 Sep 2026 | Transformasi Sekolah Eben Haezer Melalui Kolaborasi Bermakna",
+                        "date": "2026-09-07",
+                        "desc": "Dibawakan oleh Bpk. Yahya Kristanto",
+                        "link": "https://www.youtube.com/watch?v=JAg1zA5HY_U",
+                        "thumbnail": "https://i3.ytimg.com/vi/JAg1zA5HY_U/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Sep 2026 | Menghidupi Panggilan dan Bergerak",
                         "date": "2026-09-06",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
                         "link": "https://www.youtube.com/watch?v=OeQBexkzPYA",
                         "thumbnail": "https://i4.ytimg.com/vi/OeQBexkzPYA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Agu 2026 | Merdeka Bukan Berarti Merdeka Berbuat Dosa",
-                        "date": "2026-08-27",
-                        "desc": "Dibawakan oleh Ibu Etiek Febriyanti Kristiono",
-                        "link": "https://www.youtube.com/watch?v=qXlotlXB_wQ",
-                        "thumbnail": "https://i2.ytimg.com/vi/qXlotlXB_wQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
