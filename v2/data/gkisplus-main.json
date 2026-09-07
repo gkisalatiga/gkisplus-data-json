@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6485,
-        "last-update": 1788766196,
+        "update-count": 6486,
+        "last-update": 1788788287,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6675,7 +6675,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Gloria",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6689,8 +6689,50 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Andi David Hutabarat",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas HUT SODA",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Gladi Bersih HUT SODA",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
+                "status": "w",
+                "note": "Minta tolong disiapkan teh\ud83d\ude4f\ud83c\udffb"
+            },
+            {
+                "name": "Rapat bersama PF untuk sambut Natal KA GKI S",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Ayu Lape",
+                "status": "w",
+                "note": "Teh"
             }
         ],
         "backend": {
