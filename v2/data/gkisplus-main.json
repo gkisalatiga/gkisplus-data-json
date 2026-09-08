@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6494,
-        "last-update": 1788870767,
+        "update-count": 6495,
+        "last-update": 1788886854,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6811,6 +6811,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat MJ bidang 1",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-09-09",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
