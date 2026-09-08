@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6488,
-        "last-update": 1788819552,
-        "last-updated-item": "yt",
+        "update-count": 6489,
+        "last-update": 1788835352,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6818,6 +6818,34 @@
                 "pic": "Ayu Lape",
                 "status": "w",
                 "note": "Teh"
+            },
+            {
+                "name": "persiapan ibadah",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "persiapan ibadah",
+                "time": "20:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
