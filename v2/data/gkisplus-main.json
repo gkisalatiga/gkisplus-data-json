@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6495,
-        "last-update": 1788886854,
-        "last-updated-item": "agenda",
+        "update-count": 6496,
+        "last-update": 1788889060,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Sep 2026 | Mengakar Dalam Kebijaksanaan Bertumbuh Dalam Kristus",
+                        "date": "2026-09-08",
+                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
+                        "link": "https://www.youtube.com/watch?v=Te0jJpCKN1g",
+                        "thumbnail": "https://i1.ytimg.com/vi/Te0jJpCKN1g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 8 Sep 2026 | Transformasi Sekolah Eben Haezer Melalui Kolaborasi Bermakna",
                         "date": "2026-09-07",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta S. Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=j23oKqllb-I",
                         "thumbnail": "https://i3.ytimg.com/vi/j23oKqllb-I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Agu 2026 | Merdeka untuk Datang Kepada Allah",
-                        "date": "2026-08-28",
-                        "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
-                        "link": "https://www.youtube.com/watch?v=OeQBexkzPYA",
-                        "thumbnail": "https://i4.ytimg.com/vi/OeQBexkzPYA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
