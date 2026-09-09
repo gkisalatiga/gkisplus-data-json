@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6502,
-        "last-update": 1788973099,
-        "last-updated-item": "agenda",
+        "update-count": 6503,
+        "last-update": 1788991292,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Sep 2026 | Pintar Atau Baik",
+                        "date": "2026-09-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=4ShYzplna8g",
+                        "thumbnail": "https://i1.ytimg.com/vi/4ShYzplna8g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Sep 2026 | Mengakar Dalam Kebijaksanaan Bertumbuh Dalam Kristus",
                         "date": "2026-09-08",
@@ -54,13 +61,6 @@
                         "desc": "Dibawakan oleh Ibu Dewi Retnowati",
                         "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
                         "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Sep 2026 | Pintar Atau Baik",
-                        "date": "2026-09-06",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=4ShYzplna8g",
-                        "thumbnail": "https://i1.ytimg.com/vi/4ShYzplna8g/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 5 Sep | Mencari Kerajaan Allah Melalui Pendidikan Dalam Rangka Pekan Pendidikan Kristen",
