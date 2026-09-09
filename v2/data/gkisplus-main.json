@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6501,
-        "last-update": 1788957520,
+        "update-count": 6502,
+        "last-update": 1788973099,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6880,6 +6880,34 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "HUT SODA",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat Persiapan Natal KR",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
                 "note": "-"
             }
         ],
