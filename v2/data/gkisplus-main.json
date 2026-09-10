@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6503,
-        "last-update": 1788991292,
-        "last-updated-item": "yt",
+        "update-count": 6504,
+        "last-update": 1789008276,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6893,7 +6893,7 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Gloria",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6907,8 +6907,22 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Nareswari",
-                "status": "w",
+                "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat ",
+                "time": "09:00",
+                "time-to": "10:30",
+                "timezone": "WIB",
+                "date": "2026-09-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Samuel Martono",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
