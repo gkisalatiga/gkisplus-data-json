@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6507,
-        "last-update": 1789043134,
-        "last-updated-item": "yt",
+        "update-count": 6508,
+        "last-update": 1789059093,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6720,6 +6720,20 @@
                 "pic": "Ibu Sally",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "HUT SODA",
+                "time": "08:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-12",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
