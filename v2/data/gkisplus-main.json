@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6512,
-        "last-update": 1789129436,
+        "update-count": 6513,
+        "last-update": 1789147376,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Sep 2026 | Mari Terus Berjalan Bersama",
+                        "date": "2026-09-11",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=jiVbgPtViBM",
+                        "thumbnail": "https://i3.ytimg.com/vi/jiVbgPtViBM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Sep 2026 | Pendidikan yang Mengubahkan",
                         "date": "2026-09-10",
@@ -103,13 +110,6 @@
                         "desc": "Dibawakan oleh Pnt. Paskah Ika Nugroho",
                         "link": "https://www.youtube.com/watch?v=fqe_5OCdoXE",
                         "thumbnail": "https://i3.ytimg.com/vi/fqe_5OCdoXE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 31 Agu 2026 | Dari Keterlukaan Berujung Pelukan Bagi Bangsa",
-                        "date": "2026-08-30",
-                        "desc": "Dibawakan oleh Pdt. Yefta S. Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=j23oKqllb-I",
-                        "thumbnail": "https://i3.ytimg.com/vi/j23oKqllb-I/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
