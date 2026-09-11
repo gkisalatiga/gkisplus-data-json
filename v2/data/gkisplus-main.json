@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6508,
-        "last-update": 1789059093,
+        "update-count": 6509,
+        "last-update": 1789094266,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6732,6 +6732,34 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Pemuda",
                 "pic": "Gloria",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladibersih Dies Natalis",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-09-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Dies Natalis",
+                "time": "10:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-10-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Kepala Sekolah",
                 "status": "w",
                 "note": ""
             }
