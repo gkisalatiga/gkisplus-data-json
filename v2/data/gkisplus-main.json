@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6513,
-        "last-update": 1789147376,
+        "update-count": 6514,
+        "last-update": 1789184997,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2279,6 +2279,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 13 September 2026",
+                    "date": "2026-09-12",
+                    "link": "https://drive.google.com/file/d/1lKrBskWsbQ2R7aX3d7VklkAG5Sb0mfzb/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-13-september-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1lKrBskWsbQ2R7aX3d7VklkAG5Sb0mfzb",
+                    "id": "1lKrBskWsbQ2R7aX3d7VklkAG5Sb0mfzb",
+                    "size": "1.65 MB"
+                },
+                {
                     "title": "Warta Jemaat 6 September 2026",
                     "date": "2026-09-05",
                     "link": "https://drive.google.com/file/d/16HkrVspr4i5w7BtFGDrKwkKsJXfWh4k6/view",
@@ -3262,10 +3271,19 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah Minggu 13 September 2026 - Penutupan Pekan Pendidikan Kristen (PEPENKRIS)",
+                    "date": "2026-09-12",
+                    "link": "https://drive.google.com/file/d/19nPjidF8AEw7ZsAp8XfQ-C7gfIibRETs/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-13-september-2026-penutupan-pekan-pendidikan-kristen/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=19nPjidF8AEw7ZsAp8XfQ-C7gfIibRETs",
+                    "id": "19nPjidF8AEw7ZsAp8XfQ-C7gfIibRETs",
+                    "size": "0.53 MB"
+                },
+                {
                     "title": "Tata Ibadah Minggu 6 September 2026 - Pembukaan Pekan Pendidikan Kristen (PEPENKRIS)",
-                    "date": "2026-09-05",
+                    "date": "2026-09-12",
                     "link": "https://drive.google.com/file/d/1AfBN4q7PfHo4tYwC5ebu4V8tNWBTKVUo/view",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-6-september-2026/",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-6-september-2026-pembukaan-pekan-pendidikan-kristen/",
                     "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1AfBN4q7PfHo4tYwC5ebu4V8tNWBTKVUo",
                     "id": "1AfBN4q7PfHo4tYwC5ebu4V8tNWBTKVUo",
                     "size": "0.53 MB"
@@ -5615,15 +5633,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "title": "Persekutuan Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-08-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_1.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa",
