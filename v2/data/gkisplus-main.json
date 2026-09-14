@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6522,
-        "last-update": 1789375584,
-        "last-updated-item": "agenda",
+        "update-count": 6523,
+        "last-update": 1789396239,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 15 Sep 2026 | Model",
+                        "date": "2026-09-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=o106_rwjQZs",
+                        "thumbnail": "https://i4.ytimg.com/vi/o106_rwjQZs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Sep 2026 | Guru yang Mengajar dengan Kehidupan",
                         "date": "2026-09-13",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Dewi Retnowati",
                         "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
                         "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Sep | Mencari Kerajaan Allah Melalui Pendidikan Dalam Rangka Pekan Pendidikan Kristen",
-                        "date": "2026-09-04",
-                        "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
-                        "link": "https://www.youtube.com/watch?v=MuvuEdd6o5w",
-                        "thumbnail": "https://i2.ytimg.com/vi/MuvuEdd6o5w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
