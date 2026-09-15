@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6529,
-        "last-update": 1789476980,
+        "update-count": 6530,
+        "last-update": 1789511307,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |16 Sep 2026 | Kepemimpinan Gereja: Membangun Hidup Bersama",
+                        "date": "2026-09-15",
+                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
+                        "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
+                        "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 15 Sep 2026 | Model",
                         "date": "2026-09-14",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Celly Murniningsih",
                         "link": "https://www.youtube.com/watch?v=LRjlUhavU5Q",
                         "thumbnail": "https://i1.ytimg.com/vi/LRjlUhavU5Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |16 Sep 2026 | Kepemimpinan Gereja: Membangun Hidup Bersama",
-                        "date": "2026-09-06",
-                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
-                        "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
-                        "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
