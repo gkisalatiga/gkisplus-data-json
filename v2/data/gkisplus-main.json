@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6527,
-        "last-update": 1789455155,
-        "last-updated-item": "yt",
+        "update-count": 6528,
+        "last-update": 1789462255,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5898,7 +5898,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
