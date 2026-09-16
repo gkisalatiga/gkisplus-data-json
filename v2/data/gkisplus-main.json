@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6535,
-        "last-update": 1789563237,
+        "update-count": 6536,
+        "last-update": 1789580871,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |17 Sep 2026 | Aku Temenin Yaaa...",
+                        "date": "2026-09-16",
+                        "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
+                        "link": "https://www.youtube.com/watch?v=fw8V3ZNV_6w",
+                        "thumbnail": "https://i3.ytimg.com/vi/fw8V3ZNV_6w/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |16 Sep 2026 | Kepemimpinan Gereja: Membangun Hidup Bersama",
                         "date": "2026-09-15",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Ibu Natalia Setiawati",
                         "link": "https://www.youtube.com/watch?v=pzUwlIiv60o",
                         "thumbnail": "https://i1.ytimg.com/vi/pzUwlIiv60o/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 18 Sep 2026 | Gembala yang Baik",
-                        "date": "2026-09-06",
-                        "desc": "Dibawakan oleh Pnt. Celly Murniningsih",
-                        "link": "https://www.youtube.com/watch?v=LRjlUhavU5Q",
-                        "thumbnail": "https://i1.ytimg.com/vi/LRjlUhavU5Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
