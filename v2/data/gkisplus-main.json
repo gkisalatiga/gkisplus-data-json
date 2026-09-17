@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6539,
-        "last-update": 1789627872,
-        "last-updated-item": "yt",
+        "update-count": 6540,
+        "last-update": 1789634914,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5874,11 +5874,39 @@
                 "date": "2026-09-20",
                 "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Kana (Lantai 2) atau Ruang Betlehem",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Dessy Ballo",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pembuatan Video Podcast Acara Bulan Keluarga",
+                "time": "11:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-09-20",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Melvern Kenny",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Persiapan PMSW GKI SW Jateng",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-20",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Gita Hastuti",
+                "status": "y",
+                "note": "Minta disiapkan LCD"
             },
             {
                 "name": "PA wilayah 11",
@@ -6564,6 +6592,34 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah IX",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Rumah Hibah Togaten No. 1 (Wajib dilampiri persetujuan MJP)",
+                "representative": "Wilayah",
+                "pic": "Pnt. Henri Kristanto",
+                "status": "w",
+                "note": "25"
+            },
+            {
+                "name": "Rapat Koordinasi dengan Narsum dan Host Video Podcast Bulan Keluarga",
+                "time": "23:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-09-18",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Lainnya",
+                "pic": "Melvern Kenny",
+                "status": "w",
                 "note": "-"
             }
         ],
