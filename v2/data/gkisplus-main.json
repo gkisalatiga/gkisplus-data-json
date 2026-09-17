@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6541,
-        "last-update": 1789649413,
-        "last-updated-item": "yt",
+        "update-count": 6542,
+        "last-update": 1789653767,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6692,6 +6692,48 @@
                 "pic": "Melvern Kenny",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "TM Outing class",
+                "time": "08:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-09-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita permana",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Promosi expo Sekolah ",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita Permana",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Expo Promosi sekolah",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-30",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita permana",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
