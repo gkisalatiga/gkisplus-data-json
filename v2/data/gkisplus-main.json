@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6536,
-        "last-update": 1789580871,
-        "last-updated-item": "yt",
+        "update-count": 6537,
+        "last-update": 1789614113,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5956,6 +5956,20 @@
                 "note": ""
             },
             {
+                "name": "Kunjungan Wisata Rohani dari GKI Eklesia Ilaga Papua",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-09-20",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -5996,6 +6010,34 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah I",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "16:30",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-09-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Ngobrol Santai(Ngobras)",
