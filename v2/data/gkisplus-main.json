@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6546,
-        "last-update": 1789714092,
-        "last-updated-item": "yt",
+        "update-count": 6547,
+        "last-update": 1789718047,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5937,6 +5937,20 @@
                 "note": "-"
             },
             {
+                "name": "Pertemuan Tim Urban Farming",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-09-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Budi Santoso",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6663,20 +6677,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Pertemuan Tim Urban Farming",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-09-21",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Lainnya",
-                "pic": "Budi Santoso",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
