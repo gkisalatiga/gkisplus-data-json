@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6544,
-        "last-update": 1789691678,
-        "last-updated-item": "yt",
+        "update-count": 6545,
+        "last-update": 1789699784,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5931,6 +5931,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Koordinasi dengan Narsum dan Host Video Podcast Bulan Keluarga",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-09-18",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Lainnya",
+                "pic": "Melvern Kenny",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Percakapan Atestasi Masuk",
                 "time": "15:30",
                 "time-to": "16:30",
@@ -5987,6 +6001,20 @@
                 "note": "Minta disiapkan LCD"
             },
             {
+                "name": "TM Outing class",
+                "time": "08:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-09-21",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita permana",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6041,6 +6069,20 @@
                 "pic": "A.M. Widiatmoko",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "PA Wilayah IX",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Rumah Hibah Togaten No. 1 (Wajib dilampiri persetujuan MJP)",
+                "representative": "Wilayah",
+                "pic": "Pnt. Henri Kristanto",
+                "status": "y",
+                "note": "25"
             },
             {
                 "name": "Percakapan Atestasi Masuk",
@@ -6365,6 +6407,20 @@
                 "note": "-"
             },
             {
+                "name": "Promosi expo Sekolah ",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita Permana",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Seminar Parenting",
                 "time": "07:00",
                 "time-to": "11:00",
@@ -6376,6 +6432,20 @@
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Kepala Sekolah",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Expo Promosi sekolah",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-30",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita permana",
+                "status": "w",
                 "note": ""
             },
             {
@@ -6673,72 +6743,16 @@
                 "note": "-"
             },
             {
-                "name": "PA Wilayah IX",
+                "name": "Pertemuan Tim Urban Farming",
                 "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-09-22",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Rumah Hibah Togaten No. 1 (Wajib dilampiri persetujuan MJP)",
-                "representative": "Wilayah",
-                "pic": "Pnt. Henri Kristanto",
-                "status": "w",
-                "note": "25"
-            },
-            {
-                "name": "Rapat Koordinasi dengan Narsum dan Host Video Podcast Bulan Keluarga",
-                "time": "23:00",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-09-18",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Lainnya",
-                "pic": "Melvern Kenny",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "TM Outing class",
-                "time": "08:00",
-                "time-to": "12:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
                 "date": "2026-09-21",
                 "weekday": "mon",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Rendi dita permana",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Promosi expo Sekolah ",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-10-29",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Rendi dita Permana",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Expo Promosi sekolah",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-10-30",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Rendi dita permana",
+                "place": "Ruang Betlehem",
+                "representative": "Lainnya",
+                "pic": "Budi Santoso",
                 "status": "w",
                 "note": ""
             }
