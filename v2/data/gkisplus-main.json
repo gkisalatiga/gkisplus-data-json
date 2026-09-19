@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6551,
-        "last-update": 1789775305,
+        "update-count": 6552,
+        "last-update": 1789790101,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2194,6 +2194,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 20 September 2026",
+                    "date": "2026-09-19",
+                    "link": "https://drive.google.com/file/d/1-IaMOnMMq2ZHpAmc2g0XoMhEHIadjF7g/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-20-september-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1-IaMOnMMq2ZHpAmc2g0XoMhEHIadjF7g",
+                    "id": "1-IaMOnMMq2ZHpAmc2g0XoMhEHIadjF7g",
+                    "size": "1.08 MB"
+                },
+                {
                     "title": "Warta Jemaat 13 September 2026",
                     "date": "2026-09-12",
                     "link": "https://drive.google.com/file/d/1lKrBskWsbQ2R7aX3d7VklkAG5Sb0mfzb/view",
@@ -3185,6 +3194,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 20 September 2026 - Pembukaan Pekan Kepemimpinan",
+                    "date": "2026-09-19",
+                    "link": "https://drive.google.com/file/d/1pCxt2il0hw0iZWHN_3y0hpAr2rTHRNDV/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-20-september-2026-pembukaan-pekan-kepemimpinan/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1pCxt2il0hw0iZWHN_3y0hpAr2rTHRNDV",
+                    "id": "1pCxt2il0hw0iZWHN_3y0hpAr2rTHRNDV",
+                    "size": "0.68 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 13 September 2026 - Penutupan Pekan Pendidikan Kristen (PEPENKRIS)",
                     "date": "2026-09-12",
