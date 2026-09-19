@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6556,
-        "last-update": 1789819591,
+        "update-count": 6557,
+        "last-update": 1789836672,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Sep 2026 | Kesehatan Reproduksi untuk Membangum Hidup Bersama dalam Keluarga",
+                        "date": "2026-09-19",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=T2TmVv9QBBc",
+                        "thumbnail": "https://i1.ytimg.com/vi/T2TmVv9QBBc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
+                        "date": "2026-09-19",
+                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
+                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
+                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |19 Sep 2026 | Memimpin Dengan Hati",
                         "date": "2026-09-18",
@@ -82,20 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=4ShYzplna8g",
                         "thumbnail": "https://i1.ytimg.com/vi/4ShYzplna8g/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Sep 2026 | Mengakar Dalam Kebijaksanaan Bertumbuh Dalam Kristus",
-                        "date": "2026-09-08",
-                        "desc": "Dibawakan oleh Ibu Siska Indria Yuniarti",
-                        "link": "https://www.youtube.com/watch?v=Te0jJpCKN1g",
-                        "thumbnail": "https://i1.ytimg.com/vi/Te0jJpCKN1g/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Sep 2026 | Transformasi Sekolah Eben Haezer Melalui Kolaborasi Bermakna",
-                        "date": "2026-09-07",
-                        "desc": "Dibawakan oleh Bpk. Yahya Kristanto",
-                        "link": "https://www.youtube.com/watch?v=JAg1zA5HY_U",
-                        "thumbnail": "https://i3.ytimg.com/vi/JAg1zA5HY_U/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
