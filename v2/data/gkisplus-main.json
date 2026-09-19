@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6553,
-        "last-update": 1789798975,
-        "last-updated-item": "yt",
+        "update-count": 6554,
+        "last-update": 1789803875,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5908,6 +5908,34 @@
                 "note": ""
             },
             {
+                "name": "Rapat Koordinasi Tim Informatika dan Komisi Anak",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-19",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": "Minta tolong disiapkan proyektor"
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-09-19",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Santoso Adi Pribadi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Kunjungan Wisata Rohani dari GKI Eklesia Ilaga Papua",
                 "time": "11:30",
                 "time-to": "13:00",
@@ -5915,7 +5943,7 @@
                 "date": "2026-09-20",
                 "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2) atau Ruang Betlehem",
+                "place": "Ruang Betlehem",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Dessy Ballo",
                 "status": "y",
@@ -6704,20 +6732,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Koordinasi Tim Informatika dan Komisi Anak",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-09-19",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": "Minta tolong disiapkan proyektor"
             }
         ],
         "backend": {
