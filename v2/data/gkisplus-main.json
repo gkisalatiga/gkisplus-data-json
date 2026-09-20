@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6559,
-        "last-update": 1789888301,
-        "last-updated-item": "yt",
+        "update-count": 6560,
+        "last-update": 1789892917,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6856,6 +6856,20 @@
                 "representative": "Wilayah",
                 "pic": "Bp. Andi",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "TM OUTING CLASS",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "RENDI DITA PERMANA",
+                "status": "w",
                 "note": "-"
             }
         ],
