@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6564,
-        "last-update": 1789959477,
+        "update-count": 6565,
+        "last-update": 1789979885,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6826,6 +6826,34 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-10-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-10-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
