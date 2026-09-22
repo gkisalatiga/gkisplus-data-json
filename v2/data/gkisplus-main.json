@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6570,
-        "last-update": 1790060269,
-        "last-updated-item": "yt",
+        "update-count": 6571,
+        "last-update": 1790065127,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5917,6 +5917,20 @@
                 "note": "-"
             },
             {
+                "name": "Inventarisasi dan Pemeliharaan Peralatan Musik",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-22",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2), Ruang Studio, Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny, Samarthya",
+                "status": "y",
+                "note": "Sehabis PA selesai"
+            },
+            {
                 "name": "Pelatihan PNK",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -6013,6 +6027,20 @@
                 "pic": "Kepala Sekolah",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Rutin Pengurus YPE",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-09-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Ibu Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "Terimakasih"
             },
             {
                 "name": "Rapat Tim Pembimbing Capen",
@@ -6251,6 +6279,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Kebaktian PA",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Selvi",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wil. 10",
