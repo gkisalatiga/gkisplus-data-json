@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6571,
-        "last-update": 1790065127,
-        "last-updated-item": "agenda",
+        "update-count": 6572,
+        "last-update": 1790081594,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,78 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Sep 2026 | Kesehatan Reproduksi untuk Membangum Hidup Bersama dalam Keluarga",
+                        "date": "2026-09-21",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=T2TmVv9QBBc",
+                        "thumbnail": "https://i1.ytimg.com/vi/T2TmVv9QBBc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Sep 2026 | Pemimpin Yang Melayani",
+                        "date": "2026-09-20",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=ATOfyHJdu7U",
+                        "thumbnail": "https://i2.ytimg.com/vi/ATOfyHJdu7U/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
+                        "date": "2026-09-19",
+                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
+                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
+                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |19 Sep 2026 | Memimpin Dengan Hati",
+                        "date": "2026-09-18",
+                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=9dsjAm30o-w",
+                        "thumbnail": "https://i2.ytimg.com/vi/9dsjAm30o-w/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 18 Sep 2026 | Gembala yang Baik",
+                        "date": "2026-09-17",
+                        "desc": "Dibawakan oleh Pnt. Celly Murniningsih",
+                        "link": "https://www.youtube.com/watch?v=LRjlUhavU5Q",
+                        "thumbnail": "https://i1.ytimg.com/vi/LRjlUhavU5Q/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |17 Sep 2026 | Aku Temenin Yaaa...",
+                        "date": "2026-09-16",
+                        "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
+                        "link": "https://www.youtube.com/watch?v=fw8V3ZNV_6w",
+                        "thumbnail": "https://i3.ytimg.com/vi/fw8V3ZNV_6w/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |16 Sep 2026 | Kepemimpinan Gereja: Membangun Hidup Bersama",
+                        "date": "2026-09-15",
+                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
+                        "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
+                        "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Sep 2026 | Model",
+                        "date": "2026-09-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=o106_rwjQZs",
+                        "thumbnail": "https://i4.ytimg.com/vi/o106_rwjQZs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 14 Sep 2026 | Guru yang Mengajar dengan Kehidupan",
+                        "date": "2026-09-13",
+                        "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
+                        "link": "https://www.youtube.com/watch?v=62GtD7OtfOQ",
+                        "thumbnail": "https://i3.ytimg.com/vi/62GtD7OtfOQ/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 12 Sep 2026 | Mari Terus Berjalan Bersama",
+                        "date": "2026-09-11",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=jiVbgPtViBM",
+                        "thumbnail": "https://i3.ytimg.com/vi/jiVbgPtViBM/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
