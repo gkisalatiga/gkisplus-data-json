@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6573,
-        "last-update": 1790099589,
-        "last-updated-item": "agenda",
+        "update-count": 6574,
+        "last-update": 1790116020,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
+                        "date": "2026-09-22",
+                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
+                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
+                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 22 Sep 2026 | Kesehatan Reproduksi untuk Membangum Hidup Bersama dalam Keluarga",
                         "date": "2026-09-21",
                         "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=ATOfyHJdu7U",
                         "thumbnail": "https://i2.ytimg.com/vi/ATOfyHJdu7U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
-                        "date": "2026-09-19",
-                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
-                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
-                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi |19 Sep 2026 | Memimpin Dengan Hati",
