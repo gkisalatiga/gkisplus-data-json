@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6572,
-        "last-update": 1790081594,
-        "last-updated-item": "yt",
+        "update-count": 6573,
+        "last-update": 1790099589,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6110,7 +6110,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "YPE",
                 "pic": "Ibu Yari Dwikurnaningsih",
-                "status": "y",
+                "status": "w",
                 "note": "Terimakasih"
             },
             {
@@ -6742,6 +6742,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Penataan Ulang Ruang Kana dan Studio",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2), Ruang Studio, Ruang Betania ( Lantai 2)",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Samarthya, Jenny",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
