@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6578,
-        "last-update": 1790168693,
+        "update-count": 6579,
+        "last-update": 1790202604,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 24 Sep 2026 | Pemimpin Yang Mendengarkan",
+                        "date": "2026-09-23",
+                        "desc": "Dibawakan oleh Bpk. Tejo Prayitno",
+                        "link": "https://www.youtube.com/watch?v=cjuTlu07gRY",
+                        "thumbnail": "https://i4.ytimg.com/vi/cjuTlu07gRY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
                         "date": "2026-09-22",
@@ -82,13 +89,6 @@
                         "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
                         "link": "https://www.youtube.com/watch?v=62GtD7OtfOQ",
                         "thumbnail": "https://i3.ytimg.com/vi/62GtD7OtfOQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Sep 2026 | Mari Terus Berjalan Bersama",
-                        "date": "2026-09-11",
-                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
-                        "link": "https://www.youtube.com/watch?v=jiVbgPtViBM",
-                        "thumbnail": "https://i3.ytimg.com/vi/jiVbgPtViBM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
