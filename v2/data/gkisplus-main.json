@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6579,
-        "last-update": 1790202604,
-        "last-updated-item": "yt",
+        "update-count": 6580,
+        "last-update": 1790218101,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6044,6 +6044,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah minggu",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-23",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Percakapan Atestasi Masuk",
                 "time": "16:30",
                 "time-to": "18:00",
@@ -6405,6 +6419,20 @@
                 "representative": "Wilayah",
                 "pic": "Selvi",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 5 (opsi tgl 20 atau tgl 27 Okt) ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Dolfina Nanggiang",
+                "status": "w",
                 "note": ""
             },
             {
@@ -6784,20 +6812,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan musik ibadah minggu",
-                "time": "18:30",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-09-23",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Pemuda",
-                "pic": "Alphonso Simanullang",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
