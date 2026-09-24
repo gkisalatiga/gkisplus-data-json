@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6583,
-        "last-update": 1790254661,
+        "update-count": 6584,
+        "last-update": 1790289902,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
-                        "date": "2026-09-24",
-                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
-                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
-                        "thumbnail": "https://i1.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 25 Sep 2026 | Melayani, Bukan Menguasai",
                         "date": "2026-09-24",
                         "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
                         "link": "https://www.youtube.com/watch?v=wzxu57chE-k",
                         "thumbnail": "https://i4.ytimg.com/vi/wzxu57chE-k/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
+                        "date": "2026-09-24",
+                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
+                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
+                        "thumbnail": "https://i1.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 24 Sep 2026 | Pemimpin Yang Mendengarkan",
