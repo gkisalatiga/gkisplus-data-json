@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6584,
-        "last-update": 1790289902,
-        "last-updated-item": "yt",
+        "update-count": 6585,
+        "last-update": 1790305493,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5960,6 +5960,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan musik ibadah Minggu",
+                "time": "18:30",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-09-25",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Pemuda",
+                "pic": "Alphonso Simanullang",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Ngobrol Santai(Ngobras)",
                 "time": "12:00",
                 "time-to": "15:00",
@@ -6126,6 +6140,20 @@
                 "pic": "Tommy",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pertemuan Mahasiswa  PPL II dan IV dg Sdr. Kenny",
+                "time": "10:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-10-03",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "Lukas Sukan",
+                "status": "y",
+                "note": "Minta disiapkan teh untuk sekitar 24 orang"
             },
             {
                 "name": "PA wilayah 11",
