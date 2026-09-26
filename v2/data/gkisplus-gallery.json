@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 95,
-        "last-update": 1789542309,
+        "update-count": 96,
+        "last-update": 1790400797,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34201,6 +34201,81 @@
                             "id": "1GjaPUbIFuZdmcK5nHZJ1OCoEoXIs81zk",
                             "name": "DSCF1180.JPG",
                             "date": "2026-09-16"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1A8k_x1yrVs-sPO_-t4NUvnVLAEV1uv7p",
+                    "last_update": "2026-09-26",
+                    "featured_photo_id": "1cKt6oarfMuwZcqfwIRZchUPUextZMnfJ",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 20 September (Pembukaan Pekan Kepemimpinan)) yang dilaksanakan pada 13 September 2026.",
+                    "title": "Ibadah Minggu, 20 September (Pembukaan Pekan Kepemimpinan))",
+                    "event_date": "2026.09.13",
+                    "photos": [
+                        {
+                            "id": "1xBpoZ6h0a078OPb_2DsqfbYBn3wWCURV",
+                            "name": "DSCF1334.JPG",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1vcozFnfOymMxxRB5Ax6Ikrjiqu0mYdSF",
+                            "name": "IMG_20260920_110557.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1nY0sV-lwG3iBXv181PTooip398RAu5Tr",
+                            "name": "IMG_20260920_094544.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1icS5vSygdzKvdDpD453Feotle-jnpIg8",
+                            "name": "IMG_20260920_095329.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1Jk2n9ddauRuOXS7p7UJ3IuiUJIL55ouK",
+                            "name": "IMG_20260920_111057.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1UWYOZZ8PbmRHOuQzuCdBwre4Zn_WNEnc",
+                            "name": "IMG_20260920_111200.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1HaUrHf6ssyRTdmTdc9LzDdpe4gGUCzMq",
+                            "name": "IMG_20260920_094808.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1bymbA2X7rYmRcXgqaz5hOHWJqmMEYSQ1",
+                            "name": "IMG_20260920_094805.HEIC",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1ZSEiwwMU-2dEJF4hE7-cUEbWaOHn-S0p",
+                            "name": "MVIMG_20260920_093202.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1MNAAhIyxIwntTSt-bDuwo-O7KxBvszH7",
+                            "name": "IMG_20260920_093348.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1kCyrakyP_ToplBHSjj-iVEXSaXu3BCm8",
+                            "name": "MVIMG_20260920_093115.jpg",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1HS5IpuIFAohrKvRtzoUXFQB_j-hmGMvz",
+                            "name": "DSCF1338.JPG",
+                            "date": "2026-09-26"
+                        },
+                        {
+                            "id": "1DeJFByQlAAluLhoJHiy-UKGjeumFsnVO",
+                            "name": "DSCF1330.JPG",
+                            "date": "2026-09-26"
                         }
                     ]
                 }
