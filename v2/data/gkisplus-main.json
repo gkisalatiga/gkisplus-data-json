@@ -4979,6 +4979,16 @@
             ],
             "sat": [
                 {
+                    "name": "Latihan PS SD Kristen 03 ",
+                    "time": "08:00",
+                    "time-to": "09:30",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kapernaum",
+                    "representative": "SD Kristen 03 Eben Haezer",
+                    "note": "Rutin sampai 10 Okt 2026"
+                },
+                {
                     "name": "Latihan PS Efrata",
                     "time": "09:00",
                     "time-to": "10:00",
@@ -5956,6 +5966,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan PS SD Kristen 03 (rutin sampai 10 Okt 2026)",
+                "time": "08:00",
+                "time-to": "09:30",
+                "timezone": "WIB",
+                "date": "2026-09-26",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel Arif BS",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Ngobrol Santai(Ngobras)",
                 "time": "12:00",
                 "time-to": "15:00",
@@ -6724,20 +6748,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Latihan PS SD Kristen 03 (rutin sampai 10 Okt 2026)",
-                "time": "08:00",
-                "time-to": "09:30",
-                "timezone": "WIB",
-                "date": "2026-09-26",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Samuel Arif BS",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
