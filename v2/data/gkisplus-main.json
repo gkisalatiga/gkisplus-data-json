@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6592,
-        "last-update": 1790405139,
+        "update-count": 6593,
+        "last-update": 1790425903,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
+                        "date": "2026-09-25",
+                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
+                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
+                        "thumbnail": "https://i1.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Sep 2026 | Melayani, Bukan Menguasai",
+                        "date": "2026-09-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=wzxu57chE-k",
+                        "thumbnail": "https://i4.ytimg.com/vi/wzxu57chE-k/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Sep 2026 | Pemimpin Yang Mendengarkan",
+                        "date": "2026-09-23",
+                        "desc": "Dibawakan oleh Bpk. Tejo Prayitno",
+                        "link": "https://www.youtube.com/watch?v=cjuTlu07gRY",
+                        "thumbnail": "https://i4.ytimg.com/vi/cjuTlu07gRY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
+                        "date": "2026-09-22",
+                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
+                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
+                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Sep 2026 | Kesehatan Reproduksi untuk Membangum Hidup Bersama dalam Keluarga",
+                        "date": "2026-09-21",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=T2TmVv9QBBc",
+                        "thumbnail": "https://i1.ytimg.com/vi/T2TmVv9QBBc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Sep 2026 | Pemimpin Yang Melayani",
+                        "date": "2026-09-20",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=ATOfyHJdu7U",
+                        "thumbnail": "https://i2.ytimg.com/vi/ATOfyHJdu7U/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |19 Sep 2026 | Memimpin Dengan Hati",
+                        "date": "2026-09-18",
+                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
+                        "link": "https://www.youtube.com/watch?v=9dsjAm30o-w",
+                        "thumbnail": "https://i2.ytimg.com/vi/9dsjAm30o-w/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 18 Sep 2026 | Gembala yang Baik",
+                        "date": "2026-09-17",
+                        "desc": "Dibawakan oleh Pnt. Celly Murniningsih",
+                        "link": "https://www.youtube.com/watch?v=LRjlUhavU5Q",
+                        "thumbnail": "https://i1.ytimg.com/vi/LRjlUhavU5Q/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |17 Sep 2026 | Aku Temenin Yaaa...",
+                        "date": "2026-09-16",
+                        "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
+                        "link": "https://www.youtube.com/watch?v=fw8V3ZNV_6w",
+                        "thumbnail": "https://i3.ytimg.com/vi/fw8V3ZNV_6w/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |16 Sep 2026 | Kepemimpinan Gereja: Membangun Hidup Bersama",
+                        "date": "2026-09-15",
+                        "desc": "Dibawakan oleh Ibu Dewi Retnowati",
+                        "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
+                        "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Sep 2026 | Model",
+                        "date": "2026-09-14",
+                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=o106_rwjQZs",
+                        "thumbnail": "https://i4.ytimg.com/vi/o106_rwjQZs/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
@@ -33,7 +111,7 @@
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 27 September 2026 | \"Memimpin Tanpa Menjadi Pusat\"",
                         "date": "2026-09-26",
-                        "desc": "Ibadah Minggu Penutupan Pekan Kepemimpinan GKI Salatiga | 27 September 2026  | \nPukul 07.00 WIB\n\n\nTema : \"Memimpin Tanpa Menjadi Pusat\" \n\nNyanyian: NKB 3 : 1, 3; NKB 193: 1, 3, 4; PKJ 239:1-2; KJ 365b; KK 561:1, 4, 6\nBacaan : 1 Korintus 12:12-27\nBerita Anugrah: 2 Tawarikh 7:14\nPersembahan: Kisah Para Rasul 20:35\n\nPelayan Firman: Pdt. Em. Iman Santoso\nKoordinator Ibadah dan Persembahan: Pnt. Paskah Ika N.\nKredo dan Warta: Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Henri Kristanto, Pnt. Natalis Sidanta\nPemandu Liturgi: Jaka Sepriyanto\n\nPemusik: Band KP\nPNK/PMZ: Adhara\nPaduan Suara: -\nSolo Vocal: -\nTim Multimedia: Gita T. , Enrico, Valencia, David, Okta\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Anggrek Oncidium\n\nUsher & Kolektan: Lydia S.Prasetyo, Yuliana Sukan, Yovita, Christina (Tim Yankes)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "desc": "Ibadah Minggu Penutupan Pekan Kepemimpinan GKI Salatiga | 27 September 2026  | \nPukul 07.00 WIB\n\n\nTema : \"Memimpin Tanpa Menjadi Pusat\" \n\nNyanyian: NKB 3 : 1, 3; NKB 193: 1, 3, 4; PKJ 239:1-2; KJ 365b; KK 561:1, 4, 6\nBacaan : 1 Korintus 12:12-27\nBerita Anugerah: 2 Tawarikh 7:14\nPersembahan: Kisah Para Rasul 20:35\n\nPelayan Firman: Pdt. Em. Iman Santoso\nKoordinator Ibadah dan Persembahan: Pnt. Paskah Ika N.\nKredo dan Warta: Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Henri Kristanto, Pnt. Natalis Sidanta\nPemandu Liturgi: Jaka Sepriyanto\n\nPemusik: Band KP\nPNK/PMZ: Adhara\nPaduan Suara: -\nSolo Vocal: -\nTim Multimedia: Gita T. , Enrico, Valencia, David, Okta\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Anggrek Oncidium\n\nUsher & Kolektan: Lydia S.Prasetyo, Yuliana Sukan, Yovita, Christina (Tim Yankes)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=96CvZtPeiSc",
                         "thumbnail": "https://i.ytimg.com/vi/96CvZtPeiSc/hqdefault_live.jpg"
                     },
