@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6594,
-        "last-update": 1790462566,
-        "last-updated-item": "yt",
+        "update-count": 6595,
+        "last-update": 1790478927,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6200,6 +6200,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembinaan Pranikah Aspek Kesehatan",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-10-02",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Lainnya",
+                "pic": "dr. Sintarini Utomo",
                 "status": "y",
                 "note": ""
             },
