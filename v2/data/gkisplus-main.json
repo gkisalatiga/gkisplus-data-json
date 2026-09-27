@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6595,
-        "last-update": 1790478927,
-        "last-updated-item": "agenda",
+        "update-count": 6596,
+        "last-update": 1790515339,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Sep 2026 | Ambil Peranmu Tunjukkan Integritas",
+                        "date": "2026-09-27",
+                        "desc": "Dibawakan oleh Ibu Dian Christy",
+                        "link": "https://www.youtube.com/watch?v=qQhi_WwsKM4",
+                        "thumbnail": "https://i2.ytimg.com/vi/qQhi_WwsKM4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
                         "date": "2026-09-25",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Ibu Dewi Retnowati",
                         "link": "https://www.youtube.com/watch?v=T5VcAME25Ek",
                         "thumbnail": "https://i1.ytimg.com/vi/T5VcAME25Ek/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Sep 2026 | Model",
-                        "date": "2026-09-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=o106_rwjQZs",
-                        "thumbnail": "https://i4.ytimg.com/vi/o106_rwjQZs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
