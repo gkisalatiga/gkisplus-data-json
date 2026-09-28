@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6597,
-        "last-update": 1790531872,
-        "last-updated-item": "yt",
+        "update-count": 6598,
+        "last-update": 1790589749,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6229,7 +6229,7 @@
                 "representative": "Lainnya",
                 "pic": "Lukas Sukan",
                 "status": "y",
-                "note": "Minta disiapkan teh untuk sekitar 24 orang"
+                "note": "Minta disiapkan teh untuk sekitar 18 orang"
             },
             {
                 "name": "PA wilayah 11",
@@ -6818,6 +6818,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Evaluasi bulanan KP",
+                "time": "17:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-09-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Mario Pattisina",
+                "status": "w",
+                "note": "Minta disiapkan Teh, Terima kasih"
             }
         ],
         "backend": {
