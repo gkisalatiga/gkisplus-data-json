@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6602,
-        "last-update": 1790653819,
+        "update-count": 6603,
+        "last-update": 1790699675,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6811,6 +6811,20 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan VG Wilayah 2/8",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
