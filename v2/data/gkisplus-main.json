@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6601,
-        "last-update": 1790633912,
-        "last-updated-item": "yt",
+        "update-count": 6602,
+        "last-update": 1790653819,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6071,16 +6071,30 @@
                 "note": "Terimakasih"
             },
             {
-                "name": "Rapat Tim Pembimbing Capen",
-                "time": "18:00",
-                "time-to": "20:00",
+                "name": "Rapat Evaluasi bulanan KP",
+                "time": "17:30",
+                "time-to": "20:30",
                 "timezone": "WIB",
-                "date": "2026-10-01",
-                "weekday": "thu",
+                "date": "2026-09-30",
+                "weekday": "wed",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Mario Pattisina",
+                "status": "y",
+                "note": "Minta disiapkan Teh, Terima kasih"
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-09-30",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
                 "status": "y",
                 "note": ""
             },
@@ -6109,6 +6123,34 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Tommy",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Pemandu PA ",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-10-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Dessy Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Dekorasi Natal",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-01",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Diah Perwitasari ",
                 "status": "y",
                 "note": ""
             },
@@ -6195,6 +6237,20 @@
                 "pic": " Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Tim Pembimbing Capen",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat MJ Bidang 3",
@@ -6755,34 +6811,6 @@
                 "pic": "Bp. Andi",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rapat Evaluasi bulanan KP",
-                "time": "17:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-09-30",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Mario Pattisina",
-                "status": "w",
-                "note": "Minta disiapkan Teh, Terima kasih"
-            },
-            {
-                "name": "Pelatihan PNK",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-09-30",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adhara",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
