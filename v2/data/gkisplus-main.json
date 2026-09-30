@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6605,
-        "last-update": 1790734336,
-        "last-updated-item": "yt",
+        "update-count": 6606,
+        "last-update": 1790739509,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6745,6 +6745,20 @@
                 "place": "Ruang Galilea (Lantai 2)",
                 "representative": "Wilayah",
                 "pic": "Chrissandhy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Take Video Podcast",
+                "time": "23:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-04",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Melvern Kenny",
                 "status": "w",
                 "note": ""
             }
