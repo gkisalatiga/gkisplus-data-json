@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6614,
-        "last-update": 1790866389,
+        "update-count": 6615,
+        "last-update": 1790883687,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5700,24 +5700,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "title": "KTB Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-09-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppk_4.webp",
-                "title": "Nyeduh Kopi, Bermain, dan Merenda Kenangan Manis",
-                "type": "poster",
-                "date-created": "2026-09-19",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppk_4.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
                 "title": "Persekutuan SoDa 3 Oktober",
