@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6613,
-        "last-update": 1790851177,
-        "last-updated-item": "agenda",
+        "update-count": 6614,
+        "last-update": 1790866389,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Oktober 2026 | Firman Tuhan di Rumah Kita",
+                        "date": "2026-10-01",
+                        "desc": "Dibawakan oleh Sdri. Chelsey Lauren S. Gaspersz",
+                        "link": "https://www.youtube.com/watch?v=AwmqXnqjDRw",
+                        "thumbnail": "https://i2.ytimg.com/vi/AwmqXnqjDRw/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 1 Oktober 2026 | Keluarga sebagai Agen Pelayanan Kasih",
                         "date": "2026-09-30",
@@ -89,13 +96,6 @@
                         "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                         "link": "https://www.youtube.com/watch?v=ATOfyHJdu7U",
                         "thumbnail": "https://i2.ytimg.com/vi/ATOfyHJdu7U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |19 Sep 2026 | Memimpin Dengan Hati",
-                        "date": "2026-09-18",
-                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=9dsjAm30o-w",
-                        "thumbnail": "https://i2.ytimg.com/vi/9dsjAm30o-w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
