@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6616,
-        "last-update": 1790908012,
+        "update-count": 6617,
+        "last-update": 1790926752,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,7 +19,85 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 2 Oktober 2026 | Firman Tuhan di Rumah Kita",
+                        "date": "2026-10-01",
+                        "desc": "Dibawakan oleh Sdri. Chelsey Lauren S. Gaspersz",
+                        "link": "https://www.youtube.com/watch?v=AwmqXnqjDRw",
+                        "thumbnail": "https://i2.ytimg.com/vi/AwmqXnqjDRw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Oktober 2026 | Keluarga sebagai Agen Pelayanan Kasih",
+                        "date": "2026-09-30",
+                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
+                        "link": "https://www.youtube.com/watch?v=C3PwtrdDwds",
+                        "thumbnail": "https://i4.ytimg.com/vi/C3PwtrdDwds/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Sep 2026 | Konvivial: Hidup Bersama",
+                        "date": "2026-09-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=Kp8xuBVEBcg",
+                        "thumbnail": "https://i4.ytimg.com/vi/Kp8xuBVEBcg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Sep 2026 | Meneladani Pemimpin",
+                        "date": "2026-09-28",
+                        "desc": "Dibawakan oleh Ibu Trevie Rumuat",
+                        "link": "https://www.youtube.com/watch?v=PB6aKNoAJfE",
+                        "thumbnail": "https://i1.ytimg.com/vi/PB6aKNoAJfE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Sep 2026 | Ambil Peranmu Tunjukkan Integritas",
+                        "date": "2026-09-27",
+                        "desc": "Dibawakan oleh Ibu Dian Christy",
+                        "link": "https://www.youtube.com/watch?v=qQhi_WwsKM4",
+                        "thumbnail": "https://i2.ytimg.com/vi/qQhi_WwsKM4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
+                        "date": "2026-09-25",
+                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
+                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
+                        "thumbnail": "https://i1.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 25 Sep 2026 | Melayani, Bukan Menguasai",
+                        "date": "2026-09-24",
+                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
+                        "link": "https://www.youtube.com/watch?v=wzxu57chE-k",
+                        "thumbnail": "https://i4.ytimg.com/vi/wzxu57chE-k/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 24 Sep 2026 | Pemimpin Yang Mendengarkan",
+                        "date": "2026-09-23",
+                        "desc": "Dibawakan oleh Bpk. Tejo Prayitno",
+                        "link": "https://www.youtube.com/watch?v=cjuTlu07gRY",
+                        "thumbnail": "https://i4.ytimg.com/vi/cjuTlu07gRY/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
+                        "date": "2026-09-22",
+                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
+                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
+                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 22 Sep 2026 | Kesehatan Reproduksi untuk Membangum Hidup Bersama dalam Keluarga",
+                        "date": "2026-09-21",
+                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
+                        "link": "https://www.youtube.com/watch?v=T2TmVv9QBBc",
+                        "thumbnail": "https://i1.ytimg.com/vi/T2TmVv9QBBc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 21 Sep 2026 | Pemimpin Yang Melayani",
+                        "date": "2026-09-20",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=ATOfyHJdu7U",
+                        "thumbnail": "https://i2.ytimg.com/vi/ATOfyHJdu7U/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
