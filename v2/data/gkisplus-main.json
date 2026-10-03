@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6620,
-        "last-update": 1790993222,
+        "update-count": 6621,
+        "last-update": 1790997395,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2222,6 +2222,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 4 Oktober 2026",
+                    "date": "2026-10-03",
+                    "link": "https://drive.google.com/file/d/1pM8HahNxW3vBtc5bEGQJpGkdODD21t-8/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-4-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1pM8HahNxW3vBtc5bEGQJpGkdODD21t-8",
+                    "id": "1pM8HahNxW3vBtc5bEGQJpGkdODD21t-8",
+                    "size": "1.68 MB"
+                },
+                {
                     "title": "Warta Jemaat 27 September 2026",
                     "date": "2026-09-26",
                     "link": "https://drive.google.com/file/d/13NyZGtaIVCB9okuHBv3hUO74_q78nmAL/view",
@@ -3231,6 +3240,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 4 Oktober 2026 - Pembukaan Bulan Keluarga",
+                    "date": "2026-10-03",
+                    "link": "https://drive.google.com/file/d/1UFMlc5Db7nXbj68HgI_EHMo9A23iDvc6/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-4-oktober-2026-pembukaan-bulan-keluarga/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1UFMlc5Db7nXbj68HgI_EHMo9A23iDvc6",
+                    "id": "1UFMlc5Db7nXbj68HgI_EHMo9A23iDvc6",
+                    "size": "0.64 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 27 September 2026 - Penutupan Pekan Kepemimpinan",
                     "date": "2026-09-26",
