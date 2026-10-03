@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 96,
-        "last-update": 1790400797,
+        "update-count": 97,
+        "last-update": 1791003540,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34206,11 +34206,11 @@
                 },
                 {
                     "folder_id": "1A8k_x1yrVs-sPO_-t4NUvnVLAEV1uv7p",
-                    "last_update": "2026-09-26",
+                    "last_update": "2026-10-03",
                     "featured_photo_id": "1cKt6oarfMuwZcqfwIRZchUPUextZMnfJ",
-                    "story": "Foto-foto dokumentasi Ibadah Minggu, 20 September (Pembukaan Pekan Kepemimpinan)) yang dilaksanakan pada 13 September 2026.",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 20 September (Pembukaan Pekan Kepemimpinan)) yang dilaksanakan pada 20 September 2026.",
                     "title": "Ibadah Minggu, 20 September (Pembukaan Pekan Kepemimpinan))",
-                    "event_date": "2026.09.13",
+                    "event_date": "2026.09.20",
                     "photos": [
                         {
                             "id": "1xBpoZ6h0a078OPb_2DsqfbYBn3wWCURV",
@@ -34276,6 +34276,21 @@
                             "id": "1DeJFByQlAAluLhoJHiy-UKGjeumFsnVO",
                             "name": "DSCF1330.JPG",
                             "date": "2026-09-26"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "10sBaWZ7zoMYIhp8eCjWEgXmYbdikKMIT",
+                    "last_update": "2026-10-03",
+                    "featured_photo_id": "1s3HUmrGIWQFQSZpsbJH1afwLDP1cL9wi",
+                    "story": "Foto-foto dokumentasi Ibadah Minggu, 27 September (Penutupan Pekan Kepemimpinan)) yang dilaksanakan pada 27 September 2026.",
+                    "title": "Ibadah Minggu, 27 September (Penutupan Pekan Kepemimpinan))",
+                    "event_date": "2026.09.27",
+                    "photos": [
+                        {
+                            "id": "1YxZNsALjbZUE0SOX6ccKKe3fpV9HRwo4",
+                            "name": "GKI SALATIGA 2026.09.27 (6).JPG",
+                            "date": "2026-10-03"
                         }
                     ]
                 }
