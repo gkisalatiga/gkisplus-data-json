@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6631,
-        "last-update": 1791109359,
+        "update-count": 6632,
+        "last-update": 1791127644,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6901,7 +6901,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Musik dan Liturgi",
                 "pic": "Adhara",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6957,7 +6957,7 @@
                 "place": "Ruang Studio",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Samuel Arif",
-                "status": "w",
+                "status": "y",
                 "note": ""
             }
         ],
