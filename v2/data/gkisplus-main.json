@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6633,
-        "last-update": 1791136424,
+        "update-count": 6634,
+        "last-update": 1791153227,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Okt 2026 | Benarkah Mujizat Itu Nyata?",
+                        "date": "2026-10-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=a4yXluXn5zA",
+                        "thumbnail": "https://i2.ytimg.com/vi/a4yXluXn5zA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 3 Oktober 2026 | Dari Rumah Kasih itu Mengalir",
                         "date": "2026-10-02",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
                         "link": "https://www.youtube.com/watch?v=T2TmVv9QBBc",
                         "thumbnail": "https://i1.ytimg.com/vi/T2TmVv9QBBc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Sep 2026 | Pemimpin Yang Melayani",
-                        "date": "2026-09-20",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=ATOfyHJdu7U",
-                        "thumbnail": "https://i2.ytimg.com/vi/ATOfyHJdu7U/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
