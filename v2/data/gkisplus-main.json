@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6638,
-        "last-update": 1791198367,
-        "last-updated-item": "agenda",
+        "update-count": 6639,
+        "last-update": 1791217846,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Okt 2026 | Keluarga Sebagai Agen Pelayanan Kasih",
+                        "date": "2026-10-05",
+                        "desc": "Dibawakan oleh Ibu Dorothea Dyah",
+                        "link": "https://www.youtube.com/watch?v=LoPTU013Ltg",
+                        "thumbnail": "https://i1.ytimg.com/vi/LoPTU013Ltg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Okt 2026 | Benarkah Mujizat Itu Nyata?",
                         "date": "2026-10-04",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
                         "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
                         "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Sep 2026 | Kesehatan Reproduksi untuk Membangum Hidup Bersama dalam Keluarga",
-                        "date": "2026-09-21",
-                        "desc": "Dibawakan oleh Pnt. Santoso Adi Pribadi",
-                        "link": "https://www.youtube.com/watch?v=T2TmVv9QBBc",
-                        "thumbnail": "https://i1.ytimg.com/vi/T2TmVv9QBBc/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
