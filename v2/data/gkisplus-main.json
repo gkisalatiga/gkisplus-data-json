@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6635,
-        "last-update": 1791163184,
-        "last-updated-item": "yt",
+        "update-count": 6636,
+        "last-update": 1791171635,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6148,6 +6148,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik PS SD Kristen 3",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-10-05",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Samuel Arif",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6190,6 +6204,48 @@
                 "note": ""
             },
             {
+                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
+                "time": "08:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-10-06",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dorema Natalia",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pelatihan PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
+                "time": "08:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-10-07",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dorema Natalia",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6200,6 +6256,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
+                "time": "09:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-10-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dorema natalia",
                 "status": "y",
                 "note": ""
             },
@@ -6372,34 +6442,6 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 5 (opsi tgl 20 atau tgl 27 Okt) ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-20",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Dolfina Nanggiang",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 5 (opsi tgl 20 atau tgl 27 Okt) ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Dolfina Nanggiang",
-                "status": "w",
-                "note": ""
-            },
-            {
                 "name": "PA Wil. 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6566,6 +6608,20 @@
                 "pic": "Pnt. Sriono Sudarsp",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wilayah 5 ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Dolfina Nanggiang",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wil. 10",
@@ -6792,6 +6848,20 @@
                 "note": ""
             },
             {
+                "name": "Ibadah Sambut Natal Anak SD Kr. 03",
+                "time": "07:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-12-16",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
+                "status": "y",
+                "note": "Tidak ada"
+            },
+            {
                 "name": "Persiapan PK Wilayah 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6806,73 +6876,17 @@
                 "note": "-"
             },
             {
-                "name": "Pelatihan PNK",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-10-07",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adhara",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
-                "time": "08:30",
-                "time-to": "13:00",
+                "name": "Latihan musik ibadah",
+                "time": "19:30",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2026-10-06",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dorema Natalia",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra",
                 "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
-                "time": "08:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-10-07",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dorema Natalia",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
-                "time": "09:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dorema natalia",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik PS SD Kristen 3",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-10-05",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "SD Kristen 03 Eben Haezer",
-                "pic": "Samuel Arif",
-                "status": "y",
                 "note": ""
             }
         ],
