@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6640,
-        "last-update": 1791248378,
-        "last-updated-item": "yt",
+        "update-count": 6641,
+        "last-update": 1791260908,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6344,6 +6344,20 @@
                 "note": ""
             },
             {
+                "name": "GLADI KOTOR SEKOLAH EBEN HAEZER",
+                "time": "09:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Dorema Natalia",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wilayah 5 (Triwibowo)",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6874,6 +6888,20 @@
                 "pic": "Elly Yoel",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Pemahaman Alkitab",
+                "time": "17:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-12-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Lilis Supriyanti",
+                "status": "w",
+                "note": "Pemahaman Alkitab wilayah V"
             },
             {
                 "name": "Sambut Natal Komisi Anak",
