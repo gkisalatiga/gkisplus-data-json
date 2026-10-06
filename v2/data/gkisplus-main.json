@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6643,
-        "last-update": 1791285977,
-        "last-updated-item": "agenda",
+        "update-count": 6644,
+        "last-update": 1791328948,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Okt 2026 | Tumis Kacang Panjang Yang Pedas",
+                        "date": "2026-10-06",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=e53PuG14o3M",
+                        "thumbnail": "https://i2.ytimg.com/vi/e53PuG14o3M/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Okt 2026 | Keluarga Sebagai Agen Pelayanan Kasih",
                         "date": "2026-10-05",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Bpk. Tejo Prayitno",
                         "link": "https://www.youtube.com/watch?v=cjuTlu07gRY",
                         "thumbnail": "https://i4.ytimg.com/vi/cjuTlu07gRY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Sep 2026 | Hidup Bergantung Pada Tuhan",
-                        "date": "2026-09-22",
-                        "desc": "Dibawakan oleh Bpk. Hendra Aribowo",
-                        "link": "https://www.youtube.com/watch?v=69XIc8cFGTM",
-                        "thumbnail": "https://i3.ytimg.com/vi/69XIc8cFGTM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
