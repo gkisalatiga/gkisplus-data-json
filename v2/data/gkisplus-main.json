@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6649,
-        "last-update": 1791370069,
-        "last-updated-item": "agenda",
+        "update-count": 6650,
+        "last-update": 1791384591,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 10 Okt 2026 | Hidup Dengan Kesadaran",
+                        "date": "2026-10-07",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=nxSSyVUdLsc",
+                        "thumbnail": "https://i3.ytimg.com/vi/nxSSyVUdLsc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Okt 2026 | Kasih Dalam Keluarga",
                         "date": "2026-10-07",
@@ -96,13 +103,6 @@
                         "desc": "Dibawakan oleh Ibu Dian Christy",
                         "link": "https://www.youtube.com/watch?v=qQhi_WwsKM4",
                         "thumbnail": "https://i2.ytimg.com/vi/qQhi_WwsKM4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
-                        "date": "2026-09-25",
-                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
-                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
-                        "thumbnail": "https://i1.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
