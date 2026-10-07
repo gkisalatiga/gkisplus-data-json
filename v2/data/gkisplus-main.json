@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6647,
-        "last-update": 1791346935,
-        "last-updated-item": "agenda",
+        "update-count": 6648,
+        "last-update": 1791359360,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,7 +19,92 @@
         },
         "yt": [
             {
-                "content": [],
+                "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Okt 2026 | Kasih Dalam Keluarga",
+                        "date": "2026-10-07",
+                        "desc": "Dibawakan oleh Bpk. P Sutomo",
+                        "link": "https://www.youtube.com/watch?v=m_KJQsGcD-Y",
+                        "thumbnail": "https://i2.ytimg.com/vi/m_KJQsGcD-Y/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 8 Okt 2026 | Nyuwun Sewu",
+                        "date": "2026-10-07",
+                        "desc": "Dibawakan oleh Bpk. Pramudya",
+                        "link": "https://www.youtube.com/watch?v=-l1pI3B3PVs",
+                        "thumbnail": "https://i2.ytimg.com/vi/-l1pI3B3PVs/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 7 Okt 2026 | Tumis Kacang Panjang Yang Pedas",
+                        "date": "2026-10-06",
+                        "desc": "Dibawakan oleh Bpk. Junianto",
+                        "link": "https://www.youtube.com/watch?v=e53PuG14o3M",
+                        "thumbnail": "https://i2.ytimg.com/vi/e53PuG14o3M/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 6 Okt 2026 | Keluarga Sebagai Agen Pelayanan Kasih",
+                        "date": "2026-10-05",
+                        "desc": "Dibawakan oleh Ibu Dorothea Dyah",
+                        "link": "https://www.youtube.com/watch?v=LoPTU013Ltg",
+                        "thumbnail": "https://i1.ytimg.com/vi/LoPTU013Ltg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 5 Okt 2026 | Benarkah Mujizat Itu Nyata?",
+                        "date": "2026-10-04",
+                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                        "link": "https://www.youtube.com/watch?v=a4yXluXn5zA",
+                        "thumbnail": "https://i2.ytimg.com/vi/a4yXluXn5zA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 3 Oktober 2026 | Dari Rumah Kasih itu Mengalir",
+                        "date": "2026-10-02",
+                        "desc": "Dibawakan oleh Pnt. Desemy Ch. N. Ballo",
+                        "link": "https://www.youtube.com/watch?v=b1OLJPZNQRk",
+                        "thumbnail": "https://i3.ytimg.com/vi/b1OLJPZNQRk/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 2 Oktober 2026 | Firman Tuhan di Rumah Kita",
+                        "date": "2026-10-01",
+                        "desc": "Dibawakan oleh Sdri. Chelsey Lauren S. Gaspersz",
+                        "link": "https://www.youtube.com/watch?v=AwmqXnqjDRw",
+                        "thumbnail": "https://i2.ytimg.com/vi/AwmqXnqjDRw/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 1 Oktober 2026 | Keluarga sebagai Agen Pelayanan Kasih",
+                        "date": "2026-09-30",
+                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
+                        "link": "https://www.youtube.com/watch?v=C3PwtrdDwds",
+                        "thumbnail": "https://i4.ytimg.com/vi/C3PwtrdDwds/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 30 Sep 2026 | Konvivial: Hidup Bersama",
+                        "date": "2026-09-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=Kp8xuBVEBcg",
+                        "thumbnail": "https://i4.ytimg.com/vi/Kp8xuBVEBcg/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 29 Sep 2026 | Meneladani Pemimpin",
+                        "date": "2026-09-28",
+                        "desc": "Dibawakan oleh Ibu Trevie Rumuat",
+                        "link": "https://www.youtube.com/watch?v=PB6aKNoAJfE",
+                        "thumbnail": "https://i1.ytimg.com/vi/PB6aKNoAJfE/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 28 Sep 2026 | Ambil Peranmu Tunjukkan Integritas",
+                        "date": "2026-09-27",
+                        "desc": "Dibawakan oleh Ibu Dian Christy",
+                        "link": "https://www.youtube.com/watch?v=qQhi_WwsKM4",
+                        "thumbnail": "https://i2.ytimg.com/vi/qQhi_WwsKM4/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
+                        "date": "2026-09-25",
+                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
+                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
+                        "thumbnail": "https://i1.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
+                    }
+                ],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
