@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6651,
-        "last-update": 1791394702,
-        "last-updated-item": "agenda",
+        "update-count": 6652,
+        "last-update": 1791409223,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,6 +21,13 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 8 Okt 2026 | Nyuwun Sewu",
+                        "date": "2026-10-07",
+                        "desc": "Dibawakan oleh Bpk. Pramudya",
+                        "link": "https://www.youtube.com/watch?v=-l1pI3B3PVs",
+                        "thumbnail": "https://i2.ytimg.com/vi/-l1pI3B3PVs/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi | 10 Okt 2026 | Hidup Dengan Kesadaran",
                         "date": "2026-10-07",
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
@@ -33,13 +40,6 @@
                         "desc": "Dibawakan oleh Bpk. P Sutomo",
                         "link": "https://www.youtube.com/watch?v=m_KJQsGcD-Y",
                         "thumbnail": "https://i2.ytimg.com/vi/m_KJQsGcD-Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Okt 2026 | Nyuwun Sewu",
-                        "date": "2026-10-07",
-                        "desc": "Dibawakan oleh Bpk. Pramudya",
-                        "link": "https://www.youtube.com/watch?v=-l1pI3B3PVs",
-                        "thumbnail": "https://i2.ytimg.com/vi/-l1pI3B3PVs/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 7 Okt 2026 | Tumis Kacang Panjang Yang Pedas",
