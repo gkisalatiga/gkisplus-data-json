@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6645,
-        "last-update": 1791340192,
-        "last-updated-item": "yt",
+        "update-count": 6646,
+        "last-update": 1791345267,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6344,6 +6344,20 @@
                 "note": ""
             },
             {
+                "name": "Rapat Panitia Natal",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-08",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Andi David Hutabarat",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat MJ Bidang 3",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -6382,6 +6396,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Dorema Natalia",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembekalan Pengurus KD 2026-2027",
+                "time": "11:30",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-10-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
                 "status": "y",
                 "note": ""
             },
@@ -6524,6 +6552,20 @@
                 "pic": "Selvi",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Technical Meeting Lomba Esport - K-Sphare 2026",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-10-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Joaquim",
+                "status": "w",
+                "note": "Untuk surat nanti menyusul"
             },
             {
                 "name": "PA Wil. 10",
@@ -6876,6 +6918,20 @@
                 "note": ""
             },
             {
+                "name": "PA Wilayah V",
+                "time": "17:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-12-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Lilis Supriyanti",
+                "status": "y",
+                "note": "Pemahaman Alkitab"
+            },
+            {
                 "name": "PS wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -7068,34 +7124,6 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah V",
-                "time": "17:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-12-01",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Lilis Supriyanti",
-                "status": "y",
-                "note": "Pemahaman Alkitab"
-            },
-            {
-                "name": "Rapat Panitia Natal",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Panitia",
-                "pic": "Andi David Hutabarat",
                 "status": "y",
                 "note": ""
             }
