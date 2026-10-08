@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6654,
-        "last-update": 1791459040,
+        "update-count": 6655,
+        "last-update": 1791483554,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6889,6 +6889,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Kartika Dewi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan koor ",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-10-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Wilayah",
+                "pic": "Susetyo Rini ",
                 "status": "w",
                 "note": ""
             }
