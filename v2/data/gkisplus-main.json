@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6657,
-        "last-update": 1791519186,
+        "update-count": 6658,
+        "last-update": 1791545168,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5955,90 +5955,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Rapat Tim Pembimbing Capen",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Sriono Sudarso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Gabungan KONSER SEKOLAH EBEN HAEZER",
-                "time": "09:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Dorema natalia",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Bahan KUL SW Jateng",
-                "time": "09:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Lainnya",
-                "pic": "Pdt. Em. Iman Santoso",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan English Service",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika Dewi",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia Natal",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Panitia",
-                "pic": "Andi David Hutabarat",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Koordinasi Laporan Keuangan",
-                "time": "10:00",
-                "time-to": "11:30",
-                "timezone": "WIB",
-                "date": "2026-10-08",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Majelis Jemaat",
-                "pic": "Samuel Martono",
-                "status": "y",
-                "note": "Tidak perlu dibuatkan minum"
-            },
-            {
                 "name": "Rapat MJ Bidang 3",
                 "time": "18:30",
                 "time-to": "20:30",
@@ -6091,7 +6007,7 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Remaja",
                 "pic": "Nareswari",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6121,6 +6037,20 @@
                 "pic": "Samuel Arif",
                 "status": "y",
                 "note": "Hy utk transit"
+            },
+            {
+                "name": "Latihan PS. Hosana (tukar tempat dg KR)",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-09",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Sartini",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat Tim Inventaris",
@@ -6175,6 +6105,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "IRMA PICAULY",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Perdana Panitia Natal SODA",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-10-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
                 "status": "y",
                 "note": ""
             },
@@ -6921,30 +6865,16 @@
                 "note": ""
             },
             {
-                "name": "Rapat Perdana Panitia Natal SODA",
+                "name": "Latihan Vocal Group soda",
                 "time": "19:00",
                 "time-to": "21:00",
                 "timezone": "WIB",
-                "date": "2026-10-11",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Pemuda",
-                "pic": "Gloria",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan PS. Hosana (tukar tempat dg KR)",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-10-09",
-                "weekday": "fri",
+                "date": "2026-10-10",
+                "weekday": "sat",
                 "type": "proposal",
                 "place": "Ruang Kapernaum",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Sartini",
+                "representative": "Komisi Pemuda",
+                "pic": "Akhe",
                 "status": "w",
                 "note": ""
             }
