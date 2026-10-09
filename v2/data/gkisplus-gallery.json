@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 97,
-        "last-update": 1791003540,
+        "update-count": 98,
+        "last-update": 1791587954,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34291,6 +34291,86 @@
                             "id": "1YxZNsALjbZUE0SOX6ccKKe3fpV9HRwo4",
                             "name": "GKI SALATIGA 2026.09.27 (6).JPG",
                             "date": "2026-10-03"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1M6nT4ZUnK_BJ6VxTy6Hu7N0KypqX8u_S",
+                    "last_update": "2026-10-09",
+                    "featured_photo_id": "10_86wVyPhwmMtFgumqHzygjmmY04ZSo-",
+                    "story": "Foto-foto dokumentasi Ibadah Pembukaan Bulan Keluarga [BUKEL 2026] yang dilaksanakan pada 4 Oktober 2026.",
+                    "title": "Ibadah Pembukaan Bulan Keluarga [BUKEL 2026]",
+                    "event_date": "2026.10.04",
+                    "photos": [
+                        {
+                            "id": "1m_m91MJ9vUAmlcXqA213VPJfVOrhXu1O",
+                            "name": "GKI Salatiga 041026-7-30.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1pR4A_8aAXRRfj4qcpunNvumheTCZLpTs",
+                            "name": "GKI Salatiga 041026-7-12.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1eTUHjVm43CYWz4Y9fUKq5HEc3fkJiQZj",
+                            "name": "GKI Salatiga 041026-7-4.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1n3Z96xyiITx0vfM9x4X-SWi1R2X3CdDX",
+                            "name": "GKI Salatiga 041026-7-71.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1OPfeRvXJRQo31-idQanZlI-RBGqSsaxe",
+                            "name": "GKI Salatiga 041026-7-52.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1dZbSTpLOdnC4YYxEn43xmFL1BstyJH5O",
+                            "name": "GKI Salatiga 041026-7-41.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "17LZl8JCJFZDZbNXMFDW8vz-km2taYVJi",
+                            "name": "GKI Salatiga 041026-7-62.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "14apKqJEJRfR61e15MqEJ5t0zczLWwbAE",
+                            "name": "GKI Salatiga 041026-7-76.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "15dUyiAZODwmiPZjFQPvPl3EHvflNnP6z",
+                            "name": "GKI Salatiga 041026-7-73.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1CiWIoaBT0k4q_gzIb8JbL2_0Sb1juk_V",
+                            "name": "GKI Salatiga 041026-7-2.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "16cVepC6pHBJy73ZgOHLO3te-1QH7s1pL",
+                            "name": "GKI Salatiga 041026-7-32.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "16Qio0ErejRCqaO32zcOJaGDx7a1abK6k",
+                            "name": "GKI Salatiga 041026-7-21.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "1251GHDq2hJLrJhtszGqqkozjD7qdy5yi",
+                            "name": "GKI Salatiga 041026-7-28.JPG",
+                            "date": "2026-10-09"
+                        },
+                        {
+                            "id": "10J2uLe2jzJMWtD8nUrqU473zm0nT5feH",
+                            "name": "GKI Salatiga 041026-7-14.JPG",
+                            "date": "2026-10-09"
                         }
                     ]
                 }
