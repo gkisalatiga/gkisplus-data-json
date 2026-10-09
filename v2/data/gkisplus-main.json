@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6659,
-        "last-update": 1791566015,
+        "update-count": 6660,
+        "last-update": 1791587505,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5719,24 +5719,6 @@
         ],
         "carousel": [
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "title": "KTB Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-10-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_5.webp",
-                "title": "Aerobik Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-10-03",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_5.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 10 Oktober",
                 "type": "poster",
@@ -5746,8 +5728,44 @@
                 "is_shown_ios": 1
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ibadah_minggu.webp",
+                "title": "Ibadah Minggu",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ibadah_minggu.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_podcast_1.webp",
+                "title": "Podcast Berkat Inspiratif",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_podcast_1.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bukel_dondar.webp",
+                "title": "Donor Darah",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_dondar.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pengangkatan_penatua_2.webp",
+                "title": "Calon Penatua",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pengangkatan_penatua_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
-                "title": "Sekolah Minggu 11 Oktober",
+                "title": "Sekolah Minggu",
                 "type": "poster",
                 "date-created": "2026-10-03",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
@@ -5773,11 +5791,11 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_bukel_dondar.webp",
-                "title": "Donor Darah",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ype_2.webp",
+                "title": "Symphony of the Seeds",
                 "type": "poster",
-                "date-created": "2026-09-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_dondar.webp",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ype_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5809,11 +5827,20 @@
                 "is_shown_ios": 1
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pengangkatan_penatua_2.webp",
-                "title": "Calon Penatua",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
+                "title": "Persekutuan SoDa 17 Oktober",
                 "type": "poster",
-                "date-created": "2026-09-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pengangkatan_penatua_2.webp",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_5.webp",
+                "title": "Sekolah Minggu 18 Oktober",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_5.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5832,15 +5859,6 @@
                 "type": "poster",
                 "date-created": "2026-06-29",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_pelayanan.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ype_2.webp",
-                "title": "Symphony of the Seeds",
-                "type": "poster",
-                "date-created": "2026-09-26",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ype_2.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             }
