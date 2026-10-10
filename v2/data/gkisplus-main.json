@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6661,
-        "last-update": 1791588995,
+        "update-count": 6662,
+        "last-update": 1791615387,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2300,6 +2300,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 11 Oktober 2026",
+                    "date": "2026-10-10",
+                    "link": "https://drive.google.com/file/d/1fuQA5h-WsW1EHkFEdjSet92nqgYnTRtZ/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-11-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1fuQA5h-WsW1EHkFEdjSet92nqgYnTRtZ",
+                    "id": "1fuQA5h-WsW1EHkFEdjSet92nqgYnTRtZ",
+                    "size": "1.60 MB"
+                },
+                {
                     "title": "Warta Jemaat 4 Oktober 2026",
                     "date": "2026-10-03",
                     "link": "https://drive.google.com/file/d/1pM8HahNxW3vBtc5bEGQJpGkdODD21t-8/view",
@@ -3318,6 +3327,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 11 Oktober 2026",
+                    "date": "2026-10-10",
+                    "link": "https://drive.google.com/file/d/1ASQ40LHgPHy1zSNhHyPbuHssXyBddlcd/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-11-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1ASQ40LHgPHy1zSNhHyPbuHssXyBddlcd",
+                    "id": "1ASQ40LHgPHy1zSNhHyPbuHssXyBddlcd",
+                    "size": "0.51 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 4 Oktober 2026 - Pembukaan Bulan Keluarga",
                     "date": "2026-10-03",
@@ -4517,6 +4535,15 @@
                 }
             ],
             "es": [
+                {
+                    "title": "English Service Liturgy October 11, 2026",
+                    "date": "2026-10-10",
+                    "link": "https://drive.google.com/file/d/1EF9I9CD8qaxmVTkQON0pRr4IhEK55Q-E/preview",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-october-11-2026/",
+                    "thumbnail": "",
+                    "id": "1EF9I9CD8qaxmVTkQON0pRr4IhEK55Q-E",
+                    "size": "0.25 MB"
+                },
                 {
                     "title": "English Service Liturgy September 6, 2026",
                     "date": "2026-09-06",
@@ -5755,6 +5782,15 @@
                 "is_shown_ios": 1
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_kml.webp",
+                "title": "USDA KML",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_kml.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_pengangkatan_penatua_2.webp",
                 "title": "Calon Penatua",
                 "type": "poster",
@@ -5769,6 +5805,15 @@
                 "type": "poster",
                 "date-created": "2026-10-03",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_1.webp",
+                "title": "Ibadah Remaja",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_1.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
@@ -5796,6 +5841,15 @@
                 "type": "poster",
                 "date-created": "2026-10-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ype_2.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
+                "is_shown_ios": 1
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
+                "title": "KTB Komisi Dewasa",
+                "type": "poster",
+                "date-created": "2026-10-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
