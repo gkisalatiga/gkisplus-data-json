@@ -6146,6 +6146,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Vocal Group soda",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-10-10",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Pemuda",
+                "pic": "Akhe",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pembekalan Pengurus KD 2026-2027",
                 "time": "11:30",
                 "time-to": "14:30",
@@ -6184,6 +6198,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Gloria",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan VG Wilayah 1 dan 5",
+                "time": "11:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-10-11",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Renny Yiwa",
                 "status": "y",
                 "note": ""
             },
@@ -6927,20 +6955,6 @@
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Latihan Vocal Group soda",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-10-10",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Pemuda",
-                "pic": "Akhe",
-                "status": "w",
                 "note": ""
             }
         ],
