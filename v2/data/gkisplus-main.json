@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6663,
-        "last-update": 1791640945,
+        "update-count": 6664,
+        "last-update": 1791673159,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,71 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 10 Okt 2026 | Hidup Dengan Kesadaran",
-                        "date": "2026-10-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=nxSSyVUdLsc",
-                        "thumbnail": "https://i3.ytimg.com/vi/nxSSyVUdLsc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Okt 2026 | Kasih Dalam Keluarga",
-                        "date": "2026-10-08",
-                        "desc": "Dibawakan oleh Bpk. P Sutomo",
-                        "link": "https://www.youtube.com/watch?v=m_KJQsGcD-Y",
-                        "thumbnail": "https://i2.ytimg.com/vi/m_KJQsGcD-Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Okt 2026 | Nyuwun Sewu",
-                        "date": "2026-10-07",
-                        "desc": "Dibawakan oleh Bpk. Pramudya",
-                        "link": "https://www.youtube.com/watch?v=-l1pI3B3PVs",
-                        "thumbnail": "https://i2.ytimg.com/vi/-l1pI3B3PVs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Okt 2026 | Tumis Kacang Panjang Yang Pedas",
-                        "date": "2026-10-06",
-                        "desc": "Dibawakan oleh Bpk. Junianto",
-                        "link": "https://www.youtube.com/watch?v=e53PuG14o3M",
-                        "thumbnail": "https://i2.ytimg.com/vi/e53PuG14o3M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Okt 2026 | Keluarga Sebagai Agen Pelayanan Kasih",
-                        "date": "2026-10-05",
-                        "desc": "Dibawakan oleh Ibu Dorothea Dyah",
-                        "link": "https://www.youtube.com/watch?v=LoPTU013Ltg",
-                        "thumbnail": "https://i1.ytimg.com/vi/LoPTU013Ltg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Okt 2026 | Benarkah Mujizat Itu Nyata?",
-                        "date": "2026-10-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=a4yXluXn5zA",
-                        "thumbnail": "https://i2.ytimg.com/vi/a4yXluXn5zA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Oktober 2026 | Dari Rumah Kasih itu Mengalir",
-                        "date": "2026-10-02",
-                        "desc": "Dibawakan oleh Pnt. Desemy Ch. N. Ballo",
-                        "link": "https://www.youtube.com/watch?v=b1OLJPZNQRk",
-                        "thumbnail": "https://i3.ytimg.com/vi/b1OLJPZNQRk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Oktober 2026 | Firman Tuhan di Rumah Kita",
-                        "date": "2026-10-01",
-                        "desc": "Dibawakan oleh Sdri. Chelsey Lauren S. Gaspersz",
-                        "link": "https://www.youtube.com/watch?v=AwmqXnqjDRw",
-                        "thumbnail": "https://i2.ytimg.com/vi/AwmqXnqjDRw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Oktober 2026 | Keluarga sebagai Agen Pelayanan Kasih",
-                        "date": "2026-09-30",
-                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
-                        "link": "https://www.youtube.com/watch?v=C3PwtrdDwds",
-                        "thumbnail": "https://i4.ytimg.com/vi/C3PwtrdDwds/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
