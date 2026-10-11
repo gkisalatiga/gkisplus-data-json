@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 98,
-        "last-update": 1791587954,
+        "update-count": 99,
+        "last-update": 1791729327,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34371,6 +34371,61 @@
                             "id": "10J2uLe2jzJMWtD8nUrqU473zm0nT5feH",
                             "name": "GKI Salatiga 041026-7-14.JPG",
                             "date": "2026-10-09"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1aEB4f03PFiSojp7-ujqd6OEk-mmGdrd9",
+                    "last_update": "2026-10-11",
+                    "featured_photo_id": "1rb4TdhWBVmx-0sCVORoDH3tW002AzpMd",
+                    "story": "Foto-foto dokumentasi Ibadah 11 Oktober [BUKEL 2026] yang dilaksanakan pada 11 Oktober 2026.",
+                    "title": "Ibadah 11 Oktober [BUKEL 2026]",
+                    "event_date": "2026.10.11",
+                    "photos": [
+                        {
+                            "id": "1iGH6502MtPB932ZZZ-LGiLft668KFLFz",
+                            "name": "GKI SALATIGA 2023.10.11. (27).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1ti9LC1giAawfX1mp2TTBvw2IdPBqZm4i",
+                            "name": "GKI SALATIGA 2023.10.11. (37).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1kj2PoK30YNbu-ckaLF1Hd9Tpd0gpUGEO",
+                            "name": "GKI SALATIGA 2023.10.11. (12).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1gGXj1nbgRk7ql957PjIv6buUjHksu7Xp",
+                            "name": "GKI SALATIGA 2023.10.11. (4).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1neVJ2LJhVBecOA27BIhV89lxlxo12hkF",
+                            "name": "GKI SALATIGA 2023.10.11. (24).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1ZxPlvArRh6HzbVDzb5Xd6eq_bzstl8b5",
+                            "name": "GKI SALATIGA 2023.10.11. (19).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1IOlywI4QQRP75ghzQZ2_JECtsWKyNX9A",
+                            "name": "GKI SALATIGA 2023.10.11. (9).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1FNvijgkEoZyTtDVoys_Ufew-4z5tiT0w",
+                            "name": "GKI SALATIGA 2023.10.11. (5).JPG",
+                            "date": "2026-10-11"
+                        },
+                        {
+                            "id": "1FCylUZGifwNZP3MDmtgH8jUV97nEGgdw",
+                            "name": "GKI SALATIGA 2023.10.11. (33).JPG",
+                            "date": "2026-10-11"
                         }
                     ]
                 }
