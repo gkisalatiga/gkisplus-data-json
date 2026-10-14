@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6675,
-        "last-update": 1791947588,
+        "update-count": 6676,
+        "last-update": 1791968090,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5861,20 +5861,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Rapat Panitia Bulan Keluarga",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-14",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Ibu Sally",
-                "status": "y",
-                "note": "-"
-            },
-            {
                 "name": "PELATIHAN PNK",
                 "time": "17:00",
                 "time-to": "18:00",
@@ -5901,6 +5887,20 @@
                 "pic": "Samuel Martono",
                 "status": "y",
                 "note": "Tidak perlu dibuatkan minum"
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ibu Sally",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Lomba Menghias Nasi Goreng",
@@ -5931,6 +5931,20 @@
                 "note": ""
             },
             {
+                "name": "rekaman lomba vokal MAPAK",
+                "time": "07:30",
+                "time-to": "09:00",
+                "timezone": "WIB",
+                "date": "2026-10-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Natalia Setiawati Br Tarigan",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Persekutuan KD",
                 "time": "17:30",
                 "time-to": "19:30",
@@ -5955,6 +5969,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Desemy Ch. N. Ballo",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "rekaman lomba macapat MAPAK",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-10-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Natalia Setiawati Br Tarigan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan paduan suara wilayah",
+                "time": "17:30",
+                "time-to": "18:45",
+                "timezone": "WIB",
+                "date": "2026-10-17",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Elibert Saragi",
                 "status": "y",
                 "note": ""
             },
@@ -6085,20 +6127,6 @@
                 "note": "Kegiatan bersama anak TK"
             },
             {
-                "name": "Promosi expo Sekolah ",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-10-29",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Rendi dita Permana",
-                "status": "y",
-                "note": "-"
-            },
-            {
                 "name": "Kegiatan EXPO SD Kristen 03 Eben Haezer",
                 "time": "06:45",
                 "time-to": "12:00",
@@ -6111,6 +6139,20 @@
                 "pic": "Novita",
                 "status": "y",
                 "note": "Kegiatan bersama anak TK"
+            },
+            {
+                "name": "Promosi expo Sekolah ",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Rendi dita Permana",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Seminar Parenting",
@@ -6302,7 +6344,7 @@
                 "date": "2026-11-17",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
+                "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
@@ -6330,7 +6372,7 @@
                 "date": "2026-11-17",
                 "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Kapernaum",
+                "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Ona Parzis ",
                 "status": "y",
@@ -6405,6 +6447,20 @@
                 "pic": "Lilis Supriyanti",
                 "status": "y",
                 "note": "Pemahaman Alkitab"
+            },
+            {
+                "name": "PA Wilayah VII",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-12-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "PS wilayah 11",
@@ -6603,18 +6659,18 @@
                 "note": ""
             },
             {
-                "name": "Rapat pengurus YPE (Satgas)",
-                "time": "10:00",
-                "time-to": "13:00",
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
                 "timezone": "WIB",
-                "date": "2026-10-17",
-                "weekday": "sat",
+                "date": "2026-12-08",
+                "weekday": "tue",
                 "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "YPE",
-                "pic": "Bp Hario",
+                "place": "Rumah Hibah Togaten No. 1 (Wajib dilampiri persetujuan MJP)",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
                 "status": "w",
-                "note": "Terimakasih"
+                "note": "-"
             }
         ],
         "backend": {
