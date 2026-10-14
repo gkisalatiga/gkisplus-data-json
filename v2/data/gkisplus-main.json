@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6678,
-        "last-update": 1792014453,
+        "update-count": 6679,
+        "last-update": 1792017828,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,78 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 15 Okt 2026 | Pujian",
-                        "date": "2026-10-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=f-vgoDlPK3w",
-                        "thumbnail": "https://i3.ytimg.com/vi/f-vgoDlPK3w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |14 Okt 2026 | Harmoni Dalam Keluarga",
-                        "date": "2026-10-13",
-                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=QGEkTMBa4bg",
-                        "thumbnail": "https://i2.ytimg.com/vi/QGEkTMBa4bg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |13 Okt 2026 | Sampai Di Sini Tuhan Menolong",
-                        "date": "2026-10-12",
-                        "desc": "Dibawakan oleh Ibu Listya Angrenani",
-                        "link": "https://www.youtube.com/watch?v=gsXo9JZXD3I",
-                        "thumbnail": "https://i4.ytimg.com/vi/gsXo9JZXD3I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Okt 2026 | Sebelum Menjawab Belajarlah Mendengar",
-                        "date": "2026-10-11",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=BsTVnj95HQ8",
-                        "thumbnail": "https://i3.ytimg.com/vi/BsTVnj95HQ8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 10 Okt 2026 | Hidup Dengan Kesadaran",
-                        "date": "2026-10-09",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=nxSSyVUdLsc",
-                        "thumbnail": "https://i3.ytimg.com/vi/nxSSyVUdLsc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Okt 2026 | Kasih Dalam Keluarga",
-                        "date": "2026-10-08",
-                        "desc": "Dibawakan oleh Bpk. P Sutomo",
-                        "link": "https://www.youtube.com/watch?v=m_KJQsGcD-Y",
-                        "thumbnail": "https://i2.ytimg.com/vi/m_KJQsGcD-Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Okt 2026 | Nyuwun Sewu",
-                        "date": "2026-10-07",
-                        "desc": "Dibawakan oleh Bpk. Pramudya",
-                        "link": "https://www.youtube.com/watch?v=-l1pI3B3PVs",
-                        "thumbnail": "https://i2.ytimg.com/vi/-l1pI3B3PVs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 7 Okt 2026 | Tumis Kacang Panjang Yang Pedas",
-                        "date": "2026-10-06",
-                        "desc": "Dibawakan oleh Bpk. Junianto",
-                        "link": "https://www.youtube.com/watch?v=e53PuG14o3M",
-                        "thumbnail": "https://i2.ytimg.com/vi/e53PuG14o3M/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Okt 2026 | Keluarga Sebagai Agen Pelayanan Kasih",
-                        "date": "2026-10-05",
-                        "desc": "Dibawakan oleh Ibu Dorothea Dyah",
-                        "link": "https://www.youtube.com/watch?v=LoPTU013Ltg",
-                        "thumbnail": "https://i1.ytimg.com/vi/LoPTU013Ltg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 5 Okt 2026 | Benarkah Mujizat Itu Nyata?",
-                        "date": "2026-10-04",
-                        "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                        "link": "https://www.youtube.com/watch?v=a4yXluXn5zA",
-                        "thumbnail": "https://i2.ytimg.com/vi/a4yXluXn5zA/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
