@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6674,
-        "last-update": 1791934072,
-        "last-updated-item": "yt",
+        "update-count": 6675,
+        "last-update": 1791947588,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5862,76 +5862,6 @@
         "agenda-ruangan": [
             {
                 "name": "Rapat Panitia Bulan Keluarga",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-10-12",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Melvern Kenny",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 5 (Triwibowo)",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "nan",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Pak Andi ",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 2& 8",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-10-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Elly Yoel",
-                "status": "y",
-                "note": "-"
-            },
-            {
-                "name": "Gladi PS Wilayah 2/8",
-                "time": "18:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-10-13",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Wilayah",
-                "pic": "Chrissandhy",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat Panitia Bulan Keluarga",
                 "time": "18:00",
                 "time-to": "20:00",
                 "timezone": "WIB",
@@ -5943,6 +5873,34 @@
                 "pic": "Ibu Sally",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PELATIHAN PNK",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Adhara",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Koordinasi Bendahara",
+                "time": "11:00",
+                "time-to": "00:30",
+                "timezone": "WIB",
+                "date": "2026-10-14",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Tidak perlu dibuatkan minum"
             },
             {
                 "name": "Lomba Menghias Nasi Goreng",
@@ -6365,6 +6323,20 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 5",
+                "time": "18:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Ona Parzis ",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA Wil. 10",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6631,32 +6603,18 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 5",
-                "time": "18:00",
-                "time-to": "20:30",
+                "name": "Rapat pengurus YPE (Satgas)",
+                "time": "10:00",
+                "time-to": "13:00",
                 "timezone": "WIB",
-                "date": "2026-11-17",
-                "weekday": "tue",
+                "date": "2026-10-17",
+                "weekday": "sat",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Ona Parzis ",
+                "place": "Ruang Konsistori",
+                "representative": "YPE",
+                "pic": "Bp Hario",
                 "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PELATIHAN PNK",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-10-14",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Adhara",
-                "status": "w",
-                "note": ""
+                "note": "Terimakasih"
             }
         ],
         "backend": {
