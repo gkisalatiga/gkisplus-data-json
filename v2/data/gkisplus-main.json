@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6681,
-        "last-update": 1792046229,
-        "last-updated-item": "yt",
+        "update-count": 6682,
+        "last-update": 1792050945,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6658,6 +6658,34 @@
                 "pic": "Nareswari",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik Hezron",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-10-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Hezron",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-10-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
