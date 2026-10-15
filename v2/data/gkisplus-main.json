@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6683,
-        "last-update": 1792068893,
-        "last-updated-item": "yt",
+        "update-count": 6684,
+        "last-update": 1792069329,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -5982,6 +5982,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan Tim Musik Hezron",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-10-15",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Persekutuan KD",
                 "time": "17:30",
                 "time-to": "19:30",
@@ -5992,6 +6006,34 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Dewasa",
                 "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Acara Musik Natal KR \u201826",
+                "time": "18:00",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-10-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik Hezron",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-10-16",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
                 "status": "y",
                 "note": ""
             },
@@ -6556,6 +6598,20 @@
                 "note": "Pemahaman Alkitab wilayah V"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-12-08",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Rumah Hibah Togaten No. 1 (Wajib dilampiri persetujuan MJP)",
+                "representative": "Wilayah",
+                "pic": "Bu Djini",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Sambut Natal Komisi Anak",
                 "time": "15:00",
                 "time-to": "18:00",
@@ -6696,59 +6752,17 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2026-12-08",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Rumah Hibah Togaten No. 1 (Wajib dilampiri persetujuan MJP)",
-                "representative": "Wilayah",
-                "pic": "Bu Djini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Acara Musik Natal KR \u201826",
-                "time": "18:00",
-                "time-to": "19:30",
-                "timezone": "WIB",
-                "date": "2026-10-16",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Tim Musik Hezron",
+                "name": "Latihan Sambut Natal KA",
                 "time": "19:00",
-                "time-to": "22:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2026-10-15",
                 "weekday": "thu",
                 "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Tim Musik Hezron",
-                "time": "19:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-10-16",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia ",
+                "status": "y",
                 "note": ""
             }
         ],
