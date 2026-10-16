@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6688,
-        "last-update": 1792154823,
+        "update-count": 6689,
+        "last-update": 1792172589,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Okt 2026 | Menghadirkan Kasih Allah Dalam Keluarga",
+                        "date": "2026-10-16",
+                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
+                        "link": "https://www.youtube.com/watch?v=ekt95t5tx6I",
+                        "thumbnail": "https://i2.ytimg.com/vi/ekt95t5tx6I/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Okt 2026 | Keluarga Yang Disatukan dan Dikuatkan Untuk Melayani",
                         "date": "2026-10-15",
@@ -68,13 +75,6 @@
                         "desc": "Dibawakan oleh Bpk. P Sutomo",
                         "link": "https://www.youtube.com/watch?v=m_KJQsGcD-Y",
                         "thumbnail": "https://i2.ytimg.com/vi/m_KJQsGcD-Y/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 8 Okt 2026 | Nyuwun Sewu",
-                        "date": "2026-10-07",
-                        "desc": "Dibawakan oleh Bpk. Pramudya",
-                        "link": "https://www.youtube.com/watch?v=-l1pI3B3PVs",
-                        "thumbnail": "https://i2.ytimg.com/vi/-l1pI3B3PVs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
