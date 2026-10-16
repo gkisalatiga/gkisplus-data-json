@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6686,
-        "last-update": 1792111821,
-        "last-updated-item": "yt",
+        "update-count": 6687,
+        "last-update": 1792118951,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6712,6 +6712,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "SD Kristen 03 Eben Haezer",
                 "pic": "Samuel",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Ekstrakurikuler Pramuka (kls 4 - 6)",
+                "time": "12:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-10-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SD Kristen 03 Eben Haezer",
+                "pic": "Siska Indria Yuniarti",
                 "status": "w",
                 "note": ""
             }
