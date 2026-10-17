@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6690,
-        "last-update": 1792197520,
+        "update-count": 6691,
+        "last-update": 1792203068,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2222,6 +2222,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 18 Oktober 2026",
+                    "date": "2026-10-17",
+                    "link": "https://drive.google.com/file/d/12yHYTBvO1ooUBcSQBtJbbD6YJEPbzyI7/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-18-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=12yHYTBvO1ooUBcSQBtJbbD6YJEPbzyI7",
+                    "id": "12yHYTBvO1ooUBcSQBtJbbD6YJEPbzyI7",
+                    "size": "1.73 MB"
+                },
+                {
                     "title": "Warta Jemaat 11 Oktober 2026",
                     "date": "2026-10-10",
                     "link": "https://drive.google.com/file/d/1fuQA5h-WsW1EHkFEdjSet92nqgYnTRtZ/view",
@@ -3249,6 +3258,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 18 Oktober 2026",
+                    "date": "2026-10-17",
+                    "link": "https://drive.google.com/file/d/1LqplDpJsQo7yKxKN_eIxan4eCpOletP5/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-18-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1LqplDpJsQo7yKxKN_eIxan4eCpOletP5",
+                    "id": "1LqplDpJsQo7yKxKN_eIxan4eCpOletP5",
+                    "size": "0.78 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 11 Oktober 2026",
                     "date": "2026-10-10",
