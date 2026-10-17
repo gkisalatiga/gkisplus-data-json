@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 99,
-        "last-update": 1791729327,
+        "update-count": 100,
+        "last-update": 1792221963,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34426,6 +34426,206 @@
                             "id": "1FCylUZGifwNZP3MDmtgH8jUV97nEGgdw",
                             "name": "GKI SALATIGA 2023.10.11. (33).JPG",
                             "date": "2026-10-11"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1F3xFz420egB3VPIEg3sUSBudAbu69rkM",
+                    "last_update": "2026-10-17",
+                    "featured_photo_id": "1Lu-OLjPRQ10w5s--YAgRpKBLiPXMgsz6",
+                    "story": "Foto-foto dokumentasi Ibadah KUL [BUKEL 2026] yang dilaksanakan pada 15 Oktober 2026.",
+                    "title": "Ibadah KUL [BUKEL 2026]",
+                    "event_date": "2026.10.15",
+                    "photos": [
+                        {
+                            "id": "1baWr2VI1Fx45qv8zhKf81gM-az3ynG0l",
+                            "name": "MVIMG_20261015_163214.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1FTIBmfFjW0laooQeb_1hvW29BE5j6fhF",
+                            "name": "MVIMG_20261015_170941.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1kZ47Qvt8ugF1wW8LJqbOuhGWueQqreOY",
+                            "name": "IMG_20261015_145410.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1h0BqpQO295HKPGX6Y4_2M4ZZHM-FlI9G",
+                            "name": "IMG_20261015_174701.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "168su1EfAs6fNctcbRMCz-_iKMmZf7MFW",
+                            "name": "IMG_20261015_171050.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1aIrowjUGmBCEw7elp69Yr5SjX_3h9BJb",
+                            "name": "IMG_20261015_175040.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1-fP6unZFIxtJo3BQnq47ku5cWHd0ujVk",
+                            "name": "IMG_20261015_174640.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "15jWpP_GxKByc8_AxwJVyzVktthGONUyC",
+                            "name": "IMG_20261015_175014.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1ruMHMwF79U5MPwkDNr2n7McEjeL9crlw",
+                            "name": "IMG_20261015_175022.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1nq36u6b1xM5QVCTmoJomalgkR2mLgVo8",
+                            "name": "IMG_20261015_145623.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1ke9VdwON1EhSlc9DIiWilx_d24oBlE_P",
+                            "name": "IMG_20261015_145827.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1HICy0pX6CjZS9DsLiKRJriyCtqEK9yhT",
+                            "name": "IMG_20261015_150102.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "19rX2vqhEjdupJvb9g2XglVy4qkyS_3Ja",
+                            "name": "IMG_20261015_145434.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1aNG9So20e8TOKUhy3Oyr_9Nh9HRS2AYE",
+                            "name": "IMG_20261015_145523.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1Du5RfuebFtxaYfwjbj-igBjHh9K4hCdL",
+                            "name": "IMG_20261015_150038.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1OoA8dLY6_W2Mf6qd5ByJFe4MeI055yLg",
+                            "name": "IMG_20261015_145538.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1Eh1FtR4_yKG1jpdiJoQa6JMhYZOkdiJ1",
+                            "name": "IMG_20261015_145555.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1ffMgyI-JRguY_WqBFP-_CibJhxeZKYL3",
+                            "name": "IMG_20261015_145713.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1XyaykAlK7YD3Q-g838vUvHMlJmcJg0iP",
+                            "name": "IMG_20261015_150054.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1ZTgDTDLkg9-p49DNqIdIieW8x9mU78qW",
+                            "name": "IMG_20261015_150127.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "12gMBoorFkvNiCD0NdO0TsXZbkaxad7jr",
+                            "name": "IMG_20261015_145813.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1fTAAQAF6J1RzCELNXCNZqpuehrgBPy2o",
+                            "name": "IMG_20261015_145506.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1kRLagf0gpMLlSRzG6BCpo7cTnwbQQAt-",
+                            "name": "IMG_20261015_145700.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1wJ2w8zaLP5DLCX9BsgQIa69rE6mesObW",
+                            "name": "IMG_20261015_150047.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1w7Xa1qnY4LwWT2XR91i6KB45UE-qqWWq",
+                            "name": "IMG_20261015_150540_1.jpg",
+                            "date": "2026-10-17"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1ZXHF6jXp_bcFZfpFglwr-bkwqD-z73_4",
+                    "last_update": "2026-10-17",
+                    "featured_photo_id": "15m9bhmqYZcXruLrrHNiR6zHHzRh_Lm6c",
+                    "story": "Foto-foto dokumentasi Ibadah Komisi Dewasa [BUKEL 2026] yang dilaksanakan pada 16 Oktober 2026.",
+                    "title": "Ibadah Komisi Dewasa [BUKEL 2026]",
+                    "event_date": "2026.10.16",
+                    "photos": [
+                        {
+                            "id": "1d8zaSdu__fYi3F4jBKA6YHpgU7hsl3rd",
+                            "name": "IMG_20261016_184448.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1ZIQx5awvpkQlhWQ8z6hMZnANHtLy-FmM",
+                            "name": "IMG_20261016_184605.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "19b7zgWlQB8O30E21X8RSTjziXGC0508D",
+                            "name": "IMG_20261016_185352.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1wAf3AykdskRPjqHiKem7AeddvEyj0YgD",
+                            "name": "IMG_20261016_185404.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1lZzcuSuQWV0aNEpXMYz_Q-JRkvmB8MtI",
+                            "name": "MVIMG_20261016_192718.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1nPSf21pqIp_ciOr6zQknPIf09JNYWRNM",
+                            "name": "IMG_20261016_185510.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1dbktKtPVNzjS-4gYAUIHR39QQyuq8iAd",
+                            "name": "IMG_20261016_185611.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "13GchY0Y2gXWwuAMhgQOtcWGcMEMxz3xG",
+                            "name": "MVIMG_20261016_192233.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "1BLx6RS6I9JAbv1aluNTEkJstNGZuqbOF",
+                            "name": "MVIMG_20261016_192256.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "15Tgebf4YUzzSBzhg358nSscbqoSMFQXk",
+                            "name": "MVIMG_20261016_193351.jpg",
+                            "date": "2026-10-17"
+                        },
+                        {
+                            "id": "185_Fi29ERUw1ttpjBNx04OnLF3J5IsI5",
+                            "name": "MVIMG_20261016_193327.jpg",
+                            "date": "2026-10-17"
                         }
                     ]
                 }
