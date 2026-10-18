@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 100,
-        "last-update": 1792221963,
+        "update-count": 101,
+        "last-update": 1792332823,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34626,6 +34626,81 @@
                             "id": "185_Fi29ERUw1ttpjBNx04OnLF3J5IsI5",
                             "name": "MVIMG_20261016_193327.jpg",
                             "date": "2026-10-17"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1XlGcMblsR71At4F0bDIOvfl5PvdcxMU_",
+                    "last_update": "2026-10-18",
+                    "featured_photo_id": "14E5KOHeFzn6uGmRcLnFp5FPX8rl42F_y",
+                    "story": "Foto-foto dokumentasi Ibadah 18 Oktober [BUKEL 2026] yang dilaksanakan pada 18 Oktober 2026.",
+                    "title": "Ibadah 18 Oktober [BUKEL 2026]",
+                    "event_date": "2026.10.18",
+                    "photos": [
+                        {
+                            "id": "1AGvIBXxu69R_OkTEIk3u6gaO6ZuCvoUQ",
+                            "name": "MVIMG_20261018_094323.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1aQpWeZRn8xLMRkQG87xTs3TWwm2zwkPZ",
+                            "name": "MVIMG_20261018_103323.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1xUhKmYgOTwODCG2UYcFpFdZ3XDkaPfPq",
+                            "name": "MVIMG_20261018_094410.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1jv9I22kjYybAPb2lyGdZl8n0OsrGRZrJ",
+                            "name": "MVIMG_20261018_094402.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1GKMCJ6o5H48aOlndVXAvIpaKJL1diAle",
+                            "name": "MVIMG_20261018_105852.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1NHrTRXCG6pM_8-o64m1KSd9w1w-XuDta",
+                            "name": "VID_20261018_094554.mp4",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1V5QalE6GIGNpXoSUp4HKOe8mxoaw-lzM",
+                            "name": "MVIMG_20261018_103300.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1zwXnKIPZOwThRwt1F4exb9vm7r88R7Am",
+                            "name": "MVIMG_20261018_103340.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1kpwki8_bxekJ8HbNV5SBS7qJxWmpCO_i",
+                            "name": "MVIMG_20261018_110313.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1iwBJJIrgJqiHHaRAJBHGBixcluCM5itL",
+                            "name": "MVIMG_20261018_110216.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1wrQ49Noe51n2SaQRdYGgJ_vPcoQdVFi1",
+                            "name": "MVIMG_20261018_103403.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1YBSv2JB_6nDBfTq8ca1_eOHWhyLe9_zd",
+                            "name": "IMG_20261018_110327.jpg",
+                            "date": "2026-10-18"
+                        },
+                        {
+                            "id": "1J_rdvykwUdb6EwAT2b56il1Ea_gPnMIN",
+                            "name": "IMG_20261018_094543.jpg",
+                            "date": "2026-10-18"
                         }
                     ]
                 }
