@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6701,
-        "last-update": 1792378520,
-        "last-updated-item": "agenda",
+        "update-count": 6702,
+        "last-update": 1792393358,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Okt 2026 | Keluarga Tempat Untuk Pulang",
+                        "date": "2026-10-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=WLfRoLj9jII",
+                        "thumbnail": "https://i4.ytimg.com/vi/WLfRoLj9jII/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Okt 2026 | Ada Tetapi Terasa Jauh",
                         "date": "2026-10-18",
