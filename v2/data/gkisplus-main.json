@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6704,
-        "last-update": 1792465507,
+        "update-count": 6705,
+        "last-update": 1792485930,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -5917,6 +5917,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Musik Pernikahan 24 Oktober",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-20",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Technical Meeting Lomba Esport - K-Sphare 2026",
                 "time": "13:00",
                 "time-to": "15:00",
@@ -5971,6 +5985,20 @@
                 "pic": "Siska Indria Yuniarti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Panitia Bulan Keluarga",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-10-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Panitia",
+                "pic": "Ibu Sally",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "PA Wil. 10",
