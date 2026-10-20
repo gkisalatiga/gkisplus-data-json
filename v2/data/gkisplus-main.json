@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6706,
-        "last-update": 1792501538,
+        "update-count": 6707,
+        "last-update": 1792519768,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Okt 2026 | Aku Ada di Sampingmu",
+                        "date": "2026-10-20",
+                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
+                        "link": "https://www.youtube.com/watch?v=Gx6Vm-W4ao4",
+                        "thumbnail": "https://i4.ytimg.com/vi/Gx6Vm-W4ao4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Okt 2026 | Keluarga Tempat Untuk Pulang",
                         "date": "2026-10-19",
@@ -1562,6 +1569,13 @@
             {
                 "content": [
                     {
+                        "title": "IBADAH PENEGUHAN DAN PEMBERKATAN NIKAH | Eric & Hana | 24 Oktober 2026",
+                        "date": "2026-10-20",
+                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan\n\nSdr. Eric Sanjaya Darmawan (anggota GBI Narwastu Ssalatiga)\ndengan \nSdri. Hana Dwi Anindita (Anggota GKI Salatiga)\n\nPada hari Sabtu, 24 Oktober 2026 pkl. 08.00 WIB di GKI Salatiga.\n\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJP : Pnt. Johnson U. Radda, Pnt. Tuti Hemawati\nPemusik : Dinda , Jenny\nPNK : Dio Adhara\nTata Suara: Jeffry\nOBS : Samarthya\nPPT : Risti\nKamerawan : Iwandy + Derryl",
+                        "link": "https://www.youtube.com/watch?v=Q1_66Vq9MW4",
+                        "thumbnail": "https://i.ytimg.com/vi/Q1_66Vq9MW4/hqdefault_live.jpg"
+                    },
+                    {
                         "title": "IBADAH PENEGUHAN DAN PEMBERKATAN NIKAH | Fayliks & Martha | 29 Agustus 2026",
                         "date": "2026-08-25",
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan\n\nSdr. Fayliks Fransisskus Palar (anggota Gereja Katolik Paroki Santa Ursula Watutumou , Manado)\ndengan\nSdri.Martha Christina Marau (Anggota GKI Salatiga)\n\nPada hari Sabtu, 29 Agustus 2026 pkl. 10.00 WIB di GKI Salatiga.\n\nDilayani oleh : Pdt.Helen Ruth Manurung & Romo La Sadi Petrus\nMJ: Pnt. Benny A. Kailola & Pnt. Rodiana\nPemusik : Pnt. Natalis Sidanta\nPNK : Eriyani\nTata Suara: Budi\nOBS : Samarthya\nPPT : Caitleen\nKamerawan : Iwandy + Derryl",
@@ -1763,13 +1777,6 @@
                         "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr.  Alexander Rekso Rahardjo dengan Sdri. Jennie Christina Panduwinata\n\nSabtu,12 Agustus 2023\npukul 13.00 WIB di GKI Salatiga\nDilayani oleh : Pdt. Helen Ruth Manurung\nMJ yang bertugas : Pnt. Adita Sutresno ; Pnt. Ester Juliawati\nPemusik : Jenny & Elin \u2502PNK : Jeffrey \u2502Tata Suara: Bayu Octa\u2502\nOBS : Tunggul Laras\u2502PPT : Budi Santoso \u2502Kamerawan : Iwandi & Bobby.",
                         "link": "https://www.youtube.com/watch?v=Bq6QlVrO6Ig",
                         "thumbnail": "https://i.ytimg.com/vi/Bq6QlVrO6Ig/hqdefault.jpg"
-                    },
-                    {
-                        "title": "IBADAH PENEGUHAN & PEMBERKATAN PERNIKAHAN ADY & NATALIA  | 29 Juli 2023",
-                        "date": "2023-07-26",
-                        "desc": "Ibadah Peneguhan dan Pemberkatan Pernikahan \nSdr.  Ady Kristianto dengan Sdri. Natalia Christina Tauho\n\nSabtu, 29 Juli 2023 \npukul 10.00 WIB di GKI Salatiga\nDilayani oleh : Pdt. Yefta Setiawan Krisgunadi\nMJ yang bertugas : Pnt. Gita Hastuti ; Pnt. Adita Sutresno\nPemusik : Cinta \u2502PNK : Dhara \u2502Tata Suara: I Made Satya Arnawa\u2502\nOBS : Joshua A. Gracia\u2502PPT : Ryan Bagas \u2502Kamerawan : Bobby +Iwandi",
-                        "link": "https://www.youtube.com/watch?v=KlT9970g5uk",
-                        "thumbnail": "https://i.ytimg.com/vi/KlT9970g5uk/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
