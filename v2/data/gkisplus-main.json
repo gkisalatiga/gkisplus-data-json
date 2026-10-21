@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6708,
-        "last-update": 1792544625,
-        "last-updated-item": "yt",
+        "update-count": 6709,
+        "last-update": 1792551589,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -4843,6 +4843,16 @@
                     "note": "Minggu ke-3"
                 },
                 {
+                    "name": "Aerobik",
+                    "time": "17:00",
+                    "time-to": "18:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Dewasa",
+                    "note": ""
+                },
+                {
                     "name": "Persidangan Majelis Jemaat (PMJ)",
                     "time": "18:30",
                     "time-to": "21:00",
@@ -4922,6 +4932,16 @@
                     "type": "rutin",
                     "place": "Ruang Betlehem",
                     "representative": "Komisi Musik dan Liturgi",
+                    "note": ""
+                },
+                {
+                    "name": "Yoga",
+                    "time": "17:00",
+                    "time-to": "18:00",
+                    "timezone": "WIB",
+                    "type": "rutin",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Dewasa",
                     "note": ""
                 },
                 {
@@ -5988,16 +6008,16 @@
             },
             {
                 "name": "Rapat Panitia Bulan Keluarga",
-                "time": "17:00",
-                "time-to": "19:00",
+                "time": "19:00",
+                "time-to": "21:00",
                 "timezone": "WIB",
                 "date": "2026-10-23",
                 "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
+                "place": "Ruang Betania (Lantai 2) ",
                 "representative": "Panitia",
                 "pic": "Ibu Sally",
-                "status": "w",
+                "status": "y",
                 "note": "-"
             },
             {
@@ -6628,6 +6648,48 @@
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pleno Panitia Natal",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Andi David Hutabarat",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pelamaran Pembimbing KR",
+                "time": "11:30",
+                "time-to": "00:00",
+                "timezone": "WIB",
+                "date": "2026-10-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Tidak perlu dibuatkan minum"
+            },
+            {
+                "name": "Latihan PS. Hosana",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-23",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Sartini",
+                "status": "w",
                 "note": ""
             }
         ],
