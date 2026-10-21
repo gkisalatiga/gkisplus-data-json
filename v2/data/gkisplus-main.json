@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6712,
-        "last-update": 1792588614,
-        "last-updated-item": "yt",
+        "update-count": 6713,
+        "last-update": 1792591223,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6764,6 +6764,34 @@
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Pleno",
+                "time": "18:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-10-21",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia K",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pembekalan mitra pukat berkat",
+                "time": "12:00",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2026-11-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Mike",
+                "status": "w",
                 "note": ""
             }
         ],
