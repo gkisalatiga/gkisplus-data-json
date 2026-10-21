@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6713,
-        "last-update": 1792591223,
-        "last-updated-item": "agenda",
+        "update-count": 6714,
+        "last-update": 1792606626,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 22 Okt 2026 | Berhenti Sejenak, Datang kepada Tuhan",
+                        "date": "2026-10-21",
+                        "desc": "Dibawakan oleh Ibu R. L. N. K. Retno Triandhini",
+                        "link": "https://www.youtube.com/watch?v=3i-d-10pblk",
+                        "thumbnail": "https://i4.ytimg.com/vi/3i-d-10pblk/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Okt 2026 | Aku Ada di Sampingmu",
                         "date": "2026-10-20",
