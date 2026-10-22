@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6717,
-        "last-update": 1792637925,
+        "update-count": 6718,
+        "last-update": 1792657525,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6741,6 +6741,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Lainnya",
                 "pic": "Lukas Sukan",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "18:30",
+                "time-to": "19:30",
+                "timezone": "WIB",
+                "date": "2026-10-25",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
                 "status": "y",
                 "note": ""
             }
