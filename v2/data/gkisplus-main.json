@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6715,
-        "last-update": 1792622956,
+        "update-count": 6716,
+        "last-update": 1792630851,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -19,78 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 22 Okt 2026 | Berhenti Sejenak, Datang kepada Tuhan",
-                        "date": "2026-10-21",
-                        "desc": "Dibawakan oleh Ibu R. L. N. K. Retno Triandhini",
-                        "link": "https://www.youtube.com/watch?v=3i-d-10pblk",
-                        "thumbnail": "https://i4.ytimg.com/vi/3i-d-10pblk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Okt 2026 | Aku Ada di Sampingmu",
-                        "date": "2026-10-20",
-                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
-                        "link": "https://www.youtube.com/watch?v=Gx6Vm-W4ao4",
-                        "thumbnail": "https://i4.ytimg.com/vi/Gx6Vm-W4ao4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Okt 2026 | Keluarga Tempat Untuk Pulang",
-                        "date": "2026-10-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=WLfRoLj9jII",
-                        "thumbnail": "https://i4.ytimg.com/vi/WLfRoLj9jII/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Okt 2026 | Ada Tetapi Terasa Jauh",
-                        "date": "2026-10-18",
-                        "desc": "Dibawakan oleh Sdr. Yoseviene",
-                        "link": "https://www.youtube.com/watch?v=zHu9z_hz7oI",
-                        "thumbnail": "https://i3.ytimg.com/vi/zHu9z_hz7oI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Okt 2026 | Menghadirkan Kasih Allah Dalam Keluarga",
-                        "date": "2026-10-16",
-                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
-                        "link": "https://www.youtube.com/watch?v=ekt95t5tx6I",
-                        "thumbnail": "https://i2.ytimg.com/vi/ekt95t5tx6I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Okt 2026 | Keluarga Yang Disatukan dan Dikuatkan Untuk Melayani",
-                        "date": "2026-10-15",
-                        "desc": "Dibawakan oleh Ibu Rastri Mahardika",
-                        "link": "https://www.youtube.com/watch?v=EgPWwuMpRR0",
-                        "thumbnail": "https://i2.ytimg.com/vi/EgPWwuMpRR0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Okt 2026 | Pujian",
-                        "date": "2026-10-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=f-vgoDlPK3w",
-                        "thumbnail": "https://i3.ytimg.com/vi/f-vgoDlPK3w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |14 Okt 2026 | Harmoni Dalam Keluarga",
-                        "date": "2026-10-13",
-                        "desc": "Dibawakan oleh Pnt. Sriono Sudarso",
-                        "link": "https://www.youtube.com/watch?v=QGEkTMBa4bg",
-                        "thumbnail": "https://i2.ytimg.com/vi/QGEkTMBa4bg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |13 Okt 2026 | Sampai Di Sini Tuhan Menolong",
-                        "date": "2026-10-12",
-                        "desc": "Dibawakan oleh Ibu Listya Angrenani",
-                        "link": "https://www.youtube.com/watch?v=gsXo9JZXD3I",
-                        "thumbnail": "https://i4.ytimg.com/vi/gsXo9JZXD3I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 12 Okt 2026 | Sebelum Menjawab Belajarlah Mendengar",
-                        "date": "2026-10-11",
-                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
-                        "link": "https://www.youtube.com/watch?v=BsTVnj95HQ8",
-                        "thumbnail": "https://i3.ytimg.com/vi/BsTVnj95HQ8/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
