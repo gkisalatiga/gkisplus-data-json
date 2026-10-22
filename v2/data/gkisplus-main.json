@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6719,
-        "last-update": 1792674918,
-        "last-updated-item": "yt",
+        "update-count": 6720,
+        "last-update": 1792693497,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6827,6 +6827,20 @@
                 "representative": "Majelis Jemaat",
                 "pic": "Pdt. Helen Ruth Manurung",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Florist",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-24",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Atiek Widyati",
+                "status": "w",
                 "note": ""
             }
         ],
