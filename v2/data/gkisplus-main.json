@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6724,
-        "last-update": 1792760090,
-        "last-updated-item": "yt",
+        "update-count": 6725,
+        "last-update": 1792764031,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6891,6 +6891,20 @@
                 "pic": "Anti",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Acara & Musik Natal KR \u201826",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-24",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
