@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6725,
-        "last-update": 1792764031,
-        "last-updated-item": "agenda",
+        "update-count": 6726,
+        "last-update": 1792804311,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -19,71 +19,7 @@
         },
         "yt": [
             {
-                "content": [
-                    {
-                        "title": "SaRen Pagi | 24 Okt 2026 | Keluarga Rukun, Mengalami Berkat Tuhan",
-                        "date": "2026-10-23",
-                        "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                        "link": "https://www.youtube.com/watch?v=zbOYEn4y5BI",
-                        "thumbnail": "https://i3.ytimg.com/vi/zbOYEn4y5BI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Okt 2026 | Menjadi Terang Lewat Hal Sederhana",
-                        "date": "2026-10-22",
-                        "desc": "Dibawakan oleh Ibu Alia Katharina",
-                        "link": "https://www.youtube.com/watch?v=mw5OkCaulyE",
-                        "thumbnail": "https://i2.ytimg.com/vi/mw5OkCaulyE/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 22 Okt 2026 | Berhenti Sejenak, Datang kepada Tuhan",
-                        "date": "2026-10-21",
-                        "desc": "Dibawakan oleh Ibu R. L. N. K. Retno Triandhini",
-                        "link": "https://www.youtube.com/watch?v=3i-d-10pblk",
-                        "thumbnail": "https://i4.ytimg.com/vi/3i-d-10pblk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Okt 2026 | Aku Ada di Sampingmu",
-                        "date": "2026-10-20",
-                        "desc": "Dibawakan oleh Pnt. Benny Kailola",
-                        "link": "https://www.youtube.com/watch?v=Gx6Vm-W4ao4",
-                        "thumbnail": "https://i4.ytimg.com/vi/Gx6Vm-W4ao4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 20 Okt 2026 | Keluarga Tempat Untuk Pulang",
-                        "date": "2026-10-19",
-                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                        "link": "https://www.youtube.com/watch?v=WLfRoLj9jII",
-                        "thumbnail": "https://i4.ytimg.com/vi/WLfRoLj9jII/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 19 Okt 2026 | Ada Tetapi Terasa Jauh",
-                        "date": "2026-10-18",
-                        "desc": "Dibawakan oleh Sdr. Yoseviene",
-                        "link": "https://www.youtube.com/watch?v=zHu9z_hz7oI",
-                        "thumbnail": "https://i3.ytimg.com/vi/zHu9z_hz7oI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 17 Okt 2026 | Menghadirkan Kasih Allah Dalam Keluarga",
-                        "date": "2026-10-16",
-                        "desc": "Dibawakan oleh Ibu Chrisna Sabang",
-                        "link": "https://www.youtube.com/watch?v=ekt95t5tx6I",
-                        "thumbnail": "https://i2.ytimg.com/vi/ekt95t5tx6I/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 16 Okt 2026 | Keluarga Yang Disatukan dan Dikuatkan Untuk Melayani",
-                        "date": "2026-10-15",
-                        "desc": "Dibawakan oleh Ibu Rastri Mahardika",
-                        "link": "https://www.youtube.com/watch?v=EgPWwuMpRR0",
-                        "thumbnail": "https://i2.ytimg.com/vi/EgPWwuMpRR0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Okt 2026 | Pujian",
-                        "date": "2026-10-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=f-vgoDlPK3w",
-                        "thumbnail": "https://i3.ytimg.com/vi/f-vgoDlPK3w/hqdefault.jpg"
-                    }
-                ],
+                "content": [],
                 "last-update": "-",
                 "rss-title-keyword": "SaRen Pagi",
                 "title": "Sapaan dan Renungan Pagi",
