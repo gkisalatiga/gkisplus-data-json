@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6727,
-        "last-update": 1792828726,
+        "update-count": 6728,
+        "last-update": 1792842821,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2222,6 +2222,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 25 Oktober 2026",
+                    "date": "2026-10-24",
+                    "link": "https://drive.google.com/file/d/1N4rjFoT6JXbCM98DcR6D0jk1BMNh5HBB/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-25-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1N4rjFoT6JXbCM98DcR6D0jk1BMNh5HBB",
+                    "id": "1N4rjFoT6JXbCM98DcR6D0jk1BMNh5HBB",
+                    "size": "2 MB"
+                },
+                {
                     "title": "Warta Jemaat 18 Oktober 2026",
                     "date": "2026-10-17",
                     "link": "https://drive.google.com/file/d/12yHYTBvO1ooUBcSQBtJbbD6YJEPbzyI7/view",
@@ -3258,6 +3267,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 25 Oktober 2026",
+                    "date": "2026-10-24",
+                    "link": "https://drive.google.com/file/d/1HbWtSbWFvwLRtNr3CpvUs3hyUlYYpWWr/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-25-oktober-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1HbWtSbWFvwLRtNr3CpvUs3hyUlYYpWWr",
+                    "id": "1HbWtSbWFvwLRtNr3CpvUs3hyUlYYpWWr",
+                    "size": "0.57 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 18 Oktober 2026",
                     "date": "2026-10-17",
@@ -5705,15 +5723,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
-                "title": "Persekutuan SoDa 24 Oktober",
-                "type": "poster",
-                "date-created": "2026-10-17",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_4.webp",
                 "title": "Sekolah Minggu 25 Oktober",
