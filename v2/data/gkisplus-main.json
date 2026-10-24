@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6730,
-        "last-update": 1792845062,
+        "update-count": 6731,
+        "last-update": 1792859076,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6730,6 +6730,20 @@
                 "place": "Ruang Studio",
                 "representative": "Lainnya",
                 "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Rapat pengurus wilayah 11",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti ",
                 "status": "w",
                 "note": ""
             }
