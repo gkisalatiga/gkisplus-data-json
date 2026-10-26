@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6741,
-        "last-update": 1792974568,
-        "last-updated-item": "yt",
+        "update-count": 6742,
+        "last-update": 1792983038,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6073,6 +6073,20 @@
                 "note": ""
             },
             {
+                "name": "Beres studio, inventarisasi",
+                "time": "11:30",
+                "time-to": "12:30",
+                "timezone": "WIB",
+                "date": "2026-10-25",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Lainnya",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Menerima siswa mission trip UPH College",
                 "time": "08:00",
                 "time-to": "13:00",
@@ -6111,7 +6125,7 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -6125,7 +6139,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -6137,6 +6151,20 @@
                 "weekday": "tue",
                 "type": "proposal",
                 "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti ",
+                "status": "c",
+                "note": ""
+            },
+            {
+                "name": "Rapat pengurus wilayah 11",
+                "time": "18:30",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-27",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
@@ -6199,6 +6227,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan English Service",
+                "time": "18:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Expo Promosi sekolah",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -6239,6 +6281,20 @@
                 "pic": "Melvern Kenny",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Percakapan Atestasi Masuk",
+                "time": "13:00",
+                "time-to": "14:30",
+                "timezone": "WIB",
+                "date": "2026-10-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Paskah Ika Nugroho",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Pembekalan mitra pukat berkat",
@@ -6770,48 +6826,6 @@
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Beres studio, inventarisasi",
-                "time": "11:30",
-                "time-to": "12:30",
-                "timezone": "WIB",
-                "date": "2026-10-25",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Lainnya",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat pengurus wilayah 11",
-                "time": "18:30",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-10-27",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti ",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan English Service",
-                "time": "18:00",
-                "time-to": "22:00",
-                "timezone": "WIB",
-                "date": "2026-10-29",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Hubungan Internasional",
-                "pic": "Gita Kartika Dewi",
-                "status": "w",
                 "note": ""
             }
         ],
