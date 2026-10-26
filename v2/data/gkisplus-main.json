@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6744,
-        "last-update": 1793003089,
-        "last-updated-item": "agenda",
+        "update-count": 6745,
+        "last-update": 1793049272,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Okt 2026 | Berbeda, tetapi Dipanggil untuk Menjadi Satu",
+                        "date": "2026-10-26",
+                        "desc": "Dibawakan oleh Sdr. Caleb Tito Amael",
+                        "link": "https://www.youtube.com/watch?v=fXbV-97yySU",
+                        "thumbnail": "https://i3.ytimg.com/vi/fXbV-97yySU/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Okt 2026 | Keluarga Yang Saling Menguatkan",
                         "date": "2026-10-25",
