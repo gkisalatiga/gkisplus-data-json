@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6747,
-        "last-update": 1793092421,
-        "last-updated-item": "agenda",
+        "update-count": 6748,
+        "last-update": 1793100886,
+        "last-updated-item": "youtube",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,9 +21,9 @@
             {
                 "content": [],
                 "last-update": "-",
-                "rss-title-keyword": "SaRen Pagi",
+                "playlist-id": "PLtAv1OZRTdvLdVB_Lm6Up9onqItxfggde",
                 "title": "Sapaan dan Renungan Pagi",
-                "type": "rss",
+                "type": "regular",
                 "pinned": 1,
                 "is_shown": 1,
                 "is_shown_ios": 1
