@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6749,
-        "last-update": 1793100991,
+        "update-count": 6750,
+        "last-update": 1793142966,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Okt 2026 | Bukan Ketakutan Namun Keberanian Menyatakan Kebenaran",
+                        "date": "2026-10-27",
+                        "desc": "Dibawakan oleh Bpk. R. H Dwi Prasetyo",
+                        "link": "https://www.youtube.com/watch?v=Z_tya1mfwe4",
+                        "thumbnail": "https://i.ytimg.com/vi/Z_tya1mfwe4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 24 Okt 2026 | Keluarga Rukun, Mengalami Berkat Tuhan",
                         "date": "2026-10-23",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Bpk. Prasetyadaru Pirenantyo",
                         "link": "https://www.youtube.com/watch?v=Q99r6RuZXHQ",
                         "thumbnail": "https://i.ytimg.com/vi/Q99r6RuZXHQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 13 Agu 2026 | Merdeka Sejati Adalah Hidup Bebas Di Dalam Kristus",
-                        "date": "2026-08-12",
-                        "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
-                        "link": "https://www.youtube.com/watch?v=28GP0JgK9xw",
-                        "thumbnail": "https://i.ytimg.com/vi/28GP0JgK9xw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
