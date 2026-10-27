@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6746,
-        "last-update": 1793057058,
-        "last-updated-item": "yt",
+        "update-count": 6747,
+        "last-update": 1793092421,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6869,6 +6869,76 @@
                 "pic": "Elly Yoel",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Wawancara Pembimbing KR",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-11-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Wawancara Pembimbing KR",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Natalis Sidanta",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Gladi Bersih English Service",
+                "time": "09:00",
+                "time-to": "13:30",
+                "timezone": "WIB",
+                "date": "2026-10-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Hubungan Internasional",
+                "pic": "Gita Kartika Dewi",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Ibadah Natal SD Kristen 04 Eben Haezer",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-12-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Wahyu Prasetya",
+                "status": "w",
+                "note": "Tambahan untuk sewa soundman, tim multimedia dan kameramen."
+            },
+            {
+                "name": "Gladi Bersih Ibadah Natal SD Kristen 04 Eben Haezer",
+                "time": "07:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-12-14",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SD Kristen 04 Eben Haezer",
+                "pic": "Wahyu Prasetya",
+                "status": "w",
+                "note": "Tambahan sewa soundman, tim multimedia dan kameramen."
             }
         ],
         "backend": {
