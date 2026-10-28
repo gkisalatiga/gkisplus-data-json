@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6754,
-        "last-update": 1793200957,
-        "last-updated-item": "agenda",
+        "update-count": 6755,
+        "last-update": 1793222620,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 29 Okt 2026 | Orang Tua Menjadi Teladan, Pemuda Menjadi Harapan Bangsa",
+                        "date": "2026-10-28",
+                        "desc": "Dibawakan oleh Sdri. Gita Kartika Dewi",
+                        "link": "https://www.youtube.com/watch?v=Dg_rnut-Do4",
+                        "thumbnail": "https://i.ytimg.com/vi/Dg_rnut-Do4/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 28 Okt 2026 | Bukan Ketakutan Namun Keberanian Menyatakan Kebenaran",
                         "date": "2026-10-27",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=JZbyp9n10q8",
                         "thumbnail": "https://i.ytimg.com/vi/JZbyp9n10q8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Agu 2026 | Merdeka Dari Takut Kepada Manusia",
-                        "date": "2026-08-13",
-                        "desc": "Dibawakan oleh Bpk. Prasetyadaru Pirenantyo",
-                        "link": "https://www.youtube.com/watch?v=Q99r6RuZXHQ",
-                        "thumbnail": "https://i.ytimg.com/vi/Q99r6RuZXHQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
