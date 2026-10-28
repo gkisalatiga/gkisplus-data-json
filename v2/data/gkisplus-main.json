@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6751,
-        "last-update": 1793158837,
+        "update-count": 6752,
+        "last-update": 1793182550,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6214,6 +6214,20 @@
                 "note": "Kegiatan bersama anak TK"
             },
             {
+                "name": "Latihan ibadah Minggu 1 November, Band Zechariah",
+                "time": "20:00",
+                "time-to": "22:30",
+                "timezone": "WIB",
+                "date": "2026-10-28",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Stefanus",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Promosi expo Sekolah ",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -6266,6 +6280,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Kartika Dewi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Natal 2026",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Andi David Hutabarat",
                 "status": "y",
                 "note": ""
             },
@@ -6336,6 +6364,20 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Hubungan Internasional",
                 "pic": "Gita Kartika Dewi",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Panitia Natal SODA",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-10-31",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria ",
                 "status": "y",
                 "note": ""
             },
