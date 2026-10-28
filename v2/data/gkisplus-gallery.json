@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 101,
-        "last-update": 1792332823,
+        "update-count": 102,
+        "last-update": 1793203244,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34701,6 +34701,56 @@
                             "id": "1J_rdvykwUdb6EwAT2b56il1Ea_gPnMIN",
                             "name": "IMG_20261018_094543.jpg",
                             "date": "2026-10-18"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1BV9Nh6PUmdNNjXpDeU6tfkuqxWoC8Ct_",
+                    "last_update": "2026-10-28",
+                    "featured_photo_id": "1mJh0ZliNdvL2W6r5NusXaxYTUpdjOTOx",
+                    "story": "Foto-foto dokumentasi Sumur Yakub (PA Gabungan) [BUKEL 2026] yang dilaksanakan pada 27 Oktober 2026.",
+                    "title": "Sumur Yakub (PA Gabungan) [BUKEL 2026]",
+                    "event_date": "2026.10.27",
+                    "photos": [
+                        {
+                            "id": "1artOS-k2eO7W2nKN_QaylVLT0PtGHjV_",
+                            "name": "IMG_1882.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "1XV6-3SJh2uTPG_KnrewMCmo1-MepAlj5",
+                            "name": "IMG_1914.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "11go7od2ylPuPy_sb93M94AVR_yo1lPlC",
+                            "name": "IMG_1903.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "1bgvgQHrtdi5Pcjmxek84R75YfWTI1icH",
+                            "name": "IMG_1927.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "1MILEpwTyaRFB9kgaTfX6I6J9entYDanB",
+                            "name": "IMG_1912.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "1XkRJp7eNaG9sKjePf0eJZethqBH1v8Qc",
+                            "name": "IMG_1904.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "1dFNTZ6l1eBSDaS0tzbF6WhTqv9sptNtz",
+                            "name": "IMG_1893.JPG",
+                            "date": "2026-10-28"
+                        },
+                        {
+                            "id": "18xS_n5fxOlX3iqmMd6DdsWN1w2JVJnHc",
+                            "name": "IMG_1895.JPG",
+                            "date": "2026-10-28"
                         }
                     ]
                 }
