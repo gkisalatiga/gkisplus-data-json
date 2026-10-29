@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6755,
-        "last-update": 1793222620,
-        "last-updated-item": "yt",
+        "update-count": 6756,
+        "last-update": 1793246413,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6325,7 +6325,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -6886,6 +6886,20 @@
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Aerobic KD",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Rini H",
+                "status": "w",
                 "note": ""
             }
         ],
