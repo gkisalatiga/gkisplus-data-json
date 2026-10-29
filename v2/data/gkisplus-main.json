@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6756,
-        "last-update": 1793246413,
+        "update-count": 6757,
+        "last-update": 1793270955,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6217,6 +6217,20 @@
                 "note": ""
             },
             {
+                "name": "Aerobic KD",
+                "time": "17:00",
+                "time-to": "18:00",
+                "timezone": "WIB",
+                "date": "2026-10-29",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Rini H",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Expo Promosi sekolah",
                 "time": "07:00",
                 "time-to": "14:00",
@@ -6886,20 +6900,6 @@
                 "representative": "Wilayah",
                 "pic": "Elly Yoel",
                 "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Aerobic KD",
-                "time": "17:00",
-                "time-to": "18:00",
-                "timezone": "WIB",
-                "date": "2026-10-29",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Dewasa",
-                "pic": "Rini H",
-                "status": "w",
                 "note": ""
             }
         ],
