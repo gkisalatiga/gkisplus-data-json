@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6759,
-        "last-update": 1793294188,
-        "last-updated-item": "agenda",
+        "update-count": 6760,
+        "last-update": 1793309302,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 30 Okt 2026 | Cara Yesus Diasuh",
+                        "date": "2026-10-29",
+                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                        "link": "https://www.youtube.com/watch?v=yj18VlsQ4AM",
+                        "thumbnail": "https://i.ytimg.com/vi/yj18VlsQ4AM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 29 Okt 2026 | Orang Tua Menjadi Teladan, Pemuda Menjadi Harapan Bangsa",
                         "date": "2026-10-28",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Bpk. R. H Dwi Prasetyo",
                         "link": "https://www.youtube.com/watch?v=b1YffSOHp6U",
                         "thumbnail": "https://i.ytimg.com/vi/b1YffSOHp6U/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Agu 2026 | Dengan Takut Akan Allah",
-                        "date": "2026-08-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=JZbyp9n10q8",
-                        "thumbnail": "https://i.ytimg.com/vi/JZbyp9n10q8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
