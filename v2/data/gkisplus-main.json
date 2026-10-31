@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6764,
-        "last-update": 1793455066,
-        "last-updated-item": "yt",
+        "update-count": 6765,
+        "last-update": 1793461698,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6977,6 +6977,20 @@
                 "representative": "Wilayah",
                 "pic": "Yuliyanti ",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Take video Iklan Pelatihan Musik Gereja",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-11-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Jenny",
+                "status": "w",
                 "note": ""
             }
         ],
