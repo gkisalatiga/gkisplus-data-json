@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6761,
-        "last-update": 1793394683,
+        "update-count": 6762,
+        "last-update": 1793414487,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2433,6 +2433,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 1 November 2026",
+                    "date": "2026-10-31",
+                    "link": "https://drive.google.com/file/d/18XooyRjvY5SmCMamoLeNGQYrxEIRiEqr/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-1-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=18XooyRjvY5SmCMamoLeNGQYrxEIRiEqr",
+                    "id": "18XooyRjvY5SmCMamoLeNGQYrxEIRiEqr",
+                    "size": "1.83 MB"
+                },
+                {
                     "title": "Warta Jemaat 25 Oktober 2026",
                     "date": "2026-10-24",
                     "link": "https://drive.google.com/file/d/1N4rjFoT6JXbCM98DcR6D0jk1BMNh5HBB/view",
@@ -3478,6 +3487,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 1 November 2026",
+                    "date": "2026-10-31",
+                    "link": "https://drive.google.com/file/d/1te9f4JSbHo5f1WYpw4Ynzbdcy6k1PBnS/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-1-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1te9f4JSbHo5f1WYpw4Ynzbdcy6k1PBnS",
+                    "id": "1te9f4JSbHo5f1WYpw4Ynzbdcy6k1PBnS",
+                    "size": "0.64 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 25 Oktober 2026 - Penutupan Bulan Keluarga",
                     "date": "2026-10-25",
@@ -5934,24 +5952,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_guyub.webp",
-                "title": "Guyub Keluarga Inspiratif",
-                "type": "poster",
-                "date-created": "2026-10-18",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_bukel_guyub.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_4.webp",
-                "title": "Funwalk Bulan Keluarga",
-                "type": "poster",
-                "date-created": "2026-10-18",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd_4.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
                 "title": "Persekutuan SoDa",
