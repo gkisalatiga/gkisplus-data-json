@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6767,
-        "last-update": 1793480605,
+        "update-count": 6768,
+        "last-update": 1793483100,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -4519,6 +4519,15 @@
                 }
             ],
             "es": [
+                {
+                    "title": "English Service Liturgy November 1, 2026",
+                    "date": "2026-11-01",
+                    "link": "https://drive.google.com/file/d/1VXULxcZvQSBr1me-9O6rcKRM-k0q6wLs/view",
+                    "post-page": "https://gkisalatiga.org/english-service-liturgy-november-1-2026/",
+                    "thumbnail": "",
+                    "id": "1VXULxcZvQSBr1me-9O6rcKRM-k0q6wLs",
+                    "size": "0.26 MB"
+                },
                 {
                     "title": "English Service Liturgy October 11, 2026",
                     "date": "2026-10-10",
