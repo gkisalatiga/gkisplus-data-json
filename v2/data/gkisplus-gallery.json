@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 102,
-        "last-update": 1793203244,
+        "update-count": 103,
+        "last-update": 1793415035,
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -34751,6 +34751,121 @@
                             "id": "18xS_n5fxOlX3iqmMd6DdsWN1w2JVJnHc",
                             "name": "IMG_1895.JPG",
                             "date": "2026-10-28"
+                        }
+                    ]
+                },
+                {
+                    "folder_id": "1F-mBAwiW1nwxt6fvMK8BpiAvcAOywuPM",
+                    "last_update": "2026-10-31",
+                    "featured_photo_id": "1LOcN8nwwEh9Y4Mw4IO6X3_zrxSprD0-C",
+                    "story": "Foto-foto dokumentasi Guyub Keluarga Inspiratif [BUKEL 2026] yang dilaksanakan pada 30 Oktober 2026.",
+                    "title": "Guyub Keluarga Inspiratif [BUKEL 2026]",
+                    "event_date": "2026.10.30",
+                    "photos": [
+                        {
+                            "id": "1_8D8mqKA0NYR5iLK6uOpjleYpLtk2Fzp",
+                            "name": "IMG_2163.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1vX4QZpk4A_aUr02mbS09-HfpoE9Z5m8u",
+                            "name": "IMG_2137.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1KSop85Awd5B3tnGMNwemc_xK3IT_Px3H",
+                            "name": "IMG_2105.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1QDL4GFKDmxKFBFb-Kam-_pd9gFwJz-eY",
+                            "name": "MVI_2170.MP4",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "17UYP7hc7kIV4Faho51jHkhaqZbmC6OT1",
+                            "name": "IMG_2145.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "14oWDzvJTwMHU5zcLFEqh_ywG-64Bipbi",
+                            "name": "IMG_2263.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1NnrMRNQ_S0g84_877Jv0KyXiwXZnVKeZ",
+                            "name": "IMG_2182.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1YNSdZZU3i98C2nEfYxL412Ad8pJ8v4B1",
+                            "name": "IMG_2310.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "11XgIIWBQXw8fGvdi9fbMJEe7mFECqZbd",
+                            "name": "IMG_2292.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1gyo8HRE1wn3wO6vmGAnezU2yaw2lq2HV",
+                            "name": "IMG_2273.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1cbh4zCsBToG_1drSOvojAi4DGnnBOGEG",
+                            "name": "IMG_2339.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1sSTWV3_I3Sh5oPvJlrfTmPsTBXh9Adbp",
+                            "name": "IMG_2230.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1GamWF7Hw7KbGFZ8FTje7fMG8-xKhnSIY",
+                            "name": "IMG_2249.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "18gNp4Qa4uE942Petyh66btPn4fDJnw3f",
+                            "name": "IMG_2288.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1mfW-4ImUpMG9MoaAEw1qne1wePZ1bqua",
+                            "name": "IMG_2343.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1RzDpUL2e13Lz8cMqt9fnHhlu-hwR85h9",
+                            "name": "IMG_2326.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1iqLSS69TUChhY3Diw_WP0jn5SrOfWvEY",
+                            "name": "IMG_2296.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1TnVMkznUFJPXD5mFt5IkKJVVuZaP9poo",
+                            "name": "IMG_2302.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "14iIVXLXZEyWknhojT4pVTLEzsbpdw0HS",
+                            "name": "IMG_2331.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1F45ST5wftQg9JYljzNjnxeM3vT-7jpeY",
+                            "name": "IMG_2303.JPG",
+                            "date": "2026-10-31"
+                        },
+                        {
+                            "id": "1wEFdP0heKkRGE-nhMJcNP642gaiwisEU",
+                            "name": "IMG_2307.JPG",
+                            "date": "2026-10-31"
                         }
                     ]
                 }
