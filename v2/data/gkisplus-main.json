@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6770,
-        "last-update": 1793505308,
+        "update-count": 6771,
+        "last-update": 1793530727,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7087,7 +7087,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Lainnya",
                 "pic": "Jenny",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -7101,8 +7101,36 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Komisi Remaja",
                 "pic": "Samuel Esa",
-                "status": "w",
+                "status": "y",
                 "note": "tambahkan teh, dan kabel hdmi untuk connect laptop ke tv"
+            },
+            {
+                "name": "Rapat MJ bidang 2",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": "Rapat kerja MJ bidang 2"
+            },
+            {
+                "name": "Rapat Evaluasi BPH dan Sie Acara Bulan Keluarga",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Panitia",
+                "pic": "Melvern Kenny",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
