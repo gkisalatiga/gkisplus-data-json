@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6775,
-        "last-update": 1793587018,
-        "last-updated-item": "yt",
+        "update-count": 6776,
+        "last-update": 1793591925,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7059,6 +7059,20 @@
                 "pic": "Melvern Kenny",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat Pengurus Komkes",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Bp Sutomo",
+                "status": "w",
+                "note": "Terimakasih. TYM"
             }
         ],
         "backend": {
