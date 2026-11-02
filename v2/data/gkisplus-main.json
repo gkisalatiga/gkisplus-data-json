@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6776,
-        "last-update": 1793591925,
+        "update-count": 6777,
+        "last-update": 1793621234,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6207,6 +6207,62 @@
                 "note": "Minta disiapkan LCD dan teh untuk sekitar 8org"
             },
             {
+                "name": "Take video Iklan Pelatihan Musik Gereja",
+                "time": "11:30",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2026-11-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat evaluasi KR ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Samuel Esa",
+                "status": "y",
+                "note": "tambahkan teh, dan kabel hdmi untuk connect laptop ke tv"
+            },
+            {
+                "name": "Rapat MJ bidang 2",
+                "time": "18:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-01",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Catur Winarno",
+                "status": "y",
+                "note": "Rapat kerja MJ bidang 2"
+            },
+            {
+                "name": "Rapat Evaluasi BPH dan Sie Acara Bulan Keluarga",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-02",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Panitia",
+                "pic": "Melvern Kenny",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "PA Wilayah 7",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -6277,6 +6333,20 @@
                 "note": ""
             },
             {
+                "name": "Meeting kordinasi tim dekorasi",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ita - Tim Dekorasi Natal",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Tim Pembimbing Capen",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6303,6 +6373,20 @@
                 "pic": "Pnt. Natalis Sidanta",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pengurus Komkes",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Bp Sutomo",
+                "status": "y",
+                "note": "Terimakasih. TYM"
             },
             {
                 "name": "Rapat BPMJ",
@@ -7003,76 +7087,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Take video Iklan Pelatihan Musik Gereja",
-                "time": "11:30",
-                "time-to": "13:00",
-                "timezone": "WIB",
-                "date": "2026-11-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Jenny",
-                "status": "y",
-                "note": ""
-            },
-            {
-                "name": "Rapat evaluasi KR ",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Samuel Esa",
-                "status": "y",
-                "note": "tambahkan teh, dan kabel hdmi untuk connect laptop ke tv"
-            },
-            {
-                "name": "Rapat MJ bidang 2",
-                "time": "18:30",
-                "time-to": "20:30",
-                "timezone": "WIB",
-                "date": "2026-11-01",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Majelis Jemaat",
-                "pic": "Pnt. Catur Winarno",
-                "status": "y",
-                "note": "Rapat kerja MJ bidang 2"
-            },
-            {
-                "name": "Rapat Evaluasi BPH dan Sie Acara Bulan Keluarga",
-                "time": "19:30",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-11-02",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Panitia",
-                "pic": "Melvern Kenny",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Rapat Pengurus Komkes",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Komisi Kesejahteraan",
-                "pic": "Bp Sutomo",
-                "status": "w",
-                "note": "Terimakasih. TYM"
             }
         ],
         "backend": {
