@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6781,
-        "last-update": 1793766676,
+        "update-count": 6782,
+        "last-update": 1793796228,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6380,6 +6380,20 @@
                 "note": ""
             },
             {
+                "name": "Persiapan Desain Grafis MRN 2026",
+                "time": "10:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat BPMJ",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6532,6 +6546,20 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Ibadah meditatif",
+                "time": "07:00",
+                "time-to": "08:00",
+                "timezone": "WIB",
+                "date": "2026-11-23",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kapernaum, Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Iren Supit",
+                "status": "w",
+                "note": "Akan menggunakan tikar"
             },
             {
                 "name": "PA Wilayah 7",
@@ -7094,18 +7122,32 @@
                 "note": ""
             },
             {
-                "name": "Ibadah meditatif",
-                "time": "07:00",
-                "time-to": "08:00",
+                "name": "Rapat Panitia Natal",
+                "time": "18:00",
+                "time-to": "20:00",
                 "timezone": "WIB",
-                "date": "2026-11-23",
-                "weekday": "mon",
+                "date": "2026-11-05",
+                "weekday": "thu",
                 "type": "proposal",
-                "place": "Ruang Kapernaum, Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Iren Supit",
+                "place": "Ruang Kapernaum",
+                "representative": "Panitia",
+                "pic": "Andi David Hutabarat",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "latihan ibadah umum",
+                "time": "19:30",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-04",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Gabriel Noaj",
                 "status": "w",
-                "note": "Akan menggunakan tikar"
+                "note": "-"
             }
         ],
         "backend": {
