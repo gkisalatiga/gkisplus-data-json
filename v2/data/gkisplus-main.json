@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6782,
-        "last-update": 1793796228,
+        "update-count": 6783,
+        "last-update": 1793823172,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7146,6 +7146,20 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Gabriel Noaj",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan ibadah umum",
+                "time": "19:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Noah",
                 "status": "w",
                 "note": "-"
             }
