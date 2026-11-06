@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6788,
-        "last-update": 1793925269,
-        "last-updated-item": "yt",
+        "update-count": 6789,
+        "last-update": 1793940428,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6217,6 +6217,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Pemusik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-05",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
+            },
+            {
                 "name": "Rapat BPMJ",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6229,6 +6243,34 @@
                 "pic": "Pnt. Sriono Sudarsp",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Padus",
+                "time": "09:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "2026-11-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-06",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Rapat BPMJ dan Bapel",
@@ -6311,6 +6353,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Pak Andi",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 2&8",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-10",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Bp. Lukas Sukan",
                 "status": "y",
                 "note": "-"
             },
@@ -6409,8 +6465,22 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
-                "status": "w",
+                "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Persekutuan Penerima Bantuan Kesejahteraan Komkes GKI Salatiga",
+                "time": "08:00",
+                "time-to": "11:30",
+                "timezone": "WIB",
+                "date": "2026-11-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Kesejahteraan",
+                "pic": "Bp Sutomo",
+                "status": "w",
+                "note": "Terimakasih"
             },
             {
                 "name": "Ibadah meditatif",
@@ -6467,6 +6537,20 @@
                 "pic": "Pak Andi",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Eben Haezer Fellowship",
+                "time": "13:00",
+                "time-to": "15:30",
+                "timezone": "WIB",
+                "date": "2026-11-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Ibu Yari Dwikurnaningsih",
+                "status": "y",
+                "note": "Terimakasih"
             },
             {
                 "name": "PA Wilayah VII",
@@ -6987,60 +7071,18 @@
                 "note": ""
             },
             {
-                "name": "PA Wilayah 2&8",
-                "time": "17:00",
-                "time-to": "19:00",
+                "name": "Evluasi Panitia Bulan Keluarga",
+                "time": "12:00",
+                "time-to": "14:00",
                 "timezone": "WIB",
-                "date": "2026-11-10",
-                "weekday": "tue",
+                "date": "2026-11-08",
+                "weekday": "sun",
                 "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Wilayah",
-                "pic": "Bp. Lukas Sukan",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ibu Sally ",
                 "status": "w",
                 "note": "-"
-            },
-            {
-                "name": "Latihan Padus",
-                "time": "09:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "2026-11-06",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Van Gouh Arimatea",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan Pemusik",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-11-05",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Pemusik",
-                "time": "19:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-11-06",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Musik dan Liturgi",
-                "pic": "Jenny",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
