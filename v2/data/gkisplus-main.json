@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6789,
-        "last-update": 1793940428,
+        "update-count": 6790,
+        "last-update": 1793968805,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6301,6 +6301,48 @@
                 "note": "-"
             },
             {
+                "name": "Evluasi Panitia Bulan Keluarga",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-11-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ibu Sally ",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Koordinasi MJP KR, BPH KR & Koor. KR",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-11-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Tidak perlu disediakan snack / minum"
+            },
+            {
+                "name": "Pertemuan Calon Pembimbing KR",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Mohon dibantu pesankan snack (tanpa dus) dan air minum"
+            },
+            {
                 "name": "PA Wilayah 5 ",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -7071,18 +7113,46 @@
                 "note": ""
             },
             {
-                "name": "Evluasi Panitia Bulan Keluarga",
-                "time": "12:00",
-                "time-to": "14:00",
+                "name": "latihan ibadah umum",
+                "time": "19:30",
+                "time-to": "21:30",
                 "timezone": "WIB",
-                "date": "2026-11-08",
-                "weekday": "sun",
+                "date": "2026-11-06",
+                "weekday": "fri",
                 "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Panitia",
-                "pic": "Ibu Sally ",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "Noah",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Gladi Sambut Natal",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-12-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Pengurus KA",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Sambut Natal (Dekor dll)",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-12-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Komisi Anak",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
