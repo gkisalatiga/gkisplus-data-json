@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6787,
-        "last-update": 1793883220,
-        "last-updated-item": "agenda",
+        "update-count": 6788,
+        "last-update": 1793925269,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 6 Nov 2026 | Bertahan dalam Kesulitan",
+                        "date": "2026-11-05",
+                        "desc": "Dibawakan oleh Ibu Prijani",
+                        "link": "https://www.youtube.com/watch?v=8yi8a7k38Xo",
+                        "thumbnail": "https://i.ytimg.com/vi/8yi8a7k38Xo/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 5 Nov 2026 | Salam Tiga Jari (I Yoh 5:6-8)",
                         "date": "2026-11-04",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Ibu Made Rai Suci Shanti N.A",
                         "link": "https://www.youtube.com/watch?v=0Nq8sBmV1hM",
                         "thumbnail": "https://i.ytimg.com/vi/0Nq8sBmV1hM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Agu 2026 | Merdeka untuk Datang Kepada Allah",
-                        "date": "2026-08-28",
-                        "desc": "Dibawakan oleh Ibu Candra Nugraha Wati",
-                        "link": "https://www.youtube.com/watch?v=OeQBexkzPYA",
-                        "thumbnail": "https://i.ytimg.com/vi/OeQBexkzPYA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
