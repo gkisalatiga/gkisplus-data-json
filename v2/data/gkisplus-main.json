@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6791,
-        "last-update": 1794024946,
+        "update-count": 6792,
+        "last-update": 1794028096,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2433,6 +2433,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 8 November 2026",
+                    "date": "2026-11-07",
+                    "link": "https://drive.google.com/file/d/1-gIKpUi7q0-El9HVz2jBiz60zFbeiYaF/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-8-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1-gIKpUi7q0-El9HVz2jBiz60zFbeiYaF",
+                    "id": "1-gIKpUi7q0-El9HVz2jBiz60zFbeiYaF",
+                    "size": "1.49 MB"
+                },
+                {
                     "title": "Warta Jemaat 1 November 2026",
                     "date": "2026-10-31",
                     "link": "https://drive.google.com/file/d/18XooyRjvY5SmCMamoLeNGQYrxEIRiEqr/view",
@@ -3487,6 +3496,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 8 November 2026",
+                    "date": "2026-11-07",
+                    "link": "https://drive.google.com/file/d/1JGdCm4CAWe8jQFdMfwEyL_XW1NVBRAaa/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-8-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1JGdCm4CAWe8jQFdMfwEyL_XW1NVBRAaa",
+                    "id": "1JGdCm4CAWe8jQFdMfwEyL_XW1NVBRAaa",
+                    "size": "0.98 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 1 November 2026",
                     "date": "2026-10-31",
@@ -5961,15 +5979,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppk_5.webp",
-                "title": "Sahabat Seperjalanan Part 5",
-                "type": "poster",
-                "date-created": "2026-10-25",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kppk_5.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "title": "Persekutuan SoDa 7 November",
