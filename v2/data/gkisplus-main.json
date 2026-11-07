@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6794,
-        "last-update": 1794061683,
-        "last-updated-item": "yt",
+        "update-count": 6795,
+        "last-update": 1794070570,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7154,6 +7154,34 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Rapat Pleno ",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Petugas Natal KR 26",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-11-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
