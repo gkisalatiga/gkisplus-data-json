@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6793,
-        "last-update": 1794032289,
-        "last-updated-item": "agenda",
+        "update-count": 6794,
+        "last-update": 1794061683,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 7 Nov 2026 | Iman Mewujud Dalam Ibadah Yang Bermakna",
+                        "date": "2026-11-07",
+                        "desc": "Dibawakan oleh Sdr. Melvern Kenny Cahyadi",
+                        "link": "https://www.youtube.com/watch?v=QPq_djmQY9Q",
+                        "thumbnail": "https://i.ytimg.com/vi/QPq_djmQY9Q/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 6 Nov 2026 | Bertahan dalam Kesulitan",
                         "date": "2026-11-05",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu Atahau",
                         "link": "https://www.youtube.com/watch?v=MuvuEdd6o5w",
                         "thumbnail": "https://i.ytimg.com/vi/MuvuEdd6o5w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Sep 2026 | Menjadi Terang di Tempat Kita Dipanggil",
-                        "date": "2026-09-02",
-                        "desc": "Dibawakan oleh Ibu Made Rai Suci Shanti N.A",
-                        "link": "https://www.youtube.com/watch?v=0Nq8sBmV1hM",
-                        "thumbnail": "https://i.ytimg.com/vi/0Nq8sBmV1hM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -241,6 +241,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu GKI Salatiga | 8 Nov. 2026 | Pemimpin Yang Mengenal Allah",
+                        "date": "2026-11-07",
+                        "desc": "Ibadah Minggu  GKI Salatiga | 8 Nov. 2026  |\nPukul 07.00 WIB\n\nTema : \"Pemimpin Yang Mengenal Allah\"\n\nNyanyian: NKB 34; KJ 356; KJ 407:1-2,4; KJ 439; KJ 413\nBacaan 1: Yosua 24:1-3a, 14-25\nBacaan 2: 1 Tesalonika 4:13-18\nMazmur Tanggapan: Mazmur 78:1-7\nBacaan Injil: Matius 25:1-13\nBerita Anugrah: 2 Timotius 1:9\nPersembahan: Mazmur 4:6\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Paskah Ika N.\nKredo dan Warta: Pnt. Catur Winarno\nSambut Tamu: Pnt. Benny A. Kailola, Pnt. Sriono Sudarso\nPemandu Liturgi: Yekhonia Djoeni L\nLektor 1: Sri Silviana Hidayat\nLektor 2: Indriani Wijayanti\n\nPemusik: BandKR\nPNK/PMZ: Yohana N / Eva\nPaduan Suara: -\nTim Multimedia: Purnomo, Yanuar, Joshua, Revo, Nuel, Rere\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Anggrek Bulan\n\nUsher & Kolektan:  Wilayah X: Rini Afriani, Lidya Sri P, Dewi Kriswati, Eny Veriati, Andi D. Hutabarat\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
+                        "link": "https://www.youtube.com/watch?v=ReXFxQdBMAM",
+                        "thumbnail": "https://i.ytimg.com/vi/ReXFxQdBMAM/hqdefault.jpg?v=6aeef1f0"
+                    },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 1 Nov. 2026 (Sore) | Pemimpin Yang Dipimpin Allah",
                         "date": "2026-11-01",
@@ -443,13 +450,6 @@
                         "desc": "Ibadah Minggu GKI Salatiga | 28 Juni 2026 | Pukul  07.00 WIB\n\nTema: \"Bukan Ketundukan Brutal\"\n\nNyanyian: NKB 140, NKB 120:1-3; PKJ 231; KJ 416  \n\nBacaan 1: Kejadian 22:1-14\nTanggapan: Mazmur 13\nBacaan 2: Roma 6:12-23\nBacaan Injil: Matius 10:40-42\nBerita Anugrah: Yehezkiel 36:26-27\nPersembahan: 1 Tawarikh 29:17a\n\nPelayan Firman: Sdr. Melvern Kenny Cahyadi\nKoordinator Ibadah dan Persembahan: Pnt. Adita Sutresno\nKredo dan Warta: Pnt. Sri Yuniwati R.\nSambut Tamu: Pnt. Sriono Sudarso, Pnt. Paul A.W. Gulo\nPemandu Liturgi: Equati Retnaningrum\nLektor 1: Yuliyanti\nLektor 2: Esmeralda Suryani\n\nPemusik: Hezron + Nico\nPNK: Pnt. Gita Hastuti\nPemazmur: Gabrillia\nPaduan Suara : -\nTim Multimedia: Jeffrey/Mario, Hermawan, Revo, Bp. Wayan, Bp. Puguh\nDokumentasi: Judica / Erio \nFlorist: Tim Florist\nUsher & Kolektan: KPPK\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=KqU1YfVhRpA",
                         "thumbnail": "https://i.ytimg.com/vi/KqU1YfVhRpA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu GKI Salatiga | 21 Juni 2026 | 07.00 WIB | \"Tak Ditinggalkan Dalam Sengsara\"",
-                        "date": "2026-06-20",
-                        "desc": "Ibadah Minggu GKI Salatiga | 21 Juni 2026 | Pukul  07.00 WIB\n\nTema: \"Tak Ditinggalkan Dalam Sengsara\"\n\nNyanyian: KK 19:1, 2, 5; PKJ 244; PKJ 231; NKB 208; KJ 417: 1, 7, 8\n\nBacaan 1: Kejadian 21:8-21\nTanggapan: Mazmur 86:1-10, 16-17\nBacaan 2: Roma 6:1b-11\nBacaan Injil: Matius 10:24-39\nBerita Anugrah: Mazmur 116:5-7\nPersembahan: Mazmur 28:27\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Desemy Ch. N. Ballo\nKredo dan Warta: Pnt. Rodiana\nSambut Tamu: Pnt. Paul A.W. Gulo, Pnt. Paskah Ika N.\nPemandu Liturgi: Endang Suryani\nLektor 1: Diasti Ariati\nLektor 2: Asih Yuliastuti\n\nPemusik: Proverbs + Nessa + Leon\nPNK: Raisa\nPemazmur: Elisabeth\nPaduan Suara : -\nTim Multimedia: Jeffrey, Derryl, Enrico, Benaya, Okta\nDokumentasi: Judica / Erio \nFlorist: Tim Anggrek Dendobrium\nUsher & Kolektan: Karno, Suradi, Suprihatiningsih (Wilayah 6)\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
-                        "link": "https://www.youtube.com/watch?v=8LMtlV61ois",
-                        "thumbnail": "https://i.ytimg.com/vi/8LMtlV61ois/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
