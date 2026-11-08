@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6796,
-        "last-update": 1794105238,
-        "last-updated-item": "yt",
+        "update-count": 6797,
+        "last-update": 1794110328,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6302,6 +6302,34 @@
                 "note": ""
             },
             {
+                "name": "Latihan Petugas Natal KR 26",
+                "time": "12:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-11-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Studio",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Inventaris",
+                "time": "17:30",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-11-08",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Pertemuan Calon Pembimbing KR",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6314,6 +6342,20 @@
                 "pic": "Samuel Martono",
                 "status": "y",
                 "note": "Mohon dibantu pesankan snack (tanpa dus) dan air minum"
+            },
+            {
+                "name": "Rapat Pleno ",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-09",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Dewasa",
+                "pic": "Alia Katharina",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wilayah 5 ",
@@ -7154,34 +7196,6 @@
                 "pic": "Yuliyanti ",
                 "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Rapat Pleno ",
-                "time": "18:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2026-11-09",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Dewasa",
-                "pic": "Alia Katharina",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Latihan Petugas Natal KR 26",
-                "time": "12:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2026-11-08",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Studio",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
-                "status": "w",
-                "note": "-"
             }
         ],
         "backend": {
