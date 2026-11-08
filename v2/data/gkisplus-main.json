@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6799,
-        "last-update": 1794157767,
-        "last-updated-item": "agenda",
+        "update-count": 6800,
+        "last-update": 1794171025,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 10 Nov 2026 | Nama Baik",
-                        "date": "2026-11-08",
-                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=pmfexCIsUyI",
-                        "thumbnail": "https://i.ytimg.com/vi/pmfexCIsUyI/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 9 Nov 2026 | Memancarkan Iman Sejati di Hidup Kita",
                         "date": "2026-11-08",
                         "desc": "Dibawakan oleh Sdri. Ester Juliawati",
                         "link": "https://www.youtube.com/watch?v=WWWr6dE8TUA",
                         "thumbnail": "https://i.ytimg.com/vi/WWWr6dE8TUA/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 10 Nov 2026 | Nama Baik",
+                        "date": "2026-11-08",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=pmfexCIsUyI",
+                        "thumbnail": "https://i.ytimg.com/vi/pmfexCIsUyI/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 7 Nov 2026 | Iman Mewujud Dalam Ibadah Yang Bermakna",
@@ -246,7 +246,7 @@
                         "date": "2026-11-08",
                         "desc": "Ibadah Minggu  GKI Salatiga | 8 Nov. 2026  |\nPukul 09.30 WIB\n\nTema : \"Pemimpin Yang Mengenal Allah\"\n\nNyanyian: NKB 34; KJ 356; KJ 407:1-2,4; KJ 439; KJ 413\nBacaan 1: Yosua 24:1-3a, 14-25\nBacaan 2: 1 Tesalonika 4:13-18\nMazmur Tanggapan: Mazmur 78:1-7\nBacaan Injil: Matius 25:1-13\nBerita Anugrah: 2 Timotius 1:9\nPersembahan: Mazmur 4:6\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Yosua Candana H.K.\nKredo dan Warta: Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Gita Hastuti & Pnt. Henri Kristanto\nPemandu Liturgi: Melanchton Umbu Kalikit\nLektor 1: Sheila C. Kailola\nLektor 2: Mujirahani\n\nPemusik: BandKR\nPNK/PMZ: Yohana N / Eva\nPaduan Suara: -\nPersembahan Pujian = Bp, Yosep\nTim Multimedia: Purnomo, Kriss + Ernest,  Sabatdini, Iwandi + Sari Zendrato\nDokumentasi: Erio / Jeffrey / Derryl / Judica\nFlorist: Tim Anggrek Bulan\n\nUsher & Kolektan:  \nWilayah IX:\nRosaline V. Ariawan\nFelipe Jason Pemasela\nAbednego Edo\nStefanus Dias\nCalvin Natan\n\n***\n\nIbadah ini menggunakan lagu-lagu dari sumber-sumber sebagai berikut:\nKidung Jemaat (KJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKidung Keesaan (KK) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\nKumpulan Lagu Ibadah Kreatif dan KKR (KLIK) \u00a9 Gereja Masehi Injili di Minahasa\nNyanyikanlah Kidung Baru (NKB) \u00a9 Badan Pengerja Majelis Sinode Gereja Kristen Indonesia (GKI)\nPelengkap Kidung Jemaat (PKJ) \u00a9 Yayasan Musik Gerejawi (YAMUGER)\n\n***\n\nMari terhubung dengan GKI Salatiga melalui media sosial:\n\u2022 WEB: https://www.gkisalatiga.org\n\u2022 FACEBOOK: https://www.facebook.com/gkisalatiga.111b\n\u2022 INSTAGRAM: https://www.instagram.com/gkisalatiga\n\nDownload aplikasi GKI Salatiga+ untuk memperoleh informasi lengkap seputar GKI Salatiga:\n\u2022 ANDROID: https://play.google.com/store/apps/details?id=org.gkisalatiga.plus\n\u2022 IOS: https://apps.apple.com/ng/app/gki-salatiga-plus/id6741834007",
                         "link": "https://www.youtube.com/watch?v=zeApwdtV0nE",
-                        "thumbnail": "https://i.ytimg.com/vi/zeApwdtV0nE/hqdefault.jpg?v=6aefd98e"
+                        "thumbnail": "https://i.ytimg.com/vi/zeApwdtV0nE/hqdefault.jpg"
                     },
                     {
                         "title": "Ibadah Minggu GKI Salatiga | 8 Nov. 2026 | Pemimpin Yang Mengenal Allah",
