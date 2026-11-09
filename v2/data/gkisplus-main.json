@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6801,
-        "last-update": 1794197664,
+        "update-count": 6802,
+        "last-update": 1794229813,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7222,8 +7222,36 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "Ita",
-                "status": "w",
+                "status": "c",
                 "note": ""
+            },
+            {
+                "name": "Meeting kordinasi tim dekorasi natal",
+                "time": "19:00",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-11",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Ita",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Bincang-Bincang KD",
+                "time": "11:30",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-10-22",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Dewasa",
+                "pic": "Erni Setyaningsih",
+                "status": "w",
+                "note": "-"
             }
         ],
         "backend": {
