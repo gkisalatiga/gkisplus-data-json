@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6802,
-        "last-update": 1794229813,
-        "last-updated-item": "agenda",
+        "update-count": 6803,
+        "last-update": 1794258558,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -21,18 +21,18 @@
             {
                 "content": [
                     {
-                        "title": "SaRen Pagi | 9 Nov 2026 | Memancarkan Iman Sejati di Hidup Kita",
-                        "date": "2026-11-08",
-                        "desc": "Dibawakan oleh Sdri. Ester Juliawati",
-                        "link": "https://www.youtube.com/watch?v=WWWr6dE8TUA",
-                        "thumbnail": "https://i.ytimg.com/vi/WWWr6dE8TUA/hqdefault.jpg"
-                    },
-                    {
                         "title": "SaRen Pagi | 10 Nov 2026 | Nama Baik",
                         "date": "2026-11-08",
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=pmfexCIsUyI",
                         "thumbnail": "https://i.ytimg.com/vi/pmfexCIsUyI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 9 Nov 2026 | Memancarkan Iman Sejati di Hidup Kita",
+                        "date": "2026-11-08",
+                        "desc": "Dibawakan oleh Sdri. Ester Juliawati",
+                        "link": "https://www.youtube.com/watch?v=WWWr6dE8TUA",
+                        "thumbnail": "https://i.ytimg.com/vi/WWWr6dE8TUA/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 7 Nov 2026 | Iman Mewujud Dalam Ibadah Yang Bermakna",
