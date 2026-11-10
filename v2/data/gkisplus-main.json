@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6806,
-        "last-update": 1794319802,
-        "last-updated-item": "agenda",
+        "update-count": 6807,
+        "last-update": 1794334824,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Nov 2026 | Merawat Bait Allah",
+                        "date": "2026-11-10",
+                        "desc": "Dibawakan oleh Ibu Agnes Novita",
+                        "link": "https://www.youtube.com/watch?v=dEAh6N0caMM",
+                        "thumbnail": "https://i.ytimg.com/vi/dEAh6N0caMM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 10 Nov 2026 | Nama Baik",
                         "date": "2026-11-08",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                         "link": "https://www.youtube.com/watch?v=o106_rwjQZs",
                         "thumbnail": "https://i.ytimg.com/vi/o106_rwjQZs/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 14 Sep 2026 | Guru yang Mengajar dengan Kehidupan",
-                        "date": "2026-09-13",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
-                        "link": "https://www.youtube.com/watch?v=62GtD7OtfOQ",
-                        "thumbnail": "https://i.ytimg.com/vi/62GtD7OtfOQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
