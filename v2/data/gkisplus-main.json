@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6809,
-        "last-update": 1794370737,
+        "update-count": 6810,
+        "last-update": 1794398398,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6263,7 +6263,7 @@
                 "place": "Ruang Kana (Lantai 2)",
                 "representative": "Komisi Anak",
                 "pic": "Kristin Leo",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -6333,6 +6333,20 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Sriono Sudarso",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Bulanan Pengurus SODA",
+                "time": "19:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-11-14",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
                 "status": "y",
                 "note": "-"
             },
