@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6811,
-        "last-update": 1794447696,
-        "last-updated-item": "yt",
+        "update-count": 6812,
+        "last-update": 1794491741,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6337,6 +6337,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat KUL",
+                "time": "10:00",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2026-11-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Bulanan Pengurus SODA",
                 "time": "19:00",
                 "time-to": "22:00",
@@ -6403,6 +6417,20 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Ona Parzis ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 1",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-11-17",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A.M. Widiatmoko",
                 "status": "y",
                 "note": ""
             },
@@ -6531,6 +6559,20 @@
                 "pic": "Ibu Yari Dwikurnaningsih",
                 "status": "y",
                 "note": "Terimakasih"
+            },
+            {
+                "name": "Fellowship SEH ",
+                "time": "13:00",
+                "time-to": "15:00",
+                "timezone": "WIB",
+                "date": "2026-11-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "YPE",
+                "pic": "Natalia Setiawati Br Tarigan ",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "Biston Penghiburan Almh. Ibu Kootje (Ibu Lukas Subiyanto)",
@@ -6811,6 +6853,20 @@
                 "pic": "Kepala Sekolah",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Sambut Natal KUL",
+                "time": "15:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-12-17",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Ruang Betlehem dan Kapernaum dipakai untuk tempat konsumsi"
             },
             {
                 "name": "Persiapan PK Wilayah 10",
@@ -7287,6 +7343,20 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rekaman/Pembuatan Video Warta Lisan MRN 2026",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-11-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Samarthya",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
