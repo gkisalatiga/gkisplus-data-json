@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6810,
-        "last-update": 1794398398,
-        "last-updated-item": "agenda",
+        "update-count": 6811,
+        "last-update": 1794447696,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 12 Nov 2026 | Maukah Kita Menemani",
+                        "date": "2026-11-11",
+                        "desc": "Dibawakan oleh Ibu Rosiana Eva Rayanti",
+                        "link": "https://www.youtube.com/watch?v=6mgN2TU29qM",
+                        "thumbnail": "https://i.ytimg.com/vi/6mgN2TU29qM/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Nov 2026 | Merawat Bait Allah",
                         "date": "2026-11-10",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
                         "link": "https://www.youtube.com/watch?v=fw8V3ZNV_6w",
                         "thumbnail": "https://i.ytimg.com/vi/fw8V3ZNV_6w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 15 Sep 2026 | Model",
-                        "date": "2026-09-14",
-                        "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                        "link": "https://www.youtube.com/watch?v=o106_rwjQZs",
-                        "thumbnail": "https://i.ytimg.com/vi/o106_rwjQZs/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
