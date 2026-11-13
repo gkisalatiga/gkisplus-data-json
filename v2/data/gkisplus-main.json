@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6812,
-        "last-update": 1794491741,
-        "last-updated-item": "agenda",
+        "update-count": 6813,
+        "last-update": 1794530660,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 13 Nov 2026 | Kesehatan Sebagai Tanggung Jawab Bersama",
+                        "date": "2026-11-12",
+                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
+                        "link": "https://www.youtube.com/watch?v=hJfAosoaO7E",
+                        "thumbnail": "https://i.ytimg.com/vi/hJfAosoaO7E/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 12 Nov 2026 | Maukah Kita Menemani",
                         "date": "2026-11-11",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
                         "link": "https://www.youtube.com/watch?v=9dsjAm30o-w",
                         "thumbnail": "https://i.ytimg.com/vi/9dsjAm30o-w/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi |17 Sep 2026 | Aku Temenin Yaaa...",
-                        "date": "2026-09-16",
-                        "desc": "Dibawakan oleh Ibu Isabella E.L Kambuno",
-                        "link": "https://www.youtube.com/watch?v=fw8V3ZNV_6w",
-                        "thumbnail": "https://i.ytimg.com/vi/fw8V3ZNV_6w/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
