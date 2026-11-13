@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6815,
-        "last-update": 1794545019,
+        "update-count": 6816,
+        "last-update": 1794574067,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6351,6 +6351,20 @@
                 "note": ""
             },
             {
+                "name": "Rekaman/Pembuatan Video Warta Lisan MRN 2026",
+                "time": "13:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-11-13",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Panitia",
+                "pic": "Samarthya",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat Bulanan Pengurus SODA",
                 "time": "19:00",
                 "time-to": "22:00",
@@ -6361,6 +6375,34 @@
                 "place": "Ruang Betlehem",
                 "representative": "Komisi Pemuda",
                 "pic": "Gloria",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Rapat Besar Panitia Natal KR \u201826",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-14",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "y",
+                "note": "pesan teh \ud83d\ude4f\ud83c\udffb"
+            },
+            {
+                "name": "Latihan menari sambut Natal KA",
+                "time": "16:00",
+                "time-to": "17:20",
+                "timezone": "WIB",
+                "date": "2026-11-14",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Anak",
+                "pic": "Ayu Lape",
                 "status": "y",
                 "note": "-"
             },
@@ -7343,34 +7385,6 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Rekaman/Pembuatan Video Warta Lisan MRN 2026",
-                "time": "13:00",
-                "time-to": "16:00",
-                "timezone": "WIB",
-                "date": "2026-11-13",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Panitia",
-                "pic": "Samarthya",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Rapat Besar Panitia Natal KR \u201826",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2026-11-14",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Komisi Remaja",
-                "pic": "Nareswari",
-                "status": "w",
-                "note": "pesan teh \ud83d\ude4f\ud83c\udffb"
             }
         ],
         "backend": {
