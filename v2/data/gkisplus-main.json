@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6814,
-        "last-update": 1794540557,
-        "last-updated-item": "yt",
+        "update-count": 6815,
+        "last-update": 1794545019,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7357,6 +7357,20 @@
                 "pic": "Samarthya",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Rapat Besar Panitia Natal KR \u201826",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-14",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Nareswari",
+                "status": "w",
+                "note": "pesan teh \ud83d\ude4f\ud83c\udffb"
             }
         ],
         "backend": {
