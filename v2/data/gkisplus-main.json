@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6819,
-        "last-update": 1794631116,
+        "update-count": 6820,
+        "last-update": 1794657239,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6603,6 +6603,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat KUL",
+                "time": "15:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-11-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Eben Haezer Fellowship",
                 "time": "13:00",
                 "time-to": "15:30",
@@ -6881,6 +6895,20 @@
                 "pic": "Wahyu Prasetya",
                 "status": "y",
                 "note": "Tambahan untuk sewa soundman, tim multimedia dan kameramen."
+            },
+            {
+                "name": "Gladi Sambut Natal KUL",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-12-15",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Usia Lanjut",
+                "pic": "Widia Prayogo",
+                "status": "y",
+                "note": "Gladi Sambut Natal KUL"
             },
             {
                 "name": "Gladi Sambut Natal Anak SD Kr. 03",
