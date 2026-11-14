@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6820,
-        "last-update": 1794657239,
+        "update-count": 6821,
+        "last-update": 1794668054,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2433,6 +2433,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 15 November 2026",
+                    "date": "2026-11-14",
+                    "link": "https://drive.google.com/file/d/1EylniYe80-ZXuUO379KOnTlhO5jUl6Pi/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-15-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1EylniYe80-ZXuUO379KOnTlhO5jUl6Pi",
+                    "id": "1EylniYe80-ZXuUO379KOnTlhO5jUl6Pi",
+                    "size": "2.09 MB"
+                },
+                {
                     "title": "Warta Jemaat 8 November 2026",
                     "date": "2026-11-07",
                     "link": "https://drive.google.com/file/d/1-gIKpUi7q0-El9HVz2jBiz60zFbeiYaF/view",
@@ -3496,6 +3505,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 15 November 2026",
+                    "date": "2026-11-14",
+                    "link": "https://drive.google.com/file/d/1-8J9v5o8MS6hqqJEeAQxzyk27lcQ7hIg/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-15-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1-8J9v5o8MS6hqqJEeAQxzyk27lcQ7hIg",
+                    "id": "1-8J9v5o8MS6hqqJEeAQxzyk27lcQ7hIg",
+                    "size": "0.65 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 8 November 2026",
                     "date": "2026-11-07",
@@ -5979,15 +5997,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
-                "title": "Persekutuan SoDa 14 November",
-                "type": "poster",
-                "date-created": "2026-11-07",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_5.webp",
                 "title": "Sekolah Minggu 15 November",
