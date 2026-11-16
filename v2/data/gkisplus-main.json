@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6829,
-        "last-update": 1794803118,
+        "update-count": 6830,
+        "last-update": 1794834043,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6230,6 +6230,20 @@
                 "pic": "Jenny",
                 "status": "y",
                 "note": ""
+            },
+            {
+                "name": "Koordinasi KR dan MJP ",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-16",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Tidak perlu dibuatkan teh dan dibelikan snack"
             },
             {
                 "name": "PA wilayah 11",
