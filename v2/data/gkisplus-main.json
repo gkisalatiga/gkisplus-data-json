@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6832,
-        "last-update": 1794895799,
+        "update-count": 6833,
+        "last-update": 1794932352,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6316,6 +6316,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat Pleno Panitia Natal",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Panitia",
+                "pic": "Andi David Hutabarat",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Parenting \"Sinergi Orangtua dan Sekolah dalam Mendampingi Remaja di Era Digital\"",
                 "time": "08:00",
                 "time-to": "10:00",
@@ -6327,6 +6341,20 @@
                 "representative": "SMP Kristen 02 Salatiga",
                 "pic": "Siwi",
                 "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Parenting SMP Kristen 2 Salatiga",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-11-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
                 "note": ""
             },
             {
@@ -6538,6 +6566,20 @@
                 "pic": "Bu Djini",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "PA Wil. 1",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-12-01",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "A. M. Widiatmoko",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan LAVE",
@@ -7252,20 +7294,6 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
-            },
-            {
-                "name": "Parenting SMP Kristen 2 Salatiga",
-                "time": "08:00",
-                "time-to": "10:00",
-                "timezone": "WIB",
-                "date": "2026-11-20",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Siwi",
-                "status": "w",
-                "note": ""
             }
         ],
         "backend": {
