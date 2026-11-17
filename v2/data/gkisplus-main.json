@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6831,
-        "last-update": 1794861755,
-        "last-updated-item": "yt",
+        "update-count": 6832,
+        "last-update": 1794895799,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7252,6 +7252,20 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Parenting SMP Kristen 2 Salatiga",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-11-20",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Siwi",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
