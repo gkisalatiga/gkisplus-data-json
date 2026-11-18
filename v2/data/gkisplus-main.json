@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6833,
-        "last-update": 1794932352,
+        "update-count": 6834,
+        "last-update": 1794980337,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6330,6 +6330,20 @@
                 "note": ""
             },
             {
+                "name": "Membuat Pernak Pernik Natal, Lanjutan Sahabat Seperjalanan",
+                "time": "15:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2026-11-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Perkunjungan dan Pelayanan Kematian",
+                "pic": "Bu Nana",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Parenting \"Sinergi Orangtua dan Sekolah dalam Mendampingi Remaja di Era Digital\"",
                 "time": "08:00",
                 "time-to": "10:00",
@@ -6370,6 +6384,20 @@
                 "pic": "Bp Sutomo",
                 "status": "y",
                 "note": "Terimakasih"
+            },
+            {
+                "name": "Rapat Pengurus Natal SODA",
+                "time": "19:15",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2026-11-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Pemuda",
+                "pic": "Gloria",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Latihan LAVE",
