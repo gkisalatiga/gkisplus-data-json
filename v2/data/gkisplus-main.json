@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6834,
-        "last-update": 1794980337,
+        "update-count": 6835,
+        "last-update": 1795013890,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6344,6 +6344,20 @@
                 "note": ""
             },
             {
+                "name": "Latihan Padusan Suara Bpk Ibu Guru",
+                "time": "08:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-11-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Pak Yahya ",
+                "status": "y",
+                "note": "-"
+            },
+            {
                 "name": "Parenting \"Sinergi Orangtua dan Sekolah dalam Mendampingi Remaja di Era Digital\"",
                 "time": "08:00",
                 "time-to": "10:00",
@@ -6708,6 +6722,20 @@
                 "note": ""
             },
             {
+                "name": "Gladi bersih Sambut Natal SMP Kr 2 Salatiga",
+                "time": "09:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2026-12-10",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
+            },
+            {
                 "name": "Gladi Sambut Natal",
                 "time": "15:00",
                 "time-to": "17:00",
@@ -6734,6 +6762,20 @@
                 "pic": "Komisi Anak",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Sambut Natal SMP Kr 2 Salatiga",
+                "time": "07:30",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2026-12-11",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Van Gouh Arimatea",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "Sambut Natal Komisi Anak",
@@ -7322,6 +7364,34 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Rapat bendahara",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-11-18",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "w",
+                "note": "Tidak perlu snack dan teh."
+            },
+            {
+                "name": "Pelatihan Electone Mandiri",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Jenny",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
