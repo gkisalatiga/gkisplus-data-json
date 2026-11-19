@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6835,
-        "last-update": 1795013890,
-        "last-updated-item": "agenda",
+        "update-count": 6836,
+        "last-update": 1795051892,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Nov 2026 | Ketaatan yg Utuh",
+                        "date": "2026-11-18",
+                        "desc": "Dibawakan oleh Ibu Lilis Supriyanti",
+                        "link": "https://www.youtube.com/watch?v=0_DZcKNIfZc",
+                        "thumbnail": "https://i.ytimg.com/vi/0_DZcKNIfZc/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Nov 2026 | Istirahat",
                         "date": "2026-11-15",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
                         "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
                         "thumbnail": "https://i.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25 Sep 2026 | Melayani, Bukan Menguasai",
-                        "date": "2026-09-24",
-                        "desc": "Dibawakan oleh Pdt. Christina Elisabeth Parinsi",
-                        "link": "https://www.youtube.com/watch?v=wzxu57chE-k",
-                        "thumbnail": "https://i.ytimg.com/vi/wzxu57chE-k/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
