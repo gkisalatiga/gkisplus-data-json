@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6836,
-        "last-update": 1795051892,
-        "last-updated-item": "yt",
+        "update-count": 6837,
+        "last-update": 1795066636,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -6316,6 +6316,20 @@
                 "note": "-"
             },
             {
+                "name": "Rapat bendahara",
+                "time": "17:00",
+                "time-to": "18:30",
+                "timezone": "WIB",
+                "date": "2026-11-18",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Ruang Galilea (Lantai 2)",
+                "representative": "Majelis Jemaat",
+                "pic": "Samuel Martono",
+                "status": "y",
+                "note": "Tidak perlu snack dan teh."
+            },
+            {
                 "name": "Rapat Pleno Panitia Natal",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -6356,6 +6370,20 @@
                 "pic": "Pak Yahya ",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pelatihan Electone Mandiri",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-19",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Jenny",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "Parenting \"Sinergi Orangtua dan Sekolah dalam Mendampingi Remaja di Era Digital\"",
@@ -6454,6 +6482,20 @@
                 "pic": "Iren Supit",
                 "status": "y",
                 "note": "Akan menggunakan tikar"
+            },
+            {
+                "name": "Persiapan PK",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Wilayah",
+                "pic": "Ona Parzis",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA Wil. 10",
@@ -7366,30 +7408,16 @@
                 "note": "-"
             },
             {
-                "name": "Rapat bendahara",
-                "time": "17:00",
-                "time-to": "18:30",
-                "timezone": "WIB",
-                "date": "2026-11-18",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Galilea (Lantai 2)",
-                "representative": "Majelis Jemaat",
-                "pic": "Samuel Martono",
-                "status": "w",
-                "note": "Tidak perlu snack dan teh."
-            },
-            {
-                "name": "Pelatihan Electone Mandiri",
-                "time": "19:30",
-                "time-to": "20:30",
+                "name": "Persiapan Pubdok MRN 2026",
+                "time": "16:00",
+                "time-to": "18:00",
                 "timezone": "WIB",
                 "date": "2026-11-19",
                 "weekday": "thu",
                 "type": "proposal",
                 "place": "Gedung Gereja",
-                "representative": "Lainnya",
-                "pic": "Jenny",
+                "representative": "Panitia",
+                "pic": "Samarthya",
                 "status": "w",
                 "note": ""
             }
