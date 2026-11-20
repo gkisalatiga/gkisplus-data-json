@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6840,
-        "last-update": 1795152315,
+        "update-count": 6841,
+        "last-update": 1795184011,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7224,6 +7224,20 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Sambut Natal KA ",
+                "time": "15:00",
+                "time-to": "16:00",
+                "timezone": "WIB",
+                "date": "2026-11-21",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Dian Aprilia ",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
