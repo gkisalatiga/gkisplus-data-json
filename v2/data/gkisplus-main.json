@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6838,
-        "last-update": 1795100724,
-        "last-updated-item": "agenda",
+        "update-count": 6839,
+        "last-update": 1795138073,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 20 Nov 2026 | Keterbatasan Bukan Akhir dari Kehidupan (2 Korintus 12:9)",
+                        "date": "2026-11-19",
+                        "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                        "link": "https://www.youtube.com/watch?v=kXF8uu0As50",
+                        "thumbnail": "https://i.ytimg.com/vi/kXF8uu0As50/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 19 Nov 2026 | Ketaatan yg Utuh",
                         "date": "2026-11-18",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
                         "link": "https://www.youtube.com/watch?v=C3PwtrdDwds",
                         "thumbnail": "https://i.ytimg.com/vi/C3PwtrdDwds/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Sep 2026 | Pemimpin Yang Berkenan dan Dikehendaki Tuhan",
-                        "date": "2026-09-24",
-                        "desc": "Dibawakan oleh Pnt. Tuti Hemawati",
-                        "link": "https://www.youtube.com/watch?v=HYH9IHPH4M0",
-                        "thumbnail": "https://i.ytimg.com/vi/HYH9IHPH4M0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -688,7 +688,7 @@
                         "date": "2026-11-16",
                         "desc": "PERSEKUTUAN  USIA LANJUT GKI Salatiga \nKamis, 19 November 2026 | Pukul 16.00 WIB\n\nTema : \u201cMaria, Taat pada Kehendak Allah\"\n Pembawa Firman : Sdr. Melvern Kenny Cahyadi\nMJP: Pnt. Rodiana\nPL: Bpk. Lukas Sukan\nMusik : Ibu Retty\nVoice: ibu Hana Ch. Laihad\nMultimedia : Joaquim, Risti, Iwandi, Budi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI Firman Tuhan Pemandu Hidup Kita",
                         "link": "https://www.youtube.com/watch?v=AoPw9mWwC_M",
-                        "thumbnail": "https://i.ytimg.com/vi/AoPw9mWwC_M/hqdefault.jpg?v=6afad19f"
+                        "thumbnail": "https://i.ytimg.com/vi/AoPw9mWwC_M/hqdefault.jpg"
                     },
                     {
                         "title": "PERSEKUTUAN Usia Lanjut GKI Salatiga | 15 Oktober 2026 | \u201cDi Masa Senja Tetap Menjadi Berkat\u201d",
