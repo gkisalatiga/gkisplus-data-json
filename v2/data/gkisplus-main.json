@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6842,
-        "last-update": 1795222690,
+        "update-count": 6843,
+        "last-update": 1795274645,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2433,6 +2433,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 22 November 2026",
+                    "date": "2026-11-21",
+                    "link": "https://drive.google.com/file/d/1F5PefX39-njTjQTm6JEBf6LAqhRwlKTC/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-22-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1F5PefX39-njTjQTm6JEBf6LAqhRwlKTC",
+                    "id": "1F5PefX39-njTjQTm6JEBf6LAqhRwlKTC",
+                    "size": "2.64 MB"
+                },
+                {
                     "title": "Warta Jemaat 15 November 2026",
                     "date": "2026-11-14",
                     "link": "https://drive.google.com/file/d/1EylniYe80-ZXuUO379KOnTlhO5jUl6Pi/view",
@@ -3505,6 +3514,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 22 November 2026",
+                    "date": "2026-11-21",
+                    "link": "https://drive.google.com/file/d/1iT6gv2gmEpJ0ZQqlaE7lwwBZBCGUXSeE/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-22-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1iT6gv2gmEpJ0ZQqlaE7lwwBZBCGUXSeE",
+                    "id": "1iT6gv2gmEpJ0ZQqlaE7lwwBZBCGUXSeE",
+                    "size": "0.94 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 15 November 2026",
                     "date": "2026-11-14",
@@ -5997,33 +6015,6 @@
             }
         ],
         "carousel": [
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "title": "KTB Komisi Dewasa",
-                "type": "poster",
-                "date-created": "2026-11-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kambium.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "title": "Persekutuan KUL",
-                "type": "poster",
-                "date-created": "2026-11-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kul.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2026-11-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_ka_1.webp",
                 "title": "Sekolah Minggu 22 November",
