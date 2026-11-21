@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6841,
-        "last-update": 1795184011,
-        "last-updated-item": "agenda",
+        "update-count": 6842,
+        "last-update": 1795222690,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 21 Nov 2026 | Pembawa Damai",
+                        "date": "2026-11-20",
+                        "desc": "Dibawakan oleh Pnt. Paul A.W. Gulo",
+                        "link": "https://www.youtube.com/watch?v=ZSJ-cBe7VYY",
+                        "thumbnail": "https://i.ytimg.com/vi/ZSJ-cBe7VYY/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 20 Nov 2026 | Keterbatasan Bukan Akhir dari Kehidupan (2 Korintus 12:9)",
                         "date": "2026-11-19",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Sdri. Chelsey Lauren S. Gaspersz",
                         "link": "https://www.youtube.com/watch?v=AwmqXnqjDRw",
                         "thumbnail": "https://i.ytimg.com/vi/AwmqXnqjDRw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 1 Oktober 2026 | Keluarga sebagai Agen Pelayanan Kasih",
-                        "date": "2026-09-30",
-                        "desc": "Dibawakan oleh Pnt. Natalis Sidanta",
-                        "link": "https://www.youtube.com/watch?v=C3PwtrdDwds",
-                        "thumbnail": "https://i.ytimg.com/vi/C3PwtrdDwds/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
