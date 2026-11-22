@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6846,
-        "last-update": 1795322622,
+        "update-count": 6847,
+        "last-update": 1795352425,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -7306,6 +7306,20 @@
                 "pic": "Nareswari",
                 "status": "w",
                 "note": "-"
+            },
+            {
+                "name": "Rapat YPE",
+                "time": "18:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2026-11-23",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "YPE",
+                "pic": "Ibu Yari Dwikurnaningsih",
+                "status": "w",
+                "note": "Terimakasih"
             }
         ],
         "backend": {
