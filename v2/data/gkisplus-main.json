@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6851,
-        "last-update": 1795430750,
-        "last-updated-item": "yt",
+        "update-count": 6852,
+        "last-update": 1795450682,
+        "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -7331,6 +7331,20 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Pelatihan Electone Mandiri",
+                "time": "19:30",
+                "time-to": "20:30",
+                "timezone": "WIB",
+                "date": "2026-11-23",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Lainnya",
+                "pic": "Jenny",
+                "status": "w",
+                "note": "Rutin"
             }
         ],
         "backend": {
