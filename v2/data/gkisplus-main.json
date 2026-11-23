@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6849,
-        "last-update": 1795411272,
-        "last-updated-item": "agenda",
+        "update-count": 6850,
+        "last-update": 1795427750,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 23 Nov 2026 | Menghitung Hari",
+                        "date": "2026-11-23",
+                        "desc": "Dibawakan oleh Sdri. Yulianti",
+                        "link": "https://www.youtube.com/watch?v=QudQUBVDKN8",
+                        "thumbnail": "https://i.ytimg.com/vi/QudQUBVDKN8/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 21 Nov 2026 | Pembawa Damai",
                         "date": "2026-11-20",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Pnt. Desemy Ch. N. Ballo",
                         "link": "https://www.youtube.com/watch?v=b1OLJPZNQRk",
                         "thumbnail": "https://i.ytimg.com/vi/b1OLJPZNQRk/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Oktober 2026 | Firman Tuhan di Rumah Kita",
-                        "date": "2026-10-01",
-                        "desc": "Dibawakan oleh Sdri. Chelsey Lauren S. Gaspersz",
-                        "link": "https://www.youtube.com/watch?v=AwmqXnqjDRw",
-                        "thumbnail": "https://i.ytimg.com/vi/AwmqXnqjDRw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
