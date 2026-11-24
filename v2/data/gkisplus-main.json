@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6853,
-        "last-update": 1795507226,
+        "update-count": 6854,
+        "last-update": 1795549011,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6465,6 +6465,20 @@
                 "note": "-"
             },
             {
+                "name": "Latihan PSA",
+                "time": "16:00",
+                "time-to": "17:00",
+                "timezone": "WIB",
+                "date": "2026-11-24",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "Rapat KUL",
                 "time": "15:00",
                 "time-to": "17:00",
@@ -7345,6 +7359,48 @@
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
                 "note": "-"
+            },
+            {
+                "name": "Latihan Pemusik, Singer, dan MC untuk Sambut Natal KA ",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Kristin Leo ",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-26",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan Tim Musik Chronicles",
+                "time": "19:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2026-11-27",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Tommy",
+                "status": "w",
+                "note": ""
             }
         ],
         "backend": {
