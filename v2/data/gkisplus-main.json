@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6855,
-        "last-update": 1795588754,
+        "update-count": 6856,
+        "last-update": 1795628703,
         "last-updated-item": "agenda",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -6415,7 +6415,7 @@
                 "place": "Ruang Konsistori",
                 "representative": "Wilayah",
                 "pic": "Bu Djini",
-                "status": "y",
+                "status": "c",
                 "note": "-"
             },
             {
@@ -7214,6 +7214,20 @@
                 "representative": "Wilayah",
                 "pic": "Kel. Pnt. Sriono Sudarso",
                 "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan Cantata 24 Desember",
+                "time": "18:30",
+                "time-to": "21:30",
+                "timezone": "WIB",
+                "date": "2026-12-13",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Kezia",
+                "status": "w",
                 "note": "-"
             }
         ],
