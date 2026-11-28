@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 6862,
-        "last-update": 1795832206,
+        "update-count": 6863,
+        "last-update": 1795875000,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
@@ -2433,6 +2433,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 29 November 2026",
+                    "date": "2026-11-28",
+                    "link": "https://drive.google.com/file/d/1wQ0FtN8lvN2nj1Snu7uqK54qs4lVVlrG/view",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-29-november-2026/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1wQ0FtN8lvN2nj1Snu7uqK54qs4lVVlrG",
+                    "id": "1wQ0FtN8lvN2nj1Snu7uqK54qs4lVVlrG",
+                    "size": "2.84 MB"
+                },
+                {
                     "title": "Warta Jemaat 22 November 2026",
                     "date": "2026-11-21",
                     "link": "https://drive.google.com/file/d/1F5PefX39-njTjQTm6JEBf6LAqhRwlKTC/view",
@@ -3514,6 +3523,15 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 29 November 2026 - Adven I",
+                    "date": "2026-11-28",
+                    "link": "https://drive.google.com/file/d/1UuZgBfPAYM_Iw5oL6l_BQZfSVjO2_Kz-/view",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-29-november-2026-adven-1/",
+                    "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w300&id=1UuZgBfPAYM_Iw5oL6l_BQZfSVjO2_Kz-",
+                    "id": "1UuZgBfPAYM_Iw5oL6l_BQZfSVjO2_Kz-",
+                    "size": "0.62 MB"
+                },
                 {
                     "title": "Tata Ibadah Minggu 22 November 2026",
                     "date": "2026-11-21",
@@ -6031,15 +6049,6 @@
                 "type": "poster",
                 "date-created": "2026-11-22",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_agenda_mrn.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
-                "is_shown_ios": 1
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
-                "title": "Persekutuan SoDa",
-                "type": "poster",
-                "date-created": "2026-11-22",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera",
                 "is_shown_ios": 1
             },
