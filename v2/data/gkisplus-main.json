@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 6861,
-        "last-update": 1795789177,
-        "last-updated-item": "agenda",
+        "update-count": 6862,
+        "last-update": 1795832206,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.3"
     },
@@ -20,6 +20,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 28 Nov 2026 | Allah Peduli, Kasih-Nya Tidak Pernah Berhenti",
+                        "date": "2026-11-27",
+                        "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                        "link": "https://www.youtube.com/watch?v=cSR2Iy-UprQ",
+                        "thumbnail": "https://i.ytimg.com/vi/cSR2Iy-UprQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 27 Nov 2026 | Bersama Tuhan Menghadapi Ketinggian",
                         "date": "2026-11-26",
@@ -222,13 +229,6 @@
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=nxSSyVUdLsc",
                         "thumbnail": "https://i.ytimg.com/vi/nxSSyVUdLsc/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 9 Okt 2026 | Kasih Dalam Keluarga",
-                        "date": "2026-10-07",
-                        "desc": "Dibawakan oleh Bpk. P Sutomo",
-                        "link": "https://www.youtube.com/watch?v=m_KJQsGcD-Y",
-                        "thumbnail": "https://i.ytimg.com/vi/m_KJQsGcD-Y/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
